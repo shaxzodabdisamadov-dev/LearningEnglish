@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>WordPath — Ingliz tilini lug'at va o'qish orqali o'rganing</title>
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body data-page="dashboard">
+  <div class="wrap">
+    <header class="top">
+      <div class="brand"><span class="dot"></span> WordPath</div>
+      <div style="color:var(--text-dim);font-size:.85rem;">A1 → C1 | Vocabulary &amp; Reading</div>
+    </header>
+
+    <h1>Ingliz tilini lug'at va matn o'qish orqali o'rganing</h1>
+    <p class="lead">Har bir bo'limda eng ko'p ishlatiladigan 20 ta so'z, ularning ta'rifi va talaffuzi, shu so'zlar bilan yozilgan qisqa matn va matnni tushunish uchun savollar. A1 dan C1 gacha bosqichma-bosqich.</p>
+
+    <div class="overall-card">
+      <div style="display:flex;justify-content:space-between;align-items:baseline;">
+        <h2 style="margin:0;">Umumiy progress</h2>
+        <span id="overallPct" style="font-size:1.4rem;font-weight:800;color:var(--accent);">0%</span>
+      </div>
+      <div class="overall-bar"><div id="overallBar" style="width:0%"></div></div>
+      <div class="overall-meta">
+        <span>5 ta level, 150 ta bo'lim</span>
+        <span><span id="totalWords">0</span> ta so'z</span>
+      </div>
+    </div>
+
+    <h2>Levellar</h2>
+    <div class="levels-grid" id="levelsGrid"></div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

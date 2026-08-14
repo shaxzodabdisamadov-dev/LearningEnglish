@@ -1,0 +1,7 @@
+[
+  { "code": "a1", "name": "A1", "title": "Boshlang'ich", "subtitle": "Beginner", "color": "#22c55e", "sections": 30, "order": 1 },
+  { "code": "a2", "name": "A2", "title": "Elementar", "subtitle": "Elementary", "color": "#14b8a6", "sections": 30, "order": 2 },
+  { "code": "b1", "name": "B1", "title": "O'rta daraja", "subtitle": "Intermediate", "color": "#3b82f6", "sections": 30, "order": 3 },
+  { "code": "b2", "name": "B2", "title": "O'rtadan yuqori", "subtitle": "Upper-Intermediate", "color": "#8b5cf6", "sections": 30, "order": 4 },
+  { "code": "c1", "name": "C1", "title": "Yuqori daraja", "subtitle": "Advanced", "color": "#f97316", "sections": 30, "order": 5 }
+]

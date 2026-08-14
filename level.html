@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Level — WordPath</title>
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body data-page="level">
+  <div class="wrap">
+    <header class="top">
+      <a class="brand" href="index.html"><span class="dot"></span> WordPath</a>
+    </header>
+    <nav class="crumbs"><a href="index.html">Bosh sahifa</a> / <span id="levelName">...</span></nav>
+
+    <div id="lockedMsg" style="display:none;" class="test-banner">
+      🔒 Bu level hali yopiq. Avvalgi levelning testini topshiring.
+    </div>
+
+    <div id="levelContent">
+      <h1 id="levelNameTitle"></h1>
+      <div class="progress-line" id="levelProgressText"></div>
+      <div class="level-card" style="margin-top:10px;padding:14px 18px;">
+        <div class="progress-bar"><div id="levelProgressBar" style="width:0%"></div></div>
+      </div>
+
+      <h2 style="margin-top:26px;">Bo'limlar</h2>
+      <div class="section-grid" id="sectionGrid"></div>
+
+      <div class="test-banner">
+        <div>
+          <strong>Level testi</strong>
+          <div class="progress-line" id="testMsg"></div>
+        </div>
+        <button class="btn" id="levelTestBtn" disabled>Testni boshlash</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

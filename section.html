@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Bo'lim — WordPath</title>
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body data-page="section">
+  <div class="wrap" id="secContent">
+    <header class="top">
+      <a class="brand" href="index.html"><span class="dot"></span> WordPath</a>
+    </header>
+    <nav class="crumbs">
+      <a href="index.html">Bosh sahifa</a> / <a id="crumbLevel" href="#">...</a> / Bo'lim
+    </nav>
+
+    <div id="lockedMsg" style="display:none;" class="test-banner"></div>
+
+    <div id="secBody">
+      <div class="sec-hero" id="secHero">
+        <span class="hero-emoji" id="heroEmoji"></span>
+        <h1 id="secTitle">...</h1>
+      </div>
+
+      <h2>1. Yangi so'zlar (20 ta)</h2>
+      <div class="word-grid" id="wordGrid"></div>
+
+      <h2>2. Matnni o'qing</h2>
+      <div class="audio-bar">
+        <button class="btn secondary" id="speakAllBtn">🔊 Matnni tinglash</button>
+        <button class="btn secondary" id="stopSpeakBtn">⏹ To'xtatish</button>
+        <div class="speed-control">
+          <label for="speedSelect">Tezlik:</label>
+          <select id="speedSelect">
+            <option value="0.5">0.5x</option>
+            <option value="0.75">0.75x</option>
+            <option value="1" selected>1x</option>
+            <option value="1.25">1.25x</option>
+            <option value="1.5">1.5x</option>
+          </select>
+        </div>
+      </div>
+      <div class="reading" id="readingText"></div>
+
+      <h2>3. Tushunishni tekshiring (6 ta savol)</h2>
+      <div id="quiz"></div>
+      <button class="btn" id="submitQuiz">Javoblarni tekshirish</button>
+
+      <div class="result-card" id="result" style="display:none;"></div>
+
+      <div class="footer-nav">
+        <a class="btn secondary" id="prevSec">← Oldingi bo'lim</a>
+        <a class="btn secondary" id="nextSec">Keyingi bo'lim →</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
