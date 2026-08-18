@@ -270,6 +270,11 @@ select:focus-visible,
   border:1px solid var(--border);
 }
 .skeleton-card.small{height:90px;}
+/* Rangli (binafsha) kartochka ustidagi skeleton oq blob bo'lib ko'rinmasligi uchun. */
+.overall-card .skeleton{
+  background:linear-gradient(90deg,rgba(255,255,255,.18) 25%,rgba(255,255,255,.34) 50%,rgba(255,255,255,.18) 75%);
+  background-size:200% 100%;
+}
 @keyframes skeleton-pulse{
   0%{background-position:200% 0;}
   100%{background-position:-200% 0;}

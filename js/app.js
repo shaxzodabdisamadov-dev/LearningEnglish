@@ -354,7 +354,9 @@ async function initDashboard() {
     totalSections += lv.sections;
   });
   document.getElementById("totalWords").textContent = totalWords;
-  document.getElementById("levelsSectionsSummary").textContent = `${levels.length} ta level, ${totalSections} ta bo'lim`;
+  const summaryEl = document.getElementById("levelsSectionsSummary");
+  summaryEl.textContent = `${levels.length} ta level, ${totalSections} ta bo'lim`;
+  summaryEl.classList.remove("skeleton"); // yuklanish holatini olib tashlaymiz, aks holda matn ko'rinmay qoladi
 
   const grid = document.getElementById("levelsGrid");
   grid.innerHTML = "";
