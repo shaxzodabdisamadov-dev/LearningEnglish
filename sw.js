@@ -1,15 +1,18 @@
 // LearningEnglishStat service worker — birinchi tashrifdan keyin saytni internetsiz ochish uchun.
 // Versiya raqamini oshirsangiz, eski kesh avtomatik tozalanadi.
-const CACHE_VERSION = "v7";
+const CACHE_VERSION = "v9";
 const CACHE_NAME = `wordpath-${CACHE_VERSION}`;
 
 const APP_SHELL = [
   "/",
-  "/css/style.css?v=7",
-  "/js/app.js?v=2",
+  "/css/style.css?v=9",
+  "/js/app.js?v=3",
   "/manifest.json",
-  "/assets/icon.svg",
-  "/assets/brand-icon.svg",
+  "/assets/logo-mark.png",
+  "/assets/logo.png",
+  "/assets/favicon-32.png",
+  "/assets/favicon-64.png",
+  "/assets/apple-touch-icon.png",
   "/assets/uz-flag.svg",
   "/data/levels.json",
 ];

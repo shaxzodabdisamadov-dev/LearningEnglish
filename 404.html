@@ -5,14 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Sahifa topilmadi — LearningEnglishStat</title>
 <meta name="theme-color" content="#f6f7fc" />
-<link rel="icon" href="assets/brand-icon.svg" type="image/svg+xml" />
-<link rel="stylesheet" href="css/style.css?v=7" />
+<link rel="icon" href="assets/favicon.ico" sizes="any" />
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-64.png" />
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
+<link rel="stylesheet" href="css/style.css?v=9" />
 </head>
 <body data-page="404">
   <div class="wrap">
     <header class="top">
       <a class="brand" href="/">
-        <img class="brand-icon" src="assets/brand-icon.svg" alt="" width="36" height="36" />
+        <img class="brand-icon" src="assets/logo-mark.png" alt="" width="40" height="40" />
         <span><span class="brand-black">LearningEnglish</span><span class="brand-blue">Stat</span></span>
       </a>
       <nav class="top-nav" aria-label="Asosiy navigatsiya">
@@ -26,13 +29,6 @@
     </main>
 
     <footer class="site-footer">
-      <div class="footer-top">
-        <a class="footer-brand" href="/">
-          <img src="assets/brand-icon.svg" alt="" width="26" height="26" />
-          <span><span class="brand-black">LearningEnglish</span><span class="brand-blue">Stat</span></span>
-        </a>
-        <p class="footer-tagline">A1 dan C1 gacha lug'at va o'qish orqali ingliz tilini o'rganish — bepul va reklamasiz.</p>
-      </div>
       <nav class="footer-links" aria-label="Pastki navigatsiya">
         <a href="/">Bosh sahifa</a>
         <a href="/level?level=a1">A1</a>
@@ -41,7 +37,29 @@
         <a href="/level?level=b2">B2</a>
         <a href="/level?level=c1">C1</a>
       </nav>
-      <p class="footer-copy">© <span id="footerYear"></span> LearningEnglishStat.</p>
+
+      <div class="footer-org">
+        <img
+          class="footer-org-logo"
+          src="assets/logo-mark.png"
+          alt="Toshkent shahar statistika boshqarmasi logotipi"
+          width="52"
+          height="52"
+        />
+        <div class="footer-org-text">
+          <p class="footer-org-line">O'zbekiston Respublikasi Milliy statistika qo'mitasi</p>
+          <p class="footer-org-name">Toshkent shahar statistika boshqarmasi</p>
+        </div>
+      </div>
+
+      <div class="footer-meta">
+        <p class="footer-copy">
+          Ingliz tilini lug'at va o'qish orqali o'rganish resursi &middot;
+          <a href="https://www.toshstat.uz" target="_blank" rel="noopener noreferrer">toshstat.uz</a>
+          &middot; &copy; <span id="footerYear"></span>
+        </p>
+        <p class="footer-note">Bepul va reklamasiz &middot; progressingiz faqat shu brauzeringizda saqlanadi.</p>
+      </div>
     </footer>
   </div>
   <script>document.getElementById("footerYear").textContent = new Date().getFullYear();</script>

@@ -34,7 +34,7 @@ header.top{
   box-shadow:0 2px 12px rgba(17,24,39,.05);
 }
 header.top .brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:1.2rem;letter-spacing:-.01em;}
-header.top .brand-icon{display:block;border-radius:9px;}
+header.top .brand-icon{display:block;object-fit:contain;width:40px;height:40px;}
 header.top .brand-black{color:#12131a;}
 header.top .brand-blue{color:var(--accent);}
 .top-nav{display:flex;align-items:center;gap:22px;font-size:.9rem;font-weight:600;}
@@ -312,24 +312,37 @@ select:focus-visible,
 .not-found .btn{margin-top:18px;display:inline-block;}
 
 /* ===== Site footer ===== */
+/* Markazlashtirilgan ustun: navigatsiya → tashkilot bloki → mayda meta qator. */
 .site-footer{
-  margin-top:48px;
-  padding:26px 22px 20px;
+  margin-top:52px;
+  padding:30px 22px 26px;
   border-top:1px solid var(--border);
-  display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-start;gap:20px 40px;
+  display:flex;flex-direction:column;align-items:center;gap:22px;
+  text-align:center;
 }
-.footer-top{flex:1 1 260px;}
-.footer-brand{display:flex;align-items:center;gap:8px;font-weight:800;font-size:1rem;}
-.footer-brand img{border-radius:7px;}
-.footer-tagline{color:var(--text-dim);font-size:.85rem;margin:8px 0 0;max-width:420px;line-height:1.5;}
-.footer-links{flex:1 1 auto;display:flex;flex-wrap:wrap;align-content:flex-start;gap:8px 20px;font-size:.85rem;font-weight:600;padding-top:4px;}
+.footer-links{
+  display:flex;flex-wrap:wrap;justify-content:center;gap:8px 22px;
+  font-size:.85rem;font-weight:600;
+}
 .footer-links a{color:var(--text-dim);transition:color .15s;}
 .footer-links a:hover{color:var(--accent);}
-.footer-copy{
-  flex-basis:100%;margin:6px 0 0;padding-top:16px;
-  border-top:1px dashed var(--border);
-  color:var(--text-dim);font-size:.78rem;
+
+/* Saytga egalik qiluvchi tashkilot — logotip va nomi bilan */
+.footer-org{
+  display:flex;align-items:center;justify-content:center;gap:16px;
+  text-align:left;
 }
+.footer-org-logo{display:block;flex-shrink:0;object-fit:contain;}
+.footer-org-text{display:flex;flex-direction:column;gap:3px;}
+.footer-org-line{margin:0;color:var(--text-dim);font-size:.88rem;line-height:1.45;}
+.footer-org-name{margin:0;color:var(--text);font-size:1rem;font-weight:700;line-height:1.45;}
+
+.footer-meta{display:flex;flex-direction:column;gap:6px;}
+.footer-copy{margin:0;color:var(--text-dim);font-size:.8rem;line-height:1.5;}
+.footer-copy a{color:var(--text-dim);transition:color .15s;}
+.footer-copy a:hover{color:var(--accent);text-decoration:underline;}
+.footer-note{margin:0;color:var(--text-dim);opacity:.72;font-size:.75rem;line-height:1.5;}
 @media (max-width:600px){
-  .site-footer{padding:22px 4px 16px;}
+  .site-footer{padding:26px 4px 20px;gap:18px;}
+  .footer-org{flex-direction:column;gap:10px;text-align:center;}
 }
