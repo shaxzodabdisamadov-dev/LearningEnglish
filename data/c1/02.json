@@ -1,0 +1,229 @@
+{
+  "id": 2,
+  "topic": "Nuanced Argumentation and Rhetoric",
+  "words": [
+    {
+      "word": "rhetoric",
+      "pos": "noun",
+      "ipa": "/ˈrɛtərɪk/",
+      "definition": "the art of using language effectively to persuade or influence others",
+      "example": "Her command of rhetoric allowed her to make a technical policy sound both urgent and inevitable.",
+      "uz": "notiqlik san'ati"
+    },
+    {
+      "word": "fallacious",
+      "pos": "adjective",
+      "ipa": "/fəˈleɪʃəs/",
+      "definition": "based on a mistaken belief or containing a flaw in reasoning; logically invalid",
+      "example": "The senator's fallacious reasoning conflated correlation with causation throughout his speech.",
+      "uz": "mantiqan noto'g'ri"
+    },
+    {
+      "word": "concede",
+      "pos": "verb",
+      "ipa": "/kənˈsiːd/",
+      "definition": "to acknowledge, often reluctantly, that a point made by an opponent is valid or true",
+      "example": "A skilled debater will readily concede minor points in order to focus attention on the argument's real weaknesses.",
+      "uz": "istar-istamas tan olmoq"
+    },
+    {
+      "word": "dichotomy",
+      "pos": "noun",
+      "ipa": "/daɪˈkɒtəmi/",
+      "definition": "a division or contrast between two things that are represented as being opposed or entirely different",
+      "example": "The commentator rejected the simplistic dichotomy between total freedom and total regulation.",
+      "uz": "dixotomiya (ikkiga bo'linish)"
+    },
+    {
+      "word": "polemic",
+      "pos": "noun",
+      "ipa": "/pəˈlɛmɪk/",
+      "definition": "a strong, often aggressive, verbal or written attack on a particular opinion or position",
+      "example": "The pamphlet was less a balanced analysis than a polemic aimed squarely at government policy.",
+      "uz": "keskin tanqidiy chiqish (polemika)"
+    },
+    {
+      "word": "equivocation",
+      "pos": "noun",
+      "ipa": "/ɪˌkwɪvəˈkeɪʃən/",
+      "definition": "the use of ambiguous or unclear language, especially to avoid committing to a definite position",
+      "example": "Journalists pressed the minister repeatedly, unwilling to accept further equivocation on the matter.",
+      "uz": "ikki ma'noli, chalkash gapirish"
+    },
+    {
+      "word": "specious",
+      "pos": "adjective",
+      "ipa": "/ˈspiːʃəs/",
+      "definition": "superficially plausible or attractive but actually wrong or misleading",
+      "example": "The argument seemed persuasive at first, but on closer inspection it rested on a specious analogy.",
+      "uz": "zohiran ishonarli, aslida yolg'on"
+    },
+    {
+      "word": "corroborate",
+      "pos": "verb",
+      "ipa": "/kəˈrɒbəreɪt/",
+      "definition": "to confirm or give additional support to a statement, theory, or finding",
+      "example": "Independent witnesses corroborated her account of the events almost exactly.",
+      "uz": "qo'shimcha dalillar bilan tasdiqlamoq"
+    },
+    {
+      "word": "tenuous",
+      "pos": "adjective",
+      "ipa": "/ˈtɛnjuəs/",
+      "definition": "very weak, slight, or lacking a firm basis; barely maintained",
+      "example": "The connection between the two studies is tenuous at best and should not be overstated.",
+      "uz": "zaif va asossiz"
+    },
+    {
+      "word": "refute",
+      "pos": "verb",
+      "ipa": "/rɪˈfjuːt/",
+      "definition": "to prove that a statement, theory, or accusation is false through argument or evidence",
+      "example": "The scientist's data thoroughly refuted claims that the treatment had no measurable effect.",
+      "uz": "rad etmoq"
+    },
+    {
+      "word": "cogent",
+      "pos": "adjective",
+      "ipa": "/ˈkəʊdʒənt/",
+      "definition": "clear, logical, and convincing in a way that compels agreement",
+      "example": "He presented a cogent case for reform, supported at every step by verifiable evidence.",
+      "uz": "aniq, mantiqiy va ishonarli"
+    },
+    {
+      "word": "nuance",
+      "pos": "noun",
+      "ipa": "/ˈnjuːɑːns/",
+      "definition": "a subtle distinction or shade of meaning, feeling, or tone",
+      "example": "The translator struggled to preserve the emotional nuance of the original poem.",
+      "uz": "nozik farq (nuans)"
+    },
+    {
+      "word": "hyperbole",
+      "pos": "noun",
+      "ipa": "/haɪˈpɜːbəli/",
+      "definition": "exaggerated statements or claims not meant to be taken literally",
+      "example": "Stripped of its hyperbole, the advertisement's central claim was rather modest.",
+      "uz": "bo'rttirish"
+    },
+    {
+      "word": "disingenuous",
+      "pos": "adjective",
+      "ipa": "/ˌdɪsɪnˈdʒɛnjuəs/",
+      "definition": "not candid or sincere, typically by pretending to know or feel less than one actually does",
+      "example": "It would be disingenuous to claim ignorance of the risks after receiving repeated warnings.",
+      "uz": "samimiyatsiz, ikkiyuzlamachi"
+    },
+    {
+      "word": "substantiate",
+      "pos": "verb",
+      "ipa": "/səbˈstænʃieɪt/",
+      "definition": "to provide evidence or proof to support a claim or theory",
+      "example": "The report failed to substantiate its most alarming projections with reliable data.",
+      "uz": "dalillar bilan asoslamoq"
+    },
+    {
+      "word": "contentious",
+      "pos": "adjective",
+      "ipa": "/kənˈtɛnʃəs/",
+      "definition": "likely to cause disagreement or controversy; the subject of heated dispute",
+      "example": "Immigration remains one of the most contentious issues in contemporary political debate.",
+      "uz": "bahs-munozarali"
+    },
+    {
+      "word": "ad hominem",
+      "pos": "noun",
+      "ipa": "/ˌæd ˈhɒmɪnɛm/",
+      "definition": "an argument that attacks a person's character rather than addressing the substance of their claim",
+      "example": "Rather than engaging with her data, his opponent resorted to an ad hominem attack on her credentials.",
+      "uz": "shaxsga qaratilgan hujum (argument)"
+    },
+    {
+      "word": "straw man",
+      "pos": "noun",
+      "ipa": "/ˈstrɔː mæn/",
+      "definition": "a distorted or oversimplified version of an opponent's argument, constructed specifically to be easy to refute",
+      "example": "Critics accused the columnist of attacking a straw man rather than the policy actually proposed.",
+      "uz": "raqib fikrini buzib ko'rsatish"
+    },
+    {
+      "word": "underscore",
+      "pos": "verb",
+      "ipa": "/ˌʌndərˈskɔː/",
+      "definition": "to emphasize the importance of something",
+      "example": "The results underscore the need for more rigorous oversight of the industry.",
+      "uz": "ta'kidlamoq"
+    },
+    {
+      "word": "persuasive",
+      "pos": "adjective",
+      "ipa": "/pərˈsweɪsɪv/",
+      "definition": "effective at convincing someone to believe or do something",
+      "example": "Her closing argument was so persuasive that even skeptical jurors changed their minds.",
+      "uz": "ishontiruvchi"
+    }
+  ],
+  "text": "Effective rhetoric, contrary to popular caricature, is not synonymous with manipulation; a cogent argument persuades precisely because it withstands scrutiny rather than evading it. Too often, however, public discourse collapses into polemic, where the aim is not to substantiate a position but to score points. Consider the straw man, a favorite device of the disingenuous debater: rather than engaging with an opponent's actual claim, one constructs a simplified, fallacious version of it—easily refuted, but bearing only a tenuous resemblance to what was originally argued. Equally corrosive is the ad hominem, which abandons the substance of a dispute altogether in favor of attacking the interlocutor's character. Skilled arguers, by contrast, concede points where their opponents are right, a move that paradoxically strengthens their overall position by underscoring their intellectual honesty. They avoid specious dichotomies that reduce contentious, multifaceted issues to a false binary, and they resist the temptation toward equivocation when precision would better serve the truth. Nuance, in this sense, is not a rhetorical weakness but its highest achievement: the capacity to corroborate a claim without resorting to hyperbole, and to persuade without deceiving.",
+  "questions": [
+    {
+      "question": "What is the author's central claim about effective rhetoric?",
+      "options": [
+        "It relies fundamentally on emotional manipulation",
+        "It persuades because it can withstand scrutiny, not because it evades it",
+        "It is inherently dishonest by definition",
+        "It should avoid all recognized argumentation techniques"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the author consider conceding points to be strategically valuable for a skilled arguer?",
+      "options": [
+        "It ends the debate prematurely",
+        "It signals weakness to the audience",
+        "It underscores the arguer's intellectual honesty, thereby strengthening credibility",
+        "It is a formal requirement in structured debate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does the passage distinguish a straw man from a legitimate rebuttal?",
+      "options": [
+        "A straw man directly addresses the opponent's actual claim",
+        "A straw man misrepresents the opponent's claim in a simplified, easily refuted form",
+        "A straw man is simply a more aggressive version of a rebuttal",
+        "There is no meaningful difference between the two according to the passage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the author imply about the relationship between ad hominem attacks and the substance of an argument?",
+      "options": [
+        "Ad hominem attacks strengthen the substance of an argument",
+        "Ad hominem attacks are a subtle form of substantiation",
+        "Ad hominem attacks abandon substantive engagement in favor of attacking character",
+        "Ad hominem attacks are described as synonymous with cogent reasoning"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the passage, what makes a dichotomy \"specious\" in argumentation?",
+      "options": [
+        "It accurately represents two genuinely opposing positions",
+        "It falsely reduces a complex, multifaceted issue into only two options",
+        "It is simply another term the author uses for nuance",
+        "It always favors the speaker's opponent"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone toward skilled, honest arguers as compared to polemicists?",
+      "options": [
+        "Equally critical of both groups",
+        "Admiring of skilled arguers while critical of polemical tactics",
+        "Dismissive of skilled arguers as naive",
+        "Neutral, expressing no preference between them"
+      ],
+      "answer": 1
+    }
+  ]
+}

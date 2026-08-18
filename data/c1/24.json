@@ -1,0 +1,229 @@
+{
+  "id": 24,
+  "topic": "Aesthetics and the Sociology of Art",
+  "words": [
+    {
+      "word": "aesthetic",
+      "pos": "adjective",
+      "ipa": "/iːsˈθɛtɪk/",
+      "definition": "Concerned with beauty or the appreciation of art.",
+      "example": "The film's aesthetic drew heavily on 1970s cinema.",
+      "uz": "estetik"
+    },
+    {
+      "word": "avant-garde",
+      "pos": "noun",
+      "ipa": "/ˌævɒ̃ˈgɑːd/",
+      "definition": "New and experimental ideas in art, especially ahead of mainstream acceptance.",
+      "example": "The gallery championed avant-garde artists rejected by the mainstream.",
+      "uz": "avangard"
+    },
+    {
+      "word": "kitsch",
+      "pos": "noun",
+      "ipa": "/kɪtʃ/",
+      "definition": "Art or design considered tasteless or overly sentimental yet popularly appealing.",
+      "example": "The souvenir shop was full of cheerful, unapologetic kitsch.",
+      "uz": "kitsch (didsiz, sayoz ammo ommabop san'at)"
+    },
+    {
+      "word": "connoisseur",
+      "pos": "noun",
+      "ipa": "/ˌkɒnəˈsɜːr/",
+      "definition": "An expert judge in matters of taste, especially in the fine arts.",
+      "example": "As a connoisseur of Baroque music, she could identify the composer instantly.",
+      "uz": "nozikta'b bilimdon (san'atshunos)"
+    },
+    {
+      "word": "canon",
+      "pos": "noun",
+      "ipa": "/ˈkænən/",
+      "definition": "A body of works considered authoritative or definitive within a field.",
+      "example": "The novel was eventually admitted into the literary canon.",
+      "uz": "kanon"
+    },
+    {
+      "word": "iconoclastic",
+      "pos": "adjective",
+      "ipa": "/aɪˌkɒnəˈklæstɪk/",
+      "definition": "Attacking or rejecting cherished beliefs or institutions, especially traditional ones.",
+      "example": "His iconoclastic sculptures challenged every convention of the medium.",
+      "uz": "an'anaviy qadriyatlarni rad etuvchi"
+    },
+    {
+      "word": "ephemeral",
+      "pos": "adjective",
+      "ipa": "/ɪˈfɛmərəl/",
+      "definition": "Lasting for a very short time.",
+      "example": "The chalk mural's ephemeral beauty vanished with the first rain.",
+      "uz": "o'tkinchi, qisqa muddatli"
+    },
+    {
+      "word": "subjectivity",
+      "pos": "noun",
+      "ipa": "/ˌsʌbdʒɪkˈtɪvɪti/",
+      "definition": "The quality of being based on personal feelings or opinions rather than objective facts.",
+      "example": "Critics debated whether beauty could ever escape pure subjectivity.",
+      "uz": "sub'ektivlik"
+    },
+    {
+      "word": "reification",
+      "pos": "noun",
+      "ipa": "/ˌriːɪfɪˈkeɪʃən/",
+      "definition": "The treatment of an abstract concept as though it were a concrete thing.",
+      "example": "The theory's reification of 'the market' obscured real human decisions.",
+      "uz": "reifikatsiya (mavhumni moddiylashtirish)"
+    },
+    {
+      "word": "cultural capital",
+      "pos": "noun phrase",
+      "ipa": "/ˈkʌltʃərəl ˈkæpɪtəl/",
+      "definition": "Non-financial social assets, such as education or taste, that promote social mobility.",
+      "example": "Attending elite schools conferred a form of cultural capital.",
+      "uz": "madaniy kapital"
+    },
+    {
+      "word": "discourse",
+      "pos": "noun",
+      "ipa": "/ˈdɪskɔːs/",
+      "definition": "Formal written or spoken communication or debate over ideas.",
+      "example": "The essay contributed to an ongoing discourse on representation in film.",
+      "uz": "diskurs (muhokama, nutq)"
+    },
+    {
+      "word": "hegemony",
+      "pos": "noun",
+      "ipa": "/hɪˈdʒɛməni/",
+      "definition": "Dominance of one group or set of ideas over others, especially cultural or ideological.",
+      "example": "The critic questioned Western hegemony over the global art market.",
+      "uz": "gegemoniya (g'oyaviy hukmronlik)"
+    },
+    {
+      "word": "commodify",
+      "pos": "verb",
+      "ipa": "/kəˈmɒdɪfaɪ/",
+      "definition": "To turn something into an object of trade to be bought and sold.",
+      "example": "Advertisers rushed to commodify the once-underground music scene.",
+      "uz": "tijoratlashtirmoq"
+    },
+    {
+      "word": "patronage",
+      "pos": "noun",
+      "ipa": "/ˈpætrənɪdʒ/",
+      "definition": "Support, especially financial, given by a patron to an artist or institution.",
+      "example": "The composer relied on royal patronage to fund his work.",
+      "uz": "homiylik"
+    },
+    {
+      "word": "verisimilar",
+      "pos": "adjective",
+      "ipa": "/ˌvɛrɪˈsɪmɪlər/",
+      "definition": "Appearing to be true or real.",
+      "example": "The set design achieved a striking verisimilar quality.",
+      "uz": "haqqoniy ko'rinishga ega"
+    },
+    {
+      "word": "eclecticism",
+      "pos": "noun",
+      "ipa": "/ɪˈklɛktɪsɪzəm/",
+      "definition": "The practice of drawing on diverse sources, styles, or ideas.",
+      "example": "The building's eclecticism mixed Gothic and modernist elements freely.",
+      "uz": "eklektika"
+    },
+    {
+      "word": "mimesis",
+      "pos": "noun",
+      "ipa": "/mɪˈmiːsɪs/",
+      "definition": "Imitation or representation of reality in art.",
+      "example": "Aristotle viewed tragedy as a form of mimesis, imitating human action.",
+      "uz": "mimesis (voqelikka taqlid)"
+    },
+    {
+      "word": "transgressive",
+      "pos": "adjective",
+      "ipa": "/trænsˈgrɛsɪv/",
+      "definition": "Going beyond accepted boundaries or limits, especially social norms.",
+      "example": "The performance was praised for its transgressive treatment of taboo subjects.",
+      "uz": "me'yorlarni buzuvchi, chegaradan chiquvchi"
+    },
+    {
+      "word": "arbiter",
+      "pos": "noun",
+      "ipa": "/ˈɑːbɪtər/",
+      "definition": "A person or body with the power to decide what is acceptable or correct.",
+      "example": "Critics have long acted as self-appointed arbiters of taste.",
+      "uz": "hal qiluvchi hakam"
+    },
+    {
+      "word": "stratification",
+      "pos": "noun",
+      "ipa": "/ˌstrætɪfɪˈkeɪʃən/",
+      "definition": "The division of society into hierarchical layers or classes.",
+      "example": "The exhibition explored class stratification through portraiture.",
+      "uz": "stratifikatsiya (tabaqalanish)"
+    }
+  ],
+  "text": "Sociologists of art have long argued that aesthetic judgment, far from being a matter of pure subjectivity, is entangled with social stratification. Pierre Bourdieu's influential thesis held that taste functions as cultural capital: the capacity to distinguish the avant-garde from mere kitsch is not innate but cultivated through education and upbringing, which is why self-appointed arbiters of the canon so often mirror the interests of an educated elite. Critics of this reading counter that it risks a reification of taste, collapsing genuine aesthetic experience into nothing more than a marker of class hegemony. There is something to this objection: an iconoclastic artist may deliberately court transgressive imagery precisely to unsettle establishment discourse, yet find that very unsettlement absorbed and commodified by the market within a decade, its ephemeral shock repackaged as fashionable eclecticism. Historical patronage, too, complicates any simple story of autonomous genius, since even canonical works were frequently produced under the direct influence of wealthy sponsors with their own agendas. None of this proves that beauty is merely arbitrary, only that judgments we experience as spontaneous are seldom free of institutional scaffolding.",
+  "questions": [
+    {
+      "question": "According to Bourdieu's thesis as presented, aesthetic taste is best understood as:",
+      "options": [
+        "An innate biological trait",
+        "A form of cultural capital shaped by education and upbringing",
+        "Entirely random and arbitrary",
+        "Unrelated to social class"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the main criticism leveled against Bourdieu's reading, per the passage?",
+      "options": [
+        "It overstates the role of the art market",
+        "It reduces aesthetic experience to nothing more than a class marker",
+        "It ignores the existence of patronage",
+        "It fails to define the avant-garde"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's attitude toward the criticism of Bourdieu can best be described as:",
+      "options": [
+        "Dismissive and unconvinced",
+        "Partially sympathetic, acknowledging some validity",
+        "Wholly persuaded and in full agreement",
+        "Indifferent and uninterested"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The example of the iconoclastic artist whose transgressive work becomes commodified illustrates:",
+      "options": [
+        "How avant-garde shock can be absorbed and repackaged by the market",
+        "How patronage guarantees artistic freedom",
+        "How kitsch always precedes the avant-garde",
+        "How discourse eliminates class hegemony"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What point does the mention of historical patronage serve to support?",
+      "options": [
+        "That canonical works are always independent of sponsors",
+        "That even celebrated works were often shaped by the interests of wealthy sponsors",
+        "That patronage no longer exists in the art world",
+        "That patronage is unrelated to the canon"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The passage's concluding sentence implies that:",
+      "options": [
+        "Beauty is purely arbitrary and meaningless",
+        "Spontaneous aesthetic judgments are often shaped by unseen institutional factors",
+        "Institutions have no bearing on taste",
+        "Aesthetic judgment is entirely free of social influence"
+      ],
+      "answer": 1
+    }
+  ]
+}

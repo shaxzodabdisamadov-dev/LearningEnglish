@@ -3,27 +3,65 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Level testi — WordPath</title>
-<link rel="stylesheet" href="css/style.css" />
+<title>Level testi — LearningEnglishStat</title>
+<meta name="description" content="Level bo'yicha o'zlashtirishni tekshiruvchi test — LearningEnglishStat." />
+<meta name="theme-color" content="#f6f7fc" />
+<meta property="og:title" content="LearningEnglishStat — Level testi" />
+<meta property="og:description" content="Level bo'yicha o'zlashtirishni tekshiruvchi test." />
+<meta property="og:type" content="website" />
+<link rel="icon" href="assets/brand-icon.svg" type="image/svg+xml" />
+<link rel="manifest" href="manifest.json" />
+<link rel="stylesheet" href="css/style.css?v=7" />
 </head>
 <body data-page="test">
   <div class="wrap">
     <header class="top">
-      <a class="brand" href="index.html"><span class="dot"></span> WordPath</a>
+      <a class="brand" href="/">
+        <img class="brand-icon" src="assets/brand-icon.svg" alt="" width="36" height="36" />
+        <span><span class="brand-black">LearningEnglish</span><span class="brand-blue">Stat</span></span>
+      </a>
+      <nav class="top-nav" aria-label="Asosiy navigatsiya">
+        <a href="/">Bosh sahifa</a>
+      </nav>
     </header>
-    <nav class="crumbs">
-      <a href="index.html">Bosh sahifa</a> / <a id="crumbLevel" href="#">...</a> / Test
+    <nav class="crumbs" aria-label="Yo'l">
+      <a href="/">Bosh sahifa</a>
+      <span class="crumb-sep" aria-hidden="true">›</span>
+      <a id="crumbLevel" href="#">...</a>
+      <span class="crumb-sep" aria-hidden="true">›</span>
+      <span class="crumb-current">Test</span>
     </nav>
 
-    <h1 id="testTitle">...</h1>
-    <p class="lead">Keyingi levelga o'tish uchun kamida 80% to'g'ri javob berishingiz kerak.</p>
+    <main>
+      <h1 id="testTitle" class="skeleton">Yuklanmoqda...</h1>
+      <p class="lead">Bu test shu levelni qanchalik o'zlashtirganingizni tekshiradi. Kamida 80% to'g'ri javob bersangiz, level "topshirilgan" deb belgilanadi — lekin barcha levellar baribir ochiq bo'lib qoladi.</p>
 
-    <div id="quiz"></div>
-    <button class="btn" id="submitQuiz">Testni yakunlash</button>
+      <div id="quiz"></div>
+      <button class="btn" id="submitQuiz">Testni yakunlash</button>
 
-    <div class="result-card" id="result" style="display:none;"></div>
+      <div class="result-card" id="result" role="status" aria-live="polite" hidden></div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-top">
+        <a class="footer-brand" href="/">
+          <img src="assets/brand-icon.svg" alt="" width="26" height="26" />
+          <span><span class="brand-black">LearningEnglish</span><span class="brand-blue">Stat</span></span>
+        </a>
+        <p class="footer-tagline">A1 dan C1 gacha lug'at va o'qish orqali ingliz tilini o'rganish — bepul va reklamasiz.</p>
+      </div>
+      <nav class="footer-links" aria-label="Pastki navigatsiya">
+        <a href="/">Bosh sahifa</a>
+        <a href="/level?level=a1">A1</a>
+        <a href="/level?level=a2">A2</a>
+        <a href="/level?level=b1">B1</a>
+        <a href="/level?level=b2">B2</a>
+        <a href="/level?level=c1">C1</a>
+      </nav>
+      <p class="footer-copy">© <span id="footerYear"></span> LearningEnglishStat. Progressingiz faqat shu brauzeringizda saqlanadi.</p>
+    </footer>
   </div>
 
-  <script src="js/app.js"></script>
+  <script src="js/app.js?v=2"></script>
 </body>
 </html>

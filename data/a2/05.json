@@ -1,0 +1,229 @@
+{
+  "id": 5,
+  "topic": "Food and Cooking",
+  "words": [
+    {
+      "word": "ingredient",
+      "pos": "noun",
+      "ipa": "/ɪnˈɡriːdiənt/",
+      "definition": "one of the foods used to make a dish.",
+      "example": "Flour is the main ingredient in bread.",
+      "uz": "masalliq"
+    },
+    {
+      "word": "recipe",
+      "pos": "noun",
+      "ipa": "/ˈresəpi/",
+      "definition": "a set of instructions for cooking a dish.",
+      "example": "She followed the recipe carefully.",
+      "uz": "retsept"
+    },
+    {
+      "word": "boil",
+      "pos": "verb",
+      "ipa": "/bɔɪl/",
+      "definition": "to cook food in very hot water.",
+      "example": "Boil the pasta for ten minutes.",
+      "uz": "qaynatmoq"
+    },
+    {
+      "word": "fry",
+      "pos": "verb",
+      "ipa": "/fraɪ/",
+      "definition": "to cook food in hot oil.",
+      "example": "He fried the eggs for breakfast.",
+      "uz": "qovurmoq"
+    },
+    {
+      "word": "bake",
+      "pos": "verb",
+      "ipa": "/beɪk/",
+      "definition": "to cook food in an oven, especially bread or cakes.",
+      "example": "We baked a chocolate cake.",
+      "uz": "pechda pishirmoq"
+    },
+    {
+      "word": "roast",
+      "pos": "verb",
+      "ipa": "/roʊst/",
+      "definition": "to cook food in an oven with dry heat, usually meat or vegetables.",
+      "example": "We roasted a chicken for dinner.",
+      "uz": "qovurib pishirmoq"
+    },
+    {
+      "word": "chop",
+      "pos": "verb",
+      "ipa": "/tʃɒp/",
+      "definition": "to cut food into small pieces.",
+      "example": "Chop the onions finely.",
+      "uz": "maydalab to'g'ramoq"
+    },
+    {
+      "word": "slice",
+      "pos": "verb",
+      "ipa": "/slaɪs/",
+      "definition": "to cut something into thin flat pieces.",
+      "example": "Slice the bread before serving.",
+      "uz": "tilimlamoq"
+    },
+    {
+      "word": "mix",
+      "pos": "verb",
+      "ipa": "/mɪks/",
+      "definition": "to combine two or more things together.",
+      "example": "Mix the flour and eggs together.",
+      "uz": "aralashtirmoq"
+    },
+    {
+      "word": "taste",
+      "pos": "verb",
+      "ipa": "/teɪst/",
+      "definition": "to try a small amount of food to check its flavor.",
+      "example": "Taste the soup before you serve it.",
+      "uz": "tatib ko'rmoq"
+    },
+    {
+      "word": "delicious",
+      "pos": "adjective",
+      "ipa": "/dɪˈlɪʃəs/",
+      "definition": "having a very pleasant taste.",
+      "example": "This cake is delicious.",
+      "uz": "mazali"
+    },
+    {
+      "word": "fresh",
+      "pos": "adjective",
+      "ipa": "/freʃ/",
+      "definition": "recently made or picked, not old.",
+      "example": "We bought fresh vegetables at the market.",
+      "uz": "yangi"
+    },
+    {
+      "word": "spicy",
+      "pos": "adjective",
+      "ipa": "/ˈspaɪsi/",
+      "definition": "having a strong, hot taste.",
+      "example": "The curry was too spicy for me.",
+      "uz": "achchiq"
+    },
+    {
+      "word": "sour",
+      "pos": "adjective",
+      "ipa": "/ˈsaʊər/",
+      "definition": "having a sharp taste, like a lemon.",
+      "example": "Lemons taste sour.",
+      "uz": "nordon"
+    },
+    {
+      "word": "sweet",
+      "pos": "adjective",
+      "ipa": "/swiːt/",
+      "definition": "having a taste like sugar.",
+      "example": "The cake was very sweet.",
+      "uz": "shirin"
+    },
+    {
+      "word": "ripe",
+      "pos": "adjective",
+      "ipa": "/raɪp/",
+      "definition": "ready to eat, fully grown.",
+      "example": "The bananas are not ripe yet.",
+      "uz": "pishgan (meva)"
+    },
+    {
+      "word": "leftovers",
+      "pos": "noun",
+      "ipa": "/ˈleftˌoʊvərz/",
+      "definition": "food that remains after a meal.",
+      "example": "We ate the leftovers the next day.",
+      "uz": "ovqat qoldig'i"
+    },
+    {
+      "word": "portion",
+      "pos": "noun",
+      "ipa": "/ˈpɔːrʃn/",
+      "definition": "an amount of food for one person.",
+      "example": "Can I have a small portion, please?",
+      "uz": "bir kishilik ulush"
+    },
+    {
+      "word": "dish",
+      "pos": "noun",
+      "ipa": "/dɪʃ/",
+      "definition": "food prepared in a particular way as part of a meal.",
+      "example": "This is my favorite dish.",
+      "uz": "taom"
+    },
+    {
+      "word": "meal",
+      "pos": "noun",
+      "ipa": "/miːl/",
+      "definition": "the food eaten at a particular time, like breakfast or dinner.",
+      "example": "We had a big meal together.",
+      "uz": "ovqatlanish"
+    }
+  ],
+  "text": "On Sunday, I decided to try a new recipe I found online. First, I checked I had all the ingredients: chicken, rice, vegetables, and some spices. I began by chopping an onion and a few vegetables into small pieces. Then I had to slice a ripe tomato and mix it with the other ingredients in a big pot. The recipe said to fry the chicken first, then boil it with rice for twenty minutes. For dessert, I decided to bake a cake instead of buying one. While the cake was in the oven, I roasted some potatoes as a side dish. When everything was ready, I had to taste the food before serving it — it was a little too spicy for me, so I added some sugar to balance the sour and sweet flavors. The final meal was absolutely delicious! I made too much food, so I had a lot of leftovers for the next day. I gave my neighbor a portion too, and she loved it. Cooking a fresh, homemade dish takes time, but it always tastes better than fast food.",
+  "questions": [
+    {
+      "question": "What did the writer check before cooking?",
+      "options": [
+        "The recipe's price",
+        "That they had all the ingredients",
+        "The cooking time only",
+        "The oven temperature"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the writer do with the chicken before boiling it?",
+      "options": [
+        "Roasted it",
+        "Baked it",
+        "Fried it",
+        "Sliced it raw"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did the writer bake for dessert?",
+      "options": [
+        "A pie",
+        "A cake",
+        "Bread",
+        "Cookies"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why did the writer add sugar to the food?",
+      "options": [
+        "The recipe told them to",
+        "It was too spicy, to balance the flavor",
+        "The dish was cold",
+        "It was a mistake"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the writer do with the leftovers?",
+      "options": [
+        "Threw them away",
+        "Froze them for months",
+        "Ate them the next day and gave some to a neighbor",
+        "Sold them"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the writer, what always tastes better than fast food?",
+      "options": [
+        "Restaurant food",
+        "A fresh, homemade dish",
+        "Cold leftovers",
+        "Food from a festival"
+      ],
+      "answer": 1
+    }
+  ]
+}

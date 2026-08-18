@@ -1,0 +1,229 @@
+{
+  "id": 10,
+  "topic": "Mental Health Awareness",
+  "words": [
+    {
+      "word": "stress",
+      "pos": "noun",
+      "ipa": "/stres/",
+      "definition": "a feeling of worry or pressure caused by difficult situations",
+      "example": "Exams can cause a lot of stress for students.",
+      "uz": "stress"
+    },
+    {
+      "word": "anxiety",
+      "pos": "noun",
+      "ipa": "/æŋˈzaɪəti/",
+      "definition": "a strong feeling of worry or nervousness",
+      "example": "She felt anxiety before her job interview.",
+      "uz": "tashvish"
+    },
+    {
+      "word": "depression",
+      "pos": "noun",
+      "ipa": "/dɪˈpreʃən/",
+      "definition": "a medical condition causing constant sadness and loss of interest in life",
+      "example": "He was diagnosed with depression after months of feeling low.",
+      "uz": "depressiya"
+    },
+    {
+      "word": "cope",
+      "pos": "verb",
+      "ipa": "/koʊp/",
+      "definition": "to deal successfully with a difficult situation",
+      "example": "It can be hard to cope with stress at work.",
+      "uz": "uddalamoq"
+    },
+    {
+      "word": "therapy",
+      "pos": "noun",
+      "ipa": "/ˈθerəpi/",
+      "definition": "treatment to help a person deal with mental or emotional problems",
+      "example": "She started therapy to help manage her anxiety.",
+      "uz": "terapiya"
+    },
+    {
+      "word": "counselor",
+      "pos": "noun",
+      "ipa": "/ˈkaʊnsələr/",
+      "definition": "a person trained to give advice and support with personal problems",
+      "example": "The school counselor helped him talk about his feelings.",
+      "uz": "maslahatchi"
+    },
+    {
+      "word": "support",
+      "pos": "verb",
+      "ipa": "/səˈpɔːrt/",
+      "definition": "to give help, encouragement, or comfort to someone",
+      "example": "Friends and family can support you during hard times.",
+      "uz": "qo'llab-quvvatlamoq"
+    },
+    {
+      "word": "overwhelmed",
+      "pos": "adjective",
+      "ipa": "/ˌoʊvərˈwelmd/",
+      "definition": "feeling unable to deal with too many problems at once",
+      "example": "She felt overwhelmed by the amount of work.",
+      "uz": "bosim ostida ezilgan"
+    },
+    {
+      "word": "mindfulness",
+      "pos": "noun",
+      "ipa": "/ˈmaɪndfəlnəs/",
+      "definition": "the practice of paying full attention to the present moment",
+      "example": "He practices mindfulness every morning to reduce stress.",
+      "uz": "ongli e'tibor"
+    },
+    {
+      "word": "burnout",
+      "pos": "noun",
+      "ipa": "/ˈbɜːrnaʊt/",
+      "definition": "a state of extreme tiredness caused by long-term stress",
+      "example": "Working too many hours led to his burnout.",
+      "uz": "charchash sindromi"
+    },
+    {
+      "word": "stigma",
+      "pos": "noun",
+      "ipa": "/ˈstɪɡmə/",
+      "definition": "a feeling of shame or disapproval connected to something",
+      "example": "There is still a lot of stigma around mental illness.",
+      "uz": "ijtimoiy tamg'a"
+    },
+    {
+      "word": "resilience",
+      "pos": "noun",
+      "ipa": "/rɪˈzɪliəns/",
+      "definition": "the ability to recover quickly from difficulties",
+      "example": "Resilience helped her recover after a very hard year.",
+      "uz": "chidamlilik"
+    },
+    {
+      "word": "relax",
+      "pos": "verb",
+      "ipa": "/rɪˈlæks/",
+      "definition": "to become calm and free from stress",
+      "example": "Listening to music helps me relax after a long day.",
+      "uz": "dam olmoq"
+    },
+    {
+      "word": "mood",
+      "pos": "noun",
+      "ipa": "/muːd/",
+      "definition": "the way a person feels at a particular time",
+      "example": "Exercise can improve your mood.",
+      "uz": "kayfiyat"
+    },
+    {
+      "word": "self-esteem",
+      "pos": "noun",
+      "ipa": "/ˌself ɪˈstiːm/",
+      "definition": "a person's confidence in their own worth or abilities",
+      "example": "Low self-esteem can affect how a person interacts with others.",
+      "uz": "o'z qadr-qimmati"
+    },
+    {
+      "word": "isolation",
+      "pos": "noun",
+      "ipa": "/ˌaɪsəˈleɪʃən/",
+      "definition": "the state of being alone and separated from others",
+      "example": "Isolation during the pandemic affected many people's mental health.",
+      "uz": "yolg'izlanish"
+    },
+    {
+      "word": "seek",
+      "pos": "verb",
+      "ipa": "/siːk/",
+      "definition": "to try to find or obtain something, such as help",
+      "example": "It is important to seek help if you feel depressed.",
+      "uz": "izlamoq"
+    },
+    {
+      "word": "balance",
+      "pos": "noun",
+      "ipa": "/ˈbæləns/",
+      "definition": "a healthy state where different parts of life are managed well",
+      "example": "Finding a balance between work and rest is important.",
+      "uz": "muvozanat"
+    },
+    {
+      "word": "exhausted",
+      "pos": "adjective",
+      "ipa": "/ɪɡˈzɔːstɪd/",
+      "definition": "extremely tired",
+      "example": "After the long shift, she felt completely exhausted.",
+      "uz": "charchagan"
+    },
+    {
+      "word": "manage",
+      "pos": "verb",
+      "ipa": "/ˈmænɪdʒ/",
+      "definition": "to successfully control or deal with something",
+      "example": "Learning to manage stress can improve your wellbeing.",
+      "uz": "uddalab boshqarmoq"
+    }
+  ],
+  "text": "Mental health awareness has become an important topic in schools, workplaces, and communities, as more people learn to recognize signs of stress, anxiety, and depression. Although these problems used to carry a strong stigma, many people now feel comfortable talking openly about how they feel. When someone feels overwhelmed by daily pressure, it is often a sign that they need to slow down and find better ways to manage their emotions. Simple habits such as mindfulness, regular exercise, and enough sleep can help people relax and improve their mood. However, if stress continues for a long time, it can lead to burnout, a state of feeling completely exhausted both physically and mentally. In this situation, it is important to seek help from a counselor or start therapy, rather than trying to cope alone. Support from friends and family also plays a key role, since isolation often makes problems worse. Building resilience, which means the ability to recover from difficult experiences, takes time and practice. Experts agree that a good balance between work, rest, and self-esteem is essential for long-term mental wellbeing.",
+  "questions": [
+    {
+      "question": "Why did people used to avoid talking about mental health problems, according to the passage?",
+      "options": [
+        "They didn't have therapy",
+        "Because of stigma",
+        "Because of burnout",
+        "Because of mindfulness"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is one sign that someone needs to slow down and manage their emotions?",
+      "options": [
+        "Feeling overwhelmed",
+        "Feeling isolated",
+        "Practicing mindfulness",
+        "Seeking therapy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What can happen if stress continues for a long time?",
+      "options": [
+        "Improved self-esteem",
+        "Burnout",
+        "Better balance",
+        "Increased resilience"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest doing instead of coping alone?",
+      "options": [
+        "Avoiding friends",
+        "Seeking help from a counselor or therapy",
+        "Ignoring the problem",
+        "Working longer hours"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what often makes problems worse?",
+      "options": [
+        "Support from family",
+        "Isolation",
+        "Mindfulness",
+        "Resilience"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does resilience mean, according to the passage?",
+      "options": [
+        "The ability to avoid stress completely",
+        "The ability to recover from difficult experiences",
+        "A type of therapy",
+        "A form of stigma"
+      ],
+      "answer": 1
+    }
+  ]
+}

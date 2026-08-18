@@ -1,0 +1,229 @@
+{
+  "id": 30,
+  "topic": "Future of Work and Automation",
+  "words": [
+    {
+      "word": "automation",
+      "pos": "noun",
+      "ipa": "/ˌɔːtəˈmeɪʃən/",
+      "definition": "the use of technology to perform tasks without human intervention",
+      "example": "Automation has transformed manufacturing over the past few decades.",
+      "uz": "avtomatlashtirish"
+    },
+    {
+      "word": "redundant",
+      "pos": "adjective",
+      "ipa": "/rɪˈdʌndənt/",
+      "definition": "no longer needed, especially referring to a job made unnecessary",
+      "example": "Hundreds of workers were made redundant after the factory installed new machinery.",
+      "uz": "endi kerak bo'lmay qolgan (lavozim)"
+    },
+    {
+      "word": "displace",
+      "pos": "verb",
+      "ipa": "/dɪsˈpleɪs/",
+      "definition": "to force out of a job or position, often due to technology",
+      "example": "Automated checkout systems have displaced many retail cashiers.",
+      "uz": "texnologiya tufayli ishdan mahrum qilmoq"
+    },
+    {
+      "word": "algorithm",
+      "pos": "noun",
+      "ipa": "/ˈælgərɪðəm/",
+      "definition": "a set of rules or steps followed by a computer to solve a problem",
+      "example": "An algorithm now screens thousands of job applications in seconds.",
+      "uz": "algoritm"
+    },
+    {
+      "word": "upskill",
+      "pos": "verb",
+      "ipa": "/ˈʌpskɪl/",
+      "definition": "to learn new or advanced skills, especially for employment",
+      "example": "The company offered courses to help employees upskill for new roles.",
+      "uz": "malakasini oshirmoq"
+    },
+    {
+      "word": "obsolescence",
+      "pos": "noun",
+      "ipa": "/ˌɒbsəˈlɛsəns/",
+      "definition": "the process of becoming outdated or no longer used",
+      "example": "Rapid technological change accelerates the obsolescence of certain jobs.",
+      "uz": "eskirib, iste'moldan chiqish"
+    },
+    {
+      "word": "autonomy",
+      "pos": "noun",
+      "ipa": "/ɔːˈtɒnəmi/",
+      "definition": "the ability to act independently, without external control",
+      "example": "Freelancers often value the autonomy of setting their own schedules.",
+      "uz": "mustaqil harakat qilish qobiliyati"
+    },
+    {
+      "word": "precarious",
+      "pos": "adjective",
+      "ipa": "/prɪˈkɛəriəs/",
+      "definition": "not secure or stable; likely to fail or fall",
+      "example": "Many gig workers face a precarious income with no guaranteed hours.",
+      "uz": "beqaror, ishonchsiz"
+    },
+    {
+      "word": "flexibility",
+      "pos": "noun",
+      "ipa": "/ˌflɛksəˈbɪləti/",
+      "definition": "the ability to adapt easily to different conditions",
+      "example": "Remote work offers employees greater flexibility over their schedules.",
+      "uz": "moslashuvchanlik"
+    },
+    {
+      "word": "efficiency",
+      "pos": "noun",
+      "ipa": "/ɪˈfɪʃənsi/",
+      "definition": "the ability to achieve maximum output with minimum wasted effort",
+      "example": "Automation dramatically improved the factory's efficiency.",
+      "uz": "samaradorlik"
+    },
+    {
+      "word": "artificial intelligence",
+      "pos": "noun phrase",
+      "ipa": "/ˌɑːrtɪˈfɪʃəl ɪnˈtɛlɪdʒəns/",
+      "definition": "computer systems able to perform tasks that normally require human intelligence",
+      "example": "Artificial intelligence now assists doctors in diagnosing diseases.",
+      "uz": "sun'iy intellekt"
+    },
+    {
+      "word": "streamline",
+      "pos": "verb",
+      "ipa": "/ˈstriːmlaɪn/",
+      "definition": "to make a process more efficient by simplifying it",
+      "example": "The new software streamlines the entire hiring process.",
+      "uz": "jarayonni soddalashtirib optimallashtirmoq"
+    },
+    {
+      "word": "workforce",
+      "pos": "noun",
+      "ipa": "/ˈwɜːrkfɔːrs/",
+      "definition": "the people engaged in or available for work",
+      "example": "Retraining programs aim to prepare the workforce for future industries.",
+      "uz": "ishchi kuchi"
+    },
+    {
+      "word": "adapt",
+      "pos": "verb",
+      "ipa": "/əˈdæpt/",
+      "definition": "to adjust to new conditions",
+      "example": "Companies must adapt quickly to survive rapid technological change.",
+      "uz": "yangi sharoitga moslashmoq"
+    },
+    {
+      "word": "gig economy",
+      "pos": "noun phrase",
+      "ipa": "/gɪg ɪˈkɒnəmi/",
+      "definition": "a labor market characterized by short-term contracts or freelance work",
+      "example": "The gig economy has grown rapidly with the rise of app-based platforms.",
+      "uz": "vaqtinchalik frilanser ishlar iqtisodiyoti"
+    },
+    {
+      "word": "proliferate",
+      "pos": "verb",
+      "ipa": "/prəˈlɪfəreɪt/",
+      "definition": "to increase rapidly in number",
+      "example": "Freelance platforms have proliferated over the past decade.",
+      "uz": "tez sur'atda ko'payib bormoq"
+    },
+    {
+      "word": "sustain",
+      "pos": "verb",
+      "ipa": "/səˈsteɪn/",
+      "definition": "to keep something going over time",
+      "example": "It remains unclear whether current wage levels can sustain a growing workforce.",
+      "uz": "uzoq vaqt davom ettirmoq"
+    },
+    {
+      "word": "displacement",
+      "pos": "noun",
+      "ipa": "/dɪsˈpleɪsmənt/",
+      "definition": "the state of being forced out of a job or place",
+      "example": "Economists debate how severe job displacement from automation will become.",
+      "uz": "ishdan mahrum bo'lish"
+    },
+    {
+      "word": "viable",
+      "pos": "adjective",
+      "ipa": "/ˈvaɪəbəl/",
+      "definition": "capable of working successfully",
+      "example": "Universal basic income has been proposed as a viable response to automation.",
+      "uz": "amalga oshirish mumkin"
+    },
+    {
+      "word": "transition",
+      "pos": "noun",
+      "ipa": "/trænˈzɪʃən/",
+      "definition": "the process of changing from one state or condition to another",
+      "example": "Government support can ease the transition for workers displaced by technology.",
+      "uz": "bir holatdan boshqasiga o'tish"
+    }
+  ],
+  "text": "Will automation ultimately liberate workers from tedious labor, or merely render millions of jobs redundant? Both outcomes, paradoxically, may prove true simultaneously. As algorithms and artificial intelligence increasingly streamline tasks once performed by humans, entire sectors of the workforce face potential displacement, and roles once considered secure now feel precarious. Nevertheless, automation rarely eliminates work outright; more often, it transforms what work looks like, demanding that employees upskill continuously to avoid professional obsolescence. Meanwhile, the gig economy continues to proliferate, offering flexibility that some workers genuinely value, while others experience it as an unstable substitute for stable employment with real autonomy over one's schedule and income. Whether this transition proves sustainable depends largely on how societies respond. Were governments to invest seriously in retraining programs, displaced workers could adapt relatively smoothly; without such support, however, growing inequality seems all but inevitable. Efficiency gains, after all, benefit shareholders far more directly than the employees they replace, unless deliberate policy intervenes. Consequently, the central challenge facing modern economies is not whether automation will proceed, it undoubtedly will, but whether a viable path exists to sustain a workforce increasingly required to reinvent itself every few years.",
+  "questions": [
+    {
+      "question": "What is the central concern addressed in the passage?",
+      "options": [
+        "Whether automation will completely eliminate the need for human workers",
+        "How automation is reshaping work and whether societies can help workers adapt fairly",
+        "The technical details of how algorithms function",
+        "Why the gig economy should be banned"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what does automation typically do rather than simply eliminate jobs?",
+      "options": [
+        "It transforms the nature of work, requiring continuous upskilling",
+        "It guarantees permanent job security",
+        "It has no effect on employment",
+        "It only affects the gig economy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the passage suggest determines whether the transition to automation is sustainable?",
+      "options": [
+        "The speed of technological development alone",
+        "How effectively societies invest in retraining and support for displaced workers",
+        "The number of gig economy jobs created",
+        "Whether artificial intelligence becomes fully autonomous"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the passage describe the gig economy's effect on workers?",
+      "options": [
+        "It provides only benefits with no drawbacks",
+        "It offers flexibility to some while creating instability for others",
+        "It has completely replaced traditional employment",
+        "It eliminates the need for autonomy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone in this passage?",
+      "options": [
+        "Alarmed and entirely pessimistic",
+        "Balanced and analytical, considering both opportunities and risks",
+        "Dismissive of automation's impact",
+        "Purely celebratory of technological progress"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage imply about who benefits most from efficiency gains without policy intervention?",
+      "options": [
+        "Displaced workers benefit most",
+        "Shareholders benefit more directly than the employees who are replaced",
+        "Governments automatically redistribute all gains equally",
+        "No one benefits from efficiency gains"
+      ],
+      "answer": 1
+    }
+  ]
+}

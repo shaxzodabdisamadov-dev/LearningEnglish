@@ -1,0 +1,229 @@
+{
+  "id": 28,
+  "topic": "Time Management and Planning",
+  "words": [
+    {
+      "word": "schedule",
+      "pos": "noun",
+      "ipa": "/ˈskedʒuːl/",
+      "definition": "a plan that shows when things will happen",
+      "example": "My work schedule changes every week.",
+      "uz": "jadval"
+    },
+    {
+      "word": "plan",
+      "pos": "verb",
+      "ipa": "/plæn/",
+      "definition": "to decide what to do before doing it",
+      "example": "We should plan our trip carefully.",
+      "uz": "rejalashtirmoq"
+    },
+    {
+      "word": "deadline",
+      "pos": "noun",
+      "ipa": "/ˈdedlaɪn/",
+      "definition": "the time when something must be finished",
+      "example": "The deadline for the report is Friday.",
+      "uz": "oxirgi muddat"
+    },
+    {
+      "word": "priority",
+      "pos": "noun",
+      "ipa": "/praɪˈɒrəti/",
+      "definition": "the thing that is most important",
+      "example": "Finishing this task should be your top priority.",
+      "uz": "ustuvorlik"
+    },
+    {
+      "word": "calendar",
+      "pos": "noun",
+      "ipa": "/ˈkælɪndər/",
+      "definition": "a chart that shows the days, weeks, and months",
+      "example": "I wrote the meeting on my calendar.",
+      "uz": "kalendar"
+    },
+    {
+      "word": "organize",
+      "pos": "verb",
+      "ipa": "/ˈɔːrɡənaɪz/",
+      "definition": "to arrange things in a clear, useful order",
+      "example": "She organized her tasks for the week.",
+      "uz": "tartibga solmoq"
+    },
+    {
+      "word": "task",
+      "pos": "noun",
+      "ipa": "/tæsk/",
+      "definition": "a piece of work that needs to be done",
+      "example": "I finished all my tasks before lunch.",
+      "uz": "vazifa"
+    },
+    {
+      "word": "goal",
+      "pos": "noun",
+      "ipa": "/ɡoʊl/",
+      "definition": "something you want to achieve",
+      "example": "My goal is to finish the project on time.",
+      "uz": "maqsad"
+    },
+    {
+      "word": "routine",
+      "pos": "noun",
+      "ipa": "/ruːˈtiːn/",
+      "definition": "a set of things you do regularly",
+      "example": "Having a morning routine helps me stay organized.",
+      "uz": "kundalik tartib"
+    },
+    {
+      "word": "punctual",
+      "pos": "adjective",
+      "ipa": "/ˈpʌŋktʃuəl/",
+      "definition": "arriving or happening on time",
+      "example": "My teacher is always punctual for class.",
+      "uz": "vaqtida keladigan"
+    },
+    {
+      "word": "late",
+      "pos": "adjective",
+      "ipa": "/leɪt/",
+      "definition": "after the expected or planned time",
+      "example": "He was late for the meeting again.",
+      "uz": "kechikkan"
+    },
+    {
+      "word": "early",
+      "pos": "adverb",
+      "ipa": "/ˈɜːrli/",
+      "definition": "before the expected or usual time",
+      "example": "I woke up early to finish my work.",
+      "uz": "erta"
+    },
+    {
+      "word": "appointment",
+      "pos": "noun",
+      "ipa": "/əˈpɔɪntmənt/",
+      "definition": "a planned meeting at a fixed time",
+      "example": "I have a doctor's appointment tomorrow.",
+      "uz": "uchrashuv"
+    },
+    {
+      "word": "reminder",
+      "pos": "noun",
+      "ipa": "/rɪˈmaɪndər/",
+      "definition": "something that helps you remember to do something",
+      "example": "I set a reminder for the meeting.",
+      "uz": "eslatma"
+    },
+    {
+      "word": "focus",
+      "pos": "verb",
+      "ipa": "/ˈfoʊkəs/",
+      "definition": "to give your full attention to something",
+      "example": "It is hard to focus with so much noise.",
+      "uz": "diqqatni jamlamoq"
+    },
+    {
+      "word": "delay",
+      "pos": "verb",
+      "ipa": "/dɪˈleɪ/",
+      "definition": "to make something happen later than planned",
+      "example": "Bad weather delayed the flight.",
+      "uz": "kechiktirmoq"
+    },
+    {
+      "word": "manage",
+      "pos": "verb",
+      "ipa": "/ˈmænɪdʒ/",
+      "definition": "to control and organize something well",
+      "example": "It is important to manage your time wisely.",
+      "uz": "boshqarmoq"
+    },
+    {
+      "word": "urgent",
+      "pos": "adjective",
+      "ipa": "/ˈɜːrdʒənt/",
+      "definition": "needing quick action or attention",
+      "example": "This is an urgent message, please read it now.",
+      "uz": "shoshilinch"
+    },
+    {
+      "word": "achieve",
+      "pos": "verb",
+      "ipa": "/əˈtʃiːv/",
+      "definition": "to succeed in doing something",
+      "example": "She worked hard to achieve her goals.",
+      "uz": "erishmoq"
+    },
+    {
+      "word": "balance",
+      "pos": "noun",
+      "ipa": "/ˈbæləns/",
+      "definition": "a good mix between two different things, like work and rest",
+      "example": "It is important to find a balance between work and life.",
+      "uz": "muvozanat"
+    }
+  ],
+  "text": "Good time management helps you get more done every day. First, make a plan for your day or week. You can write your tasks on a calendar or use an app to organize your schedule. It is helpful to choose your priority, which means the most important task first. If something is urgent, do it quickly. A deadline is the time when a task must be finished, so try not to delay your work. Some people are always punctual, which means they arrive on time or a little early, but other people are often late. Setting a reminder can help you remember an important appointment or task. It is good to have a daily routine, like waking up, eating, and working at the same time every day. A routine helps you focus and manage your time better. When you plan well, you can achieve your goals faster. However, it is also important to find a balance between work and rest. If you work all the time without resting, you will become tired. Good time management is not about doing everything, but about doing the right things at the right time.",
+  "questions": [
+    {
+      "question": "What does \"priority\" mean, according to the text?",
+      "options": [
+        "the last task of the day",
+        "the most important task first",
+        "a type of calendar",
+        "a deadline you missed"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What should you do if something is urgent, according to the text?",
+      "options": [
+        "forget about it",
+        "do it quickly",
+        "delay it",
+        "write it in a diary"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens if you are punctual, according to the text?",
+      "options": [
+        "you arrive on time or early",
+        "you always arrive late",
+        "you never make plans",
+        "you forget appointments"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What can a reminder help you remember, according to the text?",
+      "options": [
+        "a dream",
+        "an appointment or task",
+        "a story from the past",
+        "a news event"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, what is good time management about?",
+      "options": [
+        "doing everything at once",
+        "doing the right things at the right time",
+        "working all day without resting",
+        "avoiding all plans"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens if you work all the time without resting, according to the text?",
+      "options": [
+        "you become more confident",
+        "you become tired",
+        "you achieve more goals",
+        "you become punctual"
+      ],
+      "answer": 1
+    }
+  ]
+}

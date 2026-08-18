@@ -1,0 +1,229 @@
+{
+  "id": 29,
+  "topic": "Recycling and Protecting the Environment",
+  "words": [
+    {
+      "word": "environment",
+      "pos": "noun",
+      "ipa": "/ɪnˈvaɪrənmənt/",
+      "definition": "the land, water, and air around us",
+      "example": "We must protect the environment.",
+      "uz": "atrof-muhit"
+    },
+    {
+      "word": "recycle",
+      "pos": "verb",
+      "ipa": "/ˌriːˈsaɪkl/",
+      "definition": "to make old things into new things instead of throwing them away",
+      "example": "We recycle paper and plastic at home.",
+      "uz": "qayta ishlamoq"
+    },
+    {
+      "word": "trash",
+      "pos": "noun",
+      "ipa": "/træʃ/",
+      "definition": "things that people throw away because they don't need them",
+      "example": "Please put the trash in the bin.",
+      "uz": "chiqindi"
+    },
+    {
+      "word": "plastic",
+      "pos": "noun",
+      "ipa": "/ˈplæstɪk/",
+      "definition": "a light material used to make bottles and bags",
+      "example": "This bottle is made of plastic.",
+      "uz": "plastik"
+    },
+    {
+      "word": "paper",
+      "pos": "noun",
+      "ipa": "/ˈpeɪpər/",
+      "definition": "thin material used for writing and books",
+      "example": "We write on paper at school.",
+      "uz": "qog'oz"
+    },
+    {
+      "word": "glass",
+      "pos": "noun",
+      "ipa": "/ɡlɑːs/",
+      "definition": "a hard, clear material used to make bottles and windows",
+      "example": "The bottle is made of glass.",
+      "uz": "shisha"
+    },
+    {
+      "word": "bottle",
+      "pos": "noun",
+      "ipa": "/ˈbɒtl/",
+      "definition": "a container for drinks",
+      "example": "I put water in my bottle.",
+      "uz": "butilka"
+    },
+    {
+      "word": "bag",
+      "pos": "noun",
+      "ipa": "/bæɡ/",
+      "definition": "a container you use to carry things",
+      "example": "I bring my own bag to the shop.",
+      "uz": "sumka"
+    },
+    {
+      "word": "tree",
+      "pos": "noun",
+      "ipa": "/triː/",
+      "definition": "a tall plant with a trunk, branches, and leaves",
+      "example": "We planted a new tree in the garden.",
+      "uz": "daraxt"
+    },
+    {
+      "word": "forest",
+      "pos": "noun",
+      "ipa": "/ˈfɒrɪst/",
+      "definition": "a big area of land covered with trees",
+      "example": "Many animals live in the forest.",
+      "uz": "o'rmon"
+    },
+    {
+      "word": "animal",
+      "pos": "noun",
+      "ipa": "/ˈænɪml/",
+      "definition": "a living thing that can move, like a dog or a bird",
+      "example": "Pollution can hurt animals.",
+      "uz": "hayvon"
+    },
+    {
+      "word": "save",
+      "pos": "verb",
+      "ipa": "/seɪv/",
+      "definition": "to keep something safe or to not waste it",
+      "example": "We must save water every day.",
+      "uz": "tejamoq"
+    },
+    {
+      "word": "protect",
+      "pos": "verb",
+      "ipa": "/prəˈtekt/",
+      "definition": "to keep something safe from danger",
+      "example": "We protect the forest by not cutting trees.",
+      "uz": "himoya qilmoq"
+    },
+    {
+      "word": "pollution",
+      "pos": "noun",
+      "ipa": "/pəˈluːʃn/",
+      "definition": "dirty air, water, or land caused by waste and chemicals",
+      "example": "Cars cause a lot of pollution.",
+      "uz": "ifloslanish"
+    },
+    {
+      "word": "clean",
+      "pos": "adjective",
+      "ipa": "/kliːn/",
+      "definition": "not dirty",
+      "example": "We must keep our streets clean.",
+      "uz": "toza"
+    },
+    {
+      "word": "dirty",
+      "pos": "adjective",
+      "ipa": "/ˈdɜːrti/",
+      "definition": "not clean",
+      "example": "The river is dirty because of trash.",
+      "uz": "iflos"
+    },
+    {
+      "word": "reuse",
+      "pos": "verb",
+      "ipa": "/ˌriːˈjuːz/",
+      "definition": "to use something again instead of throwing it away",
+      "example": "I reuse my shopping bags.",
+      "uz": "qayta foydalanmoq"
+    },
+    {
+      "word": "waste",
+      "pos": "noun",
+      "ipa": "/weɪst/",
+      "definition": "things that are thrown away, or using too much of something",
+      "example": "Don't waste paper.",
+      "uz": "chiqindi"
+    },
+    {
+      "word": "plant",
+      "pos": "verb",
+      "ipa": "/plænt/",
+      "definition": "to put a seed or a small tree in the ground to grow",
+      "example": "We plant trees every spring.",
+      "uz": "ekmoq"
+    },
+    {
+      "word": "nature",
+      "pos": "noun",
+      "ipa": "/ˈneɪtʃər/",
+      "definition": "everything in the world that is not made by people, like trees and animals",
+      "example": "I love spending time in nature.",
+      "uz": "tabiat"
+    }
+  ],
+  "text": "Our environment needs our help. Every day, people make a lot of trash, and much of it is plastic, paper, and glass. Plastic bottles and bags can hurt animals in the forest and in the sea. At my school, we learn how to recycle. We put paper in one bin and plastic and glass in another bin. This helps keep our town clean, not dirty. At home, my family tries to save water and not waste food. We also reuse old bags when we go shopping. Last weekend, we went to the forest to plant new trees. Trees are important because they give us clean air and a home for animals. Pollution from cars and factories is bad for nature, so we try to walk or ride bikes instead of using a car. My teacher says small actions can protect the environment for the future. I want animals and forests to stay safe for my children too. If everyone helps a little, we can keep our planet clean and beautiful.",
+  "questions": [
+    {
+      "question": "What do people put in different bins at school?",
+      "options": [
+        "Food and water",
+        "Paper, plastic, and glass",
+        "Clothes and shoes",
+        "Books and pens"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can plastic bottles and bags hurt?",
+      "options": [
+        "Cars",
+        "Animals",
+        "Buildings",
+        "Computers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the family do last weekend?",
+      "options": [
+        "Cleaned the river",
+        "Planted new trees",
+        "Bought new bags",
+        "Watched a movie"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why are trees important, according to the text?",
+      "options": [
+        "They make plastic",
+        "They give clean air and a home for animals",
+        "They stop rain",
+        "They make pollution"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the family do instead of using a car?",
+      "options": [
+        "Take a train",
+        "Walk or ride bikes",
+        "Take a taxi",
+        "Stay home"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the writer want for the future?",
+      "options": [
+        "More plastic bags",
+        "Animals and forests to stay safe",
+        "More cars",
+        "Less recycling"
+      ],
+      "answer": 1
+    }
+  ]
+}

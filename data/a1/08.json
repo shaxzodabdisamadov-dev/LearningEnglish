@@ -1,0 +1,229 @@
+{
+  "id": 8,
+  "topic": "Jobs and Occupations",
+  "words": [
+    {
+      "word": "job",
+      "pos": "noun",
+      "ipa": "/dʒɑːb/",
+      "definition": "the work a person does to earn money",
+      "example": "She has a good job.",
+      "uz": "kasb"
+    },
+    {
+      "word": "work",
+      "pos": "verb",
+      "ipa": "/wɜːrk/",
+      "definition": "to do a job or task",
+      "example": "He works in a shop.",
+      "uz": "ishlamoq"
+    },
+    {
+      "word": "teacher",
+      "pos": "noun",
+      "ipa": "/ˈtiːtʃər/",
+      "definition": "a person whose job is to help students learn",
+      "example": "My teacher is very kind.",
+      "uz": "o'qituvchi"
+    },
+    {
+      "word": "doctor",
+      "pos": "noun",
+      "ipa": "/ˈdɑːktər/",
+      "definition": "a person whose job is to help sick people",
+      "example": "The doctor works in a hospital.",
+      "uz": "shifokor"
+    },
+    {
+      "word": "nurse",
+      "pos": "noun",
+      "ipa": "/nɜːrs/",
+      "definition": "a person whose job is to take care of sick people, often in a hospital",
+      "example": "The nurse helped the doctor.",
+      "uz": "hamshira"
+    },
+    {
+      "word": "police officer",
+      "pos": "noun",
+      "ipa": "/pəˈliːs ˌɔːfɪsər/",
+      "definition": "a person whose job is to keep people safe and stop crime",
+      "example": "The police officer helped us cross the street.",
+      "uz": "politsiya xodimi"
+    },
+    {
+      "word": "farmer",
+      "pos": "noun",
+      "ipa": "/ˈfɑːrmər/",
+      "definition": "a person who grows food or keeps animals on a farm",
+      "example": "The farmer grows rice.",
+      "uz": "dehqon"
+    },
+    {
+      "word": "driver",
+      "pos": "noun",
+      "ipa": "/ˈdraɪvər/",
+      "definition": "a person who drives a car, bus, or other vehicle",
+      "example": "The bus driver is friendly.",
+      "uz": "haydovchi"
+    },
+    {
+      "word": "cook",
+      "pos": "noun",
+      "ipa": "/kʊk/",
+      "definition": "a person whose job is to prepare food",
+      "example": "The cook makes tasty food.",
+      "uz": "oshpaz"
+    },
+    {
+      "word": "waiter",
+      "pos": "noun",
+      "ipa": "/ˈweɪtər/",
+      "definition": "a person who brings food to people in a restaurant",
+      "example": "The waiter brought our food.",
+      "uz": "ofitsiant"
+    },
+    {
+      "word": "shop assistant",
+      "pos": "noun",
+      "ipa": "/ʃɑːp əˈsɪstənt/",
+      "definition": "a person who works in a shop and helps customers",
+      "example": "The shop assistant helped me find a shirt.",
+      "uz": "sotuvchi"
+    },
+    {
+      "word": "engineer",
+      "pos": "noun",
+      "ipa": "/ˌendʒɪˈnɪr/",
+      "definition": "a person whose job is to design or build machines, roads, or buildings",
+      "example": "My uncle is an engineer.",
+      "uz": "muhandis"
+    },
+    {
+      "word": "pilot",
+      "pos": "noun",
+      "ipa": "/ˈpaɪlət/",
+      "definition": "a person whose job is to fly an airplane",
+      "example": "The pilot flies to many countries.",
+      "uz": "uchuvchi"
+    },
+    {
+      "word": "builder",
+      "pos": "noun",
+      "ipa": "/ˈbɪldər/",
+      "definition": "a person whose job is to build houses and other buildings",
+      "example": "The builder is making a new house.",
+      "uz": "quruvchi"
+    },
+    {
+      "word": "artist",
+      "pos": "noun",
+      "ipa": "/ˈɑːrtɪst/",
+      "definition": "a person who makes art, like paintings",
+      "example": "The artist paints beautiful pictures.",
+      "uz": "rassom"
+    },
+    {
+      "word": "singer",
+      "pos": "noun",
+      "ipa": "/ˈsɪŋər/",
+      "definition": "a person who sings songs, often as a job",
+      "example": "The singer has a beautiful voice.",
+      "uz": "qo'shiqchi"
+    },
+    {
+      "word": "office",
+      "pos": "noun",
+      "ipa": "/ˈɔːfɪs/",
+      "definition": "a room or building where people do business work",
+      "example": "My mother works in an office.",
+      "uz": "ofis"
+    },
+    {
+      "word": "busy",
+      "pos": "adjective",
+      "ipa": "/ˈbɪzi/",
+      "definition": "having a lot to do",
+      "example": "The doctor is very busy today.",
+      "uz": "band"
+    },
+    {
+      "word": "earn",
+      "pos": "verb",
+      "ipa": "/ɜːrn/",
+      "definition": "to get money for the work you do",
+      "example": "People work to earn money.",
+      "uz": "pul topmoq"
+    },
+    {
+      "word": "money",
+      "pos": "noun",
+      "ipa": "/ˈmʌni/",
+      "definition": "what people use to pay for and buy things",
+      "example": "He saves his money.",
+      "uz": "pul"
+    }
+  ],
+  "text": "In my family, everyone has a different job. My father is an engineer. He works in an office and helps build new roads. My mother is a teacher. She works at a school and helps children learn to read and write.\n\nMy uncle is a doctor, and my aunt is a nurse. They work at a hospital and help sick people. They are always busy, but they like their job.\n\nMy grandfather was a farmer. He grew rice and vegetables. Now he is old and doesn't work, but he still helps in the garden. My cousin is a shop assistant; she works in a clothes shop. Another cousin is a builder who makes new houses in our town.\n\nMy neighbor is a bus driver. Every day, he drives many people to work. Another neighbor is a police officer who keeps our street safe.\n\nI want to be a pilot when I grow up because I love airplanes. My friend wants to be a cook or a waiter because she loves food. My sister wants to be an artist or a singer.\n\nPeople work to earn money, but they also work because they enjoy their job. Every job is important for our town.",
+  "questions": [
+    {
+      "question": "What is the father's job?",
+      "options": [
+        "Teacher",
+        "Doctor",
+        "Engineer",
+        "Farmer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where does the mother work?",
+      "options": [
+        "At a hospital",
+        "At a school",
+        "At an office",
+        "At a farm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the grandfather grow on the farm?",
+      "options": [
+        "Rice and vegetables",
+        "Only rice",
+        "Fruit and milk",
+        "Cotton"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the cousin's job in the clothes shop?",
+      "options": [
+        "Cook",
+        "Shop assistant",
+        "Builder",
+        "Driver"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the writer want to be a pilot?",
+      "options": [
+        "Loves airplanes",
+        "Wants to earn money only",
+        "Wants to travel with family",
+        "Doesn't like other jobs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "According to the text, why do people work?",
+      "options": [
+        "Only for money",
+        "Only because they must",
+        "To earn money and because they enjoy their job",
+        "To become famous"
+      ],
+      "answer": 2
+    }
+  ]
+}

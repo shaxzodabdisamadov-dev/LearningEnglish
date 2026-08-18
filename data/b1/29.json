@@ -1,0 +1,229 @@
+{
+  "id": 29,
+  "topic": "Innovation and Future Technology",
+  "words": [
+    {
+      "word": "innovation",
+      "pos": "noun",
+      "ipa": "/ˌɪnəˈveɪʃən/",
+      "definition": "a new idea, method, or invention",
+      "example": "Medical innovation has saved millions of lives.",
+      "uz": "innovatsiya"
+    },
+    {
+      "word": "artificial intelligence",
+      "pos": "noun",
+      "ipa": "/ˌɑːrtɪˈfɪʃəl ɪnˈtelɪdʒəns/",
+      "definition": "computer systems able to perform tasks that normally require human intelligence",
+      "example": "Artificial intelligence is being used to diagnose diseases more quickly.",
+      "uz": "sun'iy intellekt"
+    },
+    {
+      "word": "automation",
+      "pos": "noun",
+      "ipa": "/ˌɔːtəˈmeɪʃən/",
+      "definition": "the use of machines to do work previously done by people",
+      "example": "Automation has changed the way factories operate.",
+      "uz": "avtomatlashtirish"
+    },
+    {
+      "word": "breakthrough",
+      "pos": "noun",
+      "ipa": "/ˈbreɪkθruː/",
+      "definition": "an important discovery or development",
+      "example": "Scientists announced a major breakthrough in cancer research.",
+      "uz": "muhim yutuq"
+    },
+    {
+      "word": "renewable",
+      "pos": "adjective",
+      "ipa": "/rɪˈnuːəbl/",
+      "definition": "describes energy that comes from natural sources and does not run out",
+      "example": "Countries are investing more in renewable energy such as solar power.",
+      "uz": "qayta tiklanadigan"
+    },
+    {
+      "word": "efficient",
+      "pos": "adjective",
+      "ipa": "/ɪˈfɪʃənt/",
+      "definition": "working well without wasting time or energy",
+      "example": "The new engine is far more efficient than older models.",
+      "uz": "samarali"
+    },
+    {
+      "word": "device",
+      "pos": "noun",
+      "ipa": "/dɪˈvaɪs/",
+      "definition": "a machine or tool designed for a particular purpose",
+      "example": "Smartphones are the most common electronic device today.",
+      "uz": "qurilma"
+    },
+    {
+      "word": "cutting-edge",
+      "pos": "adjective",
+      "ipa": "/ˈkʌtɪŋ edʒ/",
+      "definition": "most modern and advanced",
+      "example": "The lab uses cutting-edge equipment to develop new medicines.",
+      "uz": "eng zamonaviy"
+    },
+    {
+      "word": "algorithm",
+      "pos": "noun",
+      "ipa": "/ˈælɡərɪðəm/",
+      "definition": "a set of rules a computer follows to solve a problem",
+      "example": "The app uses an algorithm to recommend songs you might like.",
+      "uz": "algoritm"
+    },
+    {
+      "word": "virtual reality",
+      "pos": "noun",
+      "ipa": "/ˈvɜːrtʃuəl riˈæləti/",
+      "definition": "a computer-generated environment that feels real to the user",
+      "example": "Students can explore ancient cities using virtual reality.",
+      "uz": "virtual reallik"
+    },
+    {
+      "word": "upgrade",
+      "pos": "verb",
+      "ipa": "/ʌpˈɡreɪd/",
+      "definition": "to improve a machine or system by adding better parts",
+      "example": "The company upgraded its software to fix several problems.",
+      "uz": "yangilamoq"
+    },
+    {
+      "word": "predict",
+      "pos": "verb",
+      "ipa": "/prɪˈdɪkt/",
+      "definition": "to say what will happen in the future",
+      "example": "Experts predict that self-driving cars will become common within a decade.",
+      "uz": "bashorat qilmoq"
+    },
+    {
+      "word": "transform",
+      "pos": "verb",
+      "ipa": "/trænsˈfɔːrm/",
+      "definition": "to change something completely",
+      "example": "The internet has transformed the way we communicate.",
+      "uz": "tubdan o'zgartirmoq"
+    },
+    {
+      "word": "reliance",
+      "pos": "noun",
+      "ipa": "/rɪˈlaɪəns/",
+      "definition": "dependence on or trust in someone or something",
+      "example": "Our reliance on technology has increased dramatically in recent years.",
+      "uz": "bog'liqlik"
+    },
+    {
+      "word": "drawback",
+      "pos": "noun",
+      "ipa": "/ˈdrɔːbæk/",
+      "definition": "a disadvantage or negative aspect of something",
+      "example": "One drawback of new technology is that it can replace human jobs.",
+      "uz": "kamchilik"
+    },
+    {
+      "word": "potential",
+      "pos": "noun",
+      "ipa": "/pəˈtenʃəl/",
+      "definition": "the ability to develop or succeed in the future",
+      "example": "The new technology has huge potential to reduce pollution.",
+      "uz": "salohiyat"
+    },
+    {
+      "word": "implement",
+      "pos": "verb",
+      "ipa": "/ˈɪmplɪment/",
+      "definition": "to put a plan or system into action",
+      "example": "The city plans to implement smart traffic systems next year.",
+      "uz": "amalga oshirmoq"
+    },
+    {
+      "word": "accessible",
+      "pos": "adjective",
+      "ipa": "/əkˈsesəbl/",
+      "definition": "able to be easily obtained or used",
+      "example": "New technology should be made accessible to everyone, not only the rich.",
+      "uz": "foydalanish oson"
+    },
+    {
+      "word": "invent",
+      "pos": "verb",
+      "ipa": "/ɪnˈvent/",
+      "definition": "to design or create something that did not exist before",
+      "example": "Engineers are constantly inventing new ways to save energy.",
+      "uz": "ixtiro qilmoq"
+    },
+    {
+      "word": "obsolete",
+      "pos": "adjective",
+      "ipa": "/ˌɒbsəˈliːt/",
+      "definition": "no longer used because something newer has been developed",
+      "example": "Many older devices quickly become obsolete.",
+      "uz": "eskirgan"
+    }
+  ],
+  "text": "Technology is developing faster than ever before, and this rapid pace of innovation is transforming almost every part of our lives. Artificial intelligence, for example, can now perform tasks that once required years of human training, from diagnosing illnesses to writing computer code. Many experts predict that automation will eventually replace a large number of jobs, especially repetitive ones, although new jobs are also likely to be created. Every year, cutting-edge devices reach the market, and older models can quickly become obsolete. Some innovations, such as virtual reality, allow people to experience places and events without leaving their homes. Others focus on renewable energy, aiming to make our lives more efficient while protecting the environment. Behind many of these advances lies a complex algorithm that helps machines learn and improve over time. However, this progress is not without its drawbacks. As our reliance on technology grows, some people worry about privacy and about losing jobs to machines. Governments and companies must therefore implement new laws carefully to make sure that technology remains accessible and safe for everyone. If managed well, the potential of future technology to improve our lives is enormous, but if managed poorly, it could increase inequality instead.",
+  "questions": [
+    {
+      "question": "According to the passage, what can artificial intelligence now do?",
+      "options": [
+        "Only perform simple calculations",
+        "Perform tasks that once required years of human training",
+        "Replace all future innovation",
+        "Operate without any algorithms"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do many experts predict about automation?",
+      "options": [
+        "It will have no effect on jobs",
+        "It will eventually replace many repetitive jobs, though new jobs may also appear",
+        "It will only affect small businesses",
+        "It will stop technological progress"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens to older devices as cutting-edge technology develops?",
+      "options": [
+        "They become more valuable",
+        "They can quickly become obsolete",
+        "They are banned from sale",
+        "They are upgraded automatically for free"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is one benefit of virtual reality mentioned in the passage?",
+      "options": [
+        "It allows people to experience places without leaving home",
+        "It eliminates the need for renewable energy",
+        "It replaces all forms of travel permanently",
+        "It reduces reliance on algorithms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What concern do some people have as reliance on technology grows?",
+      "options": [
+        "That devices will become too affordable",
+        "Privacy issues and job losses to machines",
+        "That renewable energy will disappear",
+        "That algorithms will become too simple"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what could happen if technology is managed poorly?",
+      "options": [
+        "It could increase inequality",
+        "It could make all jobs permanent",
+        "It could eliminate the need for laws",
+        "It could make devices obsolete instantly"
+      ],
+      "answer": 0
+    }
+  ]
+}

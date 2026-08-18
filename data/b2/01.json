@@ -1,0 +1,229 @@
+{
+  "id": 1,
+  "topic": "Personal Identity and Self-Reflection",
+  "words": [
+    {
+      "word": "introspection",
+      "pos": "noun",
+      "ipa": "/ˌɪntrəˈspekʃən/",
+      "definition": "the examination of one's own thoughts and feelings",
+      "example": "Years of introspection helped her understand why she reacted so defensively to criticism.",
+      "uz": "o'z ichki dunyosini kuzatish"
+    },
+    {
+      "word": "self-awareness",
+      "pos": "noun",
+      "ipa": "/ˌself əˈweənəs/",
+      "definition": "a clear understanding of one's own personality, values, and motivations",
+      "example": "Self-awareness allows people to recognize their strengths and weaknesses more accurately.",
+      "uz": "o'zini anglash"
+    },
+    {
+      "word": "authenticity",
+      "pos": "noun",
+      "ipa": "/ˌɔːθenˈtɪsəti/",
+      "definition": "the quality of being genuine and true to one's own character",
+      "example": "The interviewer praised the candidate's authenticity rather than her rehearsed answers.",
+      "uz": "haqiqiylik (o'ziga xoslik)"
+    },
+    {
+      "word": "resilience",
+      "pos": "noun",
+      "ipa": "/rɪˈzɪliəns/",
+      "definition": "the capacity to recover quickly from difficulties",
+      "example": "His resilience in the face of repeated setbacks impressed his colleagues.",
+      "uz": "chidamlilik, bardoshlilik"
+    },
+    {
+      "word": "reconcile",
+      "pos": "verb",
+      "ipa": "/ˈrekənsaɪl/",
+      "definition": "to make two seemingly conflicting things compatible with each other",
+      "example": "It took her years to reconcile her ambition with her desire for a quiet life.",
+      "uz": "murosaga keltirmoq"
+    },
+    {
+      "word": "perceive",
+      "pos": "verb",
+      "ipa": "/pəˈsiːv/",
+      "definition": "to become aware of or interpret something in a particular way",
+      "example": "People often perceive confidence as competence, even when the two are unrelated.",
+      "uz": "idrok etmoq, his qilmoq"
+    },
+    {
+      "word": "embrace",
+      "pos": "verb",
+      "ipa": "/ɪmˈbreɪs/",
+      "definition": "to accept something willingly and enthusiastically",
+      "example": "Rather than resisting change, she chose to embrace it as an opportunity for growth.",
+      "uz": "mamnuniyat bilan qabul qilmoq"
+    },
+    {
+      "word": "cope with",
+      "pos": "phrasal verb",
+      "ipa": "/kəʊp wɪð/",
+      "definition": "to deal successfully with a difficult situation",
+      "example": "Journaling is one way many people cope with stress and uncertainty.",
+      "uz": "uddasidan chiqmoq"
+    },
+    {
+      "word": "come to terms with",
+      "pos": "idiom",
+      "ipa": "/kʌm tuː tɜːmz wɪð/",
+      "definition": "to accept a difficult situation after a period of struggle",
+      "example": "He eventually came to terms with the fact that his career would take a different path.",
+      "uz": "vaziyat bilan murosaga kelmoq"
+    },
+    {
+      "word": "vulnerable",
+      "pos": "adjective",
+      "ipa": "/ˈvʌlnərəbəl/",
+      "definition": "open to emotional harm or exposed to risk",
+      "example": "Admitting a mistake in public can make anyone feel vulnerable.",
+      "uz": "himoyasiz, oson jarohatlanadigan"
+    },
+    {
+      "word": "fulfilling",
+      "pos": "adjective",
+      "ipa": "/fʊlˈfɪlɪŋ/",
+      "definition": "giving satisfaction or a sense of achievement",
+      "example": "She left banking for teaching because it felt far more fulfilling.",
+      "uz": "qoniqish beradigan, ma'noli"
+    },
+    {
+      "word": "ambivalent",
+      "pos": "adjective",
+      "ipa": "/æmˈbɪvələnt/",
+      "definition": "having mixed or contradictory feelings about something",
+      "example": "He felt ambivalent about the promotion, excited yet reluctant to leave his team.",
+      "uz": "ikkilanuvchan, qarama-qarshi hissiyotli"
+    },
+    {
+      "word": "innate",
+      "pos": "adjective",
+      "ipa": "/ɪˈneɪt/",
+      "definition": "existing from birth rather than acquired",
+      "example": "Some psychologists argue that curiosity is an innate human trait.",
+      "uz": "tug'ma"
+    },
+    {
+      "word": "profound",
+      "pos": "adjective",
+      "ipa": "/prəˈfaʊnd/",
+      "definition": "having deep meaning or far-reaching effect",
+      "example": "The trip abroad had a profound effect on how he viewed his own culture.",
+      "uz": "chuqur (ma'noli)"
+    },
+    {
+      "word": "self-esteem",
+      "pos": "noun",
+      "ipa": "/self ɪˈstiːm/",
+      "definition": "confidence in one's own worth or abilities",
+      "example": "Constant criticism during childhood can undermine a person's self-esteem.",
+      "uz": "o'z qadr-qimmatini his qilish"
+    },
+    {
+      "word": "identity crisis",
+      "pos": "noun phrase",
+      "ipa": "/aɪˈdentəti ˈkraɪsɪs/",
+      "definition": "a period of uncertainty about one's sense of self",
+      "example": "Moving to a new country triggered something of an identity crisis for him.",
+      "uz": "o'zlikni anglash inqirozi"
+    },
+    {
+      "word": "shape",
+      "pos": "verb",
+      "ipa": "/ʃeɪp/",
+      "definition": "to influence the development or character of something",
+      "example": "Our earliest relationships often shape the way we form bonds later in life.",
+      "uz": "shakllantirmoq"
+    },
+    {
+      "word": "outlook",
+      "pos": "noun",
+      "ipa": "/ˈaʊtlʊk/",
+      "definition": "a person's general attitude toward life or a situation",
+      "example": "Her optimistic outlook helped her stay motivated during difficult years.",
+      "uz": "dunyoqarash"
+    },
+    {
+      "word": "genuine",
+      "pos": "adjective",
+      "ipa": "/ˈdʒenjuɪn/",
+      "definition": "sincere and honest; not pretended",
+      "example": "Genuine curiosity about others is one of the most attractive qualities in a person.",
+      "uz": "samimiy, chin"
+    },
+    {
+      "word": "grapple with",
+      "pos": "phrasal verb",
+      "ipa": "/ˈɡræpəl wɪð/",
+      "definition": "to try hard to deal with or understand a difficult problem",
+      "example": "Many teenagers grapple with questions of identity and belonging.",
+      "uz": "murakkab muammo bilan kurashmoq"
+    }
+  ],
+  "text": "Rarely does a single event trigger genuine self-awareness; more often, it is cultivated slowly, through years of quiet introspection. Not until we are forced to grapple with failure or loss do most of us begin to reconcile who we think we are with who we have actually become. It is precisely this tension—between the self we perceive and the self others see—that can provoke what psychologists call an identity crisis. Were we to embrace such moments rather than resist them, we might discover that vulnerability is not a weakness but a profound source of resilience. Indeed, coming to terms with our limitations, rather than denying them, tends to shape a far more fulfilling outlook on life. Whether curiosity and adaptability are innate or learned remains debated; nevertheless, both can be strengthened through deliberate practice. Many people feel ambivalent about self-examination, fearing what they might find, yet those who learn to cope with discomfort typically emerge with sturdier self-esteem. Authenticity, after all, is not the absence of doubt but the willingness to face it honestly.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Self-awareness develops quickly after a single life-changing event.",
+        "Self-awareness typically develops gradually and often through confronting difficult experiences.",
+        "Self-awareness is impossible to achieve without professional therapy.",
+        "Self-awareness is less important than career success."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what does the author suggest about vulnerability?",
+      "options": [
+        "It should be avoided at all costs.",
+        "It is unrelated to personal growth.",
+        "It can actually be a source of resilience.",
+        "It only affects teenagers."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the author's tone in the passage?",
+      "options": [
+        "Dismissive and sarcastic",
+        "Reflective and analytical",
+        "Angry and accusatory",
+        "Purely humorous"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what remains a subject of debate?",
+      "options": [
+        "Whether resilience can be taught",
+        "Whether curiosity and adaptability are innate or learned",
+        "Whether self-esteem matters",
+        "Whether identity crises are real"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about people who feel ambivalent about self-examination?",
+      "options": [
+        "They have no interest in personal growth.",
+        "They avoid self-examination entirely out of fear of what they might discover.",
+        "They already possess complete self-awareness.",
+        "They are more resilient than others."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what does authenticity require?",
+      "options": [
+        "The complete absence of doubt.",
+        "Ignoring one's flaws.",
+        "Willingness to face doubt honestly.",
+        "External validation from others."
+      ],
+      "answer": 2
+    }
+  ]
+}

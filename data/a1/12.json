@@ -1,0 +1,229 @@
+{
+  "id": 12,
+  "topic": "Sports",
+  "words": [
+    {
+      "word": "sport",
+      "pos": "noun",
+      "ipa": "/spɔːrt/",
+      "definition": "a game or activity that uses physical effort and skill",
+      "example": "Football is a popular sport.",
+      "uz": "sport"
+    },
+    {
+      "word": "football",
+      "pos": "noun",
+      "ipa": "/ˈfʊtbɔːl/",
+      "definition": "a game played by two teams who try to kick a ball into a goal",
+      "example": "Boys play football after school.",
+      "uz": "futbol"
+    },
+    {
+      "word": "basketball",
+      "pos": "noun",
+      "ipa": "/ˈbæskɪtbɔːl/",
+      "definition": "a game where players try to throw a ball into a high net",
+      "example": "We play basketball at school.",
+      "uz": "basketbol"
+    },
+    {
+      "word": "tennis",
+      "pos": "noun",
+      "ipa": "/ˈtenɪs/",
+      "definition": "a game where players hit a ball over a net with a racket",
+      "example": "She plays tennis every Sunday.",
+      "uz": "tennis"
+    },
+    {
+      "word": "swim",
+      "pos": "verb",
+      "ipa": "/swɪm/",
+      "definition": "to move your body through water",
+      "example": "The children swim in the pool.",
+      "uz": "suzmoq"
+    },
+    {
+      "word": "run",
+      "pos": "verb",
+      "ipa": "/rʌn/",
+      "definition": "to move very fast using your legs",
+      "example": "He runs in the park every morning.",
+      "uz": "yugurmoq"
+    },
+    {
+      "word": "jump",
+      "pos": "verb",
+      "ipa": "/dʒʌmp/",
+      "definition": "to push your body up into the air",
+      "example": "The girl can jump very high.",
+      "uz": "sakramoq"
+    },
+    {
+      "word": "ball",
+      "pos": "noun",
+      "ipa": "/bɔːl/",
+      "definition": "a round object used in many sports",
+      "example": "Throw the ball to me.",
+      "uz": "to'p"
+    },
+    {
+      "word": "team",
+      "pos": "noun",
+      "ipa": "/tiːm/",
+      "definition": "a group of people who play a sport together",
+      "example": "Our team won the game.",
+      "uz": "jamoa"
+    },
+    {
+      "word": "player",
+      "pos": "noun",
+      "ipa": "/ˈpleɪər/",
+      "definition": "a person who plays a sport or game",
+      "example": "He is a good football player.",
+      "uz": "o'yinchi"
+    },
+    {
+      "word": "win",
+      "pos": "verb",
+      "ipa": "/wɪn/",
+      "definition": "to be the best or first in a game or race",
+      "example": "I hope our team wins.",
+      "uz": "g'alaba qozonmoq"
+    },
+    {
+      "word": "lose",
+      "pos": "verb",
+      "ipa": "/luːz/",
+      "definition": "to not win a game",
+      "example": "Nobody likes to lose.",
+      "uz": "yutqazmoq"
+    },
+    {
+      "word": "race",
+      "pos": "noun",
+      "ipa": "/reɪs/",
+      "definition": "a competition to see who is the fastest",
+      "example": "She won the running race.",
+      "uz": "poyga"
+    },
+    {
+      "word": "gym",
+      "pos": "noun",
+      "ipa": "/dʒɪm/",
+      "definition": "a place with equipment for doing exercise",
+      "example": "He goes to the gym every day.",
+      "uz": "sport zali"
+    },
+    {
+      "word": "exercise",
+      "pos": "noun",
+      "ipa": "/ˈeksərsaɪz/",
+      "definition": "physical activity that keeps your body healthy",
+      "example": "Exercise is good for your health.",
+      "uz": "jismoniy mashq"
+    },
+    {
+      "word": "coach",
+      "pos": "noun",
+      "ipa": "/koʊtʃ/",
+      "definition": "a person who trains a sports team or player",
+      "example": "Our coach is very strict.",
+      "uz": "murabbiy"
+    },
+    {
+      "word": "match",
+      "pos": "noun",
+      "ipa": "/mætʃ/",
+      "definition": "a sports game between two teams or players",
+      "example": "We watched the football match.",
+      "uz": "musobaqa"
+    },
+    {
+      "word": "score",
+      "pos": "noun",
+      "ipa": "/skɔːr/",
+      "definition": "the number of points a player or team gets in a game",
+      "example": "What is the score of the game?",
+      "uz": "hisob"
+    },
+    {
+      "word": "strong",
+      "pos": "adjective",
+      "ipa": "/strɔːŋ/",
+      "definition": "having a lot of physical power",
+      "example": "He is very strong.",
+      "uz": "kuchli"
+    },
+    {
+      "word": "fast",
+      "pos": "adjective",
+      "ipa": "/fæst/",
+      "definition": "moving with great speed",
+      "example": "She is a fast runner.",
+      "uz": "tez"
+    }
+  ],
+  "text": "My favorite sport is football. Every Saturday, I play football with my team at the park. Our coach helps us practice before every match. Last week, we had an important match against another school. Many people came to watch. The score was two to one, and our team won! I was very happy because I love to win, but sometimes we also lose, and that is okay too. My sister likes different sports. She plays tennis and basketball. She can run very fast and jump high. My brother likes to swim; he goes to the pool with a ball for water games. My father goes to the gym every morning to do exercise and stay strong. He says exercise is important for a healthy body. In our town, there is also a big running race every year. Many players from other teams come to join. Sport teaches us to work together and try our best, even when we lose.",
+  "questions": [
+    {
+      "question": "What is the writer's favorite sport?",
+      "options": [
+        "Basketball",
+        "Tennis",
+        "Football",
+        "Swimming"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was the score of the important match?",
+      "options": [
+        "One to one",
+        "Two to one",
+        "Three to zero",
+        "Two to two"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What sports does the sister play?",
+      "options": [
+        "Football and swimming",
+        "Tennis and basketball",
+        "Running and swimming",
+        "Chess and tennis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the brother do at the pool?",
+      "options": [
+        "Runs",
+        "Plays football",
+        "Swims",
+        "Coaches a team"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why does the father go to the gym every morning?",
+      "options": [
+        "To watch matches",
+        "To meet the coach",
+        "To do exercise and stay strong",
+        "To play basketball"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What happens every year in the writer's town?",
+      "options": [
+        "A football match",
+        "A running race",
+        "A swimming lesson",
+        "A tennis game"
+      ],
+      "answer": 1
+    }
+  ]
+}

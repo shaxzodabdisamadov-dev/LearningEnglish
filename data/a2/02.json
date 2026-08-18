@@ -1,0 +1,229 @@
+{
+  "id": 2,
+  "topic": "Family Relationships",
+  "words": [
+    {
+      "word": "parent",
+      "pos": "noun",
+      "ipa": "/ˈpeərənt/",
+      "definition": "a mother or a father.",
+      "example": "Her parents are very kind.",
+      "uz": "ota-ona"
+    },
+    {
+      "word": "mother",
+      "pos": "noun",
+      "ipa": "/ˈmʌðər/",
+      "definition": "a female parent.",
+      "example": "My mother cooks dinner every evening.",
+      "uz": "ona"
+    },
+    {
+      "word": "father",
+      "pos": "noun",
+      "ipa": "/ˈfɑːðər/",
+      "definition": "a male parent.",
+      "example": "His father works as a teacher.",
+      "uz": "ota"
+    },
+    {
+      "word": "brother",
+      "pos": "noun",
+      "ipa": "/ˈbrʌðər/",
+      "definition": "a boy or man who has the same parents as you.",
+      "example": "I have one older brother.",
+      "uz": "aka-uka"
+    },
+    {
+      "word": "sister",
+      "pos": "noun",
+      "ipa": "/ˈsɪstər/",
+      "definition": "a girl or woman who has the same parents as you.",
+      "example": "My sister lives in Madrid.",
+      "uz": "opa-singil"
+    },
+    {
+      "word": "husband",
+      "pos": "noun",
+      "ipa": "/ˈhʌzbənd/",
+      "definition": "the man a woman is married to.",
+      "example": "Her husband is a doctor.",
+      "uz": "er"
+    },
+    {
+      "word": "wife",
+      "pos": "noun",
+      "ipa": "/waɪf/",
+      "definition": "the woman a man is married to.",
+      "example": "His wife works in a bank.",
+      "uz": "xotin"
+    },
+    {
+      "word": "son",
+      "pos": "noun",
+      "ipa": "/sʌn/",
+      "definition": "a person's male child.",
+      "example": "Their son is five years old.",
+      "uz": "o'g'il"
+    },
+    {
+      "word": "daughter",
+      "pos": "noun",
+      "ipa": "/ˈdɔːtər/",
+      "definition": "a person's female child.",
+      "example": "Their daughter goes to school.",
+      "uz": "qiz"
+    },
+    {
+      "word": "grandmother",
+      "pos": "noun",
+      "ipa": "/ˈɡrænˌmʌðər/",
+      "definition": "the mother of your mother or father.",
+      "example": "My grandmother tells wonderful stories.",
+      "uz": "buvi"
+    },
+    {
+      "word": "grandfather",
+      "pos": "noun",
+      "ipa": "/ˈɡrænˌfɑːðər/",
+      "definition": "the father of your mother or father.",
+      "example": "My grandfather fixes old clocks.",
+      "uz": "bobo"
+    },
+    {
+      "word": "uncle",
+      "pos": "noun",
+      "ipa": "/ˈʌŋkl/",
+      "definition": "the brother of your mother or father, or your aunt's husband.",
+      "example": "My uncle lives in Canada.",
+      "uz": "amaki yoki tog'a"
+    },
+    {
+      "word": "aunt",
+      "pos": "noun",
+      "ipa": "/ænt/",
+      "definition": "the sister of your mother or father, or your uncle's wife.",
+      "example": "My aunt visits us every year.",
+      "uz": "amma yoki xola"
+    },
+    {
+      "word": "cousin",
+      "pos": "noun",
+      "ipa": "/ˈkʌzn/",
+      "definition": "the child of your uncle or aunt.",
+      "example": "My cousin and I grew up together.",
+      "uz": "amakivachcha"
+    },
+    {
+      "word": "relative",
+      "pos": "noun",
+      "ipa": "/ˈrelətɪv/",
+      "definition": "a member of your family.",
+      "example": "We invited all our relatives to the wedding.",
+      "uz": "qarindosh"
+    },
+    {
+      "word": "twin",
+      "pos": "noun",
+      "ipa": "/twɪn/",
+      "definition": "one of two children born to the same mother at the same time.",
+      "example": "The twins wear the same clothes.",
+      "uz": "egizak"
+    },
+    {
+      "word": "only child",
+      "pos": "phrase",
+      "ipa": "/ˈoʊnli tʃaɪld/",
+      "definition": "a child who has no brothers or sisters.",
+      "example": "As an only child, she got a lot of attention.",
+      "uz": "yagona farzand"
+    },
+    {
+      "word": "raise",
+      "pos": "verb",
+      "ipa": "/reɪz/",
+      "definition": "to take care of a child until he or she is an adult.",
+      "example": "They raised three children together.",
+      "uz": "tarbiyalamoq"
+    },
+    {
+      "word": "close",
+      "pos": "adjective",
+      "ipa": "/kloʊs/",
+      "definition": "having a strong and loving relationship with someone.",
+      "example": "The two sisters are very close.",
+      "uz": "yaqin (munosabat)"
+    },
+    {
+      "word": "get along",
+      "pos": "phrase",
+      "ipa": "/ɡet əˈlɒŋ/",
+      "definition": "to have a friendly relationship with someone.",
+      "example": "My brothers get along well.",
+      "uz": "til topishmoq"
+    }
+  ],
+  "text": "Every summer, Anna's whole family meets at her grandmother's house. Her grandmother and grandfather live in a small village, and all their relatives come to visit. Anna's parents, her mother and father, always bring a cake. Anna has one brother and one sister, so she is not an only child. Her older brother is married and brought his wife and their son and daughter. Her sister has a husband, and they have twin girls who look exactly the same! Anna's uncle and aunt also come, with her cousin, who is her best friend. Anna's grandmother raised eight children, so now the family is very big. Everyone in the family is close, and they get along very well, even when they don't see each other often. Anna loves her whole family. She thinks it is wonderful that so many relatives can still enjoy spending time together after all these years. This year, more than thirty people came to the summer party, and they stayed until midnight, talking, laughing, and eating good food.",
+  "questions": [
+    {
+      "question": "Where does Anna's family meet every summer?",
+      "options": [
+        "At a hotel",
+        "At her grandmother's house",
+        "At her cousin's flat",
+        "At a restaurant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Does Anna have any brothers or sisters?",
+      "options": [
+        "No, she is an only child",
+        "Yes, one brother and one sister",
+        "Yes, two brothers",
+        "Yes, three sisters"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is special about Anna's sister's daughters?",
+      "options": [
+        "They are twins",
+        "They live abroad",
+        "They are only children",
+        "They are married"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is Anna's best friend in the family?",
+      "options": [
+        "Her aunt",
+        "Her sister",
+        "Her cousin",
+        "Her grandmother"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many children did Anna's grandmother raise?",
+      "options": [
+        "Three",
+        "Five",
+        "Eight",
+        "Ten"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many people came to the party this year?",
+      "options": [
+        "About ten",
+        "About twenty",
+        "More than thirty",
+        "More than one hundred"
+      ],
+      "answer": 2
+    }
+  ]
+}

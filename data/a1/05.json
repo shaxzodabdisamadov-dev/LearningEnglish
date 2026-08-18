@@ -1,0 +1,229 @@
+{
+  "id": 5,
+  "topic": "Colors and Clothes",
+  "words": [
+    {
+      "word": "color",
+      "pos": "noun",
+      "ipa": "/ˈkʌlər/",
+      "definition": "the quality that makes things look different, like red or blue",
+      "example": "What color is your bag?",
+      "uz": "rang"
+    },
+    {
+      "word": "red",
+      "pos": "adjective",
+      "ipa": "/red/",
+      "definition": "having the color of blood",
+      "example": "She has a red dress.",
+      "uz": "qizil"
+    },
+    {
+      "word": "blue",
+      "pos": "adjective",
+      "ipa": "/bluː/",
+      "definition": "having the color of a clear sky",
+      "example": "He wears a blue shirt.",
+      "uz": "ko'k"
+    },
+    {
+      "word": "green",
+      "pos": "adjective",
+      "ipa": "/ɡriːn/",
+      "definition": "having the color of grass",
+      "example": "The leaves are green.",
+      "uz": "yashil"
+    },
+    {
+      "word": "yellow",
+      "pos": "adjective",
+      "ipa": "/ˈjeloʊ/",
+      "definition": "having the color of the sun or a banana",
+      "example": "The taxi is yellow.",
+      "uz": "sariq"
+    },
+    {
+      "word": "black",
+      "pos": "adjective",
+      "ipa": "/blæk/",
+      "definition": "having the darkest color, like the night sky",
+      "example": "I have black shoes.",
+      "uz": "qora"
+    },
+    {
+      "word": "white",
+      "pos": "adjective",
+      "ipa": "/waɪt/",
+      "definition": "having the color of snow or milk",
+      "example": "She wears a white shirt.",
+      "uz": "oq"
+    },
+    {
+      "word": "clothes",
+      "pos": "noun",
+      "ipa": "/kloʊðz/",
+      "definition": "things people wear on their body, like shirts and trousers",
+      "example": "I need to buy new clothes.",
+      "uz": "kiyim"
+    },
+    {
+      "word": "shirt",
+      "pos": "noun",
+      "ipa": "/ʃɜːrt/",
+      "definition": "a piece of clothing for the top of the body",
+      "example": "He is wearing a blue shirt.",
+      "uz": "ko'ylak"
+    },
+    {
+      "word": "trousers",
+      "pos": "noun",
+      "ipa": "/ˈtraʊzərz/",
+      "definition": "a piece of clothing that covers each leg separately, also called pants",
+      "example": "My trousers are black.",
+      "uz": "shim"
+    },
+    {
+      "word": "dress",
+      "pos": "noun",
+      "ipa": "/dres/",
+      "definition": "a piece of clothing for women or girls, worn as one piece",
+      "example": "She wears a red dress.",
+      "uz": "ko'ylak"
+    },
+    {
+      "word": "shoes",
+      "pos": "noun",
+      "ipa": "/ʃuːz/",
+      "definition": "things you wear to cover your feet",
+      "example": "My shoes are white.",
+      "uz": "poyabzal"
+    },
+    {
+      "word": "hat",
+      "pos": "noun",
+      "ipa": "/hæt/",
+      "definition": "a thing you wear on your head",
+      "example": "He wears a hat in summer.",
+      "uz": "shlyapa"
+    },
+    {
+      "word": "jacket",
+      "pos": "noun",
+      "ipa": "/ˈdʒækɪt/",
+      "definition": "a short coat that you wear outside",
+      "example": "I wear a jacket when it's cold.",
+      "uz": "kurtka"
+    },
+    {
+      "word": "socks",
+      "pos": "noun",
+      "ipa": "/sɑːks/",
+      "definition": "things you wear on your feet, under your shoes",
+      "example": "My socks are yellow.",
+      "uz": "paypoq"
+    },
+    {
+      "word": "skirt",
+      "pos": "noun",
+      "ipa": "/skɜːrt/",
+      "definition": "a piece of clothing for women that hangs from the waist",
+      "example": "She is wearing a green skirt.",
+      "uz": "yubka"
+    },
+    {
+      "word": "wear",
+      "pos": "verb",
+      "ipa": "/weər/",
+      "definition": "to have clothes on your body",
+      "example": "I wear a coat in winter.",
+      "uz": "kiymoq"
+    },
+    {
+      "word": "buy",
+      "pos": "verb",
+      "ipa": "/baɪ/",
+      "definition": "to get something by paying money for it",
+      "example": "We buy new clothes every year.",
+      "uz": "sotib olmoq"
+    },
+    {
+      "word": "old",
+      "pos": "adjective",
+      "ipa": "/oʊld/",
+      "definition": "not new; used for a long time",
+      "example": "These shoes are old.",
+      "uz": "eski"
+    },
+    {
+      "word": "new",
+      "pos": "adjective",
+      "ipa": "/nuː/",
+      "definition": "made or bought very recently",
+      "example": "I like my new shirt.",
+      "uz": "yangi"
+    }
+  ],
+  "text": "Today, my mother and I go to the shop to buy new clothes. I need a shirt, trousers, and shoes for school. My old shoes are too small now.\n\nAt the shop, I see many colors. I like blue and green, but my mother likes red and yellow. I choose a blue shirt and black trousers. My mother buys a white dress for herself. We also look at hats and jackets because winter is coming soon.\n\nI want new shoes too. I try on black shoes and white shoes. I choose the black ones because they look nice with my clothes. My mother buys me new socks as well.\n\nAt home, I wear my new clothes. My little sister wears her green skirt and a yellow hat. She looks very happy. My old clothes are too small, so we give them to a friend.\n\nI like my new clothes very much. Next time, I want to buy a warm jacket in a different color, maybe black or blue.",
+  "questions": [
+    {
+      "question": "Why do the writer and mother go to the shop?",
+      "options": [
+        "To buy food",
+        "To buy new clothes",
+        "To meet a friend",
+        "To buy a hat only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What color shirt does the writer choose?",
+      "options": [
+        "Red",
+        "Green",
+        "Blue",
+        "Yellow"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the mother buy for herself?",
+      "options": [
+        "A red skirt",
+        "A white dress",
+        "A yellow hat",
+        "Black shoes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What color shoes does the writer choose?",
+      "options": [
+        "White",
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the writer's sister wear?",
+      "options": [
+        "A blue dress and black hat",
+        "A green skirt and yellow hat",
+        "A red shirt and white shoes",
+        "A yellow dress and black socks"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens to the writer's old clothes?",
+      "options": [
+        "They are thrown away",
+        "They are given to a friend",
+        "They are sold at the shop",
+        "They are kept in a box"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 28,
+  "topic": "Climate Adaptation and Global Governance",
+  "words": [
+    {
+      "word": "mitigation",
+      "pos": "noun",
+      "ipa": "/ˌmɪtɪˈgeɪʃən/",
+      "definition": "Action taken to reduce the severity or impact of a problem, especially greenhouse gas emissions.",
+      "example": "The summit focused on emissions mitigation strategies.",
+      "uz": "yumshatish chorasi (zararni kamaytirish)"
+    },
+    {
+      "word": "resilience",
+      "pos": "noun",
+      "ipa": "/rɪˈzɪliəns/",
+      "definition": "The capacity to recover quickly from difficulties or adapt to adverse conditions.",
+      "example": "Coastal cities are investing in resilience against rising seas.",
+      "uz": "chidamlilik, bardoshlilik"
+    },
+    {
+      "word": "externality",
+      "pos": "noun",
+      "ipa": "/ˌɛkstərˈnæləti/",
+      "definition": "A cost or benefit affecting a third party not directly involved in a transaction.",
+      "example": "Pollution is a classic negative externality of industrial production.",
+      "uz": "eksternaliya (tashqi ta'sir)"
+    },
+    {
+      "word": "multilateral",
+      "pos": "adjective",
+      "ipa": "/ˌmʌltiˈlætərəl/",
+      "definition": "Involving three or more parties, especially nations, in an agreement.",
+      "example": "The treaty required multilateral cooperation among dozens of nations.",
+      "uz": "ko'p tomonlama"
+    },
+    {
+      "word": "transboundary",
+      "pos": "adjective",
+      "ipa": "/trænsˈbaʊndəri/",
+      "definition": "Extending or occurring across national or regional borders.",
+      "example": "River pollution is a transboundary issue affecting several countries.",
+      "uz": "chegaralararo"
+    },
+    {
+      "word": "anthropogenic",
+      "pos": "adjective",
+      "ipa": "/ˌænθrəpəˈdʒɛnɪk/",
+      "definition": "Originating from human activity.",
+      "example": "Scientists attribute the warming largely to anthropogenic causes.",
+      "uz": "antropogen"
+    },
+    {
+      "word": "sequestration",
+      "pos": "noun",
+      "ipa": "/ˌsiːkwɛˈstreɪʃən/",
+      "definition": "The process of capturing and storing a substance, especially carbon.",
+      "example": "Forests play a key role in carbon sequestration.",
+      "uz": "sekvestratsiya (uglerodni ushlab qolish)"
+    },
+    {
+      "word": "attrition",
+      "pos": "noun",
+      "ipa": "/əˈtrɪʃən/",
+      "definition": "A gradual reduction in strength or number, especially through sustained pressure.",
+      "example": "The negotiations suffered from years of diplomatic attrition.",
+      "uz": "asta-sekin kamayish, yemirilish"
+    },
+    {
+      "word": "brinkmanship",
+      "pos": "noun",
+      "ipa": "/ˈbrɪŋkmənʃɪp/",
+      "definition": "The practice of pushing a dangerous confrontation to the point of maximum advantage.",
+      "example": "The talks nearly collapsed amid last-minute brinkmanship.",
+      "uz": "keskinlikni cho'qqisiga olib borish siyosati"
+    },
+    {
+      "word": "exigency",
+      "pos": "noun",
+      "ipa": "/ˈɛksɪdʒənsi/",
+      "definition": "An urgent need or demand requiring immediate action.",
+      "example": "The exigency of the flood demanded immediate government action.",
+      "uz": "shoshilinch zaruriyat"
+    },
+    {
+      "word": "equity",
+      "pos": "noun",
+      "ipa": "/ˈɛkwɪti/",
+      "definition": "Fairness, especially in the distribution of burdens or benefits among parties.",
+      "example": "Delegates debated equity between wealthy and developing nations.",
+      "uz": "adolat (teng taqsimot)"
+    },
+    {
+      "word": "free-rider",
+      "pos": "noun phrase",
+      "ipa": "/friː ˈraɪdər/",
+      "definition": "A party that benefits from a collective good without contributing a fair share to its provision.",
+      "example": "Small nations worried larger polluters were acting as free-riders.",
+      "uz": "hissa qo'shmay foyda ko'ruvchi"
+    },
+    {
+      "word": "incremental",
+      "pos": "adjective",
+      "ipa": "/ˌɪnkrɪˈmɛntəl/",
+      "definition": "Occurring gradually in small successive stages.",
+      "example": "Progress on the accord has been slow and incremental.",
+      "uz": "bosqichma-bosqich (asta-sekin)"
+    },
+    {
+      "word": "intergenerational",
+      "pos": "adjective",
+      "ipa": "/ˌɪntərdʒɛnəˈreɪʃənəl/",
+      "definition": "Relating to or occurring between different generations.",
+      "example": "The policy addresses intergenerational fairness in resource use.",
+      "uz": "avlodlararo"
+    },
+    {
+      "word": "adaptive capacity",
+      "pos": "noun phrase",
+      "ipa": "/əˈdæptɪv kəˈpæsɪti/",
+      "definition": "The ability of a system or population to adjust to changing conditions and reduce potential harm.",
+      "example": "Poorer nations often have limited adaptive capacity to climate shocks.",
+      "uz": "moslashuv salohiyati"
+    },
+    {
+      "word": "contentious",
+      "pos": "adjective",
+      "ipa": "/kənˈtɛnʃəs/",
+      "definition": "Likely to cause disagreement or controversy.",
+      "example": "Financing remains the most contentious issue at the summit.",
+      "uz": "bahstalab, munozarali"
+    },
+    {
+      "word": "accountability",
+      "pos": "noun",
+      "ipa": "/əˌkaʊntəˈbɪlɪti/",
+      "definition": "The obligation to accept responsibility for one's actions and be answerable for them.",
+      "example": "The agreement lacks strong accountability mechanisms.",
+      "uz": "hisobdorlik"
+    },
+    {
+      "word": "binding",
+      "pos": "adjective",
+      "ipa": "/ˈbaɪndɪŋ/",
+      "definition": "Legally or formally obligatory.",
+      "example": "Negotiators failed to secure a legally binding commitment.",
+      "uz": "huquqiy jihatdan majburiy"
+    },
+    {
+      "word": "leverage",
+      "pos": "verb",
+      "ipa": "/ˈliːvərɪdʒ/",
+      "definition": "To use something to maximum advantage in order to influence outcomes.",
+      "example": "Wealthy nations used their leverage to shape the final text.",
+      "uz": "ta'sir vositasi sifatida unumli foydalanmoq"
+    },
+    {
+      "word": "commensurate",
+      "pos": "adjective",
+      "ipa": "/kəˈmɛnʃərət/",
+      "definition": "Proportionate or matching in size, degree, or intensity.",
+      "example": "Funding pledges were not commensurate with the scale of need.",
+      "uz": "mutanosib, mos keluvchi"
+    }
+  ],
+  "text": "Global climate governance faces a structural dilemma that no single treaty has fully resolved: anthropogenic emissions constitute a transboundary externality, yet the multilateral institutions charged with addressing it possess no binding enforcement mechanism comparable to those of domestic law. Each state retains an incentive to act as a free-rider, benefiting from other nations' mitigation efforts while deferring its own, particularly when short-term political exigencies outweigh diffuse, long-term intergenerational costs. Negotiators have therefore leaned on incremental, voluntary commitments, hoping that reputational accountability and gradually ratcheting ambition can substitute for genuine binding obligation—a strategy critics dismiss as inadequate to the scale of the crisis, though defenders note that more coercive frameworks have historically collapsed under the weight of contentious disputes over equity. Wealthier nations, having contributed disproportionately to cumulative emissions, are widely held to owe a commensurate share of financing for both mitigation and adaptive capacity in poorer states, yet transfers have consistently fallen short of pledged sums. Meanwhile, adaptation itself—strengthening resilience through infrastructure, early-warning systems, and carbon sequestration—has gained prominence as an implicit admission that mitigation alone will not avert significant, irreversible harm within the coming decades.",
+  "questions": [
+    {
+      "question": "What structural problem does the passage identify in global climate governance?",
+      "options": [
+        "Too many binding treaties exist",
+        "Multilateral institutions lack enforcement mechanisms comparable to domestic law, despite the transboundary nature of emissions",
+        "Nations have no incentive to reduce emissions",
+        "Anthropogenic emissions are not considered an externality"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The \"free-rider\" problem described in the passage refers to:",
+      "options": [
+        "Nations that always reduce their own emissions first",
+        "States benefiting from others' mitigation efforts while delaying their own contributions",
+        "Wealthy nations financing all mitigation costs",
+        "Countries with no adaptive capacity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why have negotiators favored incremental, voluntary commitments over binding obligations?",
+      "options": [
+        "Because voluntary commitments are more effective than binding ones",
+        "Because more coercive frameworks have historically collapsed amid disputes over equity",
+        "Because incremental commitments require no accountability",
+        "Because binding treaties are illegal under international law"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest about the responsibility of wealthier nations?",
+      "options": [
+        "They bear no special responsibility for financing mitigation or adaptation",
+        "They are widely held to owe a share of financing commensurate with their disproportionate historical emissions",
+        "They have fully met their pledged financial commitments",
+        "They should be exempt from intergenerational considerations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The passage's mention of adaptation gaining prominence is characterized as:",
+      "options": [
+        "Proof that mitigation has completely failed",
+        "An implicit admission that mitigation alone will not prevent significant harm",
+        "Irrelevant to global governance debates",
+        "A rejection of the concept of resilience"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The overall tone of the passage toward the effectiveness of current global climate governance is:",
+      "options": [
+        "Uncritically optimistic",
+        "Measured and somewhat critical, acknowledging structural limitations",
+        "Entirely dismissive with no nuance",
+        "Purely celebratory of multilateral achievements"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 27,
+  "topic": "Social Justice and Structural Inequality",
+  "words": [
+    {
+      "word": "inequity",
+      "pos": "noun",
+      "ipa": "/ɪnˈɛkwɪti/",
+      "definition": "Unfairness or lack of justice, especially in the distribution of resources.",
+      "example": "The report highlighted persistent inequity in school funding.",
+      "uz": "adolatsizlik, tengsizlik"
+    },
+    {
+      "word": "marginalization",
+      "pos": "noun",
+      "ipa": "/ˌmɑːdʒɪnəlaɪˈzeɪʃən/",
+      "definition": "The process of relegating a group to a peripheral or powerless position in society.",
+      "example": "The policy aimed to reduce the marginalization of rural communities.",
+      "uz": "chetlashtirish, marginallashtirish"
+    },
+    {
+      "word": "systemic",
+      "pos": "adjective",
+      "ipa": "/sɪˈstɛmɪk/",
+      "definition": "Relating to a system as a whole rather than isolated instances.",
+      "example": "Activists pointed to systemic barriers rather than individual failings.",
+      "uz": "tizimli"
+    },
+    {
+      "word": "disenfranchise",
+      "pos": "verb",
+      "ipa": "/ˌdɪsɪnˈfræntʃaɪz/",
+      "definition": "To deprive a person or group of a right, especially the right to vote.",
+      "example": "The law effectively disenfranchised thousands of eligible voters.",
+      "uz": "huquqidan (ovoz berish huquqidan) mahrum qilmoq"
+    },
+    {
+      "word": "intersectionality",
+      "pos": "noun",
+      "ipa": "/ˌɪntərsɛkʃəˈnælɪti/",
+      "definition": "The interconnected nature of overlapping social categorizations, such as race, class, and gender, that create compounded disadvantage.",
+      "example": "Her work on intersectionality examined race, gender, and class together.",
+      "uz": "interseksionallik (o'zaro kesishuvchi kamsitish)"
+    },
+    {
+      "word": "entrenched",
+      "pos": "adjective",
+      "ipa": "/ɪnˈtrɛntʃt/",
+      "definition": "Firmly established and difficult to change.",
+      "example": "Entrenched attitudes proved difficult to shift through policy alone.",
+      "uz": "chuqur ildiz otgan, mustahkam o'rnashgan"
+    },
+    {
+      "word": "redress",
+      "pos": "noun",
+      "ipa": "/rɪˈdrɛs/",
+      "definition": "Remedy or compensation for a wrong or grievance.",
+      "example": "The commission sought redress for decades of discriminatory practice.",
+      "uz": "huquqni tiklash, tovon"
+    },
+    {
+      "word": "stratified",
+      "pos": "adjective",
+      "ipa": "/ˈstrætɪfaɪd/",
+      "definition": "Arranged into distinct hierarchical layers or classes.",
+      "example": "The city remains sharply stratified along economic lines.",
+      "uz": "tabaqalangan"
+    },
+    {
+      "word": "equitable",
+      "pos": "adjective",
+      "ipa": "/ˈɛkwɪtəbəl/",
+      "definition": "Fair and impartial, especially in the treatment of different groups.",
+      "example": "The board pushed for a more equitable distribution of resources.",
+      "uz": "adolatli, teng"
+    },
+    {
+      "word": "precarity",
+      "pos": "noun",
+      "ipa": "/prɪˈkærɪti/",
+      "definition": "A state of persistent insecurity, especially regarding employment or livelihood.",
+      "example": "Gig work has increased economic precarity for many young people.",
+      "uz": "doimiy beqarorlik (turmush beqarorligi)"
+    },
+    {
+      "word": "institutionalized",
+      "pos": "adjective",
+      "ipa": "/ˌɪnstɪˈtjuːʃənəlaɪzd/",
+      "definition": "Established as a customary or entrenched practice within an organization or society.",
+      "example": "Discrimination had become institutionalized within hiring practices.",
+      "uz": "institutsionallashgan"
+    },
+    {
+      "word": "complicity",
+      "pos": "noun",
+      "ipa": "/kəmˈplɪsɪti/",
+      "definition": "Involvement, often passive, in wrongdoing perpetrated by others.",
+      "example": "The report examined corporate complicity in environmental harm.",
+      "uz": "sherikchilik (bilib turib qatnashish)"
+    },
+    {
+      "word": "disparate",
+      "pos": "adjective",
+      "ipa": "/ˈdɪspərət/",
+      "definition": "Markedly distinct in kind, essentially different or unequal.",
+      "example": "The study revealed disparate outcomes across neighborhoods.",
+      "uz": "keskin farqli, teng bo'lmagan"
+    },
+    {
+      "word": "reparative",
+      "pos": "adjective",
+      "ipa": "/rɪˈpærətɪv/",
+      "definition": "Intended to make amends or restore something that has been damaged or lost.",
+      "example": "Advocates called for reparative policies to address historical harm.",
+      "uz": "tiklovchi, o'rnini to'ldiruvchi"
+    },
+    {
+      "word": "hegemonic",
+      "pos": "adjective",
+      "ipa": "/hɪˈdʒɛmɒnɪk/",
+      "definition": "Dominant to the point of controlling or shaping prevailing norms and perceptions.",
+      "example": "The essay challenges hegemonic narratives about national identity.",
+      "uz": "gegemon, hukmron"
+    },
+    {
+      "word": "subaltern",
+      "pos": "adjective",
+      "ipa": "/sʌbˈɔːltərn/",
+      "definition": "Of or relating to a subordinate social group excluded from dominant power structures.",
+      "example": "The historian gave voice to subaltern perspectives long ignored.",
+      "uz": "hukmron tizimdan chetlashtirilgan quyi tabaqaga oid"
+    },
+    {
+      "word": "tokenism",
+      "pos": "noun",
+      "ipa": "/ˈtoʊkənɪzəm/",
+      "definition": "The practice of making only a superficial effort toward inclusion, especially to deflect criticism.",
+      "example": "Critics dismissed the diversity initiative as mere tokenism.",
+      "uz": "ko'z-ko'zlash uchun sohta inklyuzivlik"
+    },
+    {
+      "word": "culpability",
+      "pos": "noun",
+      "ipa": "/ˌkʌlpəˈbɪlɪti/",
+      "definition": "Responsibility or blame for a wrongdoing.",
+      "example": "The inquiry sought to establish institutional culpability.",
+      "uz": "aybdorlik"
+    },
+    {
+      "word": "mitigate",
+      "pos": "verb",
+      "ipa": "/ˈmɪtɪgeɪt/",
+      "definition": "To make less severe or serious.",
+      "example": "New policies aim to mitigate the effects of housing discrimination.",
+      "uz": "yumshatmoq, yengillashtirmoq"
+    },
+    {
+      "word": "entrenchment",
+      "pos": "noun",
+      "ipa": "/ɪnˈtrɛntʃmənt/",
+      "definition": "The state of being firmly and often unfairly established.",
+      "example": "Decades of entrenchment made reform politically difficult.",
+      "uz": "adolatsiz holatning mustahkam o'rnashib qolishi"
+    }
+  ],
+  "text": "Debates over how to address structural inequality often founder on a definitional impasse: is inequity best understood as the aggregate of individual prejudices, or as something systemic, woven into institutions so thoroughly that no single actor bears full culpability? Scholars of intersectionality insist on the latter, arguing that disparate outcomes across race, gender, and class cannot be explained by any one axis of disadvantage in isolation, since marginalization compounds where these categories intersect. This framing has practical stakes: policies aimed merely at symbolic inclusion risk devolving into tokenism, a gesture that leaves entrenched hierarchies and institutionalized precarity fundamentally undisturbed. Reparative measures—targeted redistribution, for instance, rather than formally equitable but substantively hollow equal treatment—are correspondingly harder to justify politically, since they require majorities to accept a measure of collective, if diffuse, complicity in outcomes they did not personally cause. Critics on the right counter that such remedies risk entrenching group identity as the primary unit of justice, displacing older ideals of individual merit; defenders respond that formally colorblind policy, applied to a deeply stratified starting point, merely launders hegemonic advantage rather than mitigating it. Whether subaltern communities can be meaningfully included without unsettling these hegemonic structures, or whether current arrangements merely disenfranchise them further, remains genuinely contested.",
+  "questions": [
+    {
+      "question": "According to the passage, intersectionality scholars argue that disparate outcomes are best explained by:",
+      "options": [
+        "A single axis of disadvantage, such as class alone",
+        "The compounding effect of overlapping categories such as race, gender, and class",
+        "Individual prejudice exclusively",
+        "Purely economic factors unrelated to social identity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The passage criticizes tokenism because it:",
+      "options": [
+        "Fully dismantles entrenched hierarchies",
+        "Leaves institutionalized precarity and entrenched hierarchies fundamentally unchanged despite symbolic inclusion",
+        "Requires too much political cost",
+        "Directly causes disenfranchisement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the passage suggest reparative measures are politically difficult to justify?",
+      "options": [
+        "They are too inexpensive to implement",
+        "They require accepting a measure of collective complicity in outcomes not personally caused",
+        "They are universally popular",
+        "They eliminate the need for redress"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the critics' objection (from the right) to reparative or group-targeted remedies, per the passage?",
+      "options": [
+        "That they ignore intersectionality entirely",
+        "That they risk entrenching group identity as the primary unit of justice, displacing individual merit",
+        "That they are insufficiently equitable",
+        "That they increase tokenism"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How do defenders of reparative measures respond to that criticism, according to the passage?",
+      "options": [
+        "By denying that hegemonic advantage exists",
+        "By arguing that formally colorblind policy merely launders existing hegemonic advantage instead of addressing it",
+        "By agreeing that individual merit should be prioritized",
+        "By rejecting the concept of stratification altogether"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The passage's overall structure can best be described as:",
+      "options": [
+        "A one-sided polemic with no acknowledgment of opposing views",
+        "A presentation of a contested debate, weighing arguments on both sides without fully resolving them",
+        "A purely descriptive historical account",
+        "An argument that fully endorses colorblind policy"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 12,
+  "topic": "Health and Illness",
+  "words": [
+    {
+      "word": "health",
+      "pos": "noun",
+      "ipa": "/hɛlθ/",
+      "definition": "the condition of your body and mind.",
+      "example": "Eating vegetables is good for your health.",
+      "uz": "sog'liq"
+    },
+    {
+      "word": "illness",
+      "pos": "noun",
+      "ipa": "/ˈɪlnəs/",
+      "definition": "a disease or period of being sick.",
+      "example": "She missed school because of an illness.",
+      "uz": "kasallik"
+    },
+    {
+      "word": "sick",
+      "pos": "adjective",
+      "ipa": "/sɪk/",
+      "definition": "feeling ill or unwell.",
+      "example": "He felt too sick to go to work.",
+      "uz": "kasal"
+    },
+    {
+      "word": "doctor",
+      "pos": "noun",
+      "ipa": "/ˈdɒktər/",
+      "definition": "a person trained to treat sick people.",
+      "example": "I went to see the doctor yesterday.",
+      "uz": "shifokor"
+    },
+    {
+      "word": "nurse",
+      "pos": "noun",
+      "ipa": "/nɜːrs/",
+      "definition": "a person trained to take care of sick people, usually in a hospital.",
+      "example": "The nurse checked my temperature.",
+      "uz": "hamshira"
+    },
+    {
+      "word": "hospital",
+      "pos": "noun",
+      "ipa": "/ˈhɒspɪtəl/",
+      "definition": "a place where sick or injured people get medical care.",
+      "example": "He was taken to the hospital by ambulance.",
+      "uz": "kasalxona"
+    },
+    {
+      "word": "medicine",
+      "pos": "noun",
+      "ipa": "/ˈmɛdəsən/",
+      "definition": "a substance used to treat an illness.",
+      "example": "Take this medicine twice a day.",
+      "uz": "dori"
+    },
+    {
+      "word": "pain",
+      "pos": "noun",
+      "ipa": "/peɪn/",
+      "definition": "an uncomfortable feeling in your body caused by illness or injury.",
+      "example": "I have a pain in my back.",
+      "uz": "og'riq"
+    },
+    {
+      "word": "headache",
+      "pos": "noun",
+      "ipa": "/ˈhɛdeɪk/",
+      "definition": "a pain in your head.",
+      "example": "I have a headache, so I need to rest.",
+      "uz": "bosh og'rig'i"
+    },
+    {
+      "word": "fever",
+      "pos": "noun",
+      "ipa": "/ˈfiːvər/",
+      "definition": "a higher than normal body temperature caused by illness.",
+      "example": "My son has a fever and a cough.",
+      "uz": "isitma"
+    },
+    {
+      "word": "cough",
+      "pos": "noun",
+      "ipa": "/kɒf/",
+      "definition": "a sudden noisy push of air out of your throat, often caused by illness.",
+      "example": "She has a bad cough.",
+      "uz": "yo'tal"
+    },
+    {
+      "word": "cold",
+      "pos": "noun",
+      "ipa": "/koʊld/",
+      "definition": "a common illness that makes you sneeze and cough.",
+      "example": "I caught a cold last week.",
+      "uz": "shamollash"
+    },
+    {
+      "word": "symptom",
+      "pos": "noun",
+      "ipa": "/ˈsɪmptəm/",
+      "definition": "a sign in your body that shows you have an illness.",
+      "example": "A high temperature is a symptom of the flu.",
+      "uz": "alomat"
+    },
+    {
+      "word": "injury",
+      "pos": "noun",
+      "ipa": "/ˈɪndʒəri/",
+      "definition": "damage to part of your body caused by an accident.",
+      "example": "He got an injury while playing football.",
+      "uz": "jarohat"
+    },
+    {
+      "word": "rest",
+      "pos": "verb",
+      "ipa": "/rɛst/",
+      "definition": "to relax or sleep in order to feel better.",
+      "example": "You should rest until you feel better.",
+      "uz": "dam olmoq"
+    },
+    {
+      "word": "appointment",
+      "pos": "noun",
+      "ipa": "/əˈpɔɪntmənt/",
+      "definition": "an arranged time to meet someone, such as a doctor.",
+      "example": "I have a doctor's appointment at three o'clock.",
+      "uz": "qabulga yozilish"
+    },
+    {
+      "word": "prescription",
+      "pos": "noun",
+      "ipa": "/prɪˈskrɪpʃən/",
+      "definition": "a paper from a doctor that lets you buy medicine.",
+      "example": "The doctor gave me a prescription for the pain.",
+      "uz": "dori retsepti"
+    },
+    {
+      "word": "healthy",
+      "pos": "adjective",
+      "ipa": "/ˈhɛlθi/",
+      "definition": "in good physical or mental condition.",
+      "example": "Eating fruit helps you stay healthy.",
+      "uz": "sog'lom"
+    },
+    {
+      "word": "exercise",
+      "pos": "noun",
+      "ipa": "/ˈɛksərsaɪz/",
+      "definition": "physical activity that keeps your body healthy.",
+      "example": "Regular exercise is good for your heart.",
+      "uz": "jismoniy mashq"
+    },
+    {
+      "word": "recover",
+      "pos": "verb",
+      "ipa": "/rɪˈkʌvər/",
+      "definition": "to become well again after an illness.",
+      "example": "It took two weeks to recover from the flu.",
+      "uz": "tuzalmoq"
+    }
+  ],
+  "text": "Last month, I felt very sick for a few days. It started with a headache and a fever, and then I began to cough a lot. I thought it was just a cold, but the symptoms got worse, so I decided to make an appointment with my doctor. At the clinic, a nurse checked my temperature and asked about my pain. The doctor said I had the flu, which is a common illness in winter. She gave me a prescription for some medicine and told me to rest at home for a week. I didn't need to go to the hospital because my illness wasn't serious. I stayed in bed, drank a lot of water, and took my medicine every day. My mother cooked healthy food for me, like soup with vegetables. After a week of rest, I started to feel better and slowly began to recover. The doctor also said that regular exercise and a healthy diet can help prevent illness in the future. Now I try to stay active and eat well so I don't get sick again. I learned that taking care of your health is very important.",
+  "questions": [
+    {
+      "question": "What were the writer's first symptoms?",
+      "options": [
+        "A headache and a fever",
+        "A broken leg",
+        "A stomach ache",
+        "A toothache"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What did the doctor say the writer had?",
+      "options": [
+        "A broken arm",
+        "The flu",
+        "A food allergy",
+        "An eye infection"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why didn't the writer go to the hospital?",
+      "options": [
+        "There were no doctors available",
+        "The illness wasn't serious",
+        "The hospital was too far away",
+        "The writer refused to go"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the writer's mother cook?",
+      "options": [
+        "Cake and sweets",
+        "Fast food",
+        "Healthy food like soup with vegetables",
+        "Nothing, the writer cooked alone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How long did the writer rest at home?",
+      "options": [
+        "Two days",
+        "One week",
+        "One month",
+        "Three weeks"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the doctor say can help prevent illness?",
+      "options": [
+        "Sleeping all day",
+        "Regular exercise and a healthy diet",
+        "Taking medicine every day even when healthy",
+        "Staying indoors always"
+      ],
+      "answer": 1
+    }
+  ]
+}

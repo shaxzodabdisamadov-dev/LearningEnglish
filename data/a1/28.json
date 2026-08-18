@@ -1,0 +1,229 @@
+{
+  "id": 28,
+  "topic": "Climate and Weather Change",
+  "words": [
+    {
+      "word": "weather",
+      "pos": "noun",
+      "ipa": "/ˈweðər/",
+      "definition": "the condition outside, like sun, rain, or wind",
+      "example": "The weather is nice today.",
+      "uz": "ob-havo"
+    },
+    {
+      "word": "climate",
+      "pos": "noun",
+      "ipa": "/ˈklaɪmət/",
+      "definition": "the usual weather in a place over a long time",
+      "example": "The climate is changing around the world.",
+      "uz": "iqlim"
+    },
+    {
+      "word": "sun",
+      "pos": "noun",
+      "ipa": "/sʌn/",
+      "definition": "the bright star that gives us light and heat",
+      "example": "The sun is very hot today.",
+      "uz": "quyosh"
+    },
+    {
+      "word": "rain",
+      "pos": "noun",
+      "ipa": "/reɪn/",
+      "definition": "water that falls from the sky",
+      "example": "I don't like walking in the rain.",
+      "uz": "yomg'ir"
+    },
+    {
+      "word": "wind",
+      "pos": "noun",
+      "ipa": "/wɪnd/",
+      "definition": "air that moves quickly outside",
+      "example": "The wind is very strong today.",
+      "uz": "shamol"
+    },
+    {
+      "word": "snow",
+      "pos": "noun",
+      "ipa": "/snoʊ/",
+      "definition": "soft white ice that falls from the sky in winter",
+      "example": "It doesn't snow in summer.",
+      "uz": "qor"
+    },
+    {
+      "word": "hot",
+      "pos": "adjective",
+      "ipa": "/hɒt/",
+      "definition": "having a high temperature",
+      "example": "It is very hot in July.",
+      "uz": "issiq"
+    },
+    {
+      "word": "cold",
+      "pos": "adjective",
+      "ipa": "/koʊld/",
+      "definition": "having a low temperature",
+      "example": "The water in the river is cold.",
+      "uz": "sovuq"
+    },
+    {
+      "word": "warm",
+      "pos": "adjective",
+      "ipa": "/wɔːrm/",
+      "definition": "a little hot, in a nice way",
+      "example": "Spring days are warm and sunny.",
+      "uz": "iliq"
+    },
+    {
+      "word": "ice",
+      "pos": "noun",
+      "ipa": "/aɪs/",
+      "definition": "water that is frozen and hard",
+      "example": "The ice on the lake is melting.",
+      "uz": "muz"
+    },
+    {
+      "word": "storm",
+      "pos": "noun",
+      "ipa": "/stɔːrm/",
+      "definition": "very bad weather with strong wind and rain",
+      "example": "A big storm is coming tonight.",
+      "uz": "bo'ron"
+    },
+    {
+      "word": "season",
+      "pos": "noun",
+      "ipa": "/ˈsiːzn/",
+      "definition": "one of the four parts of the year, like summer or winter",
+      "example": "Winter is my favorite season.",
+      "uz": "fasl"
+    },
+    {
+      "word": "change",
+      "pos": "verb",
+      "ipa": "/tʃeɪndʒ/",
+      "definition": "to become different",
+      "example": "The weather can change very fast.",
+      "uz": "o'zgarmoq"
+    },
+    {
+      "word": "Earth",
+      "pos": "noun",
+      "ipa": "/ɜːrθ/",
+      "definition": "the planet where we live",
+      "example": "We must take care of the Earth.",
+      "uz": "Yer"
+    },
+    {
+      "word": "planet",
+      "pos": "noun",
+      "ipa": "/ˈplænɪt/",
+      "definition": "a big round object in space, like Earth",
+      "example": "Earth is our planet.",
+      "uz": "sayyora"
+    },
+    {
+      "word": "temperature",
+      "pos": "noun",
+      "ipa": "/ˈtemprətʃər/",
+      "definition": "how hot or cold something is",
+      "example": "The temperature today is thirty degrees.",
+      "uz": "harorat"
+    },
+    {
+      "word": "dry",
+      "pos": "adjective",
+      "ipa": "/draɪ/",
+      "definition": "having no water or rain",
+      "example": "This summer is very dry.",
+      "uz": "quruq"
+    },
+    {
+      "word": "wet",
+      "pos": "adjective",
+      "ipa": "/wet/",
+      "definition": "covered with water, not dry",
+      "example": "My clothes are wet from the rain.",
+      "uz": "ho'l"
+    },
+    {
+      "word": "cloud",
+      "pos": "noun",
+      "ipa": "/klaʊd/",
+      "definition": "a white or grey shape in the sky made of small drops of water",
+      "example": "Look at that big cloud!",
+      "uz": "bulut"
+    },
+    {
+      "word": "sky",
+      "pos": "noun",
+      "ipa": "/skaɪ/",
+      "definition": "the space above us where we see clouds and the sun",
+      "example": "The sky is blue today.",
+      "uz": "osmon"
+    }
+  ],
+  "text": "The weather on Earth is changing. Every day, the sun makes our planet warm, but now the temperature is going up too fast. Some places have less rain, and the land is very dry. Other places have too much rain, and there are big storms with strong wind. In some countries, there is less snow and ice in winter than before. Scientists say our climate is changing because of pollution. This is a big problem for people, animals, and plants. In the past, each season was easy to know: a cold winter, a warm spring, a hot summer, and a cool autumn. Now the seasons are not the same every year. Sometimes it is hot when it should be cold. I look at the sky and the clouds every morning to check the weather. I think we must help our planet. We can walk more and use fewer cars. Small changes can help stop the problem. The Earth is our home, and we must take care of it for the future.",
+  "questions": [
+    {
+      "question": "What is happening to the temperature on Earth?",
+      "options": [
+        "It is going down",
+        "It is going up",
+        "It stays the same",
+        "It never changes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens in places with too much rain?",
+      "options": [
+        "Droughts",
+        "Storms with strong wind",
+        "More snow",
+        "Less ice"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is the climate changing, according to the text?",
+      "options": [
+        "Too many animals",
+        "Pollution",
+        "Too much snow",
+        "More plants"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the past, how were the seasons?",
+      "options": [
+        "Always hot",
+        "Always cold",
+        "Easy to know",
+        "Always wet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the writer do every morning?",
+      "options": [
+        "Reads a book",
+        "Looks at the sky and clouds",
+        "Plays outside",
+        "Waters plants"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the writer suggest people do to help?",
+      "options": [
+        "Use more cars",
+        "Walk more and use fewer cars",
+        "Stay inside always",
+        "Ignore the problem"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 7,
+  "topic": "Animals",
+  "words": [
+    {
+      "word": "animal",
+      "pos": "noun",
+      "ipa": "/ˈænɪməl/",
+      "definition": "a living thing that is not a plant, like a dog or a bird",
+      "example": "A dog is an animal.",
+      "uz": "hayvon"
+    },
+    {
+      "word": "dog",
+      "pos": "noun",
+      "ipa": "/dɑːɡ/",
+      "definition": "a common animal that people often keep as a pet",
+      "example": "My dog likes to run.",
+      "uz": "it"
+    },
+    {
+      "word": "cat",
+      "pos": "noun",
+      "ipa": "/kæt/",
+      "definition": "a small animal with fur that people keep as a pet",
+      "example": "The cat sleeps all day.",
+      "uz": "mushuk"
+    },
+    {
+      "word": "bird",
+      "pos": "noun",
+      "ipa": "/bɜːrd/",
+      "definition": "an animal with wings and feathers that can usually fly",
+      "example": "A bird is singing in the tree.",
+      "uz": "qush"
+    },
+    {
+      "word": "fish",
+      "pos": "noun",
+      "ipa": "/fɪʃ/",
+      "definition": "an animal that lives and swims in water",
+      "example": "Fish live in the sea.",
+      "uz": "baliq"
+    },
+    {
+      "word": "horse",
+      "pos": "noun",
+      "ipa": "/hɔːrs/",
+      "definition": "a big strong animal that people can ride",
+      "example": "He rides a horse every weekend.",
+      "uz": "ot"
+    },
+    {
+      "word": "cow",
+      "pos": "noun",
+      "ipa": "/kaʊ/",
+      "definition": "a large farm animal that gives milk",
+      "example": "The cow eats grass.",
+      "uz": "sigir"
+    },
+    {
+      "word": "pig",
+      "pos": "noun",
+      "ipa": "/pɪɡ/",
+      "definition": "a pink farm animal with a short tail",
+      "example": "The pig lives on the farm.",
+      "uz": "cho'chqa"
+    },
+    {
+      "word": "sheep",
+      "pos": "noun",
+      "ipa": "/ʃiːp/",
+      "definition": "a farm animal with soft wool",
+      "example": "The sheep has soft wool.",
+      "uz": "qo'y"
+    },
+    {
+      "word": "chicken",
+      "pos": "noun",
+      "ipa": "/ˈtʃɪkɪn/",
+      "definition": "a farm bird that gives eggs and meat",
+      "example": "The chicken lays eggs.",
+      "uz": "tovuq"
+    },
+    {
+      "word": "lion",
+      "pos": "noun",
+      "ipa": "/ˈlaɪən/",
+      "definition": "a big wild cat known as the king of animals",
+      "example": "The lion is very strong.",
+      "uz": "sher"
+    },
+    {
+      "word": "elephant",
+      "pos": "noun",
+      "ipa": "/ˈelɪfənt/",
+      "definition": "a very big grey animal with a long nose",
+      "example": "An elephant is bigger than a horse.",
+      "uz": "fil"
+    },
+    {
+      "word": "monkey",
+      "pos": "noun",
+      "ipa": "/ˈmʌŋki/",
+      "definition": "an animal that climbs trees and looks a little like a small person",
+      "example": "The monkey climbs the tree fast.",
+      "uz": "maymun"
+    },
+    {
+      "word": "bear",
+      "pos": "noun",
+      "ipa": "/ber/",
+      "definition": "a big, strong wild animal with thick fur",
+      "example": "A bear can be dangerous.",
+      "uz": "ayiq"
+    },
+    {
+      "word": "rabbit",
+      "pos": "noun",
+      "ipa": "/ˈræbɪt/",
+      "definition": "a small animal with long ears that jumps",
+      "example": "The rabbit runs fast.",
+      "uz": "quyon"
+    },
+    {
+      "word": "tail",
+      "pos": "noun",
+      "ipa": "/teɪl/",
+      "definition": "the part at the back of an animal's body",
+      "example": "The dog wags its tail.",
+      "uz": "dum"
+    },
+    {
+      "word": "wild",
+      "pos": "adjective",
+      "ipa": "/waɪld/",
+      "definition": "living free in nature, not with people",
+      "example": "A lion is a wild animal.",
+      "uz": "yovvoyi"
+    },
+    {
+      "word": "pet",
+      "pos": "noun",
+      "ipa": "/pet/",
+      "definition": "an animal that people keep and take care of at home",
+      "example": "My pet is a small dog.",
+      "uz": "uy hayvoni"
+    },
+    {
+      "word": "farm",
+      "pos": "noun",
+      "ipa": "/fɑːrm/",
+      "definition": "a place where people keep animals and grow food",
+      "example": "Cows live on a farm.",
+      "uz": "ferma"
+    },
+    {
+      "word": "zoo",
+      "pos": "noun",
+      "ipa": "/zuː/",
+      "definition": "a place where wild animals live and people go to see them",
+      "example": "We saw a lion at the zoo.",
+      "uz": "hayvonot bog'i"
+    }
+  ],
+  "text": "Last weekend, my family visited a farm and then a zoo. On the farm, we saw many animals. There was a cow eating grass, a pig sleeping in the mud, and fish swimming in a small pond. We also saw sheep with white wool and chickens walking around. A friendly horse let us pet it, and a little dog ran to say hello. These are all farm animals, not wild animals.\n\nIn the afternoon, we went to the zoo. At the zoo, we saw wild animals from different countries. A big lion slept in the sun, and an elephant used its long nose to eat leaves. A monkey climbed a tree and moved its tail quickly. We also saw a bear and some rabbits.\n\nI love animals very much. At home, I have a small pet: a grey cat named Tom. He likes to play with a ball. My sister wants a bird, but our house is too small for another pet. I think farms and zoos are great places to learn about animals.",
+  "questions": [
+    {
+      "question": "Which place did the family visit first?",
+      "options": [
+        "The zoo",
+        "The farm",
+        "The hospital",
+        "The school"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the elephant do at the zoo?",
+      "options": [
+        "It swam in water",
+        "It used its nose to eat leaves",
+        "It slept all day",
+        "It climbed a tree"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the name of the writer's cat?",
+      "options": [
+        "Max",
+        "Tom",
+        "Leo",
+        "Ball"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why doesn't the sister get a bird?",
+      "options": [
+        "She doesn't like birds",
+        "The house is too small",
+        "Birds are too expensive",
+        "Their parents said no"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the monkey do at the zoo?",
+      "options": [
+        "It slept in the sun",
+        "It ate grass",
+        "It climbed a tree and moved its tail",
+        "It swam in a pond"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which animals did the family see on the farm?",
+      "options": [
+        "Lion and bear",
+        "Cow, pig, and sheep",
+        "Elephant and monkey",
+        "Only fish"
+      ],
+      "answer": 1
+    }
+  ]
+}

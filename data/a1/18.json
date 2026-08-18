@@ -1,0 +1,229 @@
+{
+  "id": 18,
+  "topic": "Nature and Environment",
+  "words": [
+    {
+      "word": "tree",
+      "pos": "noun",
+      "ipa": "/triː/",
+      "definition": "a tall plant with a wooden trunk, branches, and leaves",
+      "example": "There is a big tree near our house.",
+      "uz": "daraxt"
+    },
+    {
+      "word": "river",
+      "pos": "noun",
+      "ipa": "/ˈrɪvər/",
+      "definition": "a long line of water that flows across land to the sea",
+      "example": "Fish swim in the river.",
+      "uz": "daryo"
+    },
+    {
+      "word": "forest",
+      "pos": "noun",
+      "ipa": "/ˈfɒrɪst/",
+      "definition": "a large area of land covered with trees",
+      "example": "We walked through a green forest.",
+      "uz": "o'rmon"
+    },
+    {
+      "word": "animal",
+      "pos": "noun",
+      "ipa": "/ˈænɪməl/",
+      "definition": "a living thing that can move and is not a plant",
+      "example": "A dog is a friendly animal.",
+      "uz": "hayvon"
+    },
+    {
+      "word": "flower",
+      "pos": "noun",
+      "ipa": "/ˈflaʊər/",
+      "definition": "the colorful part of a plant that grows from a stem",
+      "example": "She picked a yellow flower.",
+      "uz": "gul"
+    },
+    {
+      "word": "sky",
+      "pos": "noun",
+      "ipa": "/skaɪ/",
+      "definition": "the space above the earth where you see clouds and the sun",
+      "example": "The sky is blue today.",
+      "uz": "osmon"
+    },
+    {
+      "word": "sun",
+      "pos": "noun",
+      "ipa": "/sʌn/",
+      "definition": "the bright star that gives light and heat to the earth",
+      "example": "The sun rises in the morning.",
+      "uz": "quyosh"
+    },
+    {
+      "word": "rain",
+      "pos": "noun",
+      "ipa": "/reɪn/",
+      "definition": "water that falls from clouds in small drops",
+      "example": "The rain fell all afternoon.",
+      "uz": "yomg'ir"
+    },
+    {
+      "word": "wind",
+      "pos": "noun",
+      "ipa": "/wɪnd/",
+      "definition": "moving air that you can feel and hear",
+      "example": "The wind is very strong today.",
+      "uz": "shamol"
+    },
+    {
+      "word": "air",
+      "pos": "noun",
+      "ipa": "/eər/",
+      "definition": "the invisible gas around the earth that we breathe",
+      "example": "The air in the mountains is very clean.",
+      "uz": "havo"
+    },
+    {
+      "word": "water",
+      "pos": "noun",
+      "ipa": "/ˈwɔːtər/",
+      "definition": "a clear liquid that has no color or taste and that we drink",
+      "example": "Please drink more water every day.",
+      "uz": "suv"
+    },
+    {
+      "word": "earth",
+      "pos": "noun",
+      "ipa": "/ɜːrθ/",
+      "definition": "the planet where we live",
+      "example": "We must take care of the earth.",
+      "uz": "yer"
+    },
+    {
+      "word": "clean",
+      "pos": "adjective",
+      "ipa": "/kliːn/",
+      "definition": "not dirty",
+      "example": "The water in this lake is clean.",
+      "uz": "toza"
+    },
+    {
+      "word": "dirty",
+      "pos": "adjective",
+      "ipa": "/ˈdɜːrti/",
+      "definition": "not clean",
+      "example": "The river near the city is dirty.",
+      "uz": "iflos"
+    },
+    {
+      "word": "plant",
+      "pos": "verb",
+      "ipa": "/plɑːnt/",
+      "definition": "to put a seed or young tree into the ground so it will grow",
+      "example": "We plant new trees every spring.",
+      "uz": "ekmoq"
+    },
+    {
+      "word": "grow",
+      "pos": "verb",
+      "ipa": "/ɡroʊ/",
+      "definition": "to become bigger over time",
+      "example": "This tree will grow very tall.",
+      "uz": "o'smoq"
+    },
+    {
+      "word": "protect",
+      "pos": "verb",
+      "ipa": "/prəˈtekt/",
+      "definition": "to keep someone or something safe from harm",
+      "example": "We must protect the animals in the forest.",
+      "uz": "himoya qilmoq"
+    },
+    {
+      "word": "pollution",
+      "pos": "noun",
+      "ipa": "/pəˈluːʃən/",
+      "definition": "dirty air, water, or land caused by chemicals or waste",
+      "example": "Pollution is bad for our health.",
+      "uz": "ifloslanish"
+    },
+    {
+      "word": "recycle",
+      "pos": "verb",
+      "ipa": "/riːˈsaɪkəl/",
+      "definition": "to use waste material again to make a new product",
+      "example": "We recycle paper and plastic at home.",
+      "uz": "qayta ishlamoq"
+    },
+    {
+      "word": "lake",
+      "pos": "noun",
+      "ipa": "/leɪk/",
+      "definition": "a large area of water surrounded by land",
+      "example": "We swam in the lake yesterday.",
+      "uz": "ko'l"
+    }
+  ],
+  "text": "Our earth is a beautiful planet. It has big forests, rivers, and lakes. Many animals live in the forest, and colorful flowers grow near the rivers. The sun gives light to plants, and rain gives them water. Without water and air, no living thing can grow. But today, our earth has a problem: pollution. Cars and factories make the air dirty. Rivers and lakes are not clean anymore. This is bad for animals and people. We must protect our earth. We can plant more trees near our homes. Trees make the air clean again. We can also recycle paper, plastic, and glass instead of throwing them away. When the wind blows, it can carry pollution far away, so clean air is important for everyone. Children in school learn to keep the sky and water clean. If we protect nature now, our earth will grow healthier every year. Every person can help: plant a tree, recycle your rubbish, and keep water clean. Small actions help our beautiful earth.",
+  "questions": [
+    {
+      "question": "What does the text say is a problem for our earth today?",
+      "options": [
+        "Too many trees",
+        "Pollution",
+        "Too much rain",
+        "Too many animals"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, what do cars and factories do?",
+      "options": [
+        "Clean the water",
+        "Make the air dirty",
+        "Protect the animals",
+        "Plant trees"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How can trees help the earth?",
+      "options": [
+        "They make the air clean",
+        "They make pollution",
+        "They make the wind stronger",
+        "They make rivers dirty"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What can people recycle, according to the text?",
+      "options": [
+        "Water and air",
+        "Paper, plastic, and glass",
+        "Trees and flowers",
+        "Sun and rain"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where do many animals live, according to the text?",
+      "options": [
+        "In the sky",
+        "In the forest",
+        "In the city",
+        "In the lake"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the text ask every person to do?",
+      "options": [
+        "Buy a new car",
+        "Plant a tree, recycle, and keep water clean",
+        "Travel to another country",
+        "Build more factories"
+      ],
+      "answer": 1
+    }
+  ]
+}

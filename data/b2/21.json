@@ -1,0 +1,229 @@
+{
+  "id": 21,
+  "topic": "Political Ideologies and Governance",
+  "words": [
+    {
+      "word": "ideology",
+      "pos": "noun",
+      "ipa": "/ˌaɪdiˈɒlədʒi/",
+      "definition": "a system of ideas and ideals forming the basis of a political theory",
+      "example": "The party's ideology emphasizes individual liberty and free markets.",
+      "uz": "mafkura"
+    },
+    {
+      "word": "authoritarian",
+      "pos": "adjective",
+      "ipa": "/ɔːˌθɒrɪˈtɛəriən/",
+      "definition": "favoring strict obedience to authority at the expense of personal freedom",
+      "example": "The regime became increasingly authoritarian over the decade.",
+      "uz": "avtoritar"
+    },
+    {
+      "word": "legitimacy",
+      "pos": "noun",
+      "ipa": "/lɪˈdʒɪtɪməsi/",
+      "definition": "the quality of being lawfully or properly justified and accepted",
+      "example": "The election results gave the new government legitimacy.",
+      "uz": "qonuniylik"
+    },
+    {
+      "word": "polarize",
+      "pos": "verb",
+      "ipa": "/ˈpəʊləraɪz/",
+      "definition": "to divide people into two sharply opposing groups",
+      "example": "The controversial reform polarized public opinion nationwide.",
+      "uz": "ikki qarama-qarshi guruhga bo'lib tashlamoq"
+    },
+    {
+      "word": "dissent",
+      "pos": "noun",
+      "ipa": "/dɪˈsɛnt/",
+      "definition": "the expression of opinions that differ from official policy",
+      "example": "The government cracked down on any sign of political dissent.",
+      "uz": "rasmiy fikrga qarshi norozilik"
+    },
+    {
+      "word": "coalition",
+      "pos": "noun",
+      "ipa": "/ˌkəʊəˈlɪʃən/",
+      "definition": "a temporary alliance formed by different political parties or groups",
+      "example": "No party won a majority, so a coalition government was formed.",
+      "uz": "vaqtinchalik ittifoq (koalitsiya)"
+    },
+    {
+      "word": "autonomy",
+      "pos": "noun",
+      "ipa": "/ɔːˈtɒnəmi/",
+      "definition": "the right of self-governance or independence",
+      "example": "The region was granted greater autonomy over local affairs.",
+      "uz": "o'z-o'zini boshqarish huquqi"
+    },
+    {
+      "word": "corruption",
+      "pos": "noun",
+      "ipa": "/kəˈrʌpʃən/",
+      "definition": "dishonest or illegal behavior by those in positions of power",
+      "example": "Widespread corruption undermined trust in public officials.",
+      "uz": "korrupsiya"
+    },
+    {
+      "word": "constituency",
+      "pos": "noun",
+      "ipa": "/kənˈstɪtjuənsi/",
+      "definition": "a body of voters in a specified area who elect a representative",
+      "example": "The senator worked hard to address the concerns of her constituency.",
+      "uz": "saylov okrugi"
+    },
+    {
+      "word": "reform",
+      "pos": "noun",
+      "ipa": "/rɪˈfɔːm/",
+      "definition": "a change made to a system or institution in order to improve it",
+      "example": "The president promised sweeping economic reform.",
+      "uz": "islohot"
+    },
+    {
+      "word": "centralize",
+      "pos": "verb",
+      "ipa": "/ˈsɛntrəlaɪz/",
+      "definition": "to bring decision-making power under a single central authority",
+      "example": "The new leader moved quickly to centralize power.",
+      "uz": "markazlashtirmoq"
+    },
+    {
+      "word": "dissident",
+      "pos": "noun",
+      "ipa": "/ˈdɪsɪdənt/",
+      "definition": "a person who openly opposes official government policy",
+      "example": "Several dissidents were imprisoned for criticizing the regime.",
+      "uz": "hukumat siyosatiga ochiq qarshi chiquvchi"
+    },
+    {
+      "word": "suppress",
+      "pos": "verb",
+      "ipa": "/səˈprɛs/",
+      "definition": "to forcibly prevent something from being expressed or known",
+      "example": "The government tried to suppress news of the protests.",
+      "uz": "zo'rlik bilan bostirmoq"
+    },
+    {
+      "word": "mandate",
+      "pos": "noun",
+      "ipa": "/ˈmændeɪt/",
+      "definition": "the authority given to a government or leader by voters to carry out policies",
+      "example": "The landslide victory gave her a strong mandate for reform.",
+      "uz": "saylovchilar bergan vakolat"
+    },
+    {
+      "word": "transparency",
+      "pos": "noun",
+      "ipa": "/trænsˈpærənsi/",
+      "definition": "openness and honesty in the actions and decisions of an organization",
+      "example": "Voters increasingly demand transparency from their elected officials.",
+      "uz": "shaffoflik"
+    },
+    {
+      "word": "populist",
+      "pos": "adjective",
+      "ipa": "/ˈpɒpjʊlɪst/",
+      "definition": "appealing to the concerns of ordinary people, often against established elites",
+      "example": "The candidate ran on a populist platform against big business.",
+      "uz": "populistik"
+    },
+    {
+      "word": "notwithstanding",
+      "pos": "preposition",
+      "ipa": "/ˌnɒtwɪθˈstændɪŋ/",
+      "definition": "in spite of; despite",
+      "example": "Notwithstanding the criticism, the reform passed easily.",
+      "uz": "-ga qaramay"
+    },
+    {
+      "word": "entrench",
+      "pos": "verb",
+      "ipa": "/ɪnˈtrɛntʃ/",
+      "definition": "to establish something so firmly that change becomes difficult",
+      "example": "Years in power allowed the party to entrench its influence.",
+      "uz": "mustahkam o'rnatib qo'ymoq"
+    },
+    {
+      "word": "electorate",
+      "pos": "noun",
+      "ipa": "/ɪˈlɛktərət/",
+      "definition": "the body of people entitled to vote in an election",
+      "example": "The electorate rejected the proposed constitutional changes.",
+      "uz": "saylovchilar"
+    },
+    {
+      "word": "undermine",
+      "pos": "verb",
+      "ipa": "/ˌʌndərˈmaɪn/",
+      "definition": "to gradually weaken the effectiveness or authority of something",
+      "example": "Corruption scandals undermined confidence in the government.",
+      "uz": "asta-sekin obro'sini zaiflashtirmoq"
+    }
+  ],
+  "text": "Political ideology, far from being a fixed set of beliefs, evolves constantly in response to shifting public mood and crisis. Notwithstanding claims of stability, governments that fail to earn genuine legitimacy from their electorate often resort to authoritarian measures, suppressing dissent rather than addressing its underlying causes. A populist leader may win a mandate by promising sweeping reform, yet once in power, entrench their own authority instead of expanding autonomy for ordinary citizens. Corruption, meanwhile, tends to flourish wherever transparency is lacking, undermining public confidence in institutions meant to serve the constituency they represent. Coalition governments, formed when no single party commands a majority, can moderate extreme tendencies, but they may also polarize debate as competing factions centralize decision-making around narrow interests. Were dissidents silenced rather than heard, the resulting resentment would inevitably fester beneath a deceptively calm surface. Consequently, durable governance depends less on the ideology a party espouses than on its willingness to remain accountable, transparent, and responsive to those it claims to represent. Only by resisting the temptation to consolidate power unchecked can any political system hope to sustain legitimacy over the long term.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "All populist leaders inevitably become authoritarian.",
+        "Durable governance depends more on accountability and transparency than on any particular ideology.",
+        "Coalition governments are always more effective than single-party rule.",
+        "Corruption is impossible to prevent in any political system."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what often happens after a populist leader wins a mandate?",
+      "options": [
+        "They immediately expand citizens' autonomy.",
+        "They may entrench their own power instead of following through on reform.",
+        "They form a coalition with opposition parties.",
+        "They resign from office voluntarily."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest about the relationship between transparency and corruption?",
+      "options": [
+        "Corruption tends to flourish where transparency is lacking.",
+        "Transparency has no effect on corruption.",
+        "Corruption only occurs in coalition governments.",
+        "Transparency always eliminates dissent."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What risk does the passage associate with coalition governments?",
+      "options": [
+        "They always lead to authoritarian rule.",
+        "They may polarize debate as factions centralize power around narrow interests.",
+        "They eliminate the electorate's influence.",
+        "They automatically increase corruption."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's overall tone in this passage?",
+      "options": [
+        "Analytical and cautionary",
+        "Purely celebratory of populism",
+        "Dismissive of all forms of government",
+        "Strongly biased toward authoritarianism"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the passage, 'entrench' most nearly means:",
+      "options": [
+        "To share power willingly",
+        "To establish firmly, making change difficult",
+        "To resign from a position",
+        "To hold a fair election"
+      ],
+      "answer": 1
+    }
+  ]
+}

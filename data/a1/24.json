@@ -1,0 +1,229 @@
+{
+  "id": 24,
+  "topic": "Restaurants and Cooking",
+  "words": [
+    {
+      "word": "restaurant",
+      "pos": "noun",
+      "ipa": "/ˈrestrɒnt/",
+      "definition": "a place where you buy and eat a meal",
+      "example": "We eat at a restaurant on Friday.",
+      "uz": "restoran"
+    },
+    {
+      "word": "menu",
+      "pos": "noun",
+      "ipa": "/ˈmenjuː/",
+      "definition": "a list of food you can order",
+      "example": "The waiter gives us a menu.",
+      "uz": "menyu"
+    },
+    {
+      "word": "waiter",
+      "pos": "noun",
+      "ipa": "/ˈweɪtər/",
+      "definition": "a person who brings food to your table",
+      "example": "The waiter is very friendly.",
+      "uz": "ofitsiant"
+    },
+    {
+      "word": "order",
+      "pos": "verb",
+      "ipa": "/ˈɔːrdər/",
+      "definition": "to ask for food or drink in a restaurant",
+      "example": "I order pizza and juice.",
+      "uz": "buyurtma bermoq"
+    },
+    {
+      "word": "food",
+      "pos": "noun",
+      "ipa": "/fuːd/",
+      "definition": "things that people eat",
+      "example": "The food here is very good.",
+      "uz": "ovqat"
+    },
+    {
+      "word": "drink",
+      "pos": "noun",
+      "ipa": "/drɪŋk/",
+      "definition": "a liquid that you swallow",
+      "example": "Water is a healthy drink.",
+      "uz": "ichimlik"
+    },
+    {
+      "word": "cook",
+      "pos": "verb",
+      "ipa": "/kʊk/",
+      "definition": "to make food ready to eat by heating it",
+      "example": "My mother cooks dinner every night.",
+      "uz": "pishirmoq"
+    },
+    {
+      "word": "kitchen",
+      "pos": "noun",
+      "ipa": "/ˈkɪtʃɪn/",
+      "definition": "a room where you cook food",
+      "example": "The kitchen smells like fresh bread.",
+      "uz": "oshxona"
+    },
+    {
+      "word": "recipe",
+      "pos": "noun",
+      "ipa": "/ˈresəpi/",
+      "definition": "a list of steps used to cook a dish",
+      "example": "This recipe needs three eggs.",
+      "uz": "retsept"
+    },
+    {
+      "word": "ingredient",
+      "pos": "noun",
+      "ipa": "/ɪnˈɡriːdiənt/",
+      "definition": "one part of a food that you use to cook",
+      "example": "Sugar is an ingredient in this cake.",
+      "uz": "masalliq"
+    },
+    {
+      "word": "plate",
+      "pos": "noun",
+      "ipa": "/pleɪt/",
+      "definition": "a flat dish that you put food on",
+      "example": "Put the rice on your plate.",
+      "uz": "tarelka"
+    },
+    {
+      "word": "cup",
+      "pos": "noun",
+      "ipa": "/kʌp/",
+      "definition": "a small container used for drinking",
+      "example": "I drink tea from a cup.",
+      "uz": "piyola"
+    },
+    {
+      "word": "spoon",
+      "pos": "noun",
+      "ipa": "/spuːn/",
+      "definition": "a tool used to eat soup",
+      "example": "I eat soup with a spoon.",
+      "uz": "qoshiq"
+    },
+    {
+      "word": "fork",
+      "pos": "noun",
+      "ipa": "/fɔːrk/",
+      "definition": "a tool with points used to eat food",
+      "example": "Use a fork to eat your salad.",
+      "uz": "vilka"
+    },
+    {
+      "word": "knife",
+      "pos": "noun",
+      "ipa": "/naɪf/",
+      "definition": "a sharp tool used to cut food",
+      "example": "I cut the meat with a knife.",
+      "uz": "pichoq"
+    },
+    {
+      "word": "delicious",
+      "pos": "adjective",
+      "ipa": "/dɪˈlɪʃəs/",
+      "definition": "having a very good taste",
+      "example": "This soup is delicious.",
+      "uz": "mazali"
+    },
+    {
+      "word": "hungry",
+      "pos": "adjective",
+      "ipa": "/ˈhʌŋɡri/",
+      "definition": "feeling that you want to eat",
+      "example": "I am hungry, let's eat now.",
+      "uz": "och"
+    },
+    {
+      "word": "thirsty",
+      "pos": "adjective",
+      "ipa": "/ˈθɜːrsti/",
+      "definition": "feeling that you want to drink",
+      "example": "She is thirsty after running.",
+      "uz": "chanqagan"
+    },
+    {
+      "word": "pay",
+      "pos": "verb",
+      "ipa": "/peɪ/",
+      "definition": "to give money for something",
+      "example": "We pay for our food after we eat.",
+      "uz": "to'lamoq"
+    },
+    {
+      "word": "bill",
+      "pos": "noun",
+      "ipa": "/bɪl/",
+      "definition": "a paper that shows how much money you must pay",
+      "example": "The waiter brings the bill.",
+      "uz": "chek"
+    }
+  ],
+  "text": "Yesterday, my family went to a restaurant for dinner. We were hungry and thirsty after a long day. The waiter gave us a menu and we looked at the food. I wanted to order fish, but my sister ordered chicken. Our mother chose a cold drink for everyone. When the food came, it smelled delicious. We ate with a fork and a knife, and my little brother used a spoon for his soup. Everyone had a clean plate and a cup of water. My father likes to cook at home too. He has a small kitchen with many pots. He often finds a new recipe on the internet and buys every ingredient at the shop. Cooking together is fun for our family. At the restaurant, we finished all our food because it was so delicious. At the end, the waiter brought the bill. My father paid for the dinner. We said thank you and walked home happy. I love eating delicious food with my family.",
+  "questions": [
+    {
+      "question": "Why did the family go to a restaurant?",
+      "options": [
+        "For breakfast",
+        "For dinner",
+        "For lunch",
+        "For a party"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who gave the family a menu?",
+      "options": [
+        "The cook",
+        "The waiter",
+        "The father",
+        "The mother"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the sister order?",
+      "options": [
+        "Fish",
+        "Chicken",
+        "Soup",
+        "Rice"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the little brother use for his soup?",
+      "options": [
+        "A fork",
+        "A knife",
+        "A spoon",
+        "A plate"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where does the father like to cook?",
+      "options": [
+        "At the restaurant",
+        "At his friend's house",
+        "At home",
+        "At school"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who paid the bill at the restaurant?",
+      "options": [
+        "The mother",
+        "The father",
+        "The sister",
+        "The waiter"
+      ],
+      "answer": 1
+    }
+  ]
+}

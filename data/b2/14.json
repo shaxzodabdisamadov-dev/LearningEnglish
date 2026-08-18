@@ -1,0 +1,229 @@
+{
+  "id": 14,
+  "topic": "International Relations and Diplomacy",
+  "words": [
+    {
+      "word": "diplomacy",
+      "pos": "noun",
+      "ipa": "/dɪˈploʊməsi/",
+      "definition": "the practice of managing relations between countries through negotiation rather than force",
+      "example": "Skilled diplomacy averted what could have become a costly military confrontation.",
+      "uz": "diplomatiya"
+    },
+    {
+      "word": "sovereignty",
+      "pos": "noun",
+      "ipa": "/ˈsɒvrənti/",
+      "definition": "a state's authority to govern itself without outside interference",
+      "example": "Any peace agreement must respect the sovereignty of both nations involved.",
+      "uz": "suverenitet (davlat mustaqilligi)"
+    },
+    {
+      "word": "sanction",
+      "pos": "noun",
+      "ipa": "/ˈsæŋkʃn/",
+      "definition": "an official penalty or restriction imposed on a country to force compliance with international rules",
+      "example": "The United Nations imposed economic sanctions in response to the invasion.",
+      "uz": "sanksiya (majburlash uchun cheklov)"
+    },
+    {
+      "word": "treaty",
+      "pos": "noun",
+      "ipa": "/ˈtriːti/",
+      "definition": "a formal, legally binding agreement between two or more countries",
+      "example": "The two nations signed a treaty establishing new trade terms.",
+      "uz": "davlatlararo rasmiy shartnoma"
+    },
+    {
+      "word": "alliance",
+      "pos": "noun",
+      "ipa": "/əˈlaɪəns/",
+      "definition": "a formal partnership between countries who agree to support one another",
+      "example": "The military alliance was formed to deter aggression in the region.",
+      "uz": "ittifoq"
+    },
+    {
+      "word": "negotiate",
+      "pos": "verb",
+      "ipa": "/nɪˈɡoʊʃieɪt/",
+      "definition": "to discuss issues formally in order to reach a mutual agreement",
+      "example": "Diplomats spent months negotiating the terms of the ceasefire.",
+      "uz": "kelishuvga erishish uchun muzokara olib bormoq"
+    },
+    {
+      "word": "escalate",
+      "pos": "verb",
+      "ipa": "/ˈeskəleɪt/",
+      "definition": "to become or make more serious, intense, or dangerous",
+      "example": "Tensions along the border threatened to escalate into open conflict.",
+      "uz": "kuchayib, keskinlashib bormoq"
+    },
+    {
+      "word": "mediate",
+      "pos": "verb",
+      "ipa": "/ˈmiːdieɪt/",
+      "definition": "to act as an intermediary to help opposing sides reach a settlement",
+      "example": "A neutral country was asked to mediate the dispute between the two governments.",
+      "uz": "vositachilik qilib murosaga keltirmoq"
+    },
+    {
+      "word": "bilateral",
+      "pos": "adjective",
+      "ipa": "/ˌbaɪˈlætərəl/",
+      "definition": "involving two countries or parties, typically in a formal agreement",
+      "example": "The two leaders discussed a new bilateral trade agreement.",
+      "uz": "ikki tomonlama"
+    },
+    {
+      "word": "leverage",
+      "pos": "noun",
+      "ipa": "/ˈliːvərɪdʒ/",
+      "definition": "influence or power used to achieve a desired outcome",
+      "example": "Economic dependence gave the larger country significant leverage in the negotiations.",
+      "uz": "maqsadga erishish uchun ishlatiladigan ta'sir vositasi"
+    },
+    {
+      "word": "autonomy",
+      "pos": "noun",
+      "ipa": "/ɔːˈtɒnəmi/",
+      "definition": "the right or condition of self-governance",
+      "example": "The region has been granted a degree of autonomy while remaining part of the larger state.",
+      "uz": "o'z-o'zini boshqarish huquqi"
+    },
+    {
+      "word": "coalition",
+      "pos": "noun",
+      "ipa": "/ˌkoʊəˈlɪʃn/",
+      "definition": "a temporary alliance of groups or countries formed to achieve a shared goal",
+      "example": "An international coalition was assembled to respond to the humanitarian crisis.",
+      "uz": "umumiy maqsad uchun tuzilgan vaqtinchalik ittifoq"
+    },
+    {
+      "word": "deterrence",
+      "pos": "noun",
+      "ipa": "/dɪˈtɜːrəns/",
+      "definition": "the prevention of an action by instilling fear of the consequences",
+      "example": "Nuclear deterrence has long been a central strategy in international security policy.",
+      "uz": "oqibatlaridan qo'rqitib oldini olish"
+    },
+    {
+      "word": "ratify",
+      "pos": "verb",
+      "ipa": "/ˈrætɪfaɪ/",
+      "definition": "to give formal approval to an agreement, making it officially valid",
+      "example": "Parliament must ratify the treaty before it can take effect.",
+      "uz": "shartnomani rasman tasdiqlamoq"
+    },
+    {
+      "word": "hegemony",
+      "pos": "noun",
+      "ipa": "/hɪˈdʒeməni/",
+      "definition": "the dominant influence or control that one state exercises over others",
+      "example": "Historians debate how long American hegemony in global affairs will persist.",
+      "uz": "bir davlatning boshqalar ustidan hukmronligi"
+    },
+    {
+      "word": "envoy",
+      "pos": "noun",
+      "ipa": "/ˈenvɔɪ/",
+      "definition": "a diplomat sent on a special mission to represent their government",
+      "example": "The president dispatched a special envoy to open lines of communication.",
+      "uz": "maxsus topshiriq bilan yuborilgan elchi"
+    },
+    {
+      "word": "unilateral",
+      "pos": "adjective",
+      "ipa": "/ˌjuːnɪˈlætərəl/",
+      "definition": "carried out by one country or party alone, without agreement from others",
+      "example": "The unilateral decision to withdraw from the agreement angered its allies.",
+      "uz": "bir tomonning o'zi qaror qabul qiladigan"
+    },
+    {
+      "word": "geopolitical",
+      "pos": "adjective",
+      "ipa": "/ˌdʒiːoʊpəˈlɪtɪkl/",
+      "definition": "relating to politics as shaped by geographic and economic factors between nations",
+      "example": "Control of the shipping lane carries enormous geopolitical significance.",
+      "uz": "geosiyosiy"
+    },
+    {
+      "word": "ceasefire",
+      "pos": "noun",
+      "ipa": "/ˈsiːsfaɪər/",
+      "definition": "an agreement to stop fighting, often temporarily",
+      "example": "Both sides agreed to a fragile ceasefire after weeks of negotiation.",
+      "uz": "o'q-otishmani to'xtatish kelishuvi"
+    },
+    {
+      "word": "reconciliation",
+      "pos": "noun",
+      "ipa": "/ˌrekənˌsɪliˈeɪʃn/",
+      "definition": "the process of restoring friendly relations between parties after conflict",
+      "example": "True reconciliation between the former rivals took decades of patient diplomacy.",
+      "uz": "nizodan keyin yarashuv"
+    }
+  ],
+  "text": "Were international relations governed purely by self-interest, cooperation between nations would rarely, if ever, occur. Yet history demonstrates that even fierce rivals can be persuaded to negotiate when the alternative — allowing a conflict to escalate unchecked — proves too costly. Diplomacy remains the primary mechanism through which sovereign states resolve disputes without resorting to force. A skilled envoy, for instance, can mediate between hostile parties, laying the groundwork for a ceasefire that might otherwise seem unattainable. Not only do bilateral talks build trust between two nations, but broader coalitions and alliances also create the collective leverage needed to enforce sanctions against those who violate international norms. Nevertheless, tensions inevitably arise when one nation acts unilaterally, disregarding the autonomy or sovereignty of its neighbors in pursuit of regional hegemony. Such actions can undermine painstakingly negotiated treaties and complicate the delicate process of reconciliation. Geopolitical rivalries, moreover, rarely resolve themselves; they require sustained deterrence alongside genuine willingness to compromise. Only when nations ratify agreements in good faith — rather than treating them as mere formalities — can lasting peace be achieved. In this sense, diplomacy is not weakness but perhaps the most demanding form of strength a nation can exercise.",
+  "questions": [
+    {
+      "question": "What is the main argument of the passage?",
+      "options": [
+        "Nations cooperate only when forced by international law.",
+        "Diplomacy, despite its challenges, remains essential for resolving conflicts and requires genuine commitment to succeed.",
+        "Military deterrence is more effective than diplomacy.",
+        "Sanctions are the only reliable diplomatic tool."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what role does an envoy play in international relations?",
+      "options": [
+        "Enforcing economic sanctions",
+        "Mediating between hostile parties to lay groundwork for agreements such as ceasefires",
+        "Ratifying treaties on behalf of parliament",
+        "Declaring war on behalf of a nation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest happens when a nation acts unilaterally?",
+      "options": [
+        "It strengthens international alliances.",
+        "It can undermine sovereignty, treaties, and the reconciliation process.",
+        "It always leads to a ceasefire.",
+        "It increases the autonomy of other nations."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about the author's view of formal agreements that are not upheld in good faith?",
+      "options": [
+        "The author believes such agreements are sufficient for lasting peace.",
+        "The author suggests such agreements are mere formalities that fail to secure lasting peace.",
+        "The author believes ratification is unnecessary for treaties.",
+        "The author considers formalities more important than genuine commitment."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's tone in the passage can best be described as:",
+      "options": [
+        "cynical about the value of diplomacy",
+        "thoughtful and ultimately affirming of diplomacy's importance",
+        "purely descriptive with no argument",
+        "dismissive of geopolitical rivalries"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what is required to resolve geopolitical rivalries?",
+      "options": [
+        "Sustained deterrence combined with genuine willingness to compromise",
+        "Unilateral action by the stronger nation",
+        "Ignoring sovereignty concerns",
+        "Avoiding all forms of negotiation"
+      ],
+      "answer": 0
+    }
+  ]
+}

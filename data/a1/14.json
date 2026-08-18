@@ -1,0 +1,229 @@
+{
+  "id": 14,
+  "topic": "Shopping and Money",
+  "words": [
+    {
+      "word": "shop",
+      "pos": "noun",
+      "ipa": "/ʃɒp/",
+      "definition": "a small place where people buy things",
+      "example": "There is a shop near my house.",
+      "uz": "do'kon"
+    },
+    {
+      "word": "buy",
+      "pos": "verb",
+      "ipa": "/baɪ/",
+      "definition": "to get something by paying money for it",
+      "example": "I want to buy a new shirt.",
+      "uz": "sotib olmoq"
+    },
+    {
+      "word": "sell",
+      "pos": "verb",
+      "ipa": "/sel/",
+      "definition": "to give something to someone in exchange for money",
+      "example": "The shop sells fruit and vegetables.",
+      "uz": "sotmoq"
+    },
+    {
+      "word": "price",
+      "pos": "noun",
+      "ipa": "/praɪs/",
+      "definition": "the amount of money you must pay for something",
+      "example": "The price of this bag is high.",
+      "uz": "narx"
+    },
+    {
+      "word": "money",
+      "pos": "noun",
+      "ipa": "/ˈmʌni/",
+      "definition": "coins and paper that people use to buy things",
+      "example": "I don't have much money today.",
+      "uz": "pul"
+    },
+    {
+      "word": "pay",
+      "pos": "verb",
+      "ipa": "/peɪ/",
+      "definition": "to give money for something",
+      "example": "I always pay for my food.",
+      "uz": "to'lamoq"
+    },
+    {
+      "word": "cheap",
+      "pos": "adjective",
+      "ipa": "/tʃiːp/",
+      "definition": "low in price, not costing much money",
+      "example": "This market sells cheap vegetables.",
+      "uz": "arzon"
+    },
+    {
+      "word": "expensive",
+      "pos": "adjective",
+      "ipa": "/ɪkˈspensɪv/",
+      "definition": "high in price, costing a lot of money",
+      "example": "That car is very expensive.",
+      "uz": "qimmat"
+    },
+    {
+      "word": "cash",
+      "pos": "noun",
+      "ipa": "/kæʃ/",
+      "definition": "money in the form of coins and paper notes",
+      "example": "I paid in cash, not by card.",
+      "uz": "naqd pul"
+    },
+    {
+      "word": "coin",
+      "pos": "noun",
+      "ipa": "/kɔɪn/",
+      "definition": "a small round piece of metal money",
+      "example": "I found a coin on the floor.",
+      "uz": "tanga"
+    },
+    {
+      "word": "bag",
+      "pos": "noun",
+      "ipa": "/bæɡ/",
+      "definition": "a container made of cloth, paper, or plastic for carrying things",
+      "example": "She put the apples in a bag.",
+      "uz": "sumka"
+    },
+    {
+      "word": "market",
+      "pos": "noun",
+      "ipa": "/ˈmɑːrkɪt/",
+      "definition": "a place where people buy and sell food and other things",
+      "example": "We buy fresh fish at the market.",
+      "uz": "bozor"
+    },
+    {
+      "word": "customer",
+      "pos": "noun",
+      "ipa": "/ˈkʌstəmər/",
+      "definition": "a person who buys something from a shop",
+      "example": "The shop has many customers today.",
+      "uz": "mijoz"
+    },
+    {
+      "word": "wallet",
+      "pos": "noun",
+      "ipa": "/ˈwɒlɪt/",
+      "definition": "a small flat case for carrying money and cards",
+      "example": "He keeps his money in his wallet.",
+      "uz": "hamyon"
+    },
+    {
+      "word": "discount",
+      "pos": "noun",
+      "ipa": "/ˈdɪskaʊnt/",
+      "definition": "a lower price than usual",
+      "example": "I got a big discount on these shoes.",
+      "uz": "chegirma"
+    },
+    {
+      "word": "gift",
+      "pos": "noun",
+      "ipa": "/ɡɪft/",
+      "definition": "something that you give to someone, often for free",
+      "example": "I bought a gift for my mother.",
+      "uz": "sovg'a"
+    },
+    {
+      "word": "cost",
+      "pos": "verb",
+      "ipa": "/kɒst/",
+      "definition": "to have a certain price",
+      "example": "This book costs five dollars.",
+      "uz": "turmoq"
+    },
+    {
+      "word": "need",
+      "pos": "verb",
+      "ipa": "/niːd/",
+      "definition": "to have to have something because it is necessary",
+      "example": "I need new shoes for winter.",
+      "uz": "kerak bo'lmoq"
+    },
+    {
+      "word": "want",
+      "pos": "verb",
+      "ipa": "/wɒnt/",
+      "definition": "to wish to have or do something",
+      "example": "She wants a new phone.",
+      "uz": "xohlamoq"
+    },
+    {
+      "word": "spend",
+      "pos": "verb",
+      "ipa": "/spend/",
+      "definition": "to use money to pay for things",
+      "example": "I spend too much money on clothes.",
+      "uz": "sarflamoq"
+    }
+  ],
+  "text": "Yesterday, I went shopping at the market near my house. I wanted to buy some fruit and a gift for my sister's birthday. At the market, many shops sell fresh food. I asked about the price of some apples, and they were cheap, so I bought a bag of apples. Then I saw a beautiful scarf, but it was too expensive. I only had a little money in my wallet, so I couldn't buy it. I paid for the apples in cash, with coins from my pocket. The customer next to me used a discount card, so she got a lower price. I really needed a new bag too, but I didn't want to spend too much money that day. At another shop, I found a small, cheap gift for my sister. It didn't cost much, but she will love it. I think it is important to think carefully before you buy something, so you don't spend all your money too fast.",
+  "questions": [
+    {
+      "question": "Where did the writer go shopping?",
+      "options": [
+        "A big city mall",
+        "The market near their house",
+        "An online shop",
+        "A gift shop only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why didn't the writer buy the scarf?",
+      "options": [
+        "It was too expensive",
+        "It was ugly",
+        "The shop was closed",
+        "It was already sold"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How did the writer pay for the apples?",
+      "options": [
+        "With a card",
+        "With a discount coupon",
+        "In cash",
+        "By check"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did the customer next to the writer use?",
+      "options": [
+        "A wallet",
+        "A discount card",
+        "A gift card",
+        "A shopping bag"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the writer buy for the sister?",
+      "options": [
+        "A bag of apples",
+        "An expensive scarf",
+        "A small, cheap gift",
+        "A new wallet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the writer think is important?",
+      "options": [
+        "Buying expensive things",
+        "Thinking carefully before buying",
+        "Using only cash",
+        "Shopping every day"
+      ],
+      "answer": 1
+    }
+  ]
+}

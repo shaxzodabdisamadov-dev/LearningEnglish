@@ -1,0 +1,229 @@
+{
+  "id": 12,
+  "topic": "Psychology and Human Behavior",
+  "words": [
+    {
+      "word": "cognitive",
+      "pos": "adjective",
+      "ipa": "/ˈkɒɡnɪtɪv/",
+      "definition": "relating to mental processes such as thinking, memory, and reasoning",
+      "example": "Cognitive development in early childhood shapes how we solve problems later in life.",
+      "uz": "kognitiv (fikrlash, xotira bilan bog'liq)"
+    },
+    {
+      "word": "bias",
+      "pos": "noun",
+      "ipa": "/ˈbaɪəs/",
+      "definition": "an unfair tendency to favor one idea, person, or group over another",
+      "example": "Confirmation bias leads people to seek out information that supports what they already believe.",
+      "uz": "noxolis moyillik"
+    },
+    {
+      "word": "subconscious",
+      "pos": "adjective",
+      "ipa": "/ˌsʌbˈkɒnʃəs/",
+      "definition": "occurring in the mind without one's full awareness",
+      "example": "Advertisers often try to influence consumers on a subconscious level.",
+      "uz": "ong ostida sodir bo'ladigan"
+    },
+    {
+      "word": "rationalize",
+      "pos": "verb",
+      "ipa": "/ˈræʃənəlaɪz/",
+      "definition": "to invent a logical-sounding explanation for behavior that is actually driven by other motives",
+      "example": "He rationalized his procrastination by claiming he worked better under pressure.",
+      "uz": "haqiqiy sababni yashirib, mantiqiy izoh to'qib chiqarmoq"
+    },
+    {
+      "word": "conform",
+      "pos": "verb",
+      "ipa": "/kənˈfɔːrm/",
+      "definition": "to behave according to socially accepted conventions or expectations",
+      "example": "Teenagers often feel pressure to conform to their peer group's norms.",
+      "uz": "ijtimoiy normalarga moslashib harakat qilmoq"
+    },
+    {
+      "word": "innate",
+      "pos": "adjective",
+      "ipa": "/ɪˈneɪt/",
+      "definition": "present from birth rather than acquired through experience",
+      "example": "Psychologists debate whether language ability is innate or entirely learned.",
+      "uz": "tug'ma"
+    },
+    {
+      "word": "empathy",
+      "pos": "noun",
+      "ipa": "/ˈempəθi/",
+      "definition": "the capacity to understand and share the feelings of another person",
+      "example": "Good therapists show genuine empathy toward their clients' struggles.",
+      "uz": "boshqa odamning hissiyotini tushunish qobiliyati"
+    },
+    {
+      "word": "introspection",
+      "pos": "noun",
+      "ipa": "/ˌɪntrəˈspekʃn/",
+      "definition": "the examination of one's own thoughts and feelings",
+      "example": "Journaling encourages introspection and helps people process difficult emotions.",
+      "uz": "o'z ichki dunyosini kuzatish"
+    },
+    {
+      "word": "resilience",
+      "pos": "noun",
+      "ipa": "/rɪˈzɪliəns/",
+      "definition": "the ability to recover quickly from setbacks or adversity",
+      "example": "Children who develop resilience are better equipped to cope with future stress.",
+      "uz": "qiyinchiliklardan tez tiklanish qobiliyati"
+    },
+    {
+      "word": "perception",
+      "pos": "noun",
+      "ipa": "/pərˈsepʃn/",
+      "definition": "the way in which something is regarded, understood, or interpreted",
+      "example": "Our perception of risk is often distorted by recent, vivid events.",
+      "uz": "idrok, qabul qilish tarzi"
+    },
+    {
+      "word": "motivation",
+      "pos": "noun",
+      "ipa": "/ˌmoʊtɪˈveɪʃn/",
+      "definition": "the underlying reason or drive that causes a person to act",
+      "example": "Intrinsic motivation tends to produce more lasting effort than external rewards.",
+      "uz": "harakatga undovchi ichki sabab"
+    },
+    {
+      "word": "temperament",
+      "pos": "noun",
+      "ipa": "/ˈtempərəmənt/",
+      "definition": "a person's characteristic nature, especially in terms of mood and behavior",
+      "example": "Even as infants, individuals display distinct temperaments, from calm to easily upset.",
+      "uz": "mizoj, xarakter-tabiat"
+    },
+    {
+      "word": "reinforce",
+      "pos": "verb",
+      "ipa": "/ˌriːɪnˈfɔːrs/",
+      "definition": "to strengthen a behavior or belief, often through reward or repetition",
+      "example": "Praising a child's effort tends to reinforce persistence more than praising talent.",
+      "uz": "xatti-harakatni mustahkamlamoq"
+    },
+    {
+      "word": "instinctive",
+      "pos": "adjective",
+      "ipa": "/ɪnˈstɪŋktɪv/",
+      "definition": "arising from a natural impulse rather than conscious thought",
+      "example": "Flinching at a loud noise is an instinctive reaction, not a learned one.",
+      "uz": "tabiiy sezgi asosida yuzaga keladigan"
+    },
+    {
+      "word": "manipulate",
+      "pos": "verb",
+      "ipa": "/məˈnɪpjuleɪt/",
+      "definition": "to influence or control someone unfairly or deceptively",
+      "example": "Some social media platforms are designed to manipulate users into scrolling longer.",
+      "uz": "birovni adolatsiz yoki aldov yo'li bilan boshqarmoq"
+    },
+    {
+      "word": "suppress",
+      "pos": "verb",
+      "ipa": "/səˈpres/",
+      "definition": "to consciously hold back or restrain an emotion or impulse",
+      "example": "Constantly suppressing anger can eventually lead to greater stress and health problems.",
+      "uz": "his-tuyg'uni ongli ravishda bostirmoq"
+    },
+    {
+      "word": "inhibition",
+      "pos": "noun",
+      "ipa": "/ˌɪnhɪˈbɪʃn/",
+      "definition": "a psychological restraint that prevents someone from acting freely or naturally",
+      "example": "Alcohol is known to lower people's inhibitions, sometimes leading to reckless behavior.",
+      "uz": "erkin harakat qilishga to'sqinlik qiluvchi ichki to'siq"
+    },
+    {
+      "word": "stimulus",
+      "pos": "noun",
+      "ipa": "/ˈstɪmjələs/",
+      "definition": "something that provokes a physical or mental response",
+      "example": "Even a subtle stimulus, like a familiar smell, can trigger a vivid memory.",
+      "uz": "javob reaksiyasini keltirib chiqaruvchi qo'zg'atuvchi"
+    },
+    {
+      "word": "subjective",
+      "pos": "adjective",
+      "ipa": "/səbˈdʒektɪv/",
+      "definition": "influenced by personal feelings or opinions rather than objective facts",
+      "example": "Happiness is inherently subjective, varying enormously from person to person.",
+      "uz": "shaxsiy fikrga asoslangan"
+    },
+    {
+      "word": "deviate",
+      "pos": "verb",
+      "ipa": "/ˈdiːvieɪt/",
+      "definition": "to differ or depart from a norm, standard, or expected course",
+      "example": "Individuals who deviate from social norms are sometimes viewed with suspicion.",
+      "uz": "me'yordan chetga chiqmoq"
+    }
+  ],
+  "text": "Human behavior, for all its apparent unpredictability, follows patterns that psychologists have spent over a century attempting to decode. Rarely do people act from pure logic alone; rather, subconscious motivation, innate temperament, and learned habits interact in ways that even the individuals themselves struggle to explain. Consider confirmation bias: rather than objectively weighing evidence, people instinctively seek information that reinforces what they already believe, then rationalize any contradictions away. Such tendencies are not signs of stupidity but reflect how perception itself is inherently subjective, shaped by prior experience as much as by present stimulus. Social pressure compounds this further — few people wish to deviate from the group, and so most conform, sometimes suppressing genuine opinions to avoid conflict. Nevertheless, not all behavioral tendencies are limiting. Empathy, for instance, allows individuals to connect meaningfully with others, while resilience enables them to recover from adversity that might otherwise overwhelm a less adaptable temperament. Increasingly, technology companies have learned to manipulate these very psychological mechanisms, exploiting cognitive biases and lowered inhibitions to capture attention. Understanding such dynamics through honest introspection is, therefore, not merely an academic exercise but an essential form of self-defense in an era engineered to influence us.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Human behavior is entirely random and cannot be studied.",
+        "Human behavior arises from a complex interplay of subconscious, social, and cognitive factors, which can be understood and even exploited.",
+        "Empathy is the only trait that determines behavior.",
+        "Confirmation bias proves that all human beliefs are false."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what does confirmation bias cause people to do?",
+      "options": [
+        "Seek out evidence that supports existing beliefs and rationalize contradictions",
+        "Always change their opinions when presented with new evidence",
+        "Avoid interacting with people who disagree with them",
+        "Become more empathetic toward others"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the passage suggest about the relationship between social pressure and individual opinion?",
+      "options": [
+        "Social pressure has no real effect on behavior.",
+        "People often conform and suppress their true opinions to avoid conflict with the group.",
+        "Deviating from group norms is always rewarded socially.",
+        "Empathy prevents people from ever conforming."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about the author's view of technology companies mentioned in the passage?",
+      "options": [
+        "The author praises them for improving cognitive function.",
+        "The author is critical of how they exploit psychological weaknesses for engagement.",
+        "The author believes they have no influence on user behavior.",
+        "The author considers their methods purely beneficial."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's tone in the passage is best described as:",
+      "options": [
+        "purely humorous and lighthearted",
+        "analytical and somewhat cautionary",
+        "entirely optimistic about human rationality",
+        "indifferent and purely factual without any judgment"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why is introspection considered important?",
+      "options": [
+        "It has no practical value beyond academic study.",
+        "It serves as a form of self-defense against manipulation in a world designed to influence behavior.",
+        "It eliminates all cognitive biases permanently.",
+        "It replaces the need for empathy."
+      ],
+      "answer": 1
+    }
+  ]
+}

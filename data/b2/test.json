@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "question": "Fill in the blank: After years of therapy, she finally managed to ___ her difficult childhood and move forward with confidence.",
+      "options": [
+        "weigh up",
+        "come to terms with",
+        "rule out",
+        "get away with"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which definition best matches the word 'articulate' (adjective)?",
+      "options": [
+        "deliberately vague",
+        "able to express ideas clearly and fluently",
+        "prone to exaggeration",
+        "reluctant to speak in public"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Fill in the blank: It would be sheer ___ for a politician to preach honesty in public while secretly taking bribes.",
+      "options": [
+        "integrity",
+        "accountability",
+        "hypocrisy",
+        "impartiality"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which definition best matches the word 'fallacy'?",
+      "options": [
+        "a widely accepted scientific law",
+        "a flawed argument that appears logical but isn't",
+        "a personal opinion stated as fact",
+        "a proven mathematical formula"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Fill in the blank: Submitting someone else's essay as your own work is a serious case of ___ that can lead to expulsion.",
+      "options": [
+        "methodology",
+        "scholarship",
+        "curriculum",
+        "plagiarism"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which word is closest in meaning to 'delegate' (as a verb)?",
+      "options": [
+        "to assign a task or responsibility to someone else",
+        "to complete every task personally",
+        "to postpone a decision indefinitely",
+        "to criticize someone's performance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Fill in the blank: Management chose to ___ the safety violations because fixing them would have been costly.",
+      "options": [
+        "speak up about",
+        "follow up on",
+        "step up to",
+        "turn a blind eye to"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which definition best matches 'gentrification'?",
+      "options": [
+        "the equal distribution of wealth across a city",
+        "the renovation of a poor neighborhood that raises property values and displaces original residents",
+        "government funding for public housing projects",
+        "the abandonment of urban areas by businesses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which word is most nearly OPPOSITE in meaning to 'scarcity'?",
+      "options": [
+        "famine",
+        "shortage",
+        "surplus",
+        "deficiency"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which definition best matches 'counterfeit'?",
+      "options": [
+        "a genuine branded product with a warranty",
+        "a product that has been recalled by its manufacturer",
+        "an imitation product made to deceive buyers into thinking it's genuine",
+        "a product sold at a discounted price"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Fill in the blank: The hospice offers ___ care designed to relieve suffering rather than cure the underlying disease.",
+      "options": [
+        "terminal",
+        "holistic",
+        "palliative",
+        "equitable"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which definition best matches 'rationalize'?",
+      "options": [
+        "to admit one's mistakes openly and without excuse",
+        "to invent seemingly logical reasons to justify one's actions or feelings",
+        "to think about a problem without any personal bias",
+        "to act purely on instinct without any reasoning"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which definition best matches 'xenophobia'?",
+      "options": [
+        "enthusiasm for learning about foreign cultures",
+        "the process of becoming a naturalized citizen",
+        "fear or dislike of people from other countries",
+        "a blend of multiple cultures within one society"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which definition best matches 'sovereignty'?",
+      "options": [
+        "a formal agreement signed between two or more countries",
+        "a nation's authority to govern itself without outside interference",
+        "military threats used to prevent conflict",
+        "an official diplomat sent to represent a country abroad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which word is closest in meaning to 'mitigate'?",
+      "options": [
+        "to make a problem more severe",
+        "to completely eliminate a threat",
+        "to lessen the severity of something",
+        "to ignore a growing issue"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Fill in the blank: Engineers carefully calculated the spacecraft's ___ to ensure it would enter orbit at exactly the right angle.",
+      "options": [
+        "discrepancy",
+        "threshold",
+        "trajectory",
+        "feasibility"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Fill in the blank: Critics warn that scientists should not ___ the human genome without fully understanding the long-term consequences.",
+      "options": [
+        "tamper with",
+        "safeguard",
+        "eradicate",
+        "mitigate"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which word is closest in meaning to 'infiltrate'?",
+      "options": [
+        "to openly attack a system",
+        "to secretly gain access to an organization or system",
+        "to permanently shut down a network",
+        "to publicly announce a security flaw"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which word is closest in meaning to 'sensationalize'?",
+      "options": [
+        "to fact-check information thoroughly before publishing",
+        "to present a story in an exaggerated, shocking way to attract attention",
+        "to retract a false story publicly",
+        "to present the news in a neutral, balanced manner"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which definition best matches 'verdict'?",
+      "options": [
+        "the opening statement made by a lawyer",
+        "a written law passed by a legislature",
+        "the formal decision made by a jury or judge in a trial",
+        "the punishment given to a convicted defendant"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which definition best matches 'polarize'?",
+      "options": [
+        "to cause people to divide into two sharply opposing groups",
+        "to unite people around a shared, common goal",
+        "to keep one's political opinions private",
+        "to reach a compromise that satisfies everyone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which definition best matches 'tariff'?",
+      "options": [
+        "a fixed exchange rate between two currencies",
+        "a tax imposed on imported or exported goods",
+        "a government subsidy paid to farmers",
+        "the total amount of debt a country owes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which definition best matches 'patent'?",
+      "options": [
+        "a brand name or logo protected by law",
+        "a fee paid to license someone else's idea",
+        "an unproven, purely experimental idea",
+        "legal protection giving an inventor exclusive rights to their invention"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which definition best matches 'epistemology'?",
+      "options": [
+        "the branch of philosophy concerned with the nature and limits of knowledge",
+        "the study of moral values and ethical behavior",
+        "the study of the nature of existence and reality",
+        "the study of common errors in logical reasoning"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which word is most nearly OPPOSITE in meaning to 'avant-garde'?",
+      "options": [
+        "provocative",
+        "conventional",
+        "subversive",
+        "nuanced"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which definition best matches 'foreshadow'?",
+      "options": [
+        "to summarize events that have already occurred in a story",
+        "to describe a character's appearance in great detail",
+        "to hint at or give an early sign of events that will happen later in a story",
+        "to resolve the main conflict of a narrative"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Fill in the blank: In the final week before the marathon, the coach told athletes to ___ their training to allow their bodies to recover.",
+      "options": [
+        "taper",
+        "exert",
+        "optimize",
+        "sustain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which definition best matches 'grassroots'?",
+      "options": [
+        "a movement organized entirely by government officials",
+        "a movement originating from ordinary people at a local level rather than from leadership",
+        "a movement funded exclusively by large corporations",
+        "a movement limited to activity conducted online"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Fill in the blank: Rising sea levels continue to ___ on coastal communities, forcing many residents to relocate.",
+      "options": [
+        "fortify",
+        "encroach",
+        "deplete",
+        "offset"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which definition best matches 'upskill'?",
+      "options": [
+        "to lose one's job due to automation",
+        "to work in a series of short-term freelance jobs",
+        "to learn new skills in order to keep up with changing job demands",
+        "to reduce a company's staff numbers"
+      ],
+      "answer": 2
+    }
+  ]
+}

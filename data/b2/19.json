@@ -1,0 +1,229 @@
+{
+  "id": 19,
+  "topic": "Media Literacy and Journalism Ethics",
+  "words": [
+    {
+      "word": "bias",
+      "pos": "noun",
+      "ipa": "/ˈbaɪəs/",
+      "definition": "a tendency to favor one perspective or group unfairly",
+      "example": "The report was criticized for showing clear political bias.",
+      "uz": "tarafkashlik"
+    },
+    {
+      "word": "credible",
+      "pos": "adjective",
+      "ipa": "/ˈkrɛdəbl/",
+      "definition": "able to be believed; trustworthy",
+      "example": "Journalists must rely on credible sources before publishing a story.",
+      "uz": "ishonchli"
+    },
+    {
+      "word": "fabricate",
+      "pos": "verb",
+      "ipa": "/ˈfæbrɪkeɪt/",
+      "definition": "to invent false information and present it as true",
+      "example": "The reporter was fired for fabricating quotes in his articles.",
+      "uz": "soxta ma'lumot to'qib chiqarmoq"
+    },
+    {
+      "word": "sensationalize",
+      "pos": "verb",
+      "ipa": "/sɛnˈsæʃənəlaɪz/",
+      "definition": "to present information in an exaggerated way to provoke excitement or shock",
+      "example": "Some tabloids sensationalize minor incidents to attract readers.",
+      "uz": "bo'rttirib, hangoma qilib ko'rsatmoq"
+    },
+    {
+      "word": "objectivity",
+      "pos": "noun",
+      "ipa": "/ˌɒbdʒɪkˈtɪvəti/",
+      "definition": "the quality of presenting facts without personal bias or opinion",
+      "example": "Editors expect a certain degree of objectivity in news reporting.",
+      "uz": "xolislik"
+    },
+    {
+      "word": "scrutiny",
+      "pos": "noun",
+      "ipa": "/ˈskruːtɪni/",
+      "definition": "close and careful examination",
+      "example": "Public figures' statements are subject to intense media scrutiny.",
+      "uz": "sinchiklab tekshirish, nazorat"
+    },
+    {
+      "word": "disseminate",
+      "pos": "verb",
+      "ipa": "/dɪˈsɛmɪneɪt/",
+      "definition": "to spread information widely to many people",
+      "example": "Social media allows false claims to be disseminated within seconds.",
+      "uz": "keng tarqatmoq"
+    },
+    {
+      "word": "discredit",
+      "pos": "verb",
+      "ipa": "/dɪsˈkrɛdɪt/",
+      "definition": "to damage the reputation or believability of someone or something",
+      "example": "The politician tried to discredit the journalist's investigation.",
+      "uz": "obro'sizlantirmoq"
+    },
+    {
+      "word": "accountable",
+      "pos": "adjective",
+      "ipa": "/əˈkaʊntəbl/",
+      "definition": "required to explain or justify one's actions; responsible",
+      "example": "News outlets should be held accountable for factual errors.",
+      "uz": "javobgar"
+    },
+    {
+      "word": "skew",
+      "pos": "verb",
+      "ipa": "/skjuː/",
+      "definition": "to distort or present something unfairly in a particular direction",
+      "example": "Selective editing can skew the public's perception of an event.",
+      "uz": "buzib, noto'g'ri ko'rsatmoq"
+    },
+    {
+      "word": "retraction",
+      "pos": "noun",
+      "ipa": "/rɪˈtrækʃən/",
+      "definition": "a public statement withdrawing a previously published claim",
+      "example": "The newspaper issued a retraction after the story proved false.",
+      "uz": "rasman rad etish (bekor qilish)"
+    },
+    {
+      "word": "integrity",
+      "pos": "noun",
+      "ipa": "/ɪnˈtɛɡrəti/",
+      "definition": "the quality of being honest and adhering to strong moral principles",
+      "example": "Journalistic integrity requires verifying facts before publication.",
+      "uz": "halollik, poklik"
+    },
+    {
+      "word": "discernment",
+      "pos": "noun",
+      "ipa": "/dɪˈsɜːnmənt/",
+      "definition": "the ability to judge well and distinguish accurately between things",
+      "example": "Reading news critically requires a great deal of discernment.",
+      "uz": "teran farqlay olish qobiliyati"
+    },
+    {
+      "word": "echo chamber",
+      "pos": "noun",
+      "ipa": "/ˈɛkəʊ ˌtʃeɪmbər/",
+      "definition": "an environment where one repeatedly encounters opinions that reinforce their own",
+      "example": "Social media algorithms can trap users inside an echo chamber.",
+      "uz": "bir xil fikrlar aylanadigan muhit"
+    },
+    {
+      "word": "misleading",
+      "pos": "adjective",
+      "ipa": "/mɪsˈliːdɪŋ/",
+      "definition": "giving a false or wrong impression",
+      "example": "The headline was misleading and did not reflect the article's content.",
+      "uz": "chalg'ituvchi, noto'g'ri taassurot qoldiruvchi"
+    },
+    {
+      "word": "verify",
+      "pos": "verb",
+      "ipa": "/ˈvɛrɪfaɪ/",
+      "definition": "to confirm that something is true or accurate",
+      "example": "Reporters are expected to verify facts before going to print.",
+      "uz": "tasdiqlamoq, tekshirib ko'rmoq"
+    },
+    {
+      "word": "undermine",
+      "pos": "verb",
+      "ipa": "/ˌʌndərˈmaɪn/",
+      "definition": "to gradually weaken something",
+      "example": "Repeated scandals have undermined public confidence in the press.",
+      "uz": "asta-sekin izdan chiqarmoq"
+    },
+    {
+      "word": "gullible",
+      "pos": "adjective",
+      "ipa": "/ˈɡʌlɪbl/",
+      "definition": "easily deceived or tricked",
+      "example": "Gullible readers can be misled by convincing but false headlines.",
+      "uz": "ishonuvchan, oson aldanadigan"
+    },
+    {
+      "word": "discourse",
+      "pos": "noun",
+      "ipa": "/ˈdɪskɔːs/",
+      "definition": "communication of ideas, especially formal written or spoken discussion",
+      "example": "Healthy public discourse depends on access to accurate information.",
+      "uz": "muhokama, fikr almashish"
+    },
+    {
+      "word": "outlet",
+      "pos": "noun",
+      "ipa": "/ˈaʊtlɛt/",
+      "definition": "a media organization that publishes or broadcasts news",
+      "example": "Several major outlets covered the story within hours.",
+      "uz": "ommaviy axborot vositasi"
+    }
+  ],
+  "text": "In an age when anyone can disseminate information within seconds, distinguishing credible journalism from misleading content has become a matter of genuine discernment. Some outlets, driven by competition for attention, sensationalize stories or even fabricate details outright, sacrificing objectivity for clicks. Such practices not only undermine public trust but also skew our collective understanding of events. Readers, meanwhile, often retreat into an echo chamber, consuming only content that confirms existing beliefs, which leaves them increasingly gullible to misinformation. Were journalists held more rigorously accountable, notwithstanding the commercial pressures they face, standards of integrity might improve considerably. Reputable publications, to their credit, issue a retraction when errors come to light, subjecting their own work to the same scrutiny they apply to others. Nevertheless, verifying every claim before publication remains a daunting task in a fast-moving news cycle. Consequently, media literacy has never mattered more: citizens must learn to question sources, cross-check facts, and recognize when discourse has been deliberately skewed. Only then can the public discredit genuinely false narratives, rather than dismissing inconvenient truths as mere bias.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "All news outlets deliberately spread false information.",
+        "Media literacy and critical evaluation of news sources are essential in a fast-moving information age.",
+        "Journalism ethics are no longer relevant today.",
+        "Only tabloids sensationalize stories."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage say happens when readers stay in an echo chamber?",
+      "options": [
+        "They become more skeptical of all news.",
+        "They become more gullible to misinformation.",
+        "They automatically verify every claim.",
+        "They stop reading news entirely."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about reputable publications from the passage?",
+      "options": [
+        "They never make mistakes.",
+        "They are willing to correct errors through retractions.",
+        "They refuse to accept any scrutiny.",
+        "They avoid competition entirely."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why do some outlets sensationalize stories?",
+      "options": [
+        "To improve journalistic integrity",
+        "To compete for attention and clicks",
+        "To comply with government regulation",
+        "To reduce their audience size"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's attitude toward the current state of journalism?",
+      "options": [
+        "Entirely optimistic with no concerns",
+        "Critically aware of problems while still valuing responsible journalism",
+        "Completely dismissive of all news media",
+        "Indifferent to accuracy in reporting"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the passage, 'skew' is closest in meaning to:",
+      "options": [
+        "Confirm accurately",
+        "Distort unfairly",
+        "Publish widely",
+        "Retract completely"
+      ],
+      "answer": 1
+    }
+  ]
+}

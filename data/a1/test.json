@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "question": "Which word means the person who teaches you at school?",
+      "options": [
+        "student",
+        "doctor",
+        "teacher",
+        "driver"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Choose the correct word to complete the sentence: 'I am very ___, I need to eat something.'",
+      "options": [
+        "hungry",
+        "thirsty",
+        "tired",
+        "happy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the opposite of 'first'?",
+      "options": [
+        "second",
+        "next",
+        "minute",
+        "last"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the opposite of 'hot'?",
+      "options": [
+        "warm",
+        "cold",
+        "sunny",
+        "wind"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Choose the correct word to complete the sentence: 'She is wearing a red ___ and black shoes.'",
+      "options": [
+        "umbrella",
+        "key",
+        "dress",
+        "spoon"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which word means a person who helps sick people get better?",
+      "options": [
+        "doctor",
+        "waiter",
+        "engineer",
+        "farmer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which animal gives us milk and says 'moo'?",
+      "options": [
+        "horse",
+        "sheep",
+        "pig",
+        "cow"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which word means a person whose job is to fly a plane?",
+      "options": [
+        "driver",
+        "pilot",
+        "builder",
+        "farmer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which word means the room where you cook food?",
+      "options": [
+        "bedroom",
+        "bathroom",
+        "kitchen",
+        "garden"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Choose the correct word to complete the sentence: 'The first month of the year is ___.'",
+      "options": [
+        "January",
+        "December",
+        "Monday",
+        "weekend"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which word means to make a picture using a pencil?",
+      "options": [
+        "write",
+        "dance",
+        "sing",
+        "draw"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the opposite of 'win'?",
+      "options": [
+        "run",
+        "lose",
+        "jump",
+        "score"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the opposite of 'fast'?",
+      "options": [
+        "arrive",
+        "traffic",
+        "slow",
+        "ticket"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the opposite of 'cheap'?",
+      "options": [
+        "expensive",
+        "discount",
+        "price",
+        "cash"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the opposite of 'happy'?",
+      "options": [
+        "angry",
+        "tired",
+        "excited",
+        "sad"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which word means a picture you take with a phone or camera?",
+      "options": [
+        "video",
+        "photo",
+        "message",
+        "screen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which word means a picture that shows you where places are?",
+      "options": [
+        "ticket",
+        "passport",
+        "map",
+        "luggage"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which word means a large area of land covered with trees?",
+      "options": [
+        "forest",
+        "river",
+        "lake",
+        "mountain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Choose the correct word to complete the sentence: 'The teacher asked a ___ and I gave the answer.'",
+      "options": [
+        "answer",
+        "lesson",
+        "subject",
+        "question"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the opposite of 'left'?",
+      "options": [
+        "straight",
+        "right",
+        "near",
+        "far"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Choose the correct word to complete the sentence: 'When someone helps you, you say ___.'",
+      "options": [
+        "sorry",
+        "please",
+        "thanks",
+        "welcome"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which word means the special day when you were born?",
+      "options": [
+        "birthday",
+        "holiday",
+        "festival",
+        "party"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Choose the correct word to complete the sentence: 'I ___ my teeth every morning and night.'",
+      "options": [
+        "wash",
+        "wear",
+        "wake",
+        "brush"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which word means the paper that lists food and drinks in a restaurant?",
+      "options": [
+        "recipe",
+        "menu",
+        "bill",
+        "order"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Choose the correct word to complete the sentence: 'I want to ___ this video with my friends.'",
+      "options": [
+        "download",
+        "chat",
+        "share",
+        "comment"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the opposite of 'sick'?",
+      "options": [
+        "healthy",
+        "tired",
+        "medicine",
+        "rest"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which word means a person whose job is to make music, paint, or perform art?",
+      "options": [
+        "singer",
+        "band",
+        "concert",
+        "artist"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which word means frozen water?",
+      "options": [
+        "snow",
+        "ice",
+        "storm",
+        "cloud"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which word means to make used paper, glass or plastic into something new?",
+      "options": [
+        "reuse",
+        "waste",
+        "recycle",
+        "trash"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which word means people who live near you?",
+      "options": [
+        "neighbor",
+        "community",
+        "group",
+        "volunteer"
+      ],
+      "answer": 0
+    }
+  ]
+}

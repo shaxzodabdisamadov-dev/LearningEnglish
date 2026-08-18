@@ -1,0 +1,229 @@
+{
+  "id": 21,
+  "topic": "Economy and Employment Trends",
+  "words": [
+    {
+      "word": "economy",
+      "pos": "noun",
+      "ipa": "/ɪˈkɒnəmi/",
+      "definition": "The system of trade, industry, and money in a country.",
+      "example": "The global economy has changed a lot in recent years.",
+      "uz": "iqtisodiyot"
+    },
+    {
+      "word": "employment",
+      "pos": "noun",
+      "ipa": "/ɪmˈplɔɪmənt/",
+      "definition": "The state of having paid work.",
+      "example": "Full employment is a major goal for most governments.",
+      "uz": "bandlik"
+    },
+    {
+      "word": "unemployment",
+      "pos": "noun",
+      "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+      "definition": "The state of not having a job, especially when actively seeking one.",
+      "example": "Unemployment rose sharply during the crisis.",
+      "uz": "ishsizlik"
+    },
+    {
+      "word": "employer",
+      "pos": "noun",
+      "ipa": "/ɪmˈplɔɪər/",
+      "definition": "A person or company that pays others to work for them.",
+      "example": "Her employer offered flexible working hours.",
+      "uz": "ish beruvchi"
+    },
+    {
+      "word": "employee",
+      "pos": "noun",
+      "ipa": "/ɪmˈplɔɪiː/",
+      "definition": "A person who works for a company or another person for pay.",
+      "example": "The company has over five hundred employees.",
+      "uz": "xodim"
+    },
+    {
+      "word": "wage",
+      "pos": "noun",
+      "ipa": "/weɪdʒ/",
+      "definition": "Money paid regularly to a worker, usually based on hours worked.",
+      "example": "The minimum wage increased this year.",
+      "uz": "ish haqi"
+    },
+    {
+      "word": "salary",
+      "pos": "noun",
+      "ipa": "/ˈsæləri/",
+      "definition": "A fixed regular payment for professional work, usually paid monthly.",
+      "example": "She earns a good salary as an engineer.",
+      "uz": "oylik maosh"
+    },
+    {
+      "word": "income",
+      "pos": "noun",
+      "ipa": "/ˈɪnkʌm/",
+      "definition": "Money that a person or organization receives regularly, especially from work.",
+      "example": "Many families rely on a single income.",
+      "uz": "daromad"
+    },
+    {
+      "word": "inflation",
+      "pos": "noun",
+      "ipa": "/ɪnˈfleɪʃən/",
+      "definition": "A general and continuing increase in prices over time.",
+      "example": "Inflation has made everyday goods more expensive.",
+      "uz": "inflyatsiya"
+    },
+    {
+      "word": "recession",
+      "pos": "noun",
+      "ipa": "/rɪˈseʃən/",
+      "definition": "A period when a country's economy performs badly and unemployment rises.",
+      "example": "The country entered a recession last year.",
+      "uz": "iqtisodiy pasayish"
+    },
+    {
+      "word": "industry",
+      "pos": "noun",
+      "ipa": "/ˈɪndəstri/",
+      "definition": "A specific area of economic activity, such as manufacturing or tourism.",
+      "example": "The tourism industry employs thousands of people.",
+      "uz": "soha"
+    },
+    {
+      "word": "demand",
+      "pos": "noun",
+      "ipa": "/dɪˈmænd/",
+      "definition": "The amount of a product or service that people want to buy.",
+      "example": "Demand for skilled workers is increasing.",
+      "uz": "talab"
+    },
+    {
+      "word": "remote work",
+      "pos": "noun",
+      "ipa": "/rɪˈmoʊt wɜːrk/",
+      "definition": "Paid work done from home or somewhere outside a traditional office.",
+      "example": "Remote work became common after the pandemic.",
+      "uz": "masofaviy ish"
+    },
+    {
+      "word": "flexible",
+      "pos": "adjective",
+      "ipa": "/ˈfleksəbəl/",
+      "definition": "Able to change or adapt easily to new conditions.",
+      "example": "Many employees now prefer flexible working hours.",
+      "uz": "moslashuvchan"
+    },
+    {
+      "word": "qualification",
+      "pos": "noun",
+      "ipa": "/ˌkwɒlɪfɪˈkeɪʃən/",
+      "definition": "A skill, exam result, or achievement that shows a person is suitable for a job.",
+      "example": "A university degree is a common qualification for this role.",
+      "uz": "malaka"
+    },
+    {
+      "word": "skilled",
+      "pos": "adjective",
+      "ipa": "/skɪld/",
+      "definition": "Having the training, experience, and ability to do something well.",
+      "example": "The factory needs skilled workers to operate the machines.",
+      "uz": "malakali"
+    },
+    {
+      "word": "workplace",
+      "pos": "noun",
+      "ipa": "/ˈwɜːrkpleɪs/",
+      "definition": "The place where people work, such as an office or factory.",
+      "example": "Technology has transformed the modern workplace.",
+      "uz": "ish joyi"
+    },
+    {
+      "word": "productivity",
+      "pos": "noun",
+      "ipa": "/ˌproʊdʌkˈtɪvəti/",
+      "definition": "The rate at which work is done or goods are produced.",
+      "example": "Automation can improve productivity in factories.",
+      "uz": "unumdorlik"
+    },
+    {
+      "word": "shortage",
+      "pos": "noun",
+      "ipa": "/ˈʃɔːrtɪdʒ/",
+      "definition": "A situation in which there is not enough of something that is needed.",
+      "example": "The country is facing a shortage of nurses.",
+      "uz": "tanqislik"
+    },
+    {
+      "word": "outsource",
+      "pos": "verb",
+      "ipa": "/ˈaʊtsɔːrs/",
+      "definition": "To pay another company to do a job or provide a service.",
+      "example": "Many businesses outsource their customer service to other countries.",
+      "uz": "autsorsing qilmoq"
+    }
+  ],
+  "text": "The way people work has changed enormously over the past decade. Rising inflation and the threat of a recession have made many companies more careful about spending, which has affected employment across several industries. At the same time, workplaces have changed: remote work, once rare, is now common in many jobs, and employees often ask for flexible hours instead of a higher salary. Although some companies have started to outsource certain tasks to reduce costs, there is still a strong demand for skilled workers, especially in healthcare and technology. In fact, many industries report a shortage of qualified staff, even while unemployment remains high in other sectors. This means that having the right qualification is no longer enough; workers also need to keep learning new skills. Employers, meanwhile, are under pressure to increase productivity without lowering wages, because a fair income helps keep employees motivated. Economists say that these trends will continue as the global economy adapts to new technology, and both employers and employees will need to remain flexible in order to succeed.",
+  "questions": [
+    {
+      "question": "What has affected employment across several industries, according to the passage?",
+      "options": [
+        "Lower taxes",
+        "Rising inflation and the threat of a recession",
+        "Increased vacations",
+        "More public holidays"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What has become common in many jobs, according to the text?",
+      "options": [
+        "Remote work",
+        "Lower salaries for everyone",
+        "Fewer working hours for all",
+        "Mandatory overtime"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why do some companies outsource certain tasks, according to the passage?",
+      "options": [
+        "To increase employee salaries",
+        "To reduce costs",
+        "To create more office space",
+        "To avoid remote work"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage say about the demand for skilled workers?",
+      "options": [
+        "There is no demand at all",
+        "There is still strong demand, especially in healthcare and technology",
+        "Demand only exists in one country",
+        "Demand has completely disappeared"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, what is no longer enough for workers?",
+      "options": [
+        "Having the right qualification alone",
+        "Working remotely",
+        "Receiving a salary",
+        "Working in an office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What are employers under pressure to do, according to the passage?",
+      "options": [
+        "Lower wages as much as possible",
+        "Increase productivity without lowering wages",
+        "Reduce the workforce completely",
+        "Stop hiring skilled workers"
+      ],
+      "answer": 1
+    }
+  ]
+}

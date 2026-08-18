@@ -1,0 +1,229 @@
+{
+  "id": 25,
+  "topic": "Literature and Reading Habits",
+  "words": [
+    {
+      "word": "novel",
+      "pos": "noun",
+      "ipa": "/ˈnɒvəl/",
+      "definition": "a long written story about imaginary characters and events",
+      "example": "She is currently reading a mystery novel.",
+      "uz": "roman"
+    },
+    {
+      "word": "author",
+      "pos": "noun",
+      "ipa": "/ˈɔːθər/",
+      "definition": "a writer of a book, article, or other text",
+      "example": "The author signed copies of her book at the event.",
+      "uz": "muallif"
+    },
+    {
+      "word": "narrator",
+      "pos": "noun",
+      "ipa": "/ˈnærətər/",
+      "definition": "the person who tells the story in a book",
+      "example": "The narrator describes events from a child's point of view.",
+      "uz": "hikoyachi"
+    },
+    {
+      "word": "character",
+      "pos": "noun",
+      "ipa": "/ˈkærəktər/",
+      "definition": "a person in a book, film, or play",
+      "example": "The main character faces many difficult decisions.",
+      "uz": "qahramon"
+    },
+    {
+      "word": "fiction",
+      "pos": "noun",
+      "ipa": "/ˈfɪkʃən/",
+      "definition": "stories about imaginary people and events",
+      "example": "He mostly reads science fiction rather than non-fiction.",
+      "uz": "badiiy adabiyot"
+    },
+    {
+      "word": "non-fiction",
+      "pos": "noun",
+      "ipa": "/ˌnɒnˈfɪkʃən/",
+      "definition": "writing that is based on facts and real events",
+      "example": "She prefers non-fiction books about history.",
+      "uz": "publitsistik adabiyot"
+    },
+    {
+      "word": "publish",
+      "pos": "verb",
+      "ipa": "/ˈpʌblɪʃ/",
+      "definition": "to prepare and produce a book for public sale",
+      "example": "The company will publish her first novel next spring.",
+      "uz": "nashr etmoq"
+    },
+    {
+      "word": "bestseller",
+      "pos": "noun",
+      "ipa": "/ˌbestˈselər/",
+      "definition": "a book that has sold in very large numbers",
+      "example": "His latest thriller quickly became a bestseller.",
+      "uz": "bestseller"
+    },
+    {
+      "word": "chapter",
+      "pos": "noun",
+      "ipa": "/ˈtʃæptər/",
+      "definition": "one of the parts a book is divided into",
+      "example": "I read two chapters before going to sleep.",
+      "uz": "bob"
+    },
+    {
+      "word": "theme",
+      "pos": "noun",
+      "ipa": "/θiːm/",
+      "definition": "the main subject or message of a book",
+      "example": "Loneliness is a common theme in his novels.",
+      "uz": "mavzu"
+    },
+    {
+      "word": "imaginative",
+      "pos": "adjective",
+      "ipa": "/ɪˈmædʒɪnətɪv/",
+      "definition": "having or showing new and creative ideas",
+      "example": "The book has an imaginative plot full of surprises.",
+      "uz": "ijodiy tasavvurga boy"
+    },
+    {
+      "word": "gripping",
+      "pos": "adjective",
+      "ipa": "/ˈɡrɪpɪŋ/",
+      "definition": "so exciting or interesting that it holds your attention completely",
+      "example": "The gripping story kept me reading until midnight.",
+      "uz": "juda maroqli"
+    },
+    {
+      "word": "plot",
+      "pos": "noun",
+      "ipa": "/plɒt/",
+      "definition": "the series of events that form the main story of a book",
+      "example": "The plot twist at the end surprised every reader.",
+      "uz": "syujet"
+    },
+    {
+      "word": "summarize",
+      "pos": "verb",
+      "ipa": "/ˈsʌməraɪz/",
+      "definition": "to give a short account of the main points of something",
+      "example": "Can you summarize the story in a few sentences?",
+      "uz": "qisqacha bayon qilmoq"
+    },
+    {
+      "word": "critic",
+      "pos": "noun",
+      "ipa": "/ˈkrɪtɪk/",
+      "definition": "a person who gives their opinion about books, films, or art",
+      "example": "The critic praised the novel's realistic characters.",
+      "uz": "tanqidchi"
+    },
+    {
+      "word": "literary",
+      "pos": "adjective",
+      "ipa": "/ˈlɪtəreri/",
+      "definition": "connected with literature",
+      "example": "She studies literary works from the nineteenth century.",
+      "uz": "adabiy"
+    },
+    {
+      "word": "engrossed",
+      "pos": "adjective",
+      "ipa": "/ɪnˈɡroʊst/",
+      "definition": "so interested in something that you give it all your attention",
+      "example": "He was so engrossed in the book that he missed his stop.",
+      "uz": "butunlay berilib ketgan"
+    },
+    {
+      "word": "paperback",
+      "pos": "noun",
+      "ipa": "/ˈpeɪpərbæk/",
+      "definition": "a book with a thin, flexible cover",
+      "example": "I bought the paperback because it was cheaper than the hardback.",
+      "uz": "yumshoq muqovali kitob"
+    },
+    {
+      "word": "borrow",
+      "pos": "verb",
+      "ipa": "/ˈbɒroʊ/",
+      "definition": "to take and use something that belongs to someone else, intending to return it",
+      "example": "I borrowed the novel from the library.",
+      "uz": "qarzga olmoq"
+    },
+    {
+      "word": "reflect",
+      "pos": "verb",
+      "ipa": "/rɪˈflekt/",
+      "definition": "to think carefully about something",
+      "example": "Reading this novel made me reflect on my own life.",
+      "uz": "mulohaza yuritmoq"
+    }
+  ],
+  "text": "Reading habits have changed a great deal in recent years. Although some people still prefer a paperback novel that they can hold in their hands, many others now read e-books or listen to audiobooks instead. Whichever format they choose, most readers agree that a good story can be extremely gripping. A skilled author usually creates memorable characters and an interesting plot that keeps readers engrossed from the first chapter to the last. In fiction, the narrator's voice can make a huge difference: some books are told from a single character's point of view, while others move between several narrators. Non-fiction, on the other hand, focuses on real events and can help readers understand a particular theme in more depth, such as history or science. Before a book is published, it often passes through the hands of an editor and, later, a critic who reviews it publicly. If readers love the book, it may become a bestseller. Teachers often ask students to summarize what they have read and reflect on the story's meaning. Whether people buy books or borrow them from a library, reading remains one of the most imaginative and rewarding hobbies of all.",
+  "questions": [
+    {
+      "question": "According to the passage, what do most readers agree on despite different reading formats?",
+      "options": [
+        "Paperbacks are always better than e-books",
+        "A good story can be extremely gripping regardless of format",
+        "Audiobooks are the only real form of reading",
+        "Reading habits have not changed at all"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What helps keep readers engrossed in a novel, according to the text?",
+      "options": [
+        "Short chapters only",
+        "Memorable characters and an interesting plot",
+        "A famous author's name on the cover",
+        "Simple, non-fiction facts"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a key difference between fiction and non-fiction, according to the passage?",
+      "options": [
+        "Fiction focuses on real events, non-fiction on imaginary ones",
+        "Non-fiction focuses on real events, while fiction is imaginary",
+        "Both are exactly the same",
+        "Non-fiction always has multiple narrators"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens to a book if readers love it, according to the text?",
+      "options": [
+        "It is removed from libraries",
+        "It may become a bestseller",
+        "It is rewritten by a critic",
+        "It stops being reviewed"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do teachers often ask students to do after reading a book?",
+      "options": [
+        "Memorize every chapter",
+        "Summarize it and reflect on its meaning",
+        "Only read the non-fiction sections",
+        "Avoid discussing the theme"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the passage describe reading, in conclusion?",
+      "options": [
+        "A rewarding hobby whether books are bought or borrowed",
+        "An outdated activity replaced by film",
+        "A skill only critics need",
+        "An activity limited to paperbacks"
+      ],
+      "answer": 0
+    }
+  ]
+}

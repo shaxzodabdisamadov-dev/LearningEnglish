@@ -1,0 +1,229 @@
+{
+  "id": 26,
+  "topic": "Health and Exercise",
+  "words": [
+    {
+      "word": "health",
+      "pos": "noun",
+      "ipa": "/helθ/",
+      "definition": "the condition of your body, if you are well or ill",
+      "example": "Good food is important for your health.",
+      "uz": "sog'liq"
+    },
+    {
+      "word": "exercise",
+      "pos": "noun",
+      "ipa": "/ˈeksərsaɪz/",
+      "definition": "physical activity that keeps your body strong",
+      "example": "I do exercise every morning.",
+      "uz": "jismoniy mashq"
+    },
+    {
+      "word": "body",
+      "pos": "noun",
+      "ipa": "/ˈbɒdi/",
+      "definition": "all the parts of a person, like arms and legs",
+      "example": "Exercise is good for your body.",
+      "uz": "tana"
+    },
+    {
+      "word": "run",
+      "pos": "verb",
+      "ipa": "/rʌn/",
+      "definition": "to move very fast on your feet",
+      "example": "I run in the park every day.",
+      "uz": "yugurmoq"
+    },
+    {
+      "word": "walk",
+      "pos": "verb",
+      "ipa": "/wɔːk/",
+      "definition": "to move by putting one foot in front of the other",
+      "example": "We walk to school together.",
+      "uz": "yurmoq"
+    },
+    {
+      "word": "swim",
+      "pos": "verb",
+      "ipa": "/swɪm/",
+      "definition": "to move through water using your arms and legs",
+      "example": "I swim in the pool on Saturday.",
+      "uz": "suzmoq"
+    },
+    {
+      "word": "gym",
+      "pos": "noun",
+      "ipa": "/dʒɪm/",
+      "definition": "a place with equipment for exercise",
+      "example": "My brother goes to the gym after work.",
+      "uz": "sport zali"
+    },
+    {
+      "word": "sport",
+      "pos": "noun",
+      "ipa": "/spɔːrt/",
+      "definition": "a game or activity where you use your body, like football",
+      "example": "Football is my favorite sport.",
+      "uz": "sport"
+    },
+    {
+      "word": "strong",
+      "pos": "adjective",
+      "ipa": "/strɒŋ/",
+      "definition": "having a lot of power in your body",
+      "example": "He is strong because he trains a lot.",
+      "uz": "kuchli"
+    },
+    {
+      "word": "healthy",
+      "pos": "adjective",
+      "ipa": "/ˈhelθi/",
+      "definition": "well, and not often sick",
+      "example": "Fruit and vegetables are healthy food.",
+      "uz": "sog'lom"
+    },
+    {
+      "word": "sick",
+      "pos": "adjective",
+      "ipa": "/sɪk/",
+      "definition": "not feeling well, ill",
+      "example": "My sister is sick today.",
+      "uz": "kasal"
+    },
+    {
+      "word": "doctor",
+      "pos": "noun",
+      "ipa": "/ˈdɒktər/",
+      "definition": "a person who helps sick people get better",
+      "example": "The doctor checks my heart.",
+      "uz": "shifokor"
+    },
+    {
+      "word": "medicine",
+      "pos": "noun",
+      "ipa": "/ˈmedsn/",
+      "definition": "something you take to feel better when you are sick",
+      "example": "Take this medicine after lunch.",
+      "uz": "dori"
+    },
+    {
+      "word": "rest",
+      "pos": "verb",
+      "ipa": "/rest/",
+      "definition": "to relax and stop working for a while",
+      "example": "You should rest when you are tired.",
+      "uz": "dam olmoq"
+    },
+    {
+      "word": "tired",
+      "pos": "adjective",
+      "ipa": "/ˈtaɪərd/",
+      "definition": "needing sleep or rest",
+      "example": "I feel tired after a long run.",
+      "uz": "charchagan"
+    },
+    {
+      "word": "energy",
+      "pos": "noun",
+      "ipa": "/ˈenərdʒi/",
+      "definition": "the power to be active and do things",
+      "example": "Fruit gives me energy in the morning.",
+      "uz": "energiya"
+    },
+    {
+      "word": "heart",
+      "pos": "noun",
+      "ipa": "/hɑːrt/",
+      "definition": "the part of your body that pumps blood",
+      "example": "Exercise makes your heart strong.",
+      "uz": "yurak"
+    },
+    {
+      "word": "diet",
+      "pos": "noun",
+      "ipa": "/ˈdaɪət/",
+      "definition": "the food that a person usually eats",
+      "example": "A healthy diet has many vegetables.",
+      "uz": "ovqatlanish tartibi"
+    },
+    {
+      "word": "water",
+      "pos": "noun",
+      "ipa": "/ˈwɔːtər/",
+      "definition": "a clear liquid that people drink",
+      "example": "Drink water after exercise.",
+      "uz": "suv"
+    },
+    {
+      "word": "fit",
+      "pos": "adjective",
+      "ipa": "/fɪt/",
+      "definition": "strong and healthy, especially from exercise",
+      "example": "Swimming keeps me fit.",
+      "uz": "baquvvat"
+    }
+  ],
+  "text": "Good health is very important to me, so I exercise every day. In the morning, I run in the park near my house. Running makes my heart strong and gives me energy for the whole day. On Tuesday and Thursday, I go to the gym with my friend, and on the weekend, we swim at the pool. I also like to walk to school instead of taking the bus. Sport is important for a healthy body. I try to eat a good diet with fruit and vegetables, and I drink a lot of water every day. Last month, I was sick and I felt very tired all the time. I went to see a doctor, and she gave me some medicine. She also told me to rest for a few days. Now I feel strong and fit again. I learned that rest is also important, not only exercise. Every night, I sleep eight hours so my body can rest. I try to be healthy every day because a healthy body helps me study and play well.",
+  "questions": [
+    {
+      "question": "What does the writer do in the morning?",
+      "options": [
+        "Swims",
+        "Runs in the park",
+        "Goes to the gym",
+        "Rests"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many days a week does the writer go to the gym?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why was the writer tired last month?",
+      "options": [
+        "Too much exercise",
+        "Being sick",
+        "Not enough water",
+        "Too much homework"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the doctor give the writer?",
+      "options": [
+        "Water",
+        "Food",
+        "Medicine",
+        "Exercise"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did the doctor tell the writer to do?",
+      "options": [
+        "Run more",
+        "Rest for a few days",
+        "Go to the gym",
+        "Eat less"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the writer go to school?",
+      "options": [
+        "By bus",
+        "By car",
+        "By walking",
+        "By bike"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 8,
+  "topic": "Urban Development and Smart Cities",
+  "words": [
+    {
+      "word": "infrastructure",
+      "pos": "noun",
+      "ipa": "/ˈɪnfrəstrʌktʃə/",
+      "definition": "the basic physical systems of a country or region, such as roads and utilities",
+      "example": "The city invested heavily in infrastructure to support its growing population.",
+      "uz": "infratuzilma"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adjective",
+      "ipa": "/səˈsteɪnəbəl/",
+      "definition": "able to be maintained without depleting resources or causing lasting damage",
+      "example": "Sustainable urban planning reduces a city's long-term environmental impact.",
+      "uz": "barqaror (resurslarni tugatmaydigan)"
+    },
+    {
+      "word": "congestion",
+      "pos": "noun",
+      "ipa": "/kənˈdʒestʃən/",
+      "definition": "overcrowding, especially of traffic",
+      "example": "Traffic congestion in the city center has worsened over the past decade.",
+      "uz": "tirbandlik (transport)"
+    },
+    {
+      "word": "gentrification",
+      "pos": "noun",
+      "ipa": "/ˌdʒentrɪfɪˈkeɪʃən/",
+      "definition": "the process by which a poorer urban area changes as wealthier people move in, raising costs",
+      "example": "Gentrification has pushed many long-time residents out of the neighborhood.",
+      "uz": "kambag'al mahallaning boylar ko'chib kelishi bilan qimmatlashuvi"
+    },
+    {
+      "word": "sprawl",
+      "pos": "noun",
+      "ipa": "/sprɔːl/",
+      "definition": "the uncontrolled expansion of urban areas into surrounding land",
+      "example": "Unchecked urban sprawl has consumed much of the region's farmland.",
+      "uz": "shaharning tartibsiz kengayib ketishi"
+    },
+    {
+      "word": "revitalize",
+      "pos": "verb",
+      "ipa": "/riːˈvaɪtəlaɪz/",
+      "definition": "to give new energy or vitality to something",
+      "example": "The old industrial district was revitalized into a thriving arts hub.",
+      "uz": "qayta jonlantirmoq"
+    },
+    {
+      "word": "zoning",
+      "pos": "noun",
+      "ipa": "/ˈzəʊnɪŋ/",
+      "definition": "the division of land into areas designated for particular uses",
+      "example": "Strict zoning laws prevent factories from being built near residential areas.",
+      "uz": "hududlarni foydalanish maqsadiga ko'ra bo'lish"
+    },
+    {
+      "word": "commute",
+      "pos": "noun",
+      "ipa": "/kəˈmjuːt/",
+      "definition": "a regular journey between home and work",
+      "example": "Her daily commute takes nearly two hours by train.",
+      "uz": "uy va ish orasidagi doimiy qatnov"
+    },
+    {
+      "word": "displace",
+      "pos": "verb",
+      "ipa": "/dɪsˈpleɪs/",
+      "definition": "to force someone to leave their usual place of residence",
+      "example": "Rising rents have displaced many families from the neighborhoods where they grew up.",
+      "uz": "o'z yashash joyidan majburan ko'chirmoq"
+    },
+    {
+      "word": "green space",
+      "pos": "noun phrase",
+      "ipa": "/ɡriːn speɪs/",
+      "definition": "an area of grass, trees, or other vegetation in an otherwise urban setting",
+      "example": "The new development includes generous green space for residents to enjoy.",
+      "uz": "yashil hudud"
+    },
+    {
+      "word": "affordable housing",
+      "pos": "noun phrase",
+      "ipa": "/əˈfɔːdəbəl ˈhaʊzɪŋ/",
+      "definition": "housing that is reasonably priced relative to income",
+      "example": "The city council pledged to build more affordable housing near the transit hub.",
+      "uz": "narxi maqbul uy-joy"
+    },
+    {
+      "word": "cutting-edge",
+      "pos": "adjective",
+      "ipa": "/ˈkʌtɪŋ edʒ/",
+      "definition": "using the most modern techniques or technology",
+      "example": "The smart city relies on cutting-edge sensors to manage traffic flow in real time.",
+      "uz": "eng zamonaviy"
+    },
+    {
+      "word": "underpin",
+      "pos": "verb",
+      "ipa": "/ˌʌndəˈpɪn/",
+      "definition": "to form the basis or foundation for something",
+      "example": "Reliable public transport underpins any successful urban development strategy.",
+      "uz": "asos bo'lib xizmat qilmoq"
+    },
+    {
+      "word": "amenities",
+      "pos": "noun",
+      "ipa": "/əˈmiːnətiz/",
+      "definition": "features that make a place pleasant or convenient to live in",
+      "example": "The apartment complex offers amenities such as a gym and rooftop garden.",
+      "uz": "qulayliklar (yashash uchun)"
+    },
+    {
+      "word": "overhaul",
+      "pos": "verb",
+      "ipa": "/ˌəʊvəˈhɔːl/",
+      "definition": "to thoroughly examine and make changes or repairs to something",
+      "example": "The city plans to overhaul its outdated public transport system.",
+      "uz": "tubdan qayta ko'rib chiqib isloh qilmoq"
+    },
+    {
+      "word": "crop up",
+      "pos": "phrasal verb",
+      "ipa": "/krɒp ʌp/",
+      "definition": "to appear or happen, especially unexpectedly",
+      "example": "New challenges kept cropping up as the construction project progressed.",
+      "uz": "kutilmaganda paydo bo'lmoq"
+    },
+    {
+      "word": "phase out",
+      "pos": "phrasal verb",
+      "ipa": "/feɪz aʊt/",
+      "definition": "to gradually stop using or producing something",
+      "example": "The city intends to phase out diesel buses by the end of the decade.",
+      "uz": "bosqichma-bosqich foydalanishdan chiqarmoq"
+    },
+    {
+      "word": "livable",
+      "pos": "adjective",
+      "ipa": "/ˈlɪvəbəl/",
+      "definition": "suitable or pleasant to live in",
+      "example": "Urban planners aim to make cities more livable for people of all ages.",
+      "uz": "yashash uchun qulay"
+    },
+    {
+      "word": "equitable",
+      "pos": "adjective",
+      "ipa": "/ˈekwɪtəbəl/",
+      "definition": "fair and impartial, especially in the distribution of resources",
+      "example": "Equitable access to public transport remains a challenge in many rapidly growing cities.",
+      "uz": "adolatli, teng taqsimlangan"
+    },
+    {
+      "word": "densely populated",
+      "pos": "adjective phrase",
+      "ipa": "/ˈdensli ˈpɒpjʊleɪtɪd/",
+      "definition": "having a large number of people living in a small area",
+      "example": "Densely populated cities often struggle to provide sufficient green space per resident.",
+      "uz": "aholi zich joylashgan"
+    }
+  ],
+  "text": "Nowhere is the tension between growth and livability more apparent than in today's rapidly expanding cities. As urban sprawl consumes surrounding farmland and densely populated centers strain aging infrastructure, city planners face a daunting question: how can a city grow without becoming less equitable in the process? Cutting-edge technology alone will not solve this problem. Sensors and data can certainly help reduce traffic congestion and shorten the average commute, yet unless affordable housing and green space also underpin development plans, so-called smart cities risk benefiting only the wealthy. Gentrification illustrates this danger vividly: as neighborhoods are revitalized, rising costs frequently displace the very residents who gave those areas their character in the first place. Were city governments to reform zoning laws more thoughtfully, permitting a mix of income levels and amenities within the same district, such displacement might be considerably reduced. Nevertheless, overhauling decades-old regulations is rarely simple, and unforeseen obstacles inevitably crop up along the way. Cities that hope to phase out car dependency, for instance, must simultaneously invest in reliable public transport, lest congestion merely relocate rather than disappear. Ultimately, a truly livable city is not defined by its technology but by whether prosperity is shared equitably among all who call it home.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Technology alone can solve all urban problems.",
+        "Sustainable and equitable urban growth requires more than technology — it needs affordable housing and fair policy.",
+        "Gentrification always benefits long-term residents.",
+        "Cities should stop growing entirely."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what often happens as neighborhoods are revitalized?",
+      "options": [
+        "Housing costs decrease for everyone.",
+        "Rising costs frequently displace long-time residents.",
+        "Green space is automatically preserved.",
+        "Traffic congestion disappears."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the author suggest is necessary to reduce displacement caused by gentrification?",
+      "options": [
+        "Ignoring zoning laws entirely",
+        "Thoughtful reform of zoning laws to allow mixed income levels and amenities",
+        "Halting all urban revitalization",
+        "Increasing car dependency"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone in the passage?",
+      "options": [
+        "Purely optimistic about smart city technology",
+        "Analytical and cautionary, weighing benefits and risks of urban development",
+        "Dismissive of city planning efforts",
+        "Angry and accusatory toward city governments"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what is required alongside investment in public transport to reduce car dependency?",
+      "options": [
+        "Increased urban sprawl",
+        "Nothing else is needed",
+        "A simultaneous, coordinated effort, or congestion will simply relocate rather than disappear",
+        "Elimination of all green space"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does the passage define a truly livable city?",
+      "options": [
+        "One with the most advanced technology",
+        "One where prosperity is shared equitably among all residents",
+        "One with the lowest population density",
+        "One that has phased out all public transport"
+      ],
+      "answer": 1
+    }
+  ]
+}

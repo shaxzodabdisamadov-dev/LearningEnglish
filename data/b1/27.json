@@ -1,0 +1,229 @@
+{
+  "id": 27,
+  "topic": "Volunteering and Social Responsibility",
+  "words": [
+    {
+      "word": "volunteer",
+      "pos": "verb",
+      "ipa": "/ˌvɒlənˈtɪr/",
+      "definition": "to offer to do something without being paid",
+      "example": "She volunteers at a homeless shelter every weekend.",
+      "uz": "ko'ngilli bo'lmoq"
+    },
+    {
+      "word": "charity",
+      "pos": "noun",
+      "ipa": "/ˈtʃærəti/",
+      "definition": "an organization that helps people in need",
+      "example": "He donates part of his salary to a local charity.",
+      "uz": "xayriya tashkiloti"
+    },
+    {
+      "word": "donate",
+      "pos": "verb",
+      "ipa": "/ˈdoʊneɪt/",
+      "definition": "to give money or goods to help a person or cause",
+      "example": "Many people donate clothes to charity shops.",
+      "uz": "xayriya qilmoq"
+    },
+    {
+      "word": "community",
+      "pos": "noun",
+      "ipa": "/kəˈmjuːnəti/",
+      "definition": "a group of people living in the same area or sharing common interests",
+      "example": "The festival brought the whole community together.",
+      "uz": "jamoa"
+    },
+    {
+      "word": "awareness",
+      "pos": "noun",
+      "ipa": "/əˈwernəs/",
+      "definition": "knowledge or understanding of a particular situation or issue",
+      "example": "The campaign aims to raise awareness of climate change.",
+      "uz": "xabardorlik"
+    },
+    {
+      "word": "fundraising",
+      "pos": "noun",
+      "ipa": "/ˈfʌndreɪzɪŋ/",
+      "definition": "the activity of collecting money for a charity or cause",
+      "example": "The school organized a fundraising event for the local hospital.",
+      "uz": "mablag' yig'ish"
+    },
+    {
+      "word": "contribute",
+      "pos": "verb",
+      "ipa": "/kənˈtrɪbjuːt/",
+      "definition": "to give something, especially money or help, to a common effort",
+      "example": "Every member of the team contributed to the project's success.",
+      "uz": "hissa qo'shmoq"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adjective",
+      "ipa": "/səˈsteɪnəbl/",
+      "definition": "able to continue without causing damage to the environment",
+      "example": "The company switched to more sustainable packaging.",
+      "uz": "barqaror"
+    },
+    {
+      "word": "underprivileged",
+      "pos": "adjective",
+      "ipa": "/ˌʌndərˈprɪvəlɪdʒd/",
+      "definition": "not having the same living standards or rights as most people in society",
+      "example": "The charity provides food for underprivileged families.",
+      "uz": "kam ta'minlangan"
+    },
+    {
+      "word": "responsibility",
+      "pos": "noun",
+      "ipa": "/rɪˌspɒnsəˈbɪləti/",
+      "definition": "a duty to deal with or take care of something",
+      "example": "Recycling is everyone's responsibility, not just the government's.",
+      "uz": "mas'uliyat"
+    },
+    {
+      "word": "selfless",
+      "pos": "adjective",
+      "ipa": "/ˈselfləs/",
+      "definition": "caring more about other people's needs than your own",
+      "example": "Her selfless work with refugees inspired the whole town.",
+      "uz": "fidoyi"
+    },
+    {
+      "word": "shelter",
+      "pos": "noun",
+      "ipa": "/ˈʃeltər/",
+      "definition": "a place that provides food and a place to sleep for people in need",
+      "example": "The shelter offers a warm bed to homeless people every night.",
+      "uz": "boshpana"
+    },
+    {
+      "word": "initiative",
+      "pos": "noun",
+      "ipa": "/ɪˈnɪʃətɪv/",
+      "definition": "a new plan or process to achieve something",
+      "example": "The city launched an initiative to plant more trees.",
+      "uz": "tashabbus"
+    },
+    {
+      "word": "impact",
+      "pos": "noun",
+      "ipa": "/ˈɪmpækt/",
+      "definition": "a powerful effect that something has on someone or something else",
+      "example": "Volunteering can have a lasting impact on both sides.",
+      "uz": "ta'sir"
+    },
+    {
+      "word": "empower",
+      "pos": "verb",
+      "ipa": "/ɪmˈpaʊər/",
+      "definition": "to give someone the confidence or power to do something",
+      "example": "The programme empowers young people to start their own businesses.",
+      "uz": "kuch-quvvat bermoq"
+    },
+    {
+      "word": "benefit",
+      "pos": "verb",
+      "ipa": "/ˈbenɪfɪt/",
+      "definition": "to be helped by something",
+      "example": "Both the volunteers and the community benefit from the project.",
+      "uz": "foyda ko'rmoq"
+    },
+    {
+      "word": "nonprofit",
+      "pos": "adjective",
+      "ipa": "/ˌnɒnˈprɒfɪt/",
+      "definition": "not existing or done to make a profit",
+      "example": "She works for a nonprofit organization that protects wildlife.",
+      "uz": "notijorat"
+    },
+    {
+      "word": "give back",
+      "pos": "phrasal verb",
+      "ipa": "/ɡɪv bæk/",
+      "definition": "to do something helpful for a community, especially after receiving benefits from it",
+      "example": "Many successful people want to give back to their community.",
+      "uz": "jamiyatga yaxshilik qaytarmoq"
+    },
+    {
+      "word": "hands-on",
+      "pos": "adjective",
+      "ipa": "/ˈhændz ɒn/",
+      "definition": "involving direct participation rather than just theory",
+      "example": "The volunteers gained hands-on experience helping at the shelter.",
+      "uz": "amaliy ishtirok etadigan"
+    },
+    {
+      "word": "make a difference",
+      "pos": "phrase",
+      "ipa": "/meɪk ə ˈdɪfərəns/",
+      "definition": "to have an important, positive effect on a situation",
+      "example": "Even small actions can make a difference in someone's life.",
+      "uz": "ijobiy o'zgarish yaratmoq"
+    }
+  ],
+  "text": "Every year, millions of people around the world choose to volunteer their time to help others. Some work with a local charity, while others join a global organisation that supports underprivileged communities. Although volunteers do not receive payment, most say that the experience benefits them just as much as it helps the people they serve. There are many ways to contribute to society. Some people donate money through fundraising events, while others prefer hands-on work, such as building shelters or teaching children to read. Nonprofit organisations often rely almost entirely on these selfless contributions to continue their initiatives. In addition, many companies now feel a responsibility to give back to their community, for example by supporting environmental awareness campaigns or sustainable projects. Volunteering does not always require a great deal of time or money. Even small actions, such as helping a neighbour or raising awareness about a local issue, can make a difference. Experts believe that these programmes empower both volunteers and the people they support, creating a lasting impact on society. As a result, volunteering has become an important part of modern life, connecting people across different backgrounds and cultures.",
+  "questions": [
+    {
+      "question": "What do most volunteers say about their experience, according to the passage?",
+      "options": [
+        "It benefits them as much as it helps others",
+        "It is a waste of time",
+        "It only helps the organisation",
+        "It is required by law"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What do many nonprofit organisations rely on to continue their initiatives?",
+      "options": [
+        "Government taxes only",
+        "Selfless contributions from volunteers and donors",
+        "Ticket sales",
+        "Paid employees only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why do some companies now feel a responsibility to give back to their community?",
+      "options": [
+        "To avoid paying taxes",
+        "To support causes like environmental awareness and sustainability",
+        "To reduce their staff numbers",
+        "To compete with charities"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what can even small actions do?",
+      "options": [
+        "Make a real difference in someone's life",
+        "Replace large fundraising events",
+        "Harm local communities",
+        "Have no effect at all"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What do experts believe volunteering programmes create?",
+      "options": [
+        "A negative impact on volunteers",
+        "A lasting impact on society by empowering people",
+        "Competition between charities",
+        "A decrease in community awareness"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the conclusion of the passage, what role does volunteering play in modern life?",
+      "options": [
+        "It has become less common over time",
+        "It connects people across different backgrounds and cultures",
+        "It is only relevant to wealthy countries",
+        "It has replaced fundraising entirely"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 3,
+  "topic": "Ethics and Moral Dilemmas",
+  "words": [
+    {
+      "word": "dilemma",
+      "pos": "noun",
+      "ipa": "/dɪˈlemə/",
+      "definition": "a situation requiring a choice between equally undesirable options",
+      "example": "She faced an ethical dilemma when asked to falsify the report.",
+      "uz": "mushkul tanlov holati"
+    },
+    {
+      "word": "integrity",
+      "pos": "noun",
+      "ipa": "/ɪnˈteɡrəti/",
+      "definition": "the quality of being honest and having strong moral principles",
+      "example": "He refused the bribe, valuing his integrity above financial gain.",
+      "uz": "halollik, ma'naviy poklik"
+    },
+    {
+      "word": "utilitarian",
+      "pos": "adjective",
+      "ipa": "/ˌjuːtɪlɪˈteəriən/",
+      "definition": "based on the principle that the best action maximizes overall happiness",
+      "example": "Utilitarian reasoning suggests we should choose the option that benefits the greatest number.",
+      "uz": "utilitar (umumiy foyda/baxtni ko'zlovchi)"
+    },
+    {
+      "word": "justify",
+      "pos": "verb",
+      "ipa": "/ˈdʒʌstɪfaɪ/",
+      "definition": "to show or prove to be right or reasonable",
+      "example": "It is difficult to justify lying, even when the intention is kind.",
+      "uz": "asoslamoq, oqlamoq"
+    },
+    {
+      "word": "moral obligation",
+      "pos": "noun phrase",
+      "ipa": "/ˈmɒrəl ˌɒblɪˈɡeɪʃən/",
+      "definition": "a duty to act in accordance with one's sense of right and wrong",
+      "example": "Many argue that wealthy nations have a moral obligation to assist those in poverty.",
+      "uz": "axloqiy burch"
+    },
+    {
+      "word": "hypocrisy",
+      "pos": "noun",
+      "ipa": "/hɪˈpɒkrəsi/",
+      "definition": "the practice of claiming moral standards one does not actually follow",
+      "example": "Critics accused the politician of hypocrisy for preaching austerity while living lavishly.",
+      "uz": "ikkiyuzlamachilik"
+    },
+    {
+      "word": "condone",
+      "pos": "verb",
+      "ipa": "/kənˈdəʊn/",
+      "definition": "to accept or approve of behavior that is considered wrong",
+      "example": "The company was criticized for appearing to condone unethical practices among its staff.",
+      "uz": "noto'g'ri xatti-harakatga ko'z yumib qarash"
+    },
+    {
+      "word": "unethical",
+      "pos": "adjective",
+      "ipa": "/ʌnˈeθɪkəl/",
+      "definition": "not conforming to accepted standards of morality",
+      "example": "Testing products on animals is considered unethical by many consumers today.",
+      "uz": "noaxloqiy"
+    },
+    {
+      "word": "weigh up",
+      "pos": "phrasal verb",
+      "ipa": "/weɪ ʌp/",
+      "definition": "to consider carefully the advantages and disadvantages of something",
+      "example": "Doctors must weigh up the benefits and risks before recommending treatment.",
+      "uz": "ijobiy va salbiy tomonlarini puxta o'ylab ko'rmoq"
+    },
+    {
+      "word": "get away with",
+      "pos": "phrasal verb",
+      "ipa": "/ɡet əˈweɪ wɪð/",
+      "definition": "to avoid punishment or consequences for a wrongdoing",
+      "example": "He assumed he could get away with taking credit for her idea.",
+      "uz": "jazosiz qutulmoq"
+    },
+    {
+      "word": "principled",
+      "pos": "adjective",
+      "ipa": "/ˈprɪnsəpəld/",
+      "definition": "acting in accordance with morality and personal values",
+      "example": "She remained principled even when it cost her the promotion.",
+      "uz": "prinsipial, qat'iy qarashli"
+    },
+    {
+      "word": "compromise",
+      "pos": "verb",
+      "ipa": "/ˈkɒmprəmaɪz/",
+      "definition": "to accept lower standards than desired, often by making concessions",
+      "example": "He refused to compromise his values for short-term profit.",
+      "uz": "standartlardan chekinib murosaga kelmoq"
+    },
+    {
+      "word": "accountability",
+      "pos": "noun",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "definition": "the state of being responsible for one's actions",
+      "example": "Public officials should be held to a high standard of accountability.",
+      "uz": "javobgarlik"
+    },
+    {
+      "word": "exploit",
+      "pos": "verb",
+      "ipa": "/ɪkˈsplɔɪt/",
+      "definition": "to treat someone unfairly in order to benefit from their work or situation",
+      "example": "The factory was accused of exploiting workers with unsafe conditions and low pay.",
+      "uz": "o'z manfaati uchun adolatsiz foydalanmoq"
+    },
+    {
+      "word": "impartial",
+      "pos": "adjective",
+      "ipa": "/ɪmˈpɑːʃəl/",
+      "definition": "not favoring one side more than another; fair",
+      "example": "A judge must remain impartial regardless of personal opinion.",
+      "uz": "xolis, adolatli"
+    },
+    {
+      "word": "questionable",
+      "pos": "adjective",
+      "ipa": "/ˈkwestʃənəbəl/",
+      "definition": "of doubtful honesty, morality, or quality",
+      "example": "The methods used to obtain the confession were highly questionable.",
+      "uz": "shubhali"
+    },
+    {
+      "word": "ramifications",
+      "pos": "noun",
+      "ipa": "/ˌræmɪfɪˈkeɪʃənz/",
+      "definition": "the complex, often unwelcome consequences of an action or decision",
+      "example": "The ramifications of the decision extended far beyond the company itself.",
+      "uz": "og'ir va murakkab oqibatlar"
+    },
+    {
+      "word": "conscience",
+      "pos": "noun",
+      "ipa": "/ˈkɒnʃəns/",
+      "definition": "an inner sense of what is right or wrong that guides behavior",
+      "example": "His conscience wouldn't let him stay silent about the fraud.",
+      "uz": "vijdon"
+    },
+    {
+      "word": "slippery slope",
+      "pos": "noun phrase",
+      "ipa": "/ˈslɪpəri sləʊp/",
+      "definition": "a course of action likely to lead to a worse or more extreme situation",
+      "example": "Allowing one exception, she warned, could be a slippery slope toward corruption.",
+      "uz": "asta-sekin yomonlashib boruvchi xavfli holat"
+    },
+    {
+      "word": "selfless",
+      "pos": "adjective",
+      "ipa": "/ˈselfləs/",
+      "definition": "concerned more with others' needs than one's own",
+      "example": "Her selfless decision to donate a kidney to a stranger amazed her colleagues.",
+      "uz": "beg'araz, o'zgalarni o'ylovchi"
+    }
+  ],
+  "text": "Few subjects provoke as much disagreement as the question of how we ought to resolve a genuine moral dilemma. Were ethics purely a matter of personal conscience, there would be little need for shared principles at all; nevertheless, most societies expect some baseline of integrity from their citizens, whatever their private beliefs. Consider a classic utilitarian scenario, in which one must weigh up the greatest good for the greatest number against the rights of a single individual. A strictly principled thinker might refuse to compromise on moral obligation under any circumstances, whereas a more pragmatic one would argue that context justifies flexibility. Herein lies the danger many philosophers warn against: the slippery slope by which one seemingly reasonable exception opens the door to further compromise, until what was once condemned as unethical is quietly condoned. Accountability, in this light, becomes essential—not merely punishing wrongdoing after the fact, but ensuring that those with power cannot exploit others and simply get away with it. Nor is hypocrisy easily avoided; even the most impartial observer occasionally fails to live up to standards they demand of others. What remains clear, however, is that questionable shortcuts rarely go without ramifications, however selfless their original intention may have seemed.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Ethics should be left entirely to personal conscience.",
+        "Resolving moral dilemmas involves balancing principles, consequences, and accountability, and is rarely simple.",
+        "Utilitarianism is universally accepted as the correct ethical approach.",
+        "Hypocrisy is impossible to avoid, so ethics is pointless."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what is the danger of the 'slippery slope'?",
+      "options": [
+        "It prevents any moral progress.",
+        "One reasonable exception can gradually lead to accepting behavior once considered wrong.",
+        "It only applies to utilitarian ethics.",
+        "It guarantees accountability."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the author suggest about accountability?",
+      "options": [
+        "It is unnecessary if people act with good intentions.",
+        "It helps prevent the powerful from exploiting others without consequence.",
+        "It applies only to political leaders.",
+        "It contradicts the idea of moral obligation."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about the author's view on impartiality?",
+      "options": [
+        "Perfectly impartial people never fail to meet their own moral standards.",
+        "Even impartial people can sometimes act hypocritically.",
+        "Impartiality is impossible to strive for.",
+        "Impartiality is irrelevant to ethical behavior."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone throughout the passage?",
+      "options": [
+        "Dismissive of ethical reasoning",
+        "Analytical and balanced",
+        "Strongly biased toward utilitarianism",
+        "Comedic and light-hearted"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what tends to follow 'questionable shortcuts'?",
+      "options": [
+        "They are usually forgotten quickly.",
+        "They rarely go without ramifications.",
+        "They always lead to greater happiness.",
+        "They eliminate the need for accountability."
+      ],
+      "answer": 1
+    }
+  ]
+}

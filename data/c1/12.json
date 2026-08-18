@@ -1,0 +1,229 @@
+{
+  "id": 12,
+  "topic": "Migration, Belonging, and Identity Politics",
+  "words": [
+    {
+      "word": "diaspora",
+      "pos": "noun",
+      "ipa": "/daɪˈæspərə/",
+      "definition": "A population dispersed from its original homeland, often maintaining cultural ties across generations.",
+      "example": "The Armenian diaspora has preserved its language and traditions across dozens of countries.",
+      "uz": "diaspora"
+    },
+    {
+      "word": "assimilate",
+      "pos": "verb",
+      "ipa": "/əˈsɪmɪleɪt/",
+      "definition": "To adopt the customs and culture of a dominant group, often at the expense of one's original identity.",
+      "example": "Second-generation immigrants often assimilate linguistically while retaining strong ties to their heritage.",
+      "uz": "boshqa madaniyatga singib ketmoq"
+    },
+    {
+      "word": "xenophobia",
+      "pos": "noun",
+      "ipa": "/ˌzenəˈfəʊbiə/",
+      "definition": "An intense or irrational dislike or fear of people from other countries.",
+      "example": "Economic downturns have historically coincided with spikes in xenophobia toward migrant workers.",
+      "uz": "ksenofobiya (begonalardan qo'rqish)"
+    },
+    {
+      "word": "marginalize",
+      "pos": "verb",
+      "ipa": "/ˈmɑːdʒɪnəlaɪz/",
+      "definition": "To treat a person or group as insignificant or peripheral.",
+      "example": "Policies that ignore indigenous land claims risk further marginalizing already vulnerable communities.",
+      "uz": "chetlashtirmoq"
+    },
+    {
+      "word": "hegemony",
+      "pos": "noun",
+      "ipa": "/hɪˈdʒeməni/",
+      "definition": "Dominance of one group, culture, or nation over others.",
+      "example": "Cultural hegemony can operate quietly, shaping norms without any explicit coercion.",
+      "uz": "gegemonlik, hukmronlik"
+    },
+    {
+      "word": "multiculturalism",
+      "pos": "noun",
+      "ipa": "/ˌmʌltiˈkʌltʃərəlɪzəm/",
+      "definition": "The policy or presence of several distinct cultural groups coexisting within a society.",
+      "example": "Canada's official policy of multiculturalism encourages immigrants to retain their cultural identities.",
+      "uz": "multikulturalizm"
+    },
+    {
+      "word": "disenfranchised",
+      "pos": "adjective",
+      "ipa": "/ˌdɪsɪnˈfræntʃaɪzd/",
+      "definition": "Deprived of a right or privilege, especially the right to vote or to be heard politically.",
+      "example": "Disenfranchised communities are often the least represented in policy debates that affect them most.",
+      "uz": "huquqlaridan (ovoz berish) mahrum qilingan"
+    },
+    {
+      "word": "entrenched",
+      "pos": "adjective",
+      "ipa": "/ɪnˈtrentʃt/",
+      "definition": "Firmly established and difficult to change.",
+      "example": "Entrenched stereotypes about migrants persist even in the face of contradicting evidence.",
+      "uz": "chuqur ildiz otgan"
+    },
+    {
+      "word": "parochial",
+      "pos": "adjective",
+      "ipa": "/pəˈrəʊkiəl/",
+      "definition": "Having a narrow or limited outlook, concerned primarily with local rather than broader interests.",
+      "example": "His parochial worldview left him unprepared for the diversity of his new city.",
+      "uz": "tor, mahalliychilik ruhidagi"
+    },
+    {
+      "word": "cosmopolitan",
+      "pos": "adjective",
+      "ipa": "/ˌkɒzməˈpɒlɪtən/",
+      "definition": "Familiar with and comfortable in many different countries and cultures; worldly.",
+      "example": "The novelist's cosmopolitan upbringing across four continents shaped her fiction's global sensibility.",
+      "uz": "kosmopolit, dunyoqarashi keng"
+    },
+    {
+      "word": "indigenous",
+      "pos": "adjective",
+      "ipa": "/ɪnˈdɪdʒɪnəs/",
+      "definition": "Originating naturally in a particular place or region.",
+      "example": "The treaty formally recognized the indigenous community's ancestral land rights.",
+      "uz": "tub joy (mahalliy) aholiga oid"
+    },
+    {
+      "word": "amalgamate",
+      "pos": "verb",
+      "ipa": "/əˈmælɡəmeɪt/",
+      "definition": "To combine or unite to form one entity.",
+      "example": "The festival amalgamates culinary traditions from a dozen immigrant communities into a single celebration.",
+      "uz": "birlashtirmoq"
+    },
+    {
+      "word": "insular",
+      "pos": "adjective",
+      "ipa": "/ˈɪnsjʊlər/",
+      "definition": "Ignorant of or uninterested in cultures, ideas, or peoples outside one's own experience.",
+      "example": "Critics accused the town council of an insular attitude that discouraged newcomers from participating in local life.",
+      "uz": "tor doirali, yopiq dunyoqarashli"
+    },
+    {
+      "word": "exclusionary",
+      "pos": "adjective",
+      "ipa": "/ɪkˈskluːʒənəri/",
+      "definition": "Tending to exclude or restrict a particular group.",
+      "example": "The club's exclusionary membership rules drew accusations of discrimination.",
+      "uz": "chetlashtiruvchi"
+    },
+    {
+      "word": "assimilationist",
+      "pos": "adjective",
+      "ipa": "/əˌsɪmɪˈleɪʃənɪst/",
+      "definition": "Advocating that minority groups should adopt the values and practices of the dominant culture.",
+      "example": "The assimilationist policy required students to abandon their native language at school.",
+      "uz": "assimilyatsiyani targ'ib qiluvchi"
+    },
+    {
+      "word": "pluralism",
+      "pos": "noun",
+      "ipa": "/ˈplʊərəlɪzəm/",
+      "definition": "A condition in which multiple distinct groups coexist within a society, each retaining its own identity.",
+      "example": "Genuine pluralism allows distinct communities to coexist without demanding that any relinquish its identity.",
+      "uz": "plyuralizm"
+    },
+    {
+      "word": "essentialize",
+      "pos": "verb",
+      "ipa": "/ɪˈsenʃəlaɪz/",
+      "definition": "To characterize a group or individual by a fixed set of supposedly inherent, defining traits, often reductively.",
+      "example": "It is reductive to essentialize an entire nationality based on a handful of stereotypes.",
+      "uz": "guruhni qat'iy andozaga solib baholamoq"
+    },
+    {
+      "word": "transnational",
+      "pos": "adjective",
+      "ipa": "/trænzˈnæʃənəl/",
+      "definition": "Extending or operating across national borders.",
+      "example": "Transnational families increasingly maintain close ties across borders through constant digital communication.",
+      "uz": "transmilliy"
+    },
+    {
+      "word": "scapegoat",
+      "pos": "noun",
+      "ipa": "/ˈskeɪpɡəʊt/",
+      "definition": "A person or group unfairly blamed for problems not of their own making.",
+      "example": "Politicians often scapegoat immigrants for economic problems with far more complex causes.",
+      "uz": "aybdor qilib ko'rsatilgan shaxs/guruh"
+    },
+    {
+      "word": "reconcile",
+      "pos": "verb",
+      "ipa": "/ˈrekənsaɪl/",
+      "definition": "To make two seemingly incompatible things compatible, or to restore harmonious relations between parties.",
+      "example": "The truth and reconciliation commission sought to reconcile deeply divided communities after decades of conflict.",
+      "uz": "murosaga keltirmoq, yarashtirmoq"
+    }
+  ],
+  "text": "Debates over migration invariably collapse into a false binary: assimilate fully into the host culture, or remain forever a stranger within it. This framing, however, essentializes both migrant and host communities as monolithic, when in practice most diasporic communities negotiate a fluid, transnational identity that draws on multiple cultural repertoires simultaneously. Advocates of an assimilationist model argue that shared civic norms prevent a society from fragmenting into insular enclaves; critics counter that this position, however well-intentioned, often masks a more exclusionary hegemony that marginalizes indigenous minority cultures under the guise of national cohesion. Pluralism attempts to reconcile these competing claims by insisting that multiculturalism need not entail parochial fragmentation, provided that a cosmopolitan common ground—shared institutions, language, mutual obligation—is amalgamated with, rather than substituted for, particular cultural identities. What complicates this synthesis further is the persistence of entrenched xenophobia, which readily scapegoats disenfranchised migrant populations for economic anxieties that have little to do with immigration itself. A genuinely pluralist society, then, requires more than tolerant policy; it demands sustained institutional effort to dismantle the entrenched prejudices that make such policy necessary in the first place.",
+  "questions": [
+    {
+      "question": "What does the author identify as a 'false binary' in migration debates?",
+      "options": [
+        "Legal versus illegal immigration",
+        "Full assimilation versus permanent estrangement from the host culture",
+        "Pluralism versus hegemony",
+        "Diaspora versus indigenous populations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what is the critics' main objection to the assimilationist model?",
+      "options": [
+        "It costs too much money to implement",
+        "It can conceal an exclusionary hegemony that marginalizes minority cultures under the pretext of unity",
+        "It promotes too much cultural diversity",
+        "It lacks any legal enforcement mechanism"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the author propose to reconcile multiculturalism with social cohesion?",
+      "options": [
+        "By eliminating all cultural distinctions between groups",
+        "By amalgamating shared civic institutions with, rather than replacing, particular cultural identities",
+        "By mandating a single national language exclusively",
+        "By keeping diasporic communities entirely isolated"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The passage suggests that xenophobia is often connected to",
+      "options": [
+        "Genuine, well-founded cultural incompatibility",
+        "Economic anxieties unrelated to immigration that are displaced onto migrants",
+        "A shortage of shared national institutions",
+        "Overpopulation in host countries"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's implicit view of policies aimed at tolerance alone?",
+      "options": [
+        "Fully sufficient on their own to achieve pluralism",
+        "Insufficient without deeper institutional efforts to dismantle entrenched prejudice",
+        "Unnecessary given the existence of multiculturalism",
+        "More important than pluralism itself"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which best characterizes the rhetorical strategy of the opening sentence?",
+      "options": [
+        "It states a widely accepted truth to be elaborated further",
+        "It sets up a simplification that the rest of the passage complicates and critiques",
+        "It summarizes the article's final conclusion",
+        "It presents statistical evidence about migration"
+      ],
+      "answer": 1
+    }
+  ]
+}

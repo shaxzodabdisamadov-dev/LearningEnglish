@@ -1,0 +1,229 @@
+{
+  "id": 26,
+  "topic": "Sports Culture and Competition",
+  "words": [
+    {
+      "word": "compete",
+      "pos": "verb",
+      "ipa": "/kəmˈpiːt/",
+      "definition": "to try to win a contest or competition against others",
+      "example": "Athletes from over fifty countries compete in the tournament.",
+      "uz": "raqobatlashmoq"
+    },
+    {
+      "word": "opponent",
+      "pos": "noun",
+      "ipa": "/əˈpoʊnənt/",
+      "definition": "a person who competes against another in a contest",
+      "example": "She defeated her opponent in straight sets.",
+      "uz": "raqib"
+    },
+    {
+      "word": "championship",
+      "pos": "noun",
+      "ipa": "/ˈtʃæmpiənʃɪp/",
+      "definition": "a competition to find the best player or team in a sport",
+      "example": "The team won the national championship last year.",
+      "uz": "chempionat"
+    },
+    {
+      "word": "teamwork",
+      "pos": "noun",
+      "ipa": "/ˈtiːmwɜːrk/",
+      "definition": "the combined effort of a group working together",
+      "example": "Success in football depends heavily on teamwork.",
+      "uz": "jamoaviy ish"
+    },
+    {
+      "word": "sportsmanship",
+      "pos": "noun",
+      "ipa": "/ˈspɔːrtsmənʃɪp/",
+      "definition": "fair and generous behaviour in sport",
+      "example": "He showed great sportsmanship by congratulating the winner.",
+      "uz": "sportchilik odobi"
+    },
+    {
+      "word": "determination",
+      "pos": "noun",
+      "ipa": "/dɪˌtɜːrmɪˈneɪʃən/",
+      "definition": "firmness of purpose; the quality of refusing to give up",
+      "example": "Her determination helped her recover from injury.",
+      "uz": "qat'iyat"
+    },
+    {
+      "word": "defeat",
+      "pos": "verb",
+      "ipa": "/dɪˈfiːt/",
+      "definition": "to win a victory over someone in a contest",
+      "example": "The underdog team defeated the champions in the final.",
+      "uz": "mag'lub etmoq"
+    },
+    {
+      "word": "victory",
+      "pos": "noun",
+      "ipa": "/ˈvɪktəri/",
+      "definition": "an act of winning a battle or contest",
+      "example": "The crowd celebrated the team's victory long into the night.",
+      "uz": "g'alaba"
+    },
+    {
+      "word": "spectator",
+      "pos": "noun",
+      "ipa": "/spekˈteɪtər/",
+      "definition": "a person who watches an event, especially a sports match",
+      "example": "Thousands of spectators filled the stadium.",
+      "uz": "tomoshabin"
+    },
+    {
+      "word": "referee",
+      "pos": "noun",
+      "ipa": "/ˌrefəˈriː/",
+      "definition": "an official who makes sure players follow the rules during a game",
+      "example": "The referee stopped the match because of the storm.",
+      "uz": "hakam"
+    },
+    {
+      "word": "train",
+      "pos": "verb",
+      "ipa": "/treɪn/",
+      "definition": "to prepare for a sport by practising regularly",
+      "example": "Professional athletes train for several hours every day.",
+      "uz": "mashq qilmoq"
+    },
+    {
+      "word": "endurance",
+      "pos": "noun",
+      "ipa": "/ɪnˈdʊrəns/",
+      "definition": "the ability to keep doing something difficult for a long time",
+      "example": "Marathon runners need remarkable endurance.",
+      "uz": "chidamlilik"
+    },
+    {
+      "word": "rivalry",
+      "pos": "noun",
+      "ipa": "/ˈraɪvəlri/",
+      "definition": "a situation in which people or teams compete strongly against each other",
+      "example": "The rivalry between the two clubs goes back decades.",
+      "uz": "raqobat"
+    },
+    {
+      "word": "achieve",
+      "pos": "verb",
+      "ipa": "/əˈtʃiːv/",
+      "definition": "to successfully complete something or reach a goal",
+      "example": "She trained for years to achieve her dream of an Olympic medal.",
+      "uz": "erishmoq"
+    },
+    {
+      "word": "motivate",
+      "pos": "verb",
+      "ipa": "/ˈmoʊtɪveɪt/",
+      "definition": "to make someone want to do something",
+      "example": "A good coach knows how to motivate the team.",
+      "uz": "rag'batlantirmoq"
+    },
+    {
+      "word": "tournament",
+      "pos": "noun",
+      "ipa": "/ˈtʊərnəmənt/",
+      "definition": "a series of contests in which players compete for a prize",
+      "example": "The tennis tournament lasts two weeks.",
+      "uz": "turnir"
+    },
+    {
+      "word": "underdog",
+      "pos": "noun",
+      "ipa": "/ˈʌndərdɔːɡ/",
+      "definition": "a competitor thought unlikely to win",
+      "example": "Nobody expected the underdog to reach the final.",
+      "uz": "zaif sanalgan ishtirokchi"
+    },
+    {
+      "word": "discipline",
+      "pos": "noun",
+      "ipa": "/ˈdɪsəplɪn/",
+      "definition": "the practice of training people to obey rules; self-control",
+      "example": "Success in sport requires discipline as well as talent.",
+      "uz": "intizom"
+    },
+    {
+      "word": "record",
+      "pos": "noun",
+      "ipa": "/ˈrekərd/",
+      "definition": "the best performance ever achieved in a particular sport",
+      "example": "She broke the world record in the 100 metres.",
+      "uz": "rekord"
+    },
+    {
+      "word": "cheer",
+      "pos": "verb",
+      "ipa": "/tʃɪr/",
+      "definition": "to shout in order to show support or approval",
+      "example": "The fans cheered loudly when their team scored.",
+      "uz": "qichqirib qo'llab-quvvatlamoq"
+    }
+  ],
+  "text": "Sport plays a huge part in cultures all over the world. Every four years, millions of spectators watch athletes compete in major tournaments such as the Olympic Games, where nations gather to see who can achieve the greatest victory. Although winning a championship brings fame and money, many athletes say that discipline and determination matter more than any medal. Behind every victory lies years of hard work. Athletes train for hours every day to build the strength and endurance needed to defeat a strong opponent. A good coach also knows how to motivate players, especially when a team is considered the underdog and is not expected to win. Teamwork, too, is essential: even the most talented player cannot win alone. Sport is not only about competition, however. Sportsmanship, which means treating your opponent with respect whether you win or lose, is considered just as important as skill. Fans express their support by cheering loudly for their favourite team, and a fierce rivalry between two clubs can create an exciting atmosphere. Whether an athlete breaks a world record or simply finishes a race, sport continues to inspire people of every age.",
+  "questions": [
+    {
+      "question": "What do millions of spectators watch every four years, according to the passage?",
+      "options": [
+        "Local school competitions",
+        "Athletes competing in major tournaments such as the Olympic Games",
+        "Only television dramas",
+        "Championship rehearsals"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to many athletes, what matters more than winning a medal?",
+      "options": [
+        "Fame and money",
+        "Discipline and determination",
+        "The size of the audience",
+        "The referee's decisions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is needed to defeat a strong opponent, according to the text?",
+      "options": [
+        "Luck alone",
+        "Strength and endurance built through training",
+        "A large audience",
+        "Expensive equipment only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is a good coach important for a team considered the underdog?",
+      "options": [
+        "Coaches replace weak players",
+        "Coaches can motivate players who are not expected to win",
+        "Coaches control the referee",
+        "Coaches design the stadium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does sportsmanship mean, according to the passage?",
+      "options": [
+        "Always winning every match",
+        "Treating your opponent with respect whether you win or lose",
+        "Breaking world records",
+        "Avoiding teamwork"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can create an exciting atmosphere between two clubs, according to the text?",
+      "options": [
+        "A shared training schedule",
+        "A fierce rivalry",
+        "A cancelled championship",
+        "A quiet crowd"
+      ],
+      "answer": 1
+    }
+  ]
+}

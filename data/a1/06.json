@@ -1,0 +1,229 @@
+{
+  "id": 6,
+  "topic": "The Human Body and Health",
+  "words": [
+    {
+      "word": "body",
+      "pos": "noun",
+      "ipa": "/ˈbɑːdi/",
+      "definition": "all the physical parts of a person, like arms and legs",
+      "example": "Exercise is good for your body.",
+      "uz": "tana"
+    },
+    {
+      "word": "head",
+      "pos": "noun",
+      "ipa": "/hed/",
+      "definition": "the top part of your body, with your face and brain",
+      "example": "My head hurts.",
+      "uz": "bosh"
+    },
+    {
+      "word": "hand",
+      "pos": "noun",
+      "ipa": "/hænd/",
+      "definition": "the part at the end of your arm used for holding things",
+      "example": "Wash your hands before eating.",
+      "uz": "qo'l"
+    },
+    {
+      "word": "arm",
+      "pos": "noun",
+      "ipa": "/ɑːrm/",
+      "definition": "the part of your body from your shoulder to your hand",
+      "example": "She hurt her arm.",
+      "uz": "bilak"
+    },
+    {
+      "word": "leg",
+      "pos": "noun",
+      "ipa": "/leɡ/",
+      "definition": "one of the two long parts of the body used for walking",
+      "example": "He has a strong leg.",
+      "uz": "oyoq"
+    },
+    {
+      "word": "eye",
+      "pos": "noun",
+      "ipa": "/aɪ/",
+      "definition": "the part of your body you use to see",
+      "example": "She has blue eyes.",
+      "uz": "ko'z"
+    },
+    {
+      "word": "ear",
+      "pos": "noun",
+      "ipa": "/ɪr/",
+      "definition": "the part of your body you use to hear",
+      "example": "Cover your ears; it's loud.",
+      "uz": "quloq"
+    },
+    {
+      "word": "nose",
+      "pos": "noun",
+      "ipa": "/noʊz/",
+      "definition": "the part of your face used for smelling and breathing",
+      "example": "My nose is cold.",
+      "uz": "burun"
+    },
+    {
+      "word": "mouth",
+      "pos": "noun",
+      "ipa": "/maʊθ/",
+      "definition": "the part of your face used for eating and talking",
+      "example": "Open your mouth, please.",
+      "uz": "og'iz"
+    },
+    {
+      "word": "tooth",
+      "pos": "noun",
+      "ipa": "/tuːθ/",
+      "definition": "one of the hard white parts in your mouth used for biting food",
+      "example": "I brush my teeth every day.",
+      "uz": "tish"
+    },
+    {
+      "word": "hair",
+      "pos": "noun",
+      "ipa": "/heər/",
+      "definition": "the thin threads that grow on your head",
+      "example": "She has long black hair.",
+      "uz": "soch"
+    },
+    {
+      "word": "heart",
+      "pos": "noun",
+      "ipa": "/hɑːrt/",
+      "definition": "the part inside your body that pumps blood",
+      "example": "Exercise makes your heart strong.",
+      "uz": "yurak"
+    },
+    {
+      "word": "sick",
+      "pos": "adjective",
+      "ipa": "/sɪk/",
+      "definition": "not feeling well; ill",
+      "example": "I feel sick today.",
+      "uz": "kasal"
+    },
+    {
+      "word": "healthy",
+      "pos": "adjective",
+      "ipa": "/ˈhelθi/",
+      "definition": "well and strong; not sick",
+      "example": "Vegetables make you healthy.",
+      "uz": "sog'lom"
+    },
+    {
+      "word": "doctor",
+      "pos": "noun",
+      "ipa": "/ˈdɑːktər/",
+      "definition": "a person who helps sick people get better",
+      "example": "The doctor is very kind.",
+      "uz": "shifokor"
+    },
+    {
+      "word": "hospital",
+      "pos": "noun",
+      "ipa": "/ˈhɑːspɪtl/",
+      "definition": "a place where sick or hurt people go to get help",
+      "example": "My father works in a hospital.",
+      "uz": "kasalxona"
+    },
+    {
+      "word": "medicine",
+      "pos": "noun",
+      "ipa": "/ˈmedɪsɪn/",
+      "definition": "something you take to help you feel better when you are sick",
+      "example": "Take this medicine after food.",
+      "uz": "dori"
+    },
+    {
+      "word": "pain",
+      "pos": "noun",
+      "ipa": "/peɪn/",
+      "definition": "the bad feeling in your body when you are hurt or sick",
+      "example": "I have pain in my leg.",
+      "uz": "og'riq"
+    },
+    {
+      "word": "exercise",
+      "pos": "verb",
+      "ipa": "/ˈeksərsaɪz/",
+      "definition": "to move your body to stay strong and healthy",
+      "example": "I exercise every morning.",
+      "uz": "mashq qilmoq"
+    },
+    {
+      "word": "rest",
+      "pos": "verb",
+      "ipa": "/rest/",
+      "definition": "to relax and stop working when you are tired",
+      "example": "You need to rest when you are sick.",
+      "uz": "dam olmoq"
+    }
+  ],
+  "text": "Yesterday, I felt sick. I had pain in my head and my body felt hot. My mother looked at me and said, 'You need to see a doctor.'\n\nWe went to the hospital in the morning. The doctor checked my eyes, ears, nose, mouth, and hair. She also listened to my heart. Then she looked at my arm and my leg because they hurt too. The doctor said, 'You are not very sick, but you need medicine and rest.'\n\nShe gave me medicine to take after food. My mother took me home, and I went to bed. I did not go to school. I stayed home and rested all day. I didn't brush my tooth in the evening because I was too tired, but I did it in the morning.\n\nAfter three days, I felt healthy again. The doctor said exercise is good for a healthy body, so now I walk every morning. I wash my hands often too, so I don't get sick again. Taking care of your body is very important. A healthy body makes a happy life!",
+  "questions": [
+    {
+      "question": "Why did the writer go to the hospital?",
+      "options": [
+        "For a school visit",
+        "Because they felt sick with pain in the head",
+        "To see the doctor's new office",
+        "To buy medicine only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the doctor listen to?",
+      "options": [
+        "The writer's ears",
+        "The writer's heart",
+        "The writer's hair",
+        "The writer's tooth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the doctor give the writer?",
+      "options": [
+        "Food",
+        "Medicine",
+        "Water",
+        "A new hat"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the writer do after taking the medicine?",
+      "options": [
+        "Went to school",
+        "Played outside",
+        "Stayed home and rested",
+        "Went to the shop"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many days did it take for the writer to feel healthy again?",
+      "options": [
+        "One day",
+        "Two days",
+        "Three days",
+        "A week"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the writer do now to stay healthy?",
+      "options": [
+        "Eat more sugar",
+        "Walk every morning and wash hands",
+        "Sleep all day",
+        "Stay at the hospital"
+      ],
+      "answer": 1
+    }
+  ]
+}

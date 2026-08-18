@@ -1,0 +1,229 @@
+{
+  "id": 9,
+  "topic": "House and Furniture",
+  "words": [
+    {
+      "word": "house",
+      "pos": "noun",
+      "ipa": "/haʊs/",
+      "definition": "a building where people live",
+      "example": "My house has three bedrooms.",
+      "uz": "uy"
+    },
+    {
+      "word": "room",
+      "pos": "noun",
+      "ipa": "/ruːm/",
+      "definition": "a part of a building with walls, used for one purpose",
+      "example": "The living room is big.",
+      "uz": "xona"
+    },
+    {
+      "word": "kitchen",
+      "pos": "noun",
+      "ipa": "/ˈkɪtʃɪn/",
+      "definition": "a room where people cook food",
+      "example": "Mother cooks dinner in the kitchen.",
+      "uz": "oshxona"
+    },
+    {
+      "word": "bedroom",
+      "pos": "noun",
+      "ipa": "/ˈbedruːm/",
+      "definition": "a room where you sleep",
+      "example": "I sleep in my bedroom.",
+      "uz": "yotoqxona"
+    },
+    {
+      "word": "bathroom",
+      "pos": "noun",
+      "ipa": "/ˈbɑːθruːm/",
+      "definition": "a room with a bath or shower and a toilet",
+      "example": "The bathroom is next to the bedroom.",
+      "uz": "hammom"
+    },
+    {
+      "word": "door",
+      "pos": "noun",
+      "ipa": "/dɔːr/",
+      "definition": "a flat object that opens and closes to let people go in or out",
+      "example": "Please close the door.",
+      "uz": "eshik"
+    },
+    {
+      "word": "window",
+      "pos": "noun",
+      "ipa": "/ˈwɪndoʊ/",
+      "definition": "an opening in a wall with glass that lets in light",
+      "example": "I open the window in the morning.",
+      "uz": "deraza"
+    },
+    {
+      "word": "table",
+      "pos": "noun",
+      "ipa": "/ˈteɪbl/",
+      "definition": "a piece of furniture with a flat top and legs",
+      "example": "We eat dinner at the table.",
+      "uz": "stol"
+    },
+    {
+      "word": "chair",
+      "pos": "noun",
+      "ipa": "/tʃer/",
+      "definition": "a piece of furniture for one person to sit on",
+      "example": "Sit on this chair.",
+      "uz": "stul"
+    },
+    {
+      "word": "bed",
+      "pos": "noun",
+      "ipa": "/bed/",
+      "definition": "a piece of furniture for sleeping",
+      "example": "The cat sleeps on my bed.",
+      "uz": "karavot"
+    },
+    {
+      "word": "sofa",
+      "pos": "noun",
+      "ipa": "/ˈsoʊfə/",
+      "definition": "a long soft seat for two or more people",
+      "example": "We watch TV on the sofa.",
+      "uz": "divan"
+    },
+    {
+      "word": "lamp",
+      "pos": "noun",
+      "ipa": "/læmp/",
+      "definition": "a light that uses electricity or oil",
+      "example": "Turn on the lamp, please.",
+      "uz": "chiroq"
+    },
+    {
+      "word": "wall",
+      "pos": "noun",
+      "ipa": "/wɔːl/",
+      "definition": "one of the sides of a room or building",
+      "example": "There is a picture on the wall.",
+      "uz": "devor"
+    },
+    {
+      "word": "floor",
+      "pos": "noun",
+      "ipa": "/flɔːr/",
+      "definition": "the flat part of a room that you walk on",
+      "example": "The floor is very clean.",
+      "uz": "pol"
+    },
+    {
+      "word": "roof",
+      "pos": "noun",
+      "ipa": "/ruːf/",
+      "definition": "the top part of a building that covers it",
+      "example": "Snow falls on the roof.",
+      "uz": "tom"
+    },
+    {
+      "word": "garden",
+      "pos": "noun",
+      "ipa": "/ˈɡɑːrdn/",
+      "definition": "a piece of land near a house where you grow flowers or plants",
+      "example": "We have flowers in our garden.",
+      "uz": "bog'"
+    },
+    {
+      "word": "key",
+      "pos": "noun",
+      "ipa": "/kiː/",
+      "definition": "a small metal object used to open or lock a door",
+      "example": "I lost my house key.",
+      "uz": "kalit"
+    },
+    {
+      "word": "mirror",
+      "pos": "noun",
+      "ipa": "/ˈmɪrər/",
+      "definition": "a piece of glass that shows your picture",
+      "example": "She looks in the mirror.",
+      "uz": "oyna"
+    },
+    {
+      "word": "shelf",
+      "pos": "noun",
+      "ipa": "/ʃelf/",
+      "definition": "a flat board for putting things on",
+      "example": "The books are on the shelf.",
+      "uz": "javon"
+    },
+    {
+      "word": "clock",
+      "pos": "noun",
+      "ipa": "/klɒk/",
+      "definition": "a machine that shows the time",
+      "example": "The clock is on the wall.",
+      "uz": "soat"
+    }
+  ],
+  "text": "My family has a small house in the city. Our house has four rooms: a kitchen, a bedroom, a bathroom, and a living room. In the kitchen, there is a table and four chairs. We eat breakfast there every morning. The living room has a big sofa and a lamp near the window. I like to sit on the sofa and read books from the shelf. My bedroom is next to the bathroom. There is a bed, a mirror, and a small clock on the wall. Every night, I look at the clock before I sleep. Behind the house, we have a garden with flowers and a tree. My father works in the garden on weekends. The door of our house is blue, and I always keep my key in my bag. The floor in the kitchen is white, and the roof is red. I love my house because it is warm and happy.",
+  "questions": [
+    {
+      "question": "How many rooms does the house have?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where does the family eat breakfast?",
+      "options": [
+        "In the bedroom",
+        "In the kitchen",
+        "In the garden",
+        "In the bathroom"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is on the wall of the bedroom?",
+      "options": [
+        "A window and a door",
+        "A sofa and a lamp",
+        "A bed and a table",
+        "A mirror and a clock"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who works in the garden on weekends?",
+      "options": [
+        "The mother",
+        "The father",
+        "The writer",
+        "The neighbor"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What color is the door?",
+      "options": [
+        "Red",
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where does the writer keep the house key?",
+      "options": [
+        "In the kitchen",
+        "On the shelf",
+        "In their bag",
+        "Under the mirror"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 18,
+  "topic": "Cybersecurity and Digital Privacy",
+  "words": [
+    {
+      "word": "breach",
+      "pos": "noun",
+      "ipa": "/briːtʃ/",
+      "definition": "an act of breaking a law, agreement, or security system",
+      "example": "The company suffered a major data breach last year.",
+      "uz": "xavfsizlik buzilishi"
+    },
+    {
+      "word": "encrypt",
+      "pos": "verb",
+      "ipa": "/ɪnˈkrɪpt/",
+      "definition": "to convert information into a code to prevent unauthorized access",
+      "example": "All messages are encrypted before being sent.",
+      "uz": "shifrlamoq"
+    },
+    {
+      "word": "vulnerable",
+      "pos": "adjective",
+      "ipa": "/ˈvʌlnərəbl/",
+      "definition": "exposed to the possibility of being attacked or harmed",
+      "example": "Outdated software leaves systems vulnerable to attack.",
+      "uz": "zaif, himoyasiz"
+    },
+    {
+      "word": "exploit",
+      "pos": "verb",
+      "ipa": "/ɪkˈsplɔɪt/",
+      "definition": "to take unfair advantage of a weakness for one's own benefit",
+      "example": "Hackers exploited a flaw in the payment system.",
+      "uz": "zaiflikdan noqonuniy foydalanib olmoq"
+    },
+    {
+      "word": "anonymity",
+      "pos": "noun",
+      "ipa": "/ˌænəˈnɪməti/",
+      "definition": "the state of not being identified by name or identity",
+      "example": "Many users value the anonymity that the internet provides.",
+      "uz": "anonimlik"
+    },
+    {
+      "word": "surveillance",
+      "pos": "noun",
+      "ipa": "/sɜːˈveɪləns/",
+      "definition": "close and continuous observation of a person or place",
+      "example": "Critics argue that mass surveillance violates personal privacy.",
+      "uz": "kuzatuv"
+    },
+    {
+      "word": "compromise",
+      "pos": "verb",
+      "ipa": "/ˈkɒmprəmaɪz/",
+      "definition": "to weaken or expose something to danger, especially security",
+      "example": "The breach compromised the personal data of millions of users.",
+      "uz": "xavfsizlikka putur yetkazmoq"
+    },
+    {
+      "word": "malicious",
+      "pos": "adjective",
+      "ipa": "/məˈlɪʃəs/",
+      "definition": "intending to cause harm or damage",
+      "example": "The email contained malicious software designed to steal passwords.",
+      "uz": "yovuz niyatli, zararli"
+    },
+    {
+      "word": "deter",
+      "pos": "verb",
+      "ipa": "/dɪˈtɜːr/",
+      "definition": "to discourage someone from doing something through fear of consequences",
+      "example": "Strong penalties are meant to deter cybercriminals.",
+      "uz": "qo'rqitib to'xtatmoq"
+    },
+    {
+      "word": "infiltrate",
+      "pos": "verb",
+      "ipa": "/ˈɪnfɪltreɪt/",
+      "definition": "to enter an organization or system secretly in order to gain access",
+      "example": "The virus was designed to infiltrate government networks.",
+      "uz": "yashirincha kirib olmoq"
+    },
+    {
+      "word": "consent",
+      "pos": "noun",
+      "ipa": "/kənˈsɛnt/",
+      "definition": "permission for something to happen or be done",
+      "example": "Companies must obtain consent before collecting personal data.",
+      "uz": "rozilik"
+    },
+    {
+      "word": "ubiquitous",
+      "pos": "adjective",
+      "ipa": "/juːˈbɪkwɪtəs/",
+      "definition": "present, appearing, or found everywhere",
+      "example": "Smartphones have become almost ubiquitous in modern life.",
+      "uz": "hamma joyda uchraydigan"
+    },
+    {
+      "word": "covert",
+      "pos": "adjective",
+      "ipa": "/ˈkʌvət/",
+      "definition": "not openly acknowledged or displayed; secret",
+      "example": "The agency ran a covert surveillance operation for months.",
+      "uz": "yashirin"
+    },
+    {
+      "word": "circumvent",
+      "pos": "verb",
+      "ipa": "/ˌsɜːkəmˈvɛnt/",
+      "definition": "to find a way around an obstacle or rule",
+      "example": "Skilled hackers can circumvent even advanced security measures.",
+      "uz": "chetlab o'tmoq"
+    },
+    {
+      "word": "accountability",
+      "pos": "noun",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "definition": "the state of being responsible for one's actions",
+      "example": "There is growing demand for greater corporate accountability over data use.",
+      "uz": "javobgarlik"
+    },
+    {
+      "word": "erode",
+      "pos": "verb",
+      "ipa": "/ɪˈrəʊd/",
+      "definition": "to gradually wear away or diminish",
+      "example": "Repeated data leaks have eroded public trust in tech companies.",
+      "uz": "asta-sekin yemirib bormoq"
+    },
+    {
+      "word": "jeopardize",
+      "pos": "verb",
+      "ipa": "/ˈdʒɛpədaɪz/",
+      "definition": "to put something at risk of harm or loss",
+      "example": "A single weak password can jeopardize an entire network.",
+      "uz": "xavf ostiga qo'ymoq"
+    },
+    {
+      "word": "incentive",
+      "pos": "noun",
+      "ipa": "/ɪnˈsɛntɪv/",
+      "definition": "something that motivates a person to act in a particular way",
+      "example": "Companies have little financial incentive to invest heavily in security.",
+      "uz": "rag'bat, undov"
+    },
+    {
+      "word": "loophole",
+      "pos": "noun",
+      "ipa": "/ˈluːphəʊl/",
+      "definition": "an ambiguity or gap that allows a rule to be avoided",
+      "example": "Regulators are working to close a loophole exploited by data brokers.",
+      "uz": "qonundagi bo'shliq"
+    },
+    {
+      "word": "safeguard",
+      "pos": "verb",
+      "ipa": "/ˈseɪfɡɑːd/",
+      "definition": "to protect from harm or damage",
+      "example": "New laws were introduced to safeguard citizens' online privacy.",
+      "uz": "himoya qilmoq"
+    }
+  ],
+  "text": "As digital technology becomes ubiquitous, so too does our exposure to those who would exploit its weaknesses. A single security breach can compromise millions of accounts within minutes, exposing personal data to malicious actors operating covertly across borders. Companies invest heavily in software designed to encrypt sensitive information and safeguard user privacy, yet no system is entirely invulnerable. Hackers continually search for a loophole, a small gap through which they might infiltrate otherwise secure networks. Nor is the threat confined to criminals alone: governments, too, have been accused of surveillance programs that erode the very anonymity citizens once took for granted, often without meaningful consent. Such practices jeopardize public trust and raise pressing questions about accountability. What incentive, one might ask, do corporations have to prioritize privacy over profit, particularly when regulation lags behind innovation? Stricter laws could deter negligent practices, but determined attackers will always seek to circumvent even the most sophisticated defenses. Ultimately, safeguarding digital privacy demands not only better technology but also a fundamental shift in how seriously both institutions and individuals treat the vulnerabilities inherent in an increasingly connected world.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Digital privacy is fully protected by current technology.",
+        "Both criminal hackers and governments pose ongoing threats to digital privacy, requiring stronger action.",
+        "Only criminals threaten online security, not governments.",
+        "Encryption alone has solved the problem of data breaches."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what do hackers search for to infiltrate networks?",
+      "options": [
+        "Weak passwords only",
+        "A loophole or small gap in security",
+        "Government permission",
+        "Public surveillance data"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the author imply about corporations' motivation to protect privacy?",
+      "options": [
+        "They are strongly motivated by legal penalties alone.",
+        "They may lack sufficient financial incentive to prioritize it.",
+        "They always prioritize privacy over profit.",
+        "They are legally required to ignore privacy concerns."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What effect does the passage say government surveillance has had?",
+      "options": [
+        "It has strengthened public trust.",
+        "It has eroded the anonymity people once expected.",
+        "It has eliminated all cybercrime.",
+        "It has had no effect on citizens."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's primary purpose in this passage?",
+      "options": [
+        "To argue that no solution to cybersecurity threats exists",
+        "To highlight the ongoing risks to digital privacy and call for stronger safeguards",
+        "To promote a specific software company",
+        "To provide step-by-step instructions for encrypting data"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the passage, 'circumvent' most nearly means:",
+      "options": [
+        "To strengthen",
+        "To find a way around",
+        "To report to authorities",
+        "To completely destroy"
+      ],
+      "answer": 1
+    }
+  ]
+}

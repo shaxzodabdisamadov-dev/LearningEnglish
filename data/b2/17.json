@@ -1,0 +1,229 @@
+{
+  "id": 17,
+  "topic": "Biotechnology and Genetic Engineering",
+  "words": [
+    {
+      "word": "manipulate",
+      "pos": "verb",
+      "ipa": "/məˈnɪpjʊleɪt/",
+      "definition": "to control or influence something skillfully, often for one's own purposes",
+      "example": "Scientists can now manipulate specific genes with remarkable precision.",
+      "uz": "o'z maqsadida mohirona boshqarmoq"
+    },
+    {
+      "word": "genome",
+      "pos": "noun",
+      "ipa": "/ˈdʒiːnəʊm/",
+      "definition": "the complete set of genetic material present in an organism",
+      "example": "Researchers successfully mapped the human genome in 2003.",
+      "uz": "genom"
+    },
+    {
+      "word": "splice",
+      "pos": "verb",
+      "ipa": "/splaɪs/",
+      "definition": "to join or insert pieces of genetic material together",
+      "example": "Technicians can splice a healthy gene into a damaged cell.",
+      "uz": "gen bo'laklarini ulamoq"
+    },
+    {
+      "word": "controversial",
+      "pos": "adjective",
+      "ipa": "/ˌkɒntrəˈvɜːʃəl/",
+      "definition": "causing strong disagreement or differing opinions",
+      "example": "Gene editing in embryos remains a highly controversial procedure.",
+      "uz": "bahsli, ziddiyatli"
+    },
+    {
+      "word": "eradicate",
+      "pos": "verb",
+      "ipa": "/ɪˈrædɪkeɪt/",
+      "definition": "to eliminate something completely",
+      "example": "The therapy aims to eradicate the inherited disease entirely.",
+      "uz": "butunlay yo'q qilmoq"
+    },
+    {
+      "word": "mutation",
+      "pos": "noun",
+      "ipa": "/mjuːˈteɪʃən/",
+      "definition": "a change in the genetic structure of an organism",
+      "example": "A single mutation can sometimes cause a serious illness.",
+      "uz": "mutatsiya"
+    },
+    {
+      "word": "profound",
+      "pos": "adjective",
+      "ipa": "/prəˈfaʊnd/",
+      "definition": "very great or intense; having deep and lasting effects",
+      "example": "The discovery had a profound impact on modern medicine.",
+      "uz": "chuqur va jiddiy"
+    },
+    {
+      "word": "tamper with",
+      "pos": "phrasal verb",
+      "ipa": "/ˈtæmpər wɪð/",
+      "definition": "to interfere with something without permission or authority",
+      "example": "Critics worry about the ethics of tampering with human embryos.",
+      "uz": "ruxsatsiz aralashmoq"
+    },
+    {
+      "word": "ethical",
+      "pos": "adjective",
+      "ipa": "/ˈɛθɪkəl/",
+      "definition": "relating to moral principles of right and wrong",
+      "example": "The committee raised serious ethical objections to the experiment.",
+      "uz": "axloqiy"
+    },
+    {
+      "word": "safeguard",
+      "pos": "verb",
+      "ipa": "/ˈseɪfɡɑːd/",
+      "definition": "to protect someone or something from harm",
+      "example": "Strict regulations exist to safeguard patients from experimental risks.",
+      "uz": "himoya qilmoq"
+    },
+    {
+      "word": "irreversible",
+      "pos": "adjective",
+      "ipa": "/ˌɪrɪˈvɜːsəbl/",
+      "definition": "impossible to change back to a previous state",
+      "example": "Editing the germline could cause irreversible changes passed to future generations.",
+      "uz": "qaytarib bo'lmaydigan"
+    },
+    {
+      "word": "proponent",
+      "pos": "noun",
+      "ipa": "/prəˈpəʊnənt/",
+      "definition": "a person who publicly supports a particular idea or cause",
+      "example": "Proponents claim gene therapy could cure thousands of diseases.",
+      "uz": "tarafdor"
+    },
+    {
+      "word": "skeptic",
+      "pos": "noun",
+      "ipa": "/ˈskɛptɪk/",
+      "definition": "a person who doubts accepted beliefs or claims",
+      "example": "Skeptics question whether the technology is safe enough for widespread use.",
+      "uz": "shubha bilan qaraydigan kishi"
+    },
+    {
+      "word": "unforeseen",
+      "pos": "adjective",
+      "ipa": "/ˌʌnfɔːˈriːn/",
+      "definition": "not anticipated or predicted in advance",
+      "example": "Unforeseen side effects delayed approval of the treatment.",
+      "uz": "kutilmagan"
+    },
+    {
+      "word": "albeit",
+      "pos": "conjunction",
+      "ipa": "/ɔːlˈbiːɪt/",
+      "definition": "although; even though",
+      "example": "The trial succeeded, albeit with a smaller sample than planned.",
+      "uz": "garchi... bo'lsa-da"
+    },
+    {
+      "word": "inherent",
+      "pos": "adjective",
+      "ipa": "/ɪnˈhɪərənt/",
+      "definition": "existing as a natural or permanent feature of something",
+      "example": "There is an inherent risk in altering something as complex as the genome.",
+      "uz": "tabiatan xos, ajralmas"
+    },
+    {
+      "word": "mitigate",
+      "pos": "verb",
+      "ipa": "/ˈmɪtɪɡeɪt/",
+      "definition": "to make a problem or its effects less severe",
+      "example": "New safety protocols were introduced to mitigate the risks.",
+      "uz": "yumshatmoq, kamaytirmoq"
+    },
+    {
+      "word": "loom",
+      "pos": "verb",
+      "ipa": "/luːm/",
+      "definition": "to appear as an imminent, often threatening, event",
+      "example": "Ethical dilemmas loom over every advance in genetic engineering.",
+      "uz": "xavf sifatida yaqinlashib kelmoq"
+    },
+    {
+      "word": "discrepancy",
+      "pos": "noun",
+      "ipa": "/dɪˈskrɛpənsi/",
+      "definition": "a lack of agreement or consistency between facts or figures",
+      "example": "There is a troubling discrepancy in access to these treatments worldwide.",
+      "uz": "nomuvofiqlik, farq"
+    },
+    {
+      "word": "take root",
+      "pos": "idiom",
+      "ipa": "/teɪk ruːt/",
+      "definition": "to become established or firmly settled",
+      "example": "Once a new technology takes root in medicine, it is hard to reverse its use.",
+      "uz": "ildiz otmoq"
+    }
+  ],
+  "text": "Few scientific advances have proven as profound as our newfound ability to manipulate the human genome. Techniques that once seemed the stuff of science fiction now allow researchers to splice faulty sequences and, at least in theory, eradicate hereditary diseases before a child is even born. Proponents argue that such tools could safeguard future generations from suffering long associated with genetic mutation. Skeptics, however, warn that tampering with the genome carries risks that are not merely inherent but potentially irreversible. Were an unforeseen consequence to emerge only after the technology had already taken root in clinical practice, there would be little means of undoing the damage. Nor is the debate purely scientific: it is deeply ethical, touching on questions of consent, inequality, and what it means to be human. A troubling discrepancy has also emerged between wealthy nations racing to adopt these methods and poorer countries left without access altogether. Governments must now decide how best to mitigate the dangers looming over this controversial frontier, albeit without stifling research that could, ultimately, save countless lives.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Gene editing technology is entirely safe and uncontroversial.",
+        "Gene editing offers great promise but raises profound ethical and practical concerns.",
+        "Wealthy nations should be denied access to gene editing.",
+        "Scientists have abandoned research into genetic diseases."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what worries skeptics most about gene editing?",
+      "options": [
+        "It is too expensive for most patients.",
+        "It could cause irreversible harm that emerges only later.",
+        "It has been proven completely ineffective.",
+        "It is banned in most countries."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about global access to gene-editing technology?",
+      "options": [
+        "It is distributed equally among all nations.",
+        "Wealthy nations have greater access than poorer ones.",
+        "Poorer nations have more advanced research programs.",
+        "No country currently has access to it."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's overall tone in the passage?",
+      "options": [
+        "Purely celebratory",
+        "Completely dismissive of gene editing's potential",
+        "Balanced, acknowledging both benefits and risks",
+        "Angry and accusatory toward scientists"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the passage suggest is needed alongside scientific research?",
+      "options": [
+        "More funding for entertainment",
+        "Careful ethical consideration and regulation",
+        "A complete ban on all genetic research",
+        "Immediate global adoption without testing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the passage, the phrase 'take root' refers to:",
+      "options": [
+        "A gene editing technique failing entirely",
+        "A technology becoming firmly established in practice",
+        "A plant-based medical treatment",
+        "A disease spreading rapidly"
+      ],
+      "answer": 1
+    }
+  ]
+}

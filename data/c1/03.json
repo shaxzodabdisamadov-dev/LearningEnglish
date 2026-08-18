@@ -1,0 +1,229 @@
+{
+  "id": 3,
+  "topic": "Cognitive Biases and Decision-Making",
+  "words": [
+    {
+      "word": "heuristic",
+      "pos": "noun",
+      "ipa": "/hjʊˈrɪstɪk/",
+      "definition": "a mental shortcut or rule of thumb that allows for rapid, though not always accurate, judgment",
+      "example": "Relying on the availability heuristic, she overestimated the danger of flying because plane crashes are so vividly reported.",
+      "uz": "evristika (aqliy qisqa yo'l)"
+    },
+    {
+      "word": "confirmation bias",
+      "pos": "noun",
+      "ipa": "/ˌkɒnfərˈmeɪʃən ˈbaɪəs/",
+      "definition": "the tendency to search for, interpret, and recall information in a way that confirms one's preexisting beliefs",
+      "example": "Confirmation bias led him to notice only the news stories that supported his existing opinions.",
+      "uz": "tasdiqlash tarafkashligi"
+    },
+    {
+      "word": "anchoring",
+      "pos": "noun",
+      "ipa": "/ˈæŋkərɪŋ/",
+      "definition": "the cognitive tendency to rely too heavily on the first piece of information encountered when making decisions",
+      "example": "The negotiator's opening offer was deliberately extreme, exploiting anchoring to shift the entire range of discussion.",
+      "uz": "langar effekti"
+    },
+    {
+      "word": "cognitive dissonance",
+      "pos": "noun",
+      "ipa": "/ˈkɒɡnətɪv ˈdɪsənəns/",
+      "definition": "the mental discomfort experienced when holding two contradictory beliefs, values, or attitudes simultaneously",
+      "example": "He resolved his cognitive dissonance not by quitting smoking but by downplaying the health risks.",
+      "uz": "kognitiv dissonans"
+    },
+    {
+      "word": "rationalize",
+      "pos": "verb",
+      "ipa": "/ˈræʃənəlaɪz/",
+      "definition": "to attempt to explain or justify behavior or attitudes with logical reasons, often invented after the fact",
+      "example": "She spent the drive home trying to rationalize a purchase she knew she couldn't afford.",
+      "uz": "keyinchalik oqlab tushuntirmoq"
+    },
+    {
+      "word": "deliberate",
+      "pos": "adjective",
+      "ipa": "/dɪˈlɪbərət/",
+      "definition": "done consciously and intentionally, with careful thought rather than by impulse",
+      "example": "The committee reached its conclusion only after a slow and deliberate review of the evidence.",
+      "uz": "ongli va ataylab qilingan"
+    },
+    {
+      "word": "intuitive",
+      "pos": "adjective",
+      "ipa": "/ɪnˈtjuːɪtɪv/",
+      "definition": "based on instinct or immediate impression rather than conscious, step-by-step reasoning",
+      "example": "Her intuitive sense that something was wrong turned out, on later analysis, to be correct.",
+      "uz": "intuitiv"
+    },
+    {
+      "word": "bias",
+      "pos": "noun",
+      "ipa": "/ˈbaɪəs/",
+      "definition": "a systematic tendency to favor certain conclusions or judgments over others, often unconsciously",
+      "example": "Even trained researchers must guard against unconscious bias when interpreting ambiguous results.",
+      "uz": "tarafkashlik (moyillik)"
+    },
+    {
+      "word": "fallible",
+      "pos": "adjective",
+      "ipa": "/ˈfæləbəl/",
+      "definition": "capable of making errors or being wrong",
+      "example": "Even expert judgment is fallible, which is why second opinions remain valuable in medicine.",
+      "uz": "xato qilishi mumkin bo'lgan"
+    },
+    {
+      "word": "skew",
+      "pos": "verb",
+      "ipa": "/skjuː/",
+      "definition": "to distort or bias something so that it is no longer balanced or representative",
+      "example": "A single outlier can skew the average in a way that misrepresents the typical case.",
+      "uz": "buzib, og'dirib yubormoq"
+    },
+    {
+      "word": "overconfidence",
+      "pos": "noun",
+      "ipa": "/ˌəʊvəˈkɒnfɪdəns/",
+      "definition": "excessive and often unjustified belief in the accuracy of one's own judgment or abilities",
+      "example": "Overconfidence among investors is frequently cited as a contributing factor in speculative bubbles.",
+      "uz": "ortiqcha o'ziga ishonch"
+    },
+    {
+      "word": "salient",
+      "pos": "adjective",
+      "ipa": "/ˈseɪliənt/",
+      "definition": "most noticeable, prominent, or important, and therefore disproportionately influential on judgment",
+      "example": "The most salient details of an event are not always the most representative of what actually happened.",
+      "uz": "yaqqol ko'zga tashlanuvchi"
+    },
+    {
+      "word": "plausible",
+      "pos": "adjective",
+      "ipa": "/ˈplɔːzəbəl/",
+      "definition": "seeming reasonable, believable, or probable, though not necessarily proven",
+      "example": "The explanation was plausible enough that the committee accepted it without further investigation.",
+      "uz": "ishonarli, ehtimoli bor"
+    },
+    {
+      "word": "entrenched",
+      "pos": "adjective",
+      "ipa": "/ɪnˈtrɛntʃt/",
+      "definition": "firmly established and difficult to change or remove",
+      "example": "The prejudice was so entrenched that no amount of contrary evidence seemed to shift it.",
+      "uz": "chuqur ildiz otgan"
+    },
+    {
+      "word": "mitigate",
+      "pos": "verb",
+      "ipa": "/ˈmɪtɪɡeɪt/",
+      "definition": "to make something less severe, serious, or harmful",
+      "example": "Structured decision protocols can help mitigate the influence of overconfidence in high-stakes judgments.",
+      "uz": "yumshatmoq, kamaytirmoq"
+    },
+    {
+      "word": "susceptible",
+      "pos": "adjective",
+      "ipa": "/səˈsɛptəbəl/",
+      "definition": "likely to be influenced, harmed, or affected by something",
+      "example": "Tired decision-makers are especially susceptible to anchoring effects late in the day.",
+      "uz": "ta'sirga moyil"
+    },
+    {
+      "word": "deliberative",
+      "pos": "adjective",
+      "ipa": "/dɪˈlɪbərətɪv/",
+      "definition": "relating to careful, unhurried consideration and discussion before reaching a decision",
+      "example": "The jury's deliberative process stretched over three full days before a verdict was reached.",
+      "uz": "puxta muhokamaga asoslangan"
+    },
+    {
+      "word": "myopic",
+      "pos": "adjective",
+      "ipa": "/maɪˈɒpɪk/",
+      "definition": "lacking foresight or broader perspective; excessively focused on immediate concerns",
+      "example": "Critics called the policy myopic, arguing it addressed short-term costs while ignoring long-term consequences.",
+      "uz": "kaltabin"
+    },
+    {
+      "word": "counterintuitive",
+      "pos": "adjective",
+      "ipa": "/ˌkaʊntərɪnˈtjuːɪtɪv/",
+      "definition": "contrary to what intuition or common sense would suggest",
+      "example": "It is counterintuitive, but adding more choices can sometimes make people less satisfied with their decision.",
+      "uz": "intuitsiyaga zid"
+    },
+    {
+      "word": "discount",
+      "pos": "verb",
+      "ipa": "/dɪsˈkaʊnt/",
+      "definition": "to disregard something as being of little importance or unreliable",
+      "example": "Analysts tend to discount warnings that contradict the prevailing market consensus.",
+      "uz": "e'tiborsiz, ahamiyatsiz deb qoldirmoq"
+    }
+  ],
+  "text": "Human beings are, by design, cognitively fallible creatures who rely heavily on heuristics—mental shortcuts that permit rapid judgment at the expense of accuracy. Confirmation bias, perhaps the most entrenched of these distortions, leads individuals to seek out and disproportionately weight evidence that supports pre-existing convictions while discounting information that unsettles them. Closely related is anchoring, whereby an initial, often arbitrary figure exerts disproportionate influence on subsequent estimates, skewing judgment long after its relevance has expired. When confronted with evidence that contradicts a cherished belief, people frequently experience cognitive dissonance and, rather than revising the belief, rationalize the discrepancy away—a maneuver that feels intuitive but is rarely deliberative. Overconfidence compounds the problem: decision-makers routinely overestimate the reliability of their own judgment, a tendency particularly dangerous in high-stakes, ambiguous contexts. What makes these biases so difficult to mitigate is precisely that they masquerade as plausible reasoning; the mind rarely experiences its own errors as errors. Some psychologists argue, counterintuitively, that deliberate reflection can sometimes worsen decisions by supplying ever more elaborate rationalizations for a myopic, salient first impression—suggesting that susceptibility to bias is not simply a failure of intelligence but a structural feature of cognition itself.",
+  "questions": [
+    {
+      "question": "According to the passage, why do heuristics exist despite their tendency to produce errors?",
+      "options": [
+        "They guarantee accurate judgments in every case",
+        "They allow rapid judgment at the expense of accuracy",
+        "They are a recent evolutionary development unique to experts",
+        "They only occur in low-stakes decisions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest is the defining danger of confirmation bias?",
+      "options": [
+        "It causes people to ignore all evidence equally",
+        "It causes people to disproportionately favor confirming evidence while discounting contrary evidence",
+        "It only affects experts, never laypeople",
+        "It is easily recognized by those experiencing it"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the passage describe the relationship between rationalization and cognitive dissonance?",
+      "options": [
+        "Rationalization eliminates the need for cognitive dissonance entirely",
+        "Cognitive dissonance is typically resolved by revising the original belief",
+        "People often rationalize contradictory evidence away rather than revise their beliefs when experiencing dissonance",
+        "Cognitive dissonance never leads to rationalization according to the passage"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What counterintuitive claim do some psychologists make, according to the final sentence of the passage?",
+      "options": [
+        "Deliberate reflection always improves decision-making",
+        "Deliberate reflection can sometimes worsen decisions by reinforcing an initial biased impression",
+        "Myopic impressions are always accurate",
+        "Bias only occurs in the total absence of reflection"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is implied by the statement that biases \"masquerade as plausible reasoning\"?",
+      "options": [
+        "Biases are always easy for the person experiencing them to detect",
+        "Biased reasoning can feel logically sound to the reasoner even when it is flawed",
+        "Plausible reasoning is by definition unbiased",
+        "Masquerading has no real connection to cognitive error"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's overall conclusion about susceptibility to cognitive bias?",
+      "options": [
+        "It reflects low intelligence in those affected",
+        "It is described as a structural feature of cognition rather than simply a lack of intelligence",
+        "It can be entirely eliminated through basic education",
+        "It only affects overconfident individuals"
+      ],
+      "answer": 1
+    }
+  ]
+}

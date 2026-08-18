@@ -1,0 +1,229 @@
+{
+  "id": 22,
+  "topic": "Festivals Around the World",
+  "words": [
+    {
+      "word": "festival",
+      "pos": "noun",
+      "ipa": "/ˈfɛstəvəl/",
+      "definition": "a special event when people celebrate something together",
+      "example": "The city has a big music festival every summer.",
+      "uz": "festival"
+    },
+    {
+      "word": "celebration",
+      "pos": "noun",
+      "ipa": "/ˌsɛləˈbreɪʃən/",
+      "definition": "a special time when people enjoy themselves for a happy reason",
+      "example": "There was a big celebration for the new year.",
+      "uz": "tantana"
+    },
+    {
+      "word": "parade",
+      "pos": "noun",
+      "ipa": "/pəˈreɪd/",
+      "definition": "a public event where people walk together, often with music",
+      "example": "We watched a colorful parade in the street.",
+      "uz": "parad"
+    },
+    {
+      "word": "firework",
+      "pos": "noun",
+      "ipa": "/ˈfaɪərwɜːrk/",
+      "definition": "a small object that explodes with bright lights in the sky",
+      "example": "The fireworks lit up the night sky.",
+      "uz": "salyut"
+    },
+    {
+      "word": "decoration",
+      "pos": "noun",
+      "ipa": "/ˌdɛkəˈreɪʃən/",
+      "definition": "something used to make a place look nice for a special event",
+      "example": "We put up decorations for the festival.",
+      "uz": "bezak"
+    },
+    {
+      "word": "lantern",
+      "pos": "noun",
+      "ipa": "/ˈlæntərn/",
+      "definition": "a light in a container that you can carry or hang",
+      "example": "People hung colorful lanterns in the street.",
+      "uz": "fonar"
+    },
+    {
+      "word": "gift",
+      "pos": "noun",
+      "ipa": "/ɡɪft/",
+      "definition": "something you give to someone, often for a special day",
+      "example": "We exchange gifts during the holiday.",
+      "uz": "sovg'a"
+    },
+    {
+      "word": "feast",
+      "pos": "noun",
+      "ipa": "/fiːst/",
+      "definition": "a large, special meal for many people",
+      "example": "The family shared a big feast together.",
+      "uz": "ziyofat"
+    },
+    {
+      "word": "holiday",
+      "pos": "noun",
+      "ipa": "/ˈhɒlədeɪ/",
+      "definition": "a special day when people do not work and often celebrate",
+      "example": "Next week is a national holiday in my country.",
+      "uz": "bayram"
+    },
+    {
+      "word": "invite",
+      "pos": "verb",
+      "ipa": "/ɪnˈvaɪt/",
+      "definition": "to ask someone to come to an event",
+      "example": "She invited all her friends to the festival.",
+      "uz": "taklif qilmoq"
+    },
+    {
+      "word": "guest",
+      "pos": "noun",
+      "ipa": "/ɡɛst/",
+      "definition": "a person who is invited to an event",
+      "example": "We had many guests at our celebration.",
+      "uz": "mehmon"
+    },
+    {
+      "word": "candle",
+      "pos": "noun",
+      "ipa": "/ˈkændəl/",
+      "definition": "a stick of wax with a string that you burn for light",
+      "example": "They lit candles for the festival.",
+      "uz": "sham"
+    },
+    {
+      "word": "mask",
+      "pos": "noun",
+      "ipa": "/mæsk/",
+      "definition": "something you wear to cover your face",
+      "example": "Children wore colorful masks in the parade.",
+      "uz": "niqob"
+    },
+    {
+      "word": "drum",
+      "pos": "noun",
+      "ipa": "/drʌm/",
+      "definition": "a musical instrument you hit to make sound",
+      "example": "Musicians played the drum during the parade.",
+      "uz": "baraban"
+    },
+    {
+      "word": "crowd",
+      "pos": "noun",
+      "ipa": "/kraʊd/",
+      "definition": "a large group of people gathered together",
+      "example": "A big crowd watched the fireworks.",
+      "uz": "olomon"
+    },
+    {
+      "word": "event",
+      "pos": "noun",
+      "ipa": "/ɪˈvɛnt/",
+      "definition": "something that happens, especially something planned",
+      "example": "The festival is the biggest event of the year.",
+      "uz": "tadbir"
+    },
+    {
+      "word": "attend",
+      "pos": "verb",
+      "ipa": "/əˈtɛnd/",
+      "definition": "to go to an event",
+      "example": "Thousands of people attend the festival every year.",
+      "uz": "qatnashmoq"
+    },
+    {
+      "word": "colorful",
+      "pos": "adjective",
+      "ipa": "/ˈkʌlərfəl/",
+      "definition": "having many bright colors",
+      "example": "The costumes at the festival were very colorful.",
+      "uz": "rang-barang"
+    },
+    {
+      "word": "joy",
+      "pos": "noun",
+      "ipa": "/dʒɔɪ/",
+      "definition": "a feeling of great happiness",
+      "example": "Festivals bring joy to families and friends.",
+      "uz": "quvonch"
+    },
+    {
+      "word": "gather",
+      "pos": "verb",
+      "ipa": "/ˈɡæðər/",
+      "definition": "to come together in one place",
+      "example": "People gather in the square to celebrate.",
+      "uz": "to'planmoq"
+    }
+  ],
+  "text": "Festivals happen in every country around the world, and each one is special. During a festival, people often gather in the streets to watch a parade with music, dancing, and colorful costumes. Some festivals also have fireworks that light up the sky at night, and everyone in the crowd looks up with joy. Before a big festival, families often put up decorations at home, like lights or paper lanterns. Sometimes people light candles too. Many festivals are also national holidays, so people do not have to work and can spend the whole day celebrating with family. Guests are often invited to a big feast, where everyone eats together and shares gifts. In some countries, people wear masks and dance to the sound of drums during the festival. Every year, thousands of tourists attend famous festivals just to see the amazing parades and decorations. Even though festivals are different in every country, they all bring people together and create a feeling of joy and community. Festivals help us remember our culture and enjoy time with the people we love.",
+  "questions": [
+    {
+      "question": "What do people often watch during a festival, according to the text?",
+      "options": [
+        "A football match",
+        "A parade with music and dancing",
+        "A cooking competition",
+        "A business meeting"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do families often put up at home before a big festival?",
+      "options": [
+        "New furniture",
+        "Decorations like lights or lanterns",
+        "Sports equipment",
+        "Computers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why can people spend the whole day celebrating during many festivals?",
+      "options": [
+        "Because it is a national holiday and they do not have to work",
+        "Because schools are closed for the summer",
+        "Because it is the weekend",
+        "Because shops are closed"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What happens at the feast that guests are invited to?",
+      "options": [
+        "Everyone plays sports",
+        "Everyone eats together and shares gifts",
+        "Everyone watches a movie",
+        "Everyone stays home alone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do people wear and what do they dance to in some countries during festivals?",
+      "options": [
+        "Uniforms and silence",
+        "Masks and the sound of drums",
+        "Suits and quiet music",
+        "Coats and no music"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, what do festivals do for people, even though they are different in every country?",
+      "options": [
+        "They separate families",
+        "They bring people together and create joy",
+        "They make people tired",
+        "They stop people from working forever"
+      ],
+      "answer": 1
+    }
+  ]
+}

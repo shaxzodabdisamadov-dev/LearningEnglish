@@ -1,0 +1,229 @@
+{
+  "id": 23,
+  "topic": "Daily Routine",
+  "words": [
+    {
+      "word": "wake up",
+      "pos": "phrase",
+      "ipa": "/weɪk ʌp/",
+      "definition": "to stop sleeping",
+      "example": "I wake up at seven o'clock.",
+      "uz": "uyg'onmoq"
+    },
+    {
+      "word": "get up",
+      "pos": "phrase",
+      "ipa": "/ɡet ʌp/",
+      "definition": "to leave your bed after sleeping",
+      "example": "I get up and open the window.",
+      "uz": "o'rnidan turmoq"
+    },
+    {
+      "word": "breakfast",
+      "pos": "noun",
+      "ipa": "/ˈbrekfəst/",
+      "definition": "the first meal of the day",
+      "example": "I eat breakfast at eight.",
+      "uz": "nonushta"
+    },
+    {
+      "word": "morning",
+      "pos": "noun",
+      "ipa": "/ˈmɔːrnɪŋ/",
+      "definition": "the early part of the day",
+      "example": "I feel happy in the morning.",
+      "uz": "ertalab"
+    },
+    {
+      "word": "shower",
+      "pos": "noun",
+      "ipa": "/ˈʃaʊər/",
+      "definition": "a wash where water falls on your body",
+      "example": "I take a shower every day.",
+      "uz": "dush"
+    },
+    {
+      "word": "brush",
+      "pos": "verb",
+      "ipa": "/brʌʃ/",
+      "definition": "to clean something with a brush",
+      "example": "I brush my teeth two times a day.",
+      "uz": "cho'tkalamoq"
+    },
+    {
+      "word": "teeth",
+      "pos": "noun",
+      "ipa": "/tiːθ/",
+      "definition": "the white parts in your mouth used for eating",
+      "example": "My teeth are white.",
+      "uz": "tishlar"
+    },
+    {
+      "word": "dress",
+      "pos": "verb",
+      "ipa": "/dres/",
+      "definition": "to put on clothes",
+      "example": "I dress quickly before school.",
+      "uz": "kiyinmoq"
+    },
+    {
+      "word": "school",
+      "pos": "noun",
+      "ipa": "/skuːl/",
+      "definition": "a place where children learn",
+      "example": "My children go to school by bus.",
+      "uz": "maktab"
+    },
+    {
+      "word": "work",
+      "pos": "noun",
+      "ipa": "/wɜːrk/",
+      "definition": "a job that a person does to earn money",
+      "example": "My father goes to work at nine.",
+      "uz": "ish"
+    },
+    {
+      "word": "lunch",
+      "pos": "noun",
+      "ipa": "/lʌntʃ/",
+      "definition": "a meal that people eat in the middle of the day",
+      "example": "We eat lunch at noon.",
+      "uz": "tushlik"
+    },
+    {
+      "word": "afternoon",
+      "pos": "noun",
+      "ipa": "/ˌæftərˈnuːn/",
+      "definition": "the part of the day between midday and evening",
+      "example": "I study in the afternoon.",
+      "uz": "tushdan keyin"
+    },
+    {
+      "word": "evening",
+      "pos": "noun",
+      "ipa": "/ˈiːvnɪŋ/",
+      "definition": "the part of the day before night",
+      "example": "We watch TV in the evening.",
+      "uz": "kechqurun"
+    },
+    {
+      "word": "dinner",
+      "pos": "noun",
+      "ipa": "/ˈdɪnər/",
+      "definition": "the main meal that people eat in the evening",
+      "example": "We have dinner at seven.",
+      "uz": "kechki ovqat"
+    },
+    {
+      "word": "sleep",
+      "pos": "verb",
+      "ipa": "/sliːp/",
+      "definition": "to rest with your eyes closed at night",
+      "example": "I sleep for eight hours.",
+      "uz": "uxlamoq"
+    },
+    {
+      "word": "night",
+      "pos": "noun",
+      "ipa": "/naɪt/",
+      "definition": "the time when it is dark outside",
+      "example": "It is quiet at night.",
+      "uz": "tun"
+    },
+    {
+      "word": "clock",
+      "pos": "noun",
+      "ipa": "/klɒk/",
+      "definition": "a machine that shows the time",
+      "example": "The clock says six o'clock.",
+      "uz": "soat"
+    },
+    {
+      "word": "early",
+      "pos": "adjective",
+      "ipa": "/ˈɜːrli/",
+      "definition": "before the usual time",
+      "example": "I go to bed early.",
+      "uz": "erta"
+    },
+    {
+      "word": "late",
+      "pos": "adjective",
+      "ipa": "/leɪt/",
+      "definition": "after the usual time",
+      "example": "Don't be late for school!",
+      "uz": "kech"
+    },
+    {
+      "word": "routine",
+      "pos": "noun",
+      "ipa": "/ruːˈtiːn/",
+      "definition": "the usual things a person does every day in the same order",
+      "example": "My daily routine is simple.",
+      "uz": "kundalik tartib"
+    }
+  ],
+  "text": "Every day I have the same routine. I wake up early, at six o'clock, when my clock rings. First, I get up and take a shower. Then I brush my teeth and dress for school. After that, I eat breakfast with my family. In the morning, I go to school. My classes start at eight. At noon, I eat lunch with my friends. In the afternoon, I study and play games. My father comes home from work in the evening. We eat dinner together at seven o'clock and talk about our day. After dinner, I do my homework. At night, I read a book before I sleep. I never go to bed late because I need eight hours of sleep. My routine helps me feel good every day. On Sunday, my routine is different. I get up late and relax with my family. I like my daily routine because it makes my life easy and happy.",
+  "questions": [
+    {
+      "question": "What time does the writer wake up?",
+      "options": [
+        "6 o'clock",
+        "7 o'clock",
+        "8 o'clock",
+        "9 o'clock"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the writer do right after getting up?",
+      "options": [
+        "Eat breakfast",
+        "Take a shower",
+        "Go to school",
+        "Eat lunch"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When does the writer eat lunch?",
+      "options": [
+        "In the morning",
+        "At noon",
+        "In the evening",
+        "At night"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who comes home from work in the evening?",
+      "options": [
+        "Mother",
+        "Father",
+        "Sister",
+        "Brother"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the writer do before sleeping?",
+      "options": [
+        "Eats dinner",
+        "Reads a book",
+        "Takes a shower",
+        "Goes to school"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is different about Sunday?",
+      "options": [
+        "The writer eats no breakfast",
+        "The writer gets up late",
+        "The writer goes to work",
+        "The writer sleeps at school"
+      ],
+      "answer": 1
+    }
+  ]
+}

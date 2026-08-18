@@ -1,0 +1,19 @@
+{
+  "name": "LearningEnglishStat — Ingliz tilini lug'at va o'qish orqali o'rganing",
+  "short_name": "LearningEnglishStat",
+  "description": "A1 dan C1 gacha lug'at va o'qish orqali ingliz tilini o'rganish sayti.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f7fc",
+  "theme_color": "#f6f7fc",
+  "lang": "uz",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

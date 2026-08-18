@@ -1,0 +1,229 @@
+{
+  "id": 2,
+  "topic": "Effective Communication and Persuasion",
+  "words": [
+    {
+      "word": "articulate",
+      "pos": "verb",
+      "ipa": "/ɑːˈtɪkjuleɪt/",
+      "definition": "to express thoughts or feelings clearly in words",
+      "example": "She struggled to articulate exactly why the plan felt wrong.",
+      "uz": "aniq va ravon ifodalamoq"
+    },
+    {
+      "word": "persuasive",
+      "pos": "adjective",
+      "ipa": "/pəˈsweɪsɪv/",
+      "definition": "good at making people believe or do something",
+      "example": "His persuasive argument won over even the skeptics in the room.",
+      "uz": "ishontiruvchi"
+    },
+    {
+      "word": "rapport",
+      "pos": "noun",
+      "ipa": "/ræˈpɔː/",
+      "definition": "a close and harmonious relationship in which people understand each other well",
+      "example": "The therapist quickly built rapport with her new client.",
+      "uz": "o'zaro tushunishga asoslangan yaqin munosabat"
+    },
+    {
+      "word": "convey",
+      "pos": "verb",
+      "ipa": "/kənˈveɪ/",
+      "definition": "to communicate or make an idea known",
+      "example": "The report failed to convey the urgency of the situation.",
+      "uz": "yetkazmoq (fikrni)"
+    },
+    {
+      "word": "ambiguous",
+      "pos": "adjective",
+      "ipa": "/æmˈbɪɡjuəs/",
+      "definition": "open to more than one interpretation; unclear",
+      "example": "The instructions were so ambiguous that half the team misunderstood them.",
+      "uz": "noaniq, ikki xil talqin qilinadigan"
+    },
+    {
+      "word": "concise",
+      "pos": "adjective",
+      "ipa": "/kənˈsaɪs/",
+      "definition": "giving information clearly in a few words",
+      "example": "A concise email is far more likely to be read in full.",
+      "uz": "lo'nda va aniq"
+    },
+    {
+      "word": "elaborate",
+      "pos": "verb",
+      "ipa": "/ɪˈlæbəreɪt/",
+      "definition": "to explain something in more detail",
+      "example": "Could you elaborate on what you meant by that comment?",
+      "uz": "batafsil tushuntirmoq"
+    },
+    {
+      "word": "get across",
+      "pos": "phrasal verb",
+      "ipa": "/ɡet əˈkrɒs/",
+      "definition": "to succeed in making an idea understood",
+      "example": "It took several attempts before she managed to get her point across.",
+      "uz": "fikrni tushuntirib yetkaza olmoq"
+    },
+    {
+      "word": "tone down",
+      "pos": "phrasal verb",
+      "ipa": "/təʊn daʊn/",
+      "definition": "to make something less extreme or forceful",
+      "example": "He was advised to tone down his language during the negotiation.",
+      "uz": "yumshatmoq (ohangni)"
+    },
+    {
+      "word": "compelling",
+      "pos": "adjective",
+      "ipa": "/kəmˈpelɪŋ/",
+      "definition": "evoking interest or attention in a powerfully irresistible way",
+      "example": "She presented a compelling case for restructuring the department.",
+      "uz": "diqqatni tortadigan, ishonarli"
+    },
+    {
+      "word": "credibility",
+      "pos": "noun",
+      "ipa": "/ˌkredəˈbɪləti/",
+      "definition": "the quality of being trusted and believed in",
+      "example": "Exaggerating results can seriously damage a scientist's credibility.",
+      "uz": "ishonchlilik"
+    },
+    {
+      "word": "nonverbal",
+      "pos": "adjective",
+      "ipa": "/nɒnˈvɜːbəl/",
+      "definition": "not involving or using words or speech",
+      "example": "Nonverbal cues, such as posture, often reveal more than words do.",
+      "uz": "og'zaki bo'lmagan"
+    },
+    {
+      "word": "empathy",
+      "pos": "noun",
+      "ipa": "/ˈempəθi/",
+      "definition": "the ability to understand and share the feelings of another",
+      "example": "Good negotiators listen with empathy rather than simply waiting to speak.",
+      "uz": "hamdardlik, boshqa odamning hissiyotini tushunish"
+    },
+    {
+      "word": "sway",
+      "pos": "verb",
+      "ipa": "/sweɪ/",
+      "definition": "to influence someone's opinions or decisions",
+      "example": "A single emotional anecdote can sway an entire audience.",
+      "uz": "fikriga ta'sir o'tkazmoq"
+    },
+    {
+      "word": "rhetoric",
+      "pos": "noun",
+      "ipa": "/ˈretərɪk/",
+      "definition": "the art of effective or persuasive speaking or writing",
+      "example": "Political rhetoric often relies more on emotion than on evidence.",
+      "uz": "notiqlik san'ati"
+    },
+    {
+      "word": "tactful",
+      "pos": "adjective",
+      "ipa": "/ˈtæktfəl/",
+      "definition": "careful not to offend or upset someone when speaking",
+      "example": "A tactful manager can deliver criticism without damaging morale.",
+      "uz": "nozik, odobli (og'ir gapirmaydigan)"
+    },
+    {
+      "word": "misconstrue",
+      "pos": "verb",
+      "ipa": "/ˌmɪskənˈstruː/",
+      "definition": "to interpret someone's words or actions incorrectly",
+      "example": "Her sarcastic remark was misconstrued as a genuine insult.",
+      "uz": "noto'g'ri tushunmoq, xato talqin qilmoq"
+    },
+    {
+      "word": "assertive",
+      "pos": "adjective",
+      "ipa": "/əˈsɜːtɪv/",
+      "definition": "expressing opinions confidently and directly",
+      "example": "Being assertive, rather than aggressive, is key to constructive negotiation.",
+      "uz": "o'ziga ishongan, dadil"
+    },
+    {
+      "word": "get through to",
+      "pos": "phrasal verb",
+      "ipa": "/ɡet θruː tuː/",
+      "definition": "to succeed in making someone understand or listen",
+      "example": "No matter how she phrased it, she couldn't get through to him.",
+      "uz": "fikrni anglata olmoq, tushuntira olmoq"
+    },
+    {
+      "word": "eloquent",
+      "pos": "adjective",
+      "ipa": "/ˈeləkwənt/",
+      "definition": "fluent and persuasive in speaking or writing",
+      "example": "Her eloquent speech left the audience in stunned silence.",
+      "uz": "notiq, ravon va ta'sirchan so'zlovchi"
+    }
+  ],
+  "text": "What separates a merely eloquent speaker from a genuinely persuasive one is not vocabulary but the ability to convey ideas with both clarity and empathy. So often do communicators assume that more words automatically make a message more compelling, when in fact the opposite tends to be true: a concise, well-structured argument gets across far more effectively than a rambling one. Nowhere is this more evident than in negotiation, where an assertive yet tactful tone can build rapport, whereas an ambiguous or overly aggressive one is easily misconstrued. Nonverbal signals, too, play a role few speakers fully appreciate; a raised eyebrow or hesitant pause can sway an audience as powerfully as any rhetoric. Consequently, credibility is earned not merely through polished delivery but through consistency between what is said and how it is expressed. Should a listener seem confused, the wise communicator will elaborate rather than repeat the same point more loudly. Ultimately, getting through to someone requires less persuasion of the forceful kind and more patient translation—finding the words, tone, and timing that make understanding, rather than agreement, the immediate goal.",
+  "questions": [
+    {
+      "question": "What is the main argument of the passage?",
+      "options": [
+        "Longer speeches are always more persuasive.",
+        "True persuasiveness comes from clarity and empathy rather than sheer vocabulary or volume of words.",
+        "Nonverbal communication is irrelevant to persuasion.",
+        "Aggression is the most effective negotiating tactic."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what can happen if a message is ambiguous or overly aggressive?",
+      "options": [
+        "It automatically builds rapport.",
+        "It is easily misconstrued.",
+        "It increases the speaker's credibility.",
+        "It has no effect on the listener."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the author suggest about nonverbal signals?",
+      "options": [
+        "They are less important than rhetoric.",
+        "They can be as influential as spoken argument.",
+        "They only matter in written communication.",
+        "They typically confuse listeners."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's purpose in this passage?",
+      "options": [
+        "To criticize modern political speech.",
+        "To analyze what makes communication genuinely effective and persuasive.",
+        "To provide a history of rhetoric.",
+        "To argue that empathy is unnecessary in negotiation."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what should a speaker do if a listener seems confused?",
+      "options": [
+        "Repeat the same point more loudly.",
+        "End the conversation.",
+        "Elaborate on the point.",
+        "Switch to nonverbal communication only."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the passage imply about credibility?",
+      "options": [
+        "It depends solely on polished delivery.",
+        "It results from consistency between words and manner of expression.",
+        "It is unrelated to trust.",
+        "It cannot be damaged once established."
+      ],
+      "answer": 1
+    }
+  ]
+}

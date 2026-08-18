@@ -1,0 +1,229 @@
+{
+  "id": 25,
+  "topic": "Narrative Theory and Postmodern Literature",
+  "words": [
+    {
+      "word": "metafiction",
+      "pos": "noun",
+      "ipa": "/ˌmɛtəˈfɪkʃən/",
+      "definition": "Fiction that self-consciously draws attention to its own status as a fictional construct.",
+      "example": "The novel's metafiction constantly reminds readers they are reading a novel.",
+      "uz": "metabadiiy asar"
+    },
+    {
+      "word": "unreliable narrator",
+      "pos": "noun phrase",
+      "ipa": "/ˌʌnrɪˈlaɪəbəl ˈnæreɪtər/",
+      "definition": "A narrator whose credibility is compromised, undermining the reader's trust in the account.",
+      "example": "The unreliable narrator's account grows increasingly suspect as the plot unfolds.",
+      "uz": "ishonchsiz hikoyachi"
+    },
+    {
+      "word": "pastiche",
+      "pos": "noun",
+      "ipa": "/pæˈstiːʃ/",
+      "definition": "A work that imitates the style of previous works, often blending several.",
+      "example": "The film is a playful pastiche of 1940s detective movies.",
+      "uz": "pastish (uslubiy taqlid asar)"
+    },
+    {
+      "word": "intertextuality",
+      "pos": "noun",
+      "ipa": "/ˌɪntətɛkstʃuˈælɪti/",
+      "definition": "The way texts derive meaning by referencing or echoing other texts.",
+      "example": "The poem's intertextuality invites comparison with earlier Romantic works.",
+      "uz": "intertekstuallik"
+    },
+    {
+      "word": "fragmentation",
+      "pos": "noun",
+      "ipa": "/ˌfrægmənˈteɪʃən/",
+      "definition": "The state of being broken into disconnected or disjointed parts.",
+      "example": "The narrative's fragmentation mirrors the protagonist's fractured memory.",
+      "uz": "parchalanish"
+    },
+    {
+      "word": "teleology",
+      "pos": "noun",
+      "ipa": "/ˌtɛliˈɒlədʒi/",
+      "definition": "The explanation or organization of events by reference to their ultimate purpose or endpoint.",
+      "example": "Critics questioned the novel's teleology, its drive toward a fixed ending.",
+      "uz": "teleologiya"
+    },
+    {
+      "word": "verisimilitude",
+      "pos": "noun",
+      "ipa": "/ˌvɛrɪsɪˈmɪlɪtjuːd/",
+      "definition": "The quality of appearing true or realistic within a fictional world.",
+      "example": "The dialogue's verisimilitude made the characters feel authentic.",
+      "uz": "haqqoniylik (ishonarlilik)"
+    },
+    {
+      "word": "diegesis",
+      "pos": "noun",
+      "ipa": "/daɪəˈdʒiːsɪs/",
+      "definition": "The narrated events and world of a story, as distinct from the manner of their telling.",
+      "example": "The narrator occasionally steps outside the diegesis to address the reader.",
+      "uz": "diegezis (hikoya olami)"
+    },
+    {
+      "word": "anachronism",
+      "pos": "noun",
+      "ipa": "/əˈnækrənɪzəm/",
+      "definition": "Something placed outside its proper chronological time.",
+      "example": "The novel deliberately inserts anachronism, placing a smartphone in ancient Rome.",
+      "uz": "anaxronizm"
+    },
+    {
+      "word": "indeterminacy",
+      "pos": "noun",
+      "ipa": "/ˌɪndɪˈtɜːmɪnəsi/",
+      "definition": "The quality of being unresolved or open to multiple interpretations.",
+      "example": "The ending's indeterminacy left readers debating its meaning for decades.",
+      "uz": "noaniqlik"
+    },
+    {
+      "word": "subvert",
+      "pos": "verb",
+      "ipa": "/səbˈvɜːt/",
+      "definition": "To undermine or overturn established conventions or expectations.",
+      "example": "The author subverts readers' expectations by killing the hero mid-novel.",
+      "uz": "(an'anaviy me'yorlarni) ag'darmoq, buzmoq"
+    },
+    {
+      "word": "ironic detachment",
+      "pos": "noun phrase",
+      "ipa": "/aɪˈrɒnɪk dɪˈtætʃmənt/",
+      "definition": "A stance of emotional distance conveyed through irony.",
+      "example": "The narrator maintains an ironic detachment even during tragic scenes.",
+      "uz": "kinoyali beparvolik"
+    },
+    {
+      "word": "epistemological",
+      "pos": "adjective",
+      "ipa": "/ɪˌpɪstɪməˈlɒdʒɪkəl/",
+      "definition": "Relating to the nature and limits of knowledge.",
+      "example": "The novel raises epistemological questions about how we know the past.",
+      "uz": "epistemologik"
+    },
+    {
+      "word": "self-reflexive",
+      "pos": "adjective",
+      "ipa": "/sɛlf rɪˈflɛksɪv/",
+      "definition": "Referring to or commenting on itself, especially its own methods or construction.",
+      "example": "The self-reflexive narrator comments on his own storytelling choices.",
+      "uz": "o'z-o'ziga qaratilgan"
+    },
+    {
+      "word": "polyphonic",
+      "pos": "adjective",
+      "ipa": "/ˌpɒliˈfɒnɪk/",
+      "definition": "Featuring multiple, simultaneous, and equally valid narrative voices.",
+      "example": "Dostoevsky's polyphonic novels give equal weight to conflicting voices.",
+      "uz": "polifonik (ko'p ovozli)"
+    },
+    {
+      "word": "hyperreality",
+      "pos": "noun",
+      "ipa": "/ˌhaɪpərriˈæləti/",
+      "definition": "A condition in which representations of reality become indistinguishable from or supersede reality itself.",
+      "example": "Theme parks exemplify a kind of hyperreality detached from any original.",
+      "uz": "giperreallik"
+    },
+    {
+      "word": "discontinuity",
+      "pos": "noun",
+      "ipa": "/ˌdɪskɒntɪˈnjuːɪti/",
+      "definition": "A lack of logical or chronological connection between parts.",
+      "example": "The film's editing creates deliberate discontinuity between scenes.",
+      "uz": "uzilish, ketma-ketlik yo'qligi"
+    },
+    {
+      "word": "ambiguity",
+      "pos": "noun",
+      "ipa": "/ˌæmbɪˈgjuːɪti/",
+      "definition": "The quality of being open to more than one interpretation.",
+      "example": "The story's ambiguity resists any single definitive interpretation.",
+      "uz": "ko'p ma'nolilik, noaniqlik"
+    },
+    {
+      "word": "deconstruct",
+      "pos": "verb",
+      "ipa": "/ˌdiːkənˈstrʌkt/",
+      "definition": "To analyze a text by exposing the underlying assumptions and contradictions within it.",
+      "example": "The essay seeks to deconstruct the novel's apparent moral certainty.",
+      "uz": "dekonstruksiya qilmoq"
+    },
+    {
+      "word": "allegory",
+      "pos": "noun",
+      "ipa": "/ˈæləgəri/",
+      "definition": "A narrative in which characters and events symbolically represent abstract ideas.",
+      "example": "The fable functions as an allegory for political corruption.",
+      "uz": "allegoriya"
+    }
+  ],
+  "text": "Postmodern fiction is frequently characterized by a deliberate assault on the conventions that once guaranteed narrative verisimilitude. Where realist novels sought to efface their own construction, works of metafiction foreground it: a self-reflexive narrator might interrupt the diegesis to remind readers that the story is, after all, an artifact of language, thereby subverting any naive faith in unmediated representation. This is not mere gimmickry. By exploiting fragmentation, discontinuity, and anachronism—splicing historical fact with invented testimony—authors stage an epistemological argument: that our access to the past, like our access to any 'truth,' is always mediated by narrative itself. Critics sometimes complain that such pastiche, layered with dense intertextuality, degenerates into an evasive indeterminacy, where ambiguity becomes an excuse for authorial irresponsibility rather than a genuine interpretive challenge. Yet defenders argue that a polyphonic structure, refusing any single authoritative voice, better honors the plurality of lived experience than the tidy allegories of earlier fiction. In an age increasingly defined by hyperreality, where mediated images often eclipse the events they purport to depict, the postmodern impulse to deconstruct narrative authority seems less a fashionable indulgence than a necessary reckoning with how knowledge itself is constructed.",
+  "questions": [
+    {
+      "question": "According to the passage, what distinguishes metafiction from realist fiction?",
+      "options": [
+        "Metafiction hides its own construction while realism reveals it",
+        "Metafiction draws attention to its own status as a constructed artifact, unlike realism which conceals this",
+        "Metafiction avoids narrative voice entirely",
+        "Metafiction relies solely on chronological structure"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The techniques of fragmentation, discontinuity, and anachronism are used by postmodern authors primarily to:",
+      "options": [
+        "Create purely decorative stylistic effects",
+        "Make an epistemological point about how access to the past is always mediated by narrative",
+        "Simplify the reading experience",
+        "Restore faith in objective historical truth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What criticism of pastiche and intertextuality is mentioned in the passage?",
+      "options": [
+        "They make texts too realistic",
+        "They can degenerate into an evasive indeterminacy that excuses authorial irresponsibility",
+        "They eliminate ambiguity entirely",
+        "They are incompatible with polyphonic structure"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How do defenders of polyphonic structure, per the passage, justify it against critics?",
+      "options": [
+        "They claim it simplifies moral judgment",
+        "They argue it better reflects the plurality of lived experience than a single authoritative narrative voice",
+        "They deny that ambiguity exists in such texts",
+        "They argue it restores a tidy, unified narrative voice"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's overall stance toward postmodern narrative techniques, based on the final sentence, is best described as:",
+      "options": [
+        "Dismissive, viewing them as indulgent fads",
+        "Cautiously sympathetic, viewing them as a meaningful response to how knowledge is constructed",
+        "Entirely neutral with no discernible position",
+        "Hostile, arguing they should be abandoned"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The reference to \"hyperreality\" in the final sentence functions to:",
+      "options": [
+        "Contrast an era where mediated images can eclipse the reality they represent with the postmodern impulse toward deconstruction",
+        "Prove that all narrative is now obsolete",
+        "Argue that images have no relationship to truth",
+        "Suggest that postmodernism has no relevance to contemporary life"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 19,
+  "topic": "School and Education",
+  "words": [
+    {
+      "word": "school",
+      "pos": "noun",
+      "ipa": "/skuːl/",
+      "definition": "a place where children go to learn",
+      "example": "I go to school every morning.",
+      "uz": "maktab"
+    },
+    {
+      "word": "teacher",
+      "pos": "noun",
+      "ipa": "/ˈtiːtʃər/",
+      "definition": "a person whose job is to teach students",
+      "example": "Our teacher is very kind.",
+      "uz": "o'qituvchi"
+    },
+    {
+      "word": "student",
+      "pos": "noun",
+      "ipa": "/ˈstjuːdənt/",
+      "definition": "a person who is learning at a school or college",
+      "example": "Every student must bring a book.",
+      "uz": "o'quvchi"
+    },
+    {
+      "word": "classroom",
+      "pos": "noun",
+      "ipa": "/ˈklɑːsruːm/",
+      "definition": "a room in a school where lessons happen",
+      "example": "We sit at desks in the classroom.",
+      "uz": "sinf xonasi"
+    },
+    {
+      "word": "book",
+      "pos": "noun",
+      "ipa": "/bʊk/",
+      "definition": "a set of printed pages with a cover, used for reading",
+      "example": "I forgot my book at home.",
+      "uz": "kitob"
+    },
+    {
+      "word": "pen",
+      "pos": "noun",
+      "ipa": "/pen/",
+      "definition": "a tool used for writing with ink",
+      "example": "Can I borrow your pen, please?",
+      "uz": "ruchka"
+    },
+    {
+      "word": "pencil",
+      "pos": "noun",
+      "ipa": "/ˈpensəl/",
+      "definition": "a tool used for writing or drawing, usually made of wood",
+      "example": "She draws pictures with a pencil.",
+      "uz": "qalam"
+    },
+    {
+      "word": "homework",
+      "pos": "noun",
+      "ipa": "/ˈhoʊmwɜːrk/",
+      "definition": "schoolwork that a student does at home",
+      "example": "I do my homework after dinner.",
+      "uz": "uy vazifasi"
+    },
+    {
+      "word": "lesson",
+      "pos": "noun",
+      "ipa": "/ˈlesən/",
+      "definition": "a period of time when a student learns about a subject",
+      "example": "Today's lesson is about animals.",
+      "uz": "dars"
+    },
+    {
+      "word": "learn",
+      "pos": "verb",
+      "ipa": "/lɜːrn/",
+      "definition": "to get new knowledge or a new skill",
+      "example": "I want to learn English well.",
+      "uz": "o'rganmoq"
+    },
+    {
+      "word": "teach",
+      "pos": "verb",
+      "ipa": "/tiːtʃ/",
+      "definition": "to help someone learn something",
+      "example": "My father taught me to read.",
+      "uz": "o'qitmoq"
+    },
+    {
+      "word": "study",
+      "pos": "verb",
+      "ipa": "/ˈstʌdi/",
+      "definition": "to spend time learning about a subject",
+      "example": "We study math every day.",
+      "uz": "o'qimoq"
+    },
+    {
+      "word": "read",
+      "pos": "verb",
+      "ipa": "/riːd/",
+      "definition": "to look at words and understand their meaning",
+      "example": "I read a new book every week.",
+      "uz": "o'qimoq"
+    },
+    {
+      "word": "write",
+      "pos": "verb",
+      "ipa": "/raɪt/",
+      "definition": "to make letters or words on paper",
+      "example": "Please write your name here.",
+      "uz": "yozmoq"
+    },
+    {
+      "word": "question",
+      "pos": "noun",
+      "ipa": "/ˈkwestʃən/",
+      "definition": "a sentence that asks for information",
+      "example": "The teacher asked a difficult question.",
+      "uz": "savol"
+    },
+    {
+      "word": "answer",
+      "pos": "noun",
+      "ipa": "/ˈɑːnsər/",
+      "definition": "a reply to a question",
+      "example": "I did not know the answer.",
+      "uz": "javob"
+    },
+    {
+      "word": "exam",
+      "pos": "noun",
+      "ipa": "/ɪɡˈzæm/",
+      "definition": "a formal test of knowledge",
+      "example": "We have an exam next week.",
+      "uz": "imtihon"
+    },
+    {
+      "word": "subject",
+      "pos": "noun",
+      "ipa": "/ˈsʌbdʒɪkt/",
+      "definition": "an area of knowledge that you study, like math or history",
+      "example": "Math is my favorite subject.",
+      "uz": "fan"
+    },
+    {
+      "word": "friend",
+      "pos": "noun",
+      "ipa": "/frend/",
+      "definition": "a person you know well and like",
+      "example": "I sit next to my friend in class.",
+      "uz": "do'st"
+    },
+    {
+      "word": "difficult",
+      "pos": "adjective",
+      "ipa": "/ˈdɪfɪkəlt/",
+      "definition": "not easy; hard to do or understand",
+      "example": "This lesson is very difficult for me.",
+      "uz": "qiyin"
+    }
+  ],
+  "text": "Every morning, I go to school with my friend. My favorite subject is math, but it is sometimes difficult for me. My teacher is very kind. She teaches us new lessons every day and helps us learn new things. In the classroom, I sit next to my friend, and we study together. I always bring a pen, a pencil, and my books to school. Yesterday, our teacher asked a question about history, but nobody knew the answer. She explained the lesson again, and now I understand it better. Every student in my class must do homework after school. Sometimes the homework is easy, but sometimes it is very difficult. Next week, we have an exam, so I need to study hard and read my books carefully. I like to write notes during the lesson because it helps me remember. My teacher says that if we work hard, we will pass the exam. I want to learn many new things this year and become a good student.",
+  "questions": [
+    {
+      "question": "What is the writer's favorite subject?",
+      "options": [
+        "History",
+        "Math",
+        "Reading",
+        "Writing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who does the writer sit next to in the classroom?",
+      "options": [
+        "The teacher",
+        "A friend",
+        "A student from another class",
+        "Nobody"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happened when the teacher asked a question about history?",
+      "options": [
+        "Everyone answered correctly",
+        "Nobody knew the answer",
+        "The class laughed",
+        "The teacher left the room"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What must every student do after school?",
+      "options": [
+        "Play games",
+        "Do homework",
+        "Clean the classroom",
+        "Write an exam"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the writer need to study hard next week?",
+      "options": [
+        "Because there is a new teacher",
+        "Because there is an exam",
+        "Because school is closed",
+        "Because homework is easy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the writer like to write notes during the lesson?",
+      "options": [
+        "It helps him remember",
+        "The teacher tells him to",
+        "It is easier than reading",
+        "His friend asks him to"
+      ],
+      "answer": 0
+    }
+  ]
+}

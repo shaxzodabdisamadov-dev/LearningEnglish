@@ -1,0 +1,229 @@
+{
+  "id": 20,
+  "topic": "Animals and Wildlife",
+  "words": [
+    {
+      "word": "wildlife",
+      "pos": "noun",
+      "ipa": "/ˈwaɪldlaɪf/",
+      "definition": "wild animals living in their natural home",
+      "example": "This park protects wildlife like deer and birds.",
+      "uz": "yovvoyi tabiat"
+    },
+    {
+      "word": "habitat",
+      "pos": "noun",
+      "ipa": "/ˈhæbɪtæt/",
+      "definition": "the natural home of an animal or plant",
+      "example": "The forest is a habitat for many animals.",
+      "uz": "yashash muhiti"
+    },
+    {
+      "word": "endangered",
+      "pos": "adjective",
+      "ipa": "/ɪnˈdeɪndʒərd/",
+      "definition": "in danger of disappearing completely",
+      "example": "The panda is an endangered animal.",
+      "uz": "yo'qolib ketish xavfida"
+    },
+    {
+      "word": "species",
+      "pos": "noun",
+      "ipa": "/ˈspiːʃiːz/",
+      "definition": "a group of animals or plants that are the same type",
+      "example": "There are many species of birds in this forest.",
+      "uz": "tur"
+    },
+    {
+      "word": "wild",
+      "pos": "adjective",
+      "ipa": "/waɪld/",
+      "definition": "living or growing in nature, not with people",
+      "example": "We saw a wild horse near the mountains.",
+      "uz": "yovvoyi"
+    },
+    {
+      "word": "predator",
+      "pos": "noun",
+      "ipa": "/ˈprɛdətər/",
+      "definition": "an animal that hunts and eats other animals",
+      "example": "The lion is a strong predator.",
+      "uz": "yirtqich"
+    },
+    {
+      "word": "prey",
+      "pos": "noun",
+      "ipa": "/preɪ/",
+      "definition": "an animal that is hunted by another animal for food",
+      "example": "Rabbits are prey for foxes.",
+      "uz": "o'lja"
+    },
+    {
+      "word": "mammal",
+      "pos": "noun",
+      "ipa": "/ˈmæməl/",
+      "definition": "an animal that has fur and feeds milk to its babies",
+      "example": "A dolphin is a mammal, not a fish.",
+      "uz": "sut emizuvchi"
+    },
+    {
+      "word": "insect",
+      "pos": "noun",
+      "ipa": "/ˈɪnsɛkt/",
+      "definition": "a small animal with six legs, like an ant or bee",
+      "example": "A butterfly is a beautiful insect.",
+      "uz": "hasharot"
+    },
+    {
+      "word": "feather",
+      "pos": "noun",
+      "ipa": "/ˈfɛðər/",
+      "definition": "one of the soft, light things that cover a bird's body",
+      "example": "The bird lost a feather while flying.",
+      "uz": "pat"
+    },
+    {
+      "word": "fur",
+      "pos": "noun",
+      "ipa": "/fɜːr/",
+      "definition": "the soft hair that covers some animals' bodies",
+      "example": "The cat has soft, black fur.",
+      "uz": "jun"
+    },
+    {
+      "word": "nest",
+      "pos": "noun",
+      "ipa": "/nɛst/",
+      "definition": "a place where a bird lays its eggs",
+      "example": "The bird built a nest in the tree.",
+      "uz": "uya"
+    },
+    {
+      "word": "cage",
+      "pos": "noun",
+      "ipa": "/keɪdʒ/",
+      "definition": "a box with bars used to keep an animal inside",
+      "example": "The bird was kept in a small cage.",
+      "uz": "qafas"
+    },
+    {
+      "word": "zoo",
+      "pos": "noun",
+      "ipa": "/zuː/",
+      "definition": "a place where wild animals are kept for people to see",
+      "example": "We saw elephants and tigers at the zoo.",
+      "uz": "hayvonot bog'i"
+    },
+    {
+      "word": "hunt",
+      "pos": "verb",
+      "ipa": "/hʌnt/",
+      "definition": "to chase and kill an animal for food",
+      "example": "Lions hunt other animals for food.",
+      "uz": "ov qilmoq"
+    },
+    {
+      "word": "survive",
+      "pos": "verb",
+      "ipa": "/sərˈvaɪv/",
+      "definition": "to stay alive, especially after something dangerous",
+      "example": "It is hard for some animals to survive in winter.",
+      "uz": "omon qolmoq"
+    },
+    {
+      "word": "extinct",
+      "pos": "adjective",
+      "ipa": "/ɪkˈstɪŋkt/",
+      "definition": "no longer living anywhere in the world",
+      "example": "Dinosaurs became extinct millions of years ago.",
+      "uz": "qirilib ketgan"
+    },
+    {
+      "word": "breed",
+      "pos": "verb",
+      "ipa": "/briːd/",
+      "definition": "to have babies, or to keep animals so they have babies",
+      "example": "Many zoos breed endangered animals to help them survive.",
+      "uz": "naslini ko'paytirmoq"
+    },
+    {
+      "word": "migrate",
+      "pos": "verb",
+      "ipa": "/ˈmaɪɡreɪt/",
+      "definition": "to move from one place to another, often for the seasons",
+      "example": "Birds migrate south in winter.",
+      "uz": "ko'chib yurmoq"
+    },
+    {
+      "word": "tail",
+      "pos": "noun",
+      "ipa": "/teɪl/",
+      "definition": "the part at the back of an animal's body",
+      "example": "The dog wagged its tail happily.",
+      "uz": "dum"
+    }
+  ],
+  "text": "Wildlife around the world faces many problems today. Many species of animals are losing their natural habitat because people are cutting down forests and building cities. Some animals, like certain mammals and birds, are now endangered, which means there are very few of them left in the wild. If we do not protect them, they could become extinct, like the dinosaurs many years ago. Zoos try to help. In many zoos, workers breed endangered animals so that more babies are born and the species can survive. For example, a bird might build a nest in the zoo, just like it would in the wild. However, many people believe that a cage is not a real home, and wild animals are happier in nature. In the wild, predators hunt other animals, called prey, to find food. Some animals, like certain birds, migrate to warmer places every winter to survive the cold weather. Every animal, from a small insect to a large mammal with thick fur, has an important place in nature. We must work together to protect wildlife and their habitats for the future.",
+  "questions": [
+    {
+      "question": "Why are many species losing their natural habitat?",
+      "options": [
+        "Because of cold weather",
+        "Because people are cutting down forests and building cities",
+        "Because animals migrate too much",
+        "Because zoos take them away"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the text say happens to a species if we do not protect endangered animals?",
+      "options": [
+        "They become stronger",
+        "They could become extinct",
+        "They move to zoos forever",
+        "They grow more fur"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do zoo workers do to help endangered animals?",
+      "options": [
+        "They sell them",
+        "They breed them so more babies are born",
+        "They release them into cities",
+        "They stop feeding them"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do many people believe about a cage?",
+      "options": [
+        "A cage is the best home for animals",
+        "A cage is not a real home",
+        "A cage helps animals migrate",
+        "Animals prefer cages to nature"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why do some birds migrate every winter?",
+      "options": [
+        "To find a cage",
+        "To survive the cold weather",
+        "To become extinct",
+        "To hunt in zoos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, what do predators hunt?",
+      "options": [
+        "Other predators",
+        "Prey",
+        "Only insects",
+        "Only mammals"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 27,
+  "topic": "Music and Art",
+  "words": [
+    {
+      "word": "music",
+      "pos": "noun",
+      "ipa": "/ˈmjuːzɪk/",
+      "definition": "sounds made by singing or instruments that people enjoy",
+      "example": "I love listening to music.",
+      "uz": "musiqa"
+    },
+    {
+      "word": "song",
+      "pos": "noun",
+      "ipa": "/sɒŋ/",
+      "definition": "a piece of music with words that you sing",
+      "example": "This is my favorite song.",
+      "uz": "qo'shiq"
+    },
+    {
+      "word": "sing",
+      "pos": "verb",
+      "ipa": "/sɪŋ/",
+      "definition": "to make music with your voice",
+      "example": "She sings very well.",
+      "uz": "qo'shiq aytmoq"
+    },
+    {
+      "word": "dance",
+      "pos": "verb",
+      "ipa": "/dæns/",
+      "definition": "to move your body to music",
+      "example": "We dance at every party.",
+      "uz": "raqsga tushmoq"
+    },
+    {
+      "word": "instrument",
+      "pos": "noun",
+      "ipa": "/ˈɪnstrəmənt/",
+      "definition": "a thing you use to make music, like a guitar",
+      "example": "The piano is a big instrument.",
+      "uz": "musiqa asbobi"
+    },
+    {
+      "word": "guitar",
+      "pos": "noun",
+      "ipa": "/ɡɪˈtɑːr/",
+      "definition": "a musical instrument with strings that you play with your fingers",
+      "example": "My brother plays the guitar.",
+      "uz": "gitara"
+    },
+    {
+      "word": "piano",
+      "pos": "noun",
+      "ipa": "/piˈænoʊ/",
+      "definition": "a big musical instrument with black and white keys",
+      "example": "She plays the piano every day.",
+      "uz": "pianino"
+    },
+    {
+      "word": "drum",
+      "pos": "noun",
+      "ipa": "/drʌm/",
+      "definition": "a musical instrument that you hit with your hands or sticks",
+      "example": "He plays the drum in a band.",
+      "uz": "baraban"
+    },
+    {
+      "word": "art",
+      "pos": "noun",
+      "ipa": "/ɑːrt/",
+      "definition": "things like paintings and drawings that people make and enjoy",
+      "example": "I like art class at school.",
+      "uz": "san'at"
+    },
+    {
+      "word": "paint",
+      "pos": "verb",
+      "ipa": "/peɪnt/",
+      "definition": "to make a picture using colors",
+      "example": "I paint pictures of flowers.",
+      "uz": "bo'yamoq"
+    },
+    {
+      "word": "painting",
+      "pos": "noun",
+      "ipa": "/ˈpeɪntɪŋ/",
+      "definition": "a picture made with paint",
+      "example": "This painting shows the sea.",
+      "uz": "rasm"
+    },
+    {
+      "word": "draw",
+      "pos": "verb",
+      "ipa": "/drɔː/",
+      "definition": "to make a picture using a pencil or pen",
+      "example": "My sister can draw very well.",
+      "uz": "chizmoq"
+    },
+    {
+      "word": "drawing",
+      "pos": "noun",
+      "ipa": "/ˈdrɔːɪŋ/",
+      "definition": "a picture made with a pencil or pen",
+      "example": "He showed me his new drawing.",
+      "uz": "chizma"
+    },
+    {
+      "word": "picture",
+      "pos": "noun",
+      "ipa": "/ˈpɪktʃər/",
+      "definition": "a drawing, painting, or photo",
+      "example": "There is a picture on the wall.",
+      "uz": "rasm"
+    },
+    {
+      "word": "color",
+      "pos": "noun",
+      "ipa": "/ˈkʌlər/",
+      "definition": "the quality that makes things look red, blue, green, and so on",
+      "example": "My favorite color is blue.",
+      "uz": "rang"
+    },
+    {
+      "word": "artist",
+      "pos": "noun",
+      "ipa": "/ˈɑːrtɪst/",
+      "definition": "a person who makes art or music",
+      "example": "She is a famous artist.",
+      "uz": "rassom"
+    },
+    {
+      "word": "concert",
+      "pos": "noun",
+      "ipa": "/ˈkɒnsərt/",
+      "definition": "a show where musicians play music for people",
+      "example": "We went to a concert last night.",
+      "uz": "konsert"
+    },
+    {
+      "word": "band",
+      "pos": "noun",
+      "ipa": "/bænd/",
+      "definition": "a small group of musicians who play together",
+      "example": "My friend is in a rock band.",
+      "uz": "musiqa guruhi"
+    },
+    {
+      "word": "listen",
+      "pos": "verb",
+      "ipa": "/ˈlɪsn/",
+      "definition": "to pay attention to a sound",
+      "example": "I listen to music on the bus.",
+      "uz": "tinglamoq"
+    },
+    {
+      "word": "perform",
+      "pos": "verb",
+      "ipa": "/pərˈfɔːrm/",
+      "definition": "to sing, dance, or play music in front of people",
+      "example": "The band performs every Friday.",
+      "uz": "ijro etmoq"
+    }
+  ],
+  "text": "I really love music and art. Every day, I listen to music on my phone, and I know many songs. My sister can sing very well, but I like to play the guitar. My brother plays the piano, and my cousin plays the drum. Sometimes we make our own small band at home! Last month, we went to a concert and watched our favorite singer perform on stage. It was amazing. At school, I also like art class. We paint pictures with many colors, and I draw animals and flowers. My teacher says my drawing is very good. My friend wants to be an artist when she grows up. She made a beautiful painting of the mountains, and now it is in our classroom. Art and music make me happy. When I feel sad, I dance to my favorite song or draw a picture. Learning to play an instrument is not easy, but I practice every day. I hope one day I can perform in a big concert with my own band.",
+  "questions": [
+    {
+      "question": "What instrument does the writer play?",
+      "options": [
+        "Piano",
+        "Drum",
+        "Guitar",
+        "Violin"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who plays the piano in the family?",
+      "options": [
+        "Sister",
+        "Brother",
+        "Cousin",
+        "Mother"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the family do last month?",
+      "options": [
+        "Went to a museum",
+        "Went to a concert",
+        "Made a painting",
+        "Learned to swim"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the writer do in art class?",
+      "options": [
+        "Sing songs",
+        "Play the drum",
+        "Paint pictures and draw",
+        "Watch a concert"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did the writer's friend paint?",
+      "options": [
+        "Flowers",
+        "Animals",
+        "The mountains",
+        "The sea"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the writer do when feeling sad?",
+      "options": [
+        "Sleeps all day",
+        "Dances or draws a picture",
+        "Calls a friend",
+        "Goes to school"
+      ],
+      "answer": 1
+    }
+  ]
+}

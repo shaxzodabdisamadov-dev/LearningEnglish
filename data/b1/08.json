@@ -1,0 +1,229 @@
+{
+  "id": 8,
+  "topic": "Consumer Culture and Advertising",
+  "words": [
+    {
+      "word": "consumer",
+      "pos": "noun",
+      "ipa": "/kənˈsjuː.mər/",
+      "definition": "a person who buys goods or services",
+      "example": "Consumers are becoming more aware of where their products come from.",
+      "uz": "iste'molchi"
+    },
+    {
+      "word": "advertisement",
+      "pos": "noun",
+      "ipa": "/ədˈvɜː.tɪs.mənt/",
+      "definition": "a public notice or announcement that promotes a product or service",
+      "example": "The advertisement appeared on television every evening.",
+      "uz": "reklama"
+    },
+    {
+      "word": "brand",
+      "pos": "noun",
+      "ipa": "/brænd/",
+      "definition": "a particular product or company identified by a name or design",
+      "example": "She only buys clothes from her favourite brand.",
+      "uz": "brend"
+    },
+    {
+      "word": "impulse buy",
+      "pos": "noun phrase",
+      "ipa": "/ˈɪm.pʌls baɪ/",
+      "definition": "a purchase made suddenly, without planning",
+      "example": "Buying those shoes was just an impulse buy.",
+      "uz": "beixtiyor xarid"
+    },
+    {
+      "word": "marketing",
+      "pos": "noun",
+      "ipa": "/ˈmɑː.kɪ.tɪŋ/",
+      "definition": "the activity of promoting and selling products or services",
+      "example": "The company spent millions on marketing its new product.",
+      "uz": "marketing"
+    },
+    {
+      "word": "discount",
+      "pos": "noun",
+      "ipa": "/ˈdɪs.kaʊnt/",
+      "definition": "a reduction in the usual price of something",
+      "example": "The store offered a huge discount during the sale.",
+      "uz": "chegirma"
+    },
+    {
+      "word": "materialism",
+      "pos": "noun",
+      "ipa": "/məˈtɪə.ri.ə.lɪ.zəm/",
+      "definition": "the belief that money and possessions are the most important things in life",
+      "example": "Critics argue that materialism does not lead to real happiness.",
+      "uz": "moddiyparastlik"
+    },
+    {
+      "word": "influencer",
+      "pos": "noun",
+      "ipa": "/ˈɪn.flu.ən.sər/",
+      "definition": "a person who affects other people's opinions or buying habits through social media",
+      "example": "The influencer promoted the product to her millions of followers.",
+      "uz": "influencer"
+    },
+    {
+      "word": "peer pressure",
+      "pos": "noun phrase",
+      "ipa": "/pɪər ˈpreʃ.ər/",
+      "definition": "influence from people of your own age to behave or buy in a certain way",
+      "example": "Teenagers sometimes buy things because of peer pressure.",
+      "uz": "tengdoshlar bosimi"
+    },
+    {
+      "word": "persuade",
+      "pos": "verb",
+      "ipa": "/pəˈsweɪd/",
+      "definition": "to make someone do or believe something through reasoning or argument",
+      "example": "The advertisement was designed to persuade people to buy the new phone.",
+      "uz": "ishontirmoq"
+    },
+    {
+      "word": "brand loyalty",
+      "pos": "noun phrase",
+      "ipa": "/brænd ˈlɔɪ.əl.ti/",
+      "definition": "a consumer's continued preference for one particular brand",
+      "example": "Brand loyalty means customers keep buying the same company's products.",
+      "uz": "brendga sodiqlik"
+    },
+    {
+      "word": "consumerism",
+      "pos": "noun",
+      "ipa": "/kənˈsjuː.mər.ɪ.zəm/",
+      "definition": "the belief that buying and using large amounts of goods is good",
+      "example": "Some people criticise modern consumerism for harming the environment.",
+      "uz": "iste'molchilik"
+    },
+    {
+      "word": "disposable income",
+      "pos": "noun phrase",
+      "ipa": "/dɪˈspəʊ.zə.bəl ˈɪn.kʌm/",
+      "definition": "the money left after paying taxes and necessary expenses",
+      "example": "As people earn more, their disposable income increases.",
+      "uz": "erkin sarflanadigan daromad"
+    },
+    {
+      "word": "trend",
+      "pos": "noun",
+      "ipa": "/trend/",
+      "definition": "a general direction in which something is developing or changing",
+      "example": "Wearing bright colours is the latest trend.",
+      "uz": "tendensiya"
+    },
+    {
+      "word": "target audience",
+      "pos": "noun phrase",
+      "ipa": "/ˈtɑː.ɡɪt ˈɔː.di.əns/",
+      "definition": "the particular group of people that a product or advertisement is aimed at",
+      "example": "The advertisement was created for a young target audience.",
+      "uz": "maqsadli auditoriya"
+    },
+    {
+      "word": "sustainable consumption",
+      "pos": "noun phrase",
+      "ipa": "/səˈsteɪ.nə.bəl kənˈsʌmp.ʃən/",
+      "definition": "buying and using products in a way that does not harm the environment",
+      "example": "More people are choosing sustainable consumption over fast fashion.",
+      "uz": "barqaror iste'mol"
+    },
+    {
+      "word": "bargain",
+      "pos": "noun",
+      "ipa": "/ˈbɑː.ɡɪn/",
+      "definition": "something bought cheaply or for less than its usual value",
+      "example": "She found a real bargain at the sale.",
+      "uz": "foydali xarid"
+    },
+    {
+      "word": "overspend",
+      "pos": "verb",
+      "ipa": "/ˌəʊ.vəˈspend/",
+      "definition": "to spend more money than you should or can afford",
+      "example": "It's easy to overspend during the holiday season.",
+      "uz": "ortiqcha xarajat qilmoq"
+    },
+    {
+      "word": "status symbol",
+      "pos": "noun phrase",
+      "ipa": "/ˈsteɪ.təs ˈsɪm.bəl/",
+      "definition": "a possession that shows a person's high social position",
+      "example": "For some people, an expensive car is a status symbol.",
+      "uz": "status ramzi"
+    },
+    {
+      "word": "manipulate",
+      "pos": "verb",
+      "ipa": "/məˈnɪp.jʊ.leɪt/",
+      "definition": "to control or influence someone unfairly",
+      "example": "Advertisers sometimes manipulate emotions to sell products.",
+      "uz": "manipulyatsiya qilmoq"
+    }
+  ],
+  "text": "Modern consumer culture is shaped almost entirely by advertisement and marketing. Companies spend huge amounts of money trying to persuade a specific target audience to buy their products, often using clever techniques that can manipulate people's emotions rather than appealing to logic. Social media has made this even more powerful, since an influencer with millions of followers can turn an ordinary item into the newest trend within days. Many young people, in particular, feel peer pressure to own certain products, sometimes because a brand has become a status symbol rather than something they actually need. As a result, some consumers make an impulse buy without thinking carefully, and end up spending their disposable income on things that bring only short-term satisfaction. Discounts and so-called bargains encourage this behaviour further, tempting shoppers to overspend on items they would not normally choose. Critics argue that materialism and consumerism have made people believe that happiness comes from owning more things, although research suggests the opposite is often true. However, attitudes are slowly changing: a growing number of consumers now care about sustainable consumption and prefer to support brands that treat workers and the environment fairly, rather than simply following brand loyalty out of habit. Understanding how advertising works can help people make wiser financial choices.",
+  "questions": [
+    {
+      "question": "According to the passage, what techniques do companies use to persuade consumers?",
+      "options": [
+        "Techniques that appeal only to logic",
+        "Techniques that can manipulate people's emotions",
+        "Techniques that ignore target audiences",
+        "Techniques that avoid social media"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How can an influencer affect consumer behaviour, according to the text?",
+      "options": [
+        "By reducing peer pressure",
+        "By turning an ordinary item into a trend quickly",
+        "By lowering disposable income",
+        "By discouraging impulse buys"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why do some consumers make an impulse buy, according to the passage?",
+      "options": [
+        "Because they plan purchases carefully",
+        "Because a brand has become a status symbol",
+        "Because they always look for discounts",
+        "Because they avoid social media trends"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What effect do discounts and bargains have, according to the passage?",
+      "options": [
+        "They reduce overspending",
+        "They encourage shoppers to overspend",
+        "They eliminate materialism",
+        "They increase brand loyalty only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do critics say about materialism and consumerism?",
+      "options": [
+        "They always lead to happiness",
+        "They make people believe happiness comes from owning things, though research suggests otherwise",
+        "They have no effect on behaviour",
+        "They are the same as sustainable consumption"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What change in consumer attitudes does the passage describe?",
+      "options": [
+        "Growing interest in sustainable consumption",
+        "Growing preference for impulse buying",
+        "Increasing brand loyalty out of habit",
+        "Decreasing awareness of advertising"
+      ],
+      "answer": 0
+    }
+  ]
+}

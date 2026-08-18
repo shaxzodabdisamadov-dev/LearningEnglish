@@ -1,0 +1,229 @@
+{
+  "id": 15,
+  "topic": "Quantum Computing and Emerging Technology",
+  "words": [
+    {
+      "word": "superposition",
+      "pos": "noun",
+      "ipa": "/ˌsuːpəpəˈzɪʃən/",
+      "definition": "The quantum phenomenon in which a particle exists in multiple states simultaneously until measured.",
+      "example": "A qubit in superposition can represent both 0 and 1 simultaneously, unlike a classical bit.",
+      "uz": "superpozitsiya"
+    },
+    {
+      "word": "qubit",
+      "pos": "noun",
+      "ipa": "/ˈkjuːbɪt/",
+      "definition": "The basic unit of quantum information, capable of representing a superposition of 0 and 1 simultaneously.",
+      "example": "Adding just a few more stable qubits could dramatically expand a quantum computer's processing power.",
+      "uz": "kubit"
+    },
+    {
+      "word": "entanglement",
+      "pos": "noun",
+      "ipa": "/ɪnˈtæŋɡəlmənt/",
+      "definition": "A quantum phenomenon in which the states of two or more particles become correlated such that the state of one instantaneously affects the other.",
+      "example": "Quantum entanglement allows the measurement of one particle to instantaneously determine the state of another, however distant.",
+      "uz": "kvant chalkashuvi"
+    },
+    {
+      "word": "decoherence",
+      "pos": "noun",
+      "ipa": "/ˌdiːkəʊˈhɪərəns/",
+      "definition": "The loss of quantum coherence in a system, causing it to behave classically rather than quantum-mechanically.",
+      "example": "Decoherence remains one of the greatest engineering obstacles to building a reliable quantum computer.",
+      "uz": "dekogerentsiya"
+    },
+    {
+      "word": "exponential",
+      "pos": "adjective",
+      "ipa": "/ˌekspəˈnenʃəl/",
+      "definition": "Increasing at an increasingly rapid, compounding rate proportional to the current value.",
+      "example": "For certain problems, quantum algorithms promise exponential speedups over their classical counterparts.",
+      "uz": "eksponensial (tobora tezlashuvchi)"
+    },
+    {
+      "word": "computationally",
+      "pos": "adverb",
+      "ipa": "/ˌkɒmpjʊˈteɪʃənəli/",
+      "definition": "In a manner relating to the process of calculation, especially by a computer.",
+      "example": "Simulating complex molecules is computationally prohibitive for even the fastest classical supercomputers.",
+      "uz": "hisoblash jihatidan"
+    },
+    {
+      "word": "intractable",
+      "pos": "adjective",
+      "ipa": "/ɪnˈtræktəbl/",
+      "definition": "So complex or large-scale as to be extremely difficult or impossible to solve or manage.",
+      "example": "Problems once considered intractable may eventually yield to sufficiently powerful quantum algorithms.",
+      "uz": "yechib bo'lmas darajada murakkab"
+    },
+    {
+      "word": "encryption",
+      "pos": "noun",
+      "ipa": "/ɪnˈkrɪpʃən/",
+      "definition": "The process of converting information into a code to prevent unauthorized access.",
+      "example": "Widely used encryption standards could theoretically be broken by a sufficiently advanced quantum computer.",
+      "uz": "shifrlash"
+    },
+    {
+      "word": "paradigm",
+      "pos": "noun",
+      "ipa": "/ˈpærədaɪm/",
+      "definition": "A typical example or pattern of something; a distinct model or framework of thought.",
+      "example": "Quantum computing represents a genuine paradigm shift away from classical binary logic.",
+      "uz": "paradigma"
+    },
+    {
+      "word": "formidable",
+      "pos": "adjective",
+      "ipa": "/ˈfɔːmɪdəbl/",
+      "definition": "Inspiring fear or respect through being impressively powerful, large, or capable.",
+      "example": "The technical challenges of maintaining quantum coherence at scale remain formidable.",
+      "uz": "juda kuchli va hayratomuz"
+    },
+    {
+      "word": "rudimentary",
+      "pos": "adjective",
+      "ipa": "/ˌruːdɪˈmentəri/",
+      "definition": "Basic or fundamental; at an early, undeveloped stage.",
+      "example": "Today's quantum processors are still rudimentary compared to the machines envisioned by researchers.",
+      "uz": "ibtidoiy, boshlang'ich darajadagi"
+    },
+    {
+      "word": "scalable",
+      "pos": "adjective",
+      "ipa": "/ˈskeɪləbl/",
+      "definition": "Capable of being expanded or increased in size, output, or complexity without a loss of function.",
+      "example": "Building a scalable quantum computer requires error correction far beyond current capabilities.",
+      "uz": "kengaytirilishi (masshtablanishi) mumkin bo'lgan"
+    },
+    {
+      "word": "speculative",
+      "pos": "adjective",
+      "ipa": "/ˈspekjʊlətɪv/",
+      "definition": "Based on conjecture or theory rather than established knowledge; not yet proven.",
+      "example": "Much of the commercial hype around quantum computing remains highly speculative.",
+      "uz": "faraziy, hali isbotlanmagan"
+    },
+    {
+      "word": "disruptive",
+      "pos": "adjective",
+      "ipa": "/dɪsˈrʌptɪv/",
+      "definition": "Causing radical change to an existing industry, market, or system, often displacing established methods.",
+      "example": "Quantum computing could prove genuinely disruptive to industries reliant on classical cryptography.",
+      "uz": "mavjud tizimni tubdan o'zgartiruvchi"
+    },
+    {
+      "word": "obsolete",
+      "pos": "adjective",
+      "ipa": "/ˈɒbsəliːt/",
+      "definition": "No longer used or useful; superseded by something newer.",
+      "example": "Some experts predict current encryption methods will eventually become obsolete.",
+      "uz": "eskirgan, ishlatilmay qolgan"
+    },
+    {
+      "word": "algorithm",
+      "pos": "noun",
+      "ipa": "/ˈælɡərɪðəm/",
+      "definition": "A precise set of rules or steps for solving a problem or performing a computation.",
+      "example": "Shor's algorithm demonstrates how a quantum computer could factor large numbers exponentially faster than any classical method.",
+      "uz": "algoritm"
+    },
+    {
+      "word": "proponent",
+      "pos": "noun",
+      "ipa": "/prəˈpəʊnənt/",
+      "definition": "A person who advocates for or supports a particular idea, cause, or technology.",
+      "example": "Proponents of quantum computing point to its potential to revolutionize drug discovery.",
+      "uz": "tarafdor"
+    },
+    {
+      "word": "skeptic",
+      "pos": "noun",
+      "ipa": "/ˈskeptɪk/",
+      "definition": "A person inclined to question or doubt claims that are generally accepted.",
+      "example": "Skeptics caution that practical, large-scale quantum computers remain many years away.",
+      "uz": "skeptik (shubha bilan qaraydigan)"
+    },
+    {
+      "word": "viability",
+      "pos": "noun",
+      "ipa": "/ˌvaɪəˈbɪləti/",
+      "definition": "The capacity to work successfully; feasibility, especially over the long term.",
+      "example": "Investors remain divided over the near-term commercial viability of quantum technology.",
+      "uz": "amalga oshirish imkoniyati"
+    },
+    {
+      "word": "hype",
+      "pos": "noun",
+      "ipa": "/haɪp/",
+      "definition": "Extravagant or exaggerated publicity or promotion, often disproportionate to actual merit.",
+      "example": "Much of the media coverage of quantum computing reflects hype rather than technical reality.",
+      "uz": "sun'iy shov-shuv (ortiqcha reklama)"
+    }
+  ],
+  "text": "Quantum computing occupies an unusual position among emerging technologies: it is simultaneously the subject of formidable scientific achievement and of hype so pervasive that separating genuine progress from speculative marketing has become its own discipline. The underlying physics is not in dispute—superposition and entanglement allow a qubit to encode vastly more information than a classical bit, and certain algorithms could, in principle, solve problems currently considered computationally intractable in exponentially less time. Proponents argue this represents a genuine paradigm shift, one capable of rendering conventional encryption obsolete within a decade. Skeptics counter that today's quantum processors remain rudimentary, plagued by decoherence, and that no one has yet demonstrated a scalable, fault-tolerant system capable of outperforming classical computers on a practically useful problem. Both camps have a point: the theoretical case for quantum advantage is formidable, but the engineering path to a commercially viable machine remains genuinely uncertain, and viability at laboratory scale is a poor predictor of viability at industrial scale. What is disruptive in principle is not necessarily disruptive in practice, at least not yet. Investors would do well to remember that every transformative technology has, at some stage, been both overhyped and underestimated simultaneously.",
+  "questions": [
+    {
+      "question": "According to the passage, what is the author's overall stance on quantum computing?",
+      "options": [
+        "Purely dismissive of its potential entirely",
+        "Balanced, acknowledging both genuine scientific promise and exaggerated hype",
+        "Wholly convinced it will replace all classical computers within a year",
+        "Entirely indifferent to the topic"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the main obstacle skeptics cite regarding quantum computers, according to the passage?",
+      "options": [
+        "A lack of research funding",
+        "The absence of a scalable, fault-tolerant system that outperforms classical computers on useful problems",
+        "The theoretical impossibility of superposition",
+        "Excessive government regulation of the technology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What distinction does the author draw between viability 'at laboratory scale' and 'at industrial scale'?",
+      "options": [
+        "They are identical and fully interchangeable concepts",
+        "Laboratory success does not reliably predict success at a larger, commercial scale",
+        "Industrial scale is always easier to achieve than laboratory scale",
+        "Laboratory scale is irrelevant to quantum research"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The phrase 'disruptive in principle is not necessarily disruptive in practice' suggests that",
+      "options": [
+        "Theoretical potential does not guarantee real-world transformative impact",
+        "Disruption is guaranteed once a technology is theoretically possible",
+        "Practice and principle always align perfectly in technology",
+        "Disruption is an inherently undesirable outcome"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why does the author mention that quantum algorithms could threaten current encryption?",
+      "options": [
+        "To argue that encryption is already completely obsolete today",
+        "To illustrate a concrete, high-stakes example of quantum computing's potential paradigm-shifting impact",
+        "To prove that quantum computers already exist at commercial scale",
+        "To criticize current cybersecurity policy directly"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The final sentence about technologies being 'both overhyped and underestimated simultaneously' functions rhetorically to",
+      "options": [
+        "Undermine the entire argument made earlier in the passage",
+        "Offer a balanced closing caution against both excessive skepticism and excessive hype",
+        "Declare quantum computing a definitive failure",
+        "End the passage with an unrelated anecdote"
+      ],
+      "answer": 1
+    }
+  ]
+}

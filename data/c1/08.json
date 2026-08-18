@@ -1,0 +1,229 @@
+{
+  "id": 8,
+  "topic": "Global Food Systems and Sustainability",
+  "words": [
+    {
+      "word": "commodification",
+      "pos": "noun",
+      "ipa": "/kəˌmɒdɪfɪˈkeɪʃən/",
+      "definition": "the process of turning something, including goods not traditionally traded, into an object bought and sold for profit",
+      "example": "Critics warn that the commodification of water threatens communities that cannot afford market prices.",
+      "uz": "tovarlashtirish"
+    },
+    {
+      "word": "monoculture",
+      "pos": "noun",
+      "ipa": "/ˈmɒnəʊkʌltʃər/",
+      "definition": "the agricultural practice of growing a single crop over a large area, year after year",
+      "example": "Reliance on monoculture left the region's farms unusually vulnerable to a single pest outbreak.",
+      "uz": "monokultura"
+    },
+    {
+      "word": "agrarian",
+      "pos": "adjective",
+      "ipa": "/əˈɡreəriən/",
+      "definition": "relating to cultivated land, farming, or agricultural communities",
+      "example": "The country's economy remained largely agrarian well into the twentieth century.",
+      "uz": "qishloq xo'jaligiga oid"
+    },
+    {
+      "word": "subsistence",
+      "pos": "noun",
+      "ipa": "/səbˈsɪstəns/",
+      "definition": "the minimal means, such as food or income, needed to sustain life, often at a basic survival level",
+      "example": "Many rural households still depend on subsistence farming to meet their basic food needs.",
+      "uz": "tirikchilik uchun minimal vositalar"
+    },
+    {
+      "word": "externality",
+      "pos": "noun",
+      "ipa": "/ˌɛkstɜːˈnæləti/",
+      "definition": "a cost or benefit resulting from an activity that affects third parties not directly involved in it",
+      "example": "Soil degradation is a classic externality rarely factored into the market price of food.",
+      "uz": "tashqi (iqtisodiy) ta'sir"
+    },
+    {
+      "word": "supply chain",
+      "pos": "noun",
+      "ipa": "/səˈplaɪ tʃeɪn/",
+      "definition": "the network of processes, organizations, and resources involved in producing and distributing a product",
+      "example": "A single disruption at one link in the supply chain delayed shipments across three continents.",
+      "uz": "ta'minot zanjiri"
+    },
+    {
+      "word": "degradation",
+      "pos": "noun",
+      "ipa": "/ˌdɛɡrəˈdeɪʃən/",
+      "definition": "the deterioration or worsening of the quality or condition of something, especially the environment",
+      "example": "Intensive farming practices have contributed significantly to soil degradation worldwide.",
+      "uz": "yemirilish, tanazzul"
+    },
+    {
+      "word": "biodiversity",
+      "pos": "noun",
+      "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+      "definition": "the variety of plant and animal life present in a particular habitat or across the planet",
+      "example": "Converting forest into farmland drastically reduces local biodiversity.",
+      "uz": "biologik xilma-xillik"
+    },
+    {
+      "word": "arable",
+      "pos": "adjective",
+      "ipa": "/ˈærəbəl/",
+      "definition": "suitable for growing crops",
+      "example": "Only a small fraction of the region's land is genuinely arable.",
+      "uz": "haydaladigan (ekin uchun yaroqli)"
+    },
+    {
+      "word": "yield",
+      "pos": "noun",
+      "ipa": "/jiːld/",
+      "definition": "the amount of a crop or product produced, especially per unit of land or effort",
+      "example": "New irrigation techniques dramatically increased the farm's annual yield.",
+      "uz": "hosildorlik"
+    },
+    {
+      "word": "scarcity",
+      "pos": "noun",
+      "ipa": "/ˈskeəsəti/",
+      "definition": "a state of insufficient supply of something needed or desired",
+      "example": "Water scarcity is expected to intensify in several regions over the coming decades.",
+      "uz": "tanqislik"
+    },
+    {
+      "word": "subsidize",
+      "pos": "verb",
+      "ipa": "/ˈsʌbsɪdaɪz/",
+      "definition": "to support an activity or industry financially, typically through government funds",
+      "example": "Many governments subsidize staple crop production to keep consumer prices low.",
+      "uz": "moliyaviy qo'llab-quvvatlamoq (subsidiya)"
+    },
+    {
+      "word": "precarious",
+      "pos": "adjective",
+      "ipa": "/prɪˈkeəriəs/",
+      "definition": "not securely held or in place; likely to fail or collapse without warning",
+      "example": "Their livelihood depended on a precarious balance between rainfall and market prices.",
+      "uz": "beqaror va xavfli"
+    },
+    {
+      "word": "unsustainable",
+      "pos": "adjective",
+      "ipa": "/ˌʌnsəˈsteɪnəbəl/",
+      "definition": "not able to be maintained at the current rate or level without causing lasting damage",
+      "example": "Environmentalists warned that current fishing practices were unsustainable in the long run.",
+      "uz": "barqaror bo'lmagan"
+    },
+    {
+      "word": "intensify",
+      "pos": "verb",
+      "ipa": "/ɪnˈtɛnsɪfaɪ/",
+      "definition": "to increase in degree, strength, or extent",
+      "example": "Efforts to intensify crop production often come at the expense of long-term soil health.",
+      "uz": "kuchaytirmoq"
+    },
+    {
+      "word": "deplete",
+      "pos": "verb",
+      "ipa": "/dɪˈpliːt/",
+      "definition": "to use up a resource so that little or none remains",
+      "example": "Decades of overfishing have severely depleted stocks in the region's coastal waters.",
+      "uz": "resursni tugatib yubormoq"
+    },
+    {
+      "word": "malnutrition",
+      "pos": "noun",
+      "ipa": "/ˌmælnjuːˈtrɪʃən/",
+      "definition": "a condition resulting from a lack of proper or sufficient nutrition",
+      "example": "Childhood malnutrition remains persistently high in several conflict-affected regions.",
+      "uz": "yetarsiz ovqatlanish"
+    },
+    {
+      "word": "perpetuate",
+      "pos": "verb",
+      "ipa": "/pərˈpɛtʃueɪt/",
+      "definition": "to cause something, especially an undesirable situation, to continue indefinitely",
+      "example": "Critics argue that certain subsidies perpetuate inefficient and environmentally damaging farming practices.",
+      "uz": "davom ettiraverish (yomon holatni)"
+    },
+    {
+      "word": "traceability",
+      "pos": "noun",
+      "ipa": "/ˌtreɪsəˈbɪləti/",
+      "definition": "the ability to track the origin, movement, and history of a product through its supply chain",
+      "example": "New labeling requirements were introduced to improve traceability from farm to supermarket shelf.",
+      "uz": "mahsulotning kelib chiqishini kuzatish imkoniyati"
+    },
+    {
+      "word": "circumvent",
+      "pos": "verb",
+      "ipa": "/ˌsɜːkəmˈvɛnt/",
+      "definition": "to find a way around an obstacle, rule, or difficulty, often to avoid a restriction",
+      "example": "Some exporters used intermediary firms to circumvent tariffs on direct shipments.",
+      "uz": "chetlab o'tmoq (qoidani)"
+    }
+  ],
+  "text": "The global food system, for all its remarkable capacity to feed billions, rests on foundations that are increasingly precarious. Decades of intensifying monoculture—vast tracts of arable land devoted to a single crop for the sake of maximizing yield—have steadily depleted soil fertility and diminished biodiversity, externalities rarely reflected in the price consumers pay at the supermarket. This commodification of food, wherein a good as fundamental as sustenance is treated primarily as a tradable asset, has transformed agrarian communities once oriented around subsistence into nodes within sprawling, opaque supply chains that can circumvent accountability at almost every stage. Governments, meanwhile, frequently subsidize industrial-scale production in ways that inadvertently perpetuate unsustainable practices, since subsidies calibrated to short-term output rarely account for long-term degradation. The consequences are unevenly distributed: while wealthier nations grapple with waste, many regions confront genuine scarcity and persistent malnutrition, a disparity that traceability initiatives alone cannot resolve, however useful they are for identifying where a given product originated. Reforming this system will require more than incremental adjustment; it demands a fundamental reconsideration of whether an approach optimized for volume and price can ever be reconciled with ecological limits and equitable access to food for a growing population.",
+  "questions": [
+    {
+      "question": "According to the passage, what is a key hidden cost of monoculture farming?",
+      "options": [
+        "Increased biodiversity across farmland",
+        "Depleted soil fertility and diminished biodiversity, externalities not reflected in consumer prices",
+        "Immediately lower crop yields",
+        "Reduced reliance on arable land"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the author mean by describing food's \"commodification\"?",
+      "options": [
+        "Food becoming more nutritious over time",
+        "Food being treated primarily as a tradable asset rather than as sustenance",
+        "Food being grown exclusively for subsistence purposes",
+        "Food supply chains becoming more transparent"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What criticism does the passage level at government subsidies for industrial agriculture?",
+      "options": [
+        "Subsidies are said to always reduce overall production",
+        "Subsidies calibrated to short-term output can inadvertently perpetuate unsustainable practices by ignoring long-term degradation",
+        "Subsidies are claimed to eliminate scarcity entirely",
+        "Subsidies are described as irrelevant to environmental degradation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the author characterize the global distribution of the food system's consequences?",
+      "options": [
+        "Evenly distributed, affecting all nations identically",
+        "Unevenly distributed, with wealthier nations facing waste while other regions face scarcity and malnutrition",
+        "Affecting exclusively agrarian communities",
+        "Fully resolved by existing traceability initiatives"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What limitation of traceability initiatives does the passage point out?",
+      "options": [
+        "They are described as entirely useless",
+        "They can identify a product's origin but cannot alone resolve disparities like scarcity and malnutrition",
+        "They are said to eliminate the need for supply chain reform",
+        "They are claimed to increase monoculture farming"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's implicit stance on whether incremental adjustments are sufficient to reform the food system?",
+      "options": [
+        "Incremental adjustment alone is presented as fully sufficient",
+        "Fundamental reconsideration, not just incremental adjustment, is presented as necessary",
+        "The food system is said to require no reform at all",
+        "Only traceability initiatives are presented as needed"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 15,
+  "topic": "Technology and Society",
+  "words": [
+    {
+      "word": "artificial intelligence",
+      "pos": "noun",
+      "ipa": "/ˌɑːrtɪˈfɪʃəl ɪnˈtelɪdʒəns/",
+      "definition": "the ability of computers to perform tasks that normally require human intelligence",
+      "example": "Artificial intelligence is used in many modern apps.",
+      "uz": "sun'iy intellekt"
+    },
+    {
+      "word": "innovation",
+      "pos": "noun",
+      "ipa": "/ˌɪnəˈveɪʃən/",
+      "definition": "a new idea, method, or invention",
+      "example": "The company is known for its technological innovation.",
+      "uz": "innovatsiya"
+    },
+    {
+      "word": "social media",
+      "pos": "noun",
+      "ipa": "/ˈsoʊʃəl ˈmiːdiə/",
+      "definition": "websites and apps that allow people to share content and communicate",
+      "example": "Many young people spend hours on social media every day.",
+      "uz": "ijtimoiy tarmoqlar"
+    },
+    {
+      "word": "addicted",
+      "pos": "adjective",
+      "ipa": "/əˈdɪktɪd/",
+      "definition": "unable to stop doing something, often something harmful",
+      "example": "He admits he is addicted to his phone.",
+      "uz": "qaram"
+    },
+    {
+      "word": "algorithm",
+      "pos": "noun",
+      "ipa": "/ˈælɡərɪðəm/",
+      "definition": "a set of steps followed by a computer to complete a task",
+      "example": "The website uses an algorithm to recommend videos.",
+      "uz": "algoritm"
+    },
+    {
+      "word": "privacy",
+      "pos": "noun",
+      "ipa": "/ˈpraɪvəsi/",
+      "definition": "the state of being free from public attention or having personal information kept secret",
+      "example": "People are worried about their privacy online.",
+      "uz": "shaxsiy hayot daxlsizligi"
+    },
+    {
+      "word": "automate",
+      "pos": "verb",
+      "ipa": "/ˈɔːtəmeɪt/",
+      "definition": "to use machines or computers to do a job instead of people",
+      "example": "The factory has automated most of its production line.",
+      "uz": "avtomatlashtirmoq"
+    },
+    {
+      "word": "digital",
+      "pos": "adjective",
+      "ipa": "/ˈdɪdʒɪtəl/",
+      "definition": "relating to computer technology",
+      "example": "Most schools now use digital textbooks.",
+      "uz": "raqamli"
+    },
+    {
+      "word": "connectivity",
+      "pos": "noun",
+      "ipa": "/ˌkɒnekˈtɪvəti/",
+      "definition": "the state of being connected, especially to the internet",
+      "example": "Fast internet connectivity is essential for remote work.",
+      "uz": "ulanish imkoniyati"
+    },
+    {
+      "word": "influence",
+      "pos": "verb",
+      "ipa": "/ˈɪnfluəns/",
+      "definition": "to have an effect on someone's behavior or opinions",
+      "example": "Advertisements can influence what people buy.",
+      "uz": "ta'sir qilmoq"
+    },
+    {
+      "word": "dependent",
+      "pos": "adjective",
+      "ipa": "/dɪˈpendənt/",
+      "definition": "relying on someone or something",
+      "example": "Many people are dependent on their smartphones.",
+      "uz": "bog'liq"
+    },
+    {
+      "word": "convenience",
+      "pos": "noun",
+      "ipa": "/kənˈviːniəns/",
+      "definition": "the quality of being useful, easy, or suitable for someone",
+      "example": "Online shopping offers great convenience.",
+      "uz": "qulaylik"
+    },
+    {
+      "word": "cybersecurity",
+      "pos": "noun",
+      "ipa": "/ˈsaɪbərsɪˌkjʊərəti/",
+      "definition": "the protection of computer systems from theft or damage",
+      "example": "Companies invest heavily in cybersecurity to protect their data.",
+      "uz": "kiberxavfsizlik"
+    },
+    {
+      "word": "data",
+      "pos": "noun",
+      "ipa": "/ˈdeɪtə/",
+      "definition": "information, especially facts or numbers, collected for analysis",
+      "example": "The app collects data about users' habits.",
+      "uz": "ma'lumot"
+    },
+    {
+      "word": "interact",
+      "pos": "verb",
+      "ipa": "/ˌɪntərˈækt/",
+      "definition": "to communicate with or react to someone or something",
+      "example": "Children today interact with technology from a young age.",
+      "uz": "muloqotda bo'lmoq"
+    },
+    {
+      "word": "breakthrough",
+      "pos": "noun",
+      "ipa": "/ˈbreɪkθruː/",
+      "definition": "an important discovery or development",
+      "example": "Scientists made a major breakthrough in artificial intelligence research.",
+      "uz": "yutuq"
+    },
+    {
+      "word": "surveillance",
+      "pos": "noun",
+      "ipa": "/sərˈveɪləns/",
+      "definition": "the close watching of a person or place, especially by cameras",
+      "example": "The city has increased surveillance in public areas.",
+      "uz": "kuzatuv"
+    },
+    {
+      "word": "disconnect",
+      "pos": "verb",
+      "ipa": "/ˌdɪskəˈnekt/",
+      "definition": "to stop being connected, especially to the internet or technology",
+      "example": "It's healthy to disconnect from your phone sometimes.",
+      "uz": "aloqani uzmoq"
+    },
+    {
+      "word": "widespread",
+      "pos": "adjective",
+      "ipa": "/ˈwaɪdspred/",
+      "definition": "existing or happening in many places or among many people",
+      "example": "The widespread use of smartphones has changed how we communicate.",
+      "uz": "keng tarqalgan"
+    },
+    {
+      "word": "workforce",
+      "pos": "noun",
+      "ipa": "/ˈwɜːrkfɔːrs/",
+      "definition": "all the people who work in a particular company, industry, or country",
+      "example": "Automation is changing the modern workforce.",
+      "uz": "ishchi kuchi"
+    }
+  ],
+  "text": "Technology has transformed almost every part of modern society, from the way we work to the way we interact with friends and family. The widespread use of social media and smartphones has made instant connectivity possible, but it has also created new problems, such as people becoming addicted to their screens and finding it hard to disconnect. Meanwhile, breakthroughs in artificial intelligence are changing the workforce, as companies use algorithms to automate tasks that used to require human workers. This kind of innovation can increase efficiency and convenience, but it also raises questions about job security and privacy. Every time we go online, our personal data is collected, which has led to growing concerns about surveillance and cybersecurity. Although many people are dependent on digital devices for work, education, and entertainment, experts argue that we should not let technology control our lives completely. Instead, they suggest that society needs clear rules to protect personal information and ensure that new technology benefits everyone, not just large companies. As artificial intelligence continues to influence more areas of daily life, finding a healthy balance between embracing innovation and protecting our privacy will remain one of the biggest challenges of the twenty-first century.",
+  "questions": [
+    {
+      "question": "What new problems has the widespread use of social media created, according to the passage?",
+      "options": [
+        "Better cybersecurity",
+        "People becoming addicted to screens and finding it hard to disconnect",
+        "Less connectivity",
+        "Fewer breakthroughs in technology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How are companies using algorithms, according to the text?",
+      "options": [
+        "To increase job security",
+        "To automate tasks that used to require human workers",
+        "To reduce artificial intelligence",
+        "To protect privacy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What concern has grown because personal data is collected online?",
+      "options": [
+        "Concerns about surveillance and cybersecurity",
+        "Concerns about workforce shortages",
+        "Concerns about social media addiction only",
+        "Concerns about digital convenience"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "According to experts mentioned in the passage, what should society do about technology?",
+      "options": [
+        "Let technology control our lives completely",
+        "Create clear rules to protect personal information",
+        "Stop all innovation",
+        "Avoid using artificial intelligence entirely"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do experts say new technology should do, according to the passage?",
+      "options": [
+        "Benefit only large companies",
+        "Benefit everyone, not just large companies",
+        "Reduce connectivity",
+        "Increase surveillance"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What will remain one of the biggest challenges of the twenty-first century, according to the passage?",
+      "options": [
+        "Balancing innovation and protecting privacy",
+        "Eliminating all social media",
+        "Removing artificial intelligence from the workforce",
+        "Avoiding digital devices completely"
+      ],
+      "answer": 0
+    }
+  ]
+}

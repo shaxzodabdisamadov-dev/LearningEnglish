@@ -1,0 +1,229 @@
+{
+  "id": 6,
+  "topic": "Corporate Governance and Accountability",
+  "words": [
+    {
+      "word": "fiduciary",
+      "pos": "adjective",
+      "ipa": "/fɪˈdjuːʃiəri/",
+      "definition": "relating to a position of trust, especially concerning the management of another's money or assets",
+      "example": "Company directors owe a fiduciary duty to act in the best interests of shareholders.",
+      "uz": "ishonchga asoslangan (boshqaruvga oid)"
+    },
+    {
+      "word": "accountability",
+      "pos": "noun",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "definition": "the state of being responsible and answerable for one's actions or decisions",
+      "example": "Without clear lines of accountability, it becomes nearly impossible to determine who authorized the decision.",
+      "uz": "hisobdorlik"
+    },
+    {
+      "word": "transparency",
+      "pos": "noun",
+      "ipa": "/trænsˈpærənsi/",
+      "definition": "the quality of being open, clear, and honest about operations and decisions",
+      "example": "Investors increasingly demand transparency regarding how executive compensation is determined.",
+      "uz": "shaffoflik"
+    },
+    {
+      "word": "malfeasance",
+      "pos": "noun",
+      "ipa": "/mælˈfiːzəns/",
+      "definition": "wrongdoing, especially by a public official or someone in a position of trust",
+      "example": "The investigation uncovered years of financial malfeasance concealed by falsified records.",
+      "uz": "mansab suiiste'moli"
+    },
+    {
+      "word": "compliance",
+      "pos": "noun",
+      "ipa": "/kəmˈplaɪəns/",
+      "definition": "the act of conforming to rules, regulations, or established standards",
+      "example": "The firm hired an entire team dedicated solely to regulatory compliance.",
+      "uz": "qoidalarga rioya qilish"
+    },
+    {
+      "word": "oversight",
+      "pos": "noun",
+      "ipa": "/ˈəʊvəsaɪt/",
+      "definition": "the act of supervising or monitoring an activity or organization to ensure proper conduct",
+      "example": "Congressional oversight is intended to hold executive agencies accountable for their spending.",
+      "uz": "nazorat qilish"
+    },
+    {
+      "word": "conflict of interest",
+      "pos": "noun",
+      "ipa": "/ˈkɒnflɪkt əv ˈɪntrəst/",
+      "definition": "a situation in which a person's private interests could improperly influence their official duties or judgment",
+      "example": "The board member recused herself from the vote to avoid any conflict of interest.",
+      "uz": "manfaatlar to'qnashuvi"
+    },
+    {
+      "word": "shareholder",
+      "pos": "noun",
+      "ipa": "/ˈʃeəhəʊldər/",
+      "definition": "a person or entity that owns shares in a company and thus has a financial stake in it",
+      "example": "Angry shareholders demanded an explanation for the sudden drop in dividends.",
+      "uz": "aksiyador"
+    },
+    {
+      "word": "whistleblower",
+      "pos": "noun",
+      "ipa": "/ˈwɪsəlbləʊər/",
+      "definition": "a person who reports wrongdoing or illegal activity within an organization, typically to authorities or the public",
+      "example": "The scandal came to light only after a whistleblower leaked internal documents to journalists.",
+      "uz": "qonunbuzarlik haqida signal beruvchi shaxs"
+    },
+    {
+      "word": "remuneration",
+      "pos": "noun",
+      "ipa": "/rɪˌmjuːnəˈreɪʃən/",
+      "definition": "payment or compensation received in exchange for employment or services rendered",
+      "example": "The committee reviews executive remuneration annually to ensure it reflects company performance.",
+      "uz": "mehnat haqi (ish uchun to'lov)"
+    },
+    {
+      "word": "audit",
+      "pos": "noun",
+      "ipa": "/ˈɔːdɪt/",
+      "definition": "a systematic and independent examination of an organization's financial records and processes",
+      "example": "An external audit revealed several discrepancies in the company's reported earnings.",
+      "uz": "audit (moliyaviy tekshiruv)"
+    },
+    {
+      "word": "culpable",
+      "pos": "adjective",
+      "ipa": "/ˈkʌlpəbəl/",
+      "definition": "deserving blame for having done something wrong",
+      "example": "The report concluded that senior management was culpable for failing to act on the early warnings.",
+      "uz": "aybdor"
+    },
+    {
+      "word": "probity",
+      "pos": "noun",
+      "ipa": "/ˈprəʊbəti/",
+      "definition": "the quality of having strong moral principles; complete honesty and integrity",
+      "example": "His reputation for probity made him an obvious choice to chair the ethics committee.",
+      "uz": "poklik, halollik"
+    },
+    {
+      "word": "scrutiny",
+      "pos": "noun",
+      "ipa": "/ˈskruːtəni/",
+      "definition": "close, critical examination or observation",
+      "example": "The merger came under intense regulatory scrutiny before finally being approved.",
+      "uz": "sinchkovlik bilan tekshirish"
+    },
+    {
+      "word": "impunity",
+      "pos": "noun",
+      "ipa": "/ɪmˈpjuːnəti/",
+      "definition": "exemption from punishment or negative consequences for one's actions",
+      "example": "Critics argued that lax enforcement allowed executives to act with near total impunity.",
+      "uz": "jazosizlik"
+    },
+    {
+      "word": "regulatory",
+      "pos": "adjective",
+      "ipa": "/ˈrɛɡjʊlətəri/",
+      "definition": "relating to rules, laws, or standards imposed and enforced by an official authority",
+      "example": "The industry faces new regulatory requirements aimed at preventing future collapses.",
+      "uz": "tartibga soluvchi"
+    },
+    {
+      "word": "discretionary",
+      "pos": "adjective",
+      "ipa": "/dɪˈskrɛʃənəri/",
+      "definition": "available to be used or decided according to individual judgment rather than fixed rules",
+      "example": "The bonus was entirely discretionary, awarded at the sole judgment of the compensation committee.",
+      "uz": "shaxsiy xohishga bog'liq, ixtiyoriy"
+    },
+    {
+      "word": "entrenchment",
+      "pos": "noun",
+      "ipa": "/ɪnˈtrɛntʃmənt/",
+      "definition": "the firm establishment of a position or power that becomes difficult to challenge or remove",
+      "example": "Reformers blamed executive entrenchment for the board's reluctance to consider outside candidates.",
+      "uz": "mustahkam o'rnashib olish"
+    },
+    {
+      "word": "redress",
+      "pos": "noun",
+      "ipa": "/rɪˈdrɛs/",
+      "definition": "remedy or compensation provided for a wrong or grievance suffered",
+      "example": "Shareholders sought legal redress after discovering the extent of the concealed losses.",
+      "uz": "adolatni tiklash, tovon"
+    },
+    {
+      "word": "stewardship",
+      "pos": "noun",
+      "ipa": "/ˈstjuːədʃɪp/",
+      "definition": "the responsible management and care of something entrusted to one's oversight",
+      "example": "The trustees are judged not on short-term returns alone but on their long-term stewardship of the fund.",
+      "uz": "mas'uliyatli boshqaruv (vasiylik)"
+    }
+  ],
+  "text": "Corporate governance rests on a deceptively simple premise: those entrusted with a fiduciary duty toward shareholders must exercise that stewardship with probity, subordinating personal advantage to the interests of the institution they serve. In practice, however, this premise is frequently undermined by structural weaknesses—chief among them, inadequate oversight and a culture in which executive entrenchment allows decision-makers to act with something approaching impunity. Where compliance functions exist merely on paper, and where regulatory scrutiny is intermittent rather than sustained, malfeasance can flourish quietly for years before an audit or a courageous whistleblower brings it to light. Nor is outright fraud the only concern: a conflict of interest, even one that never manifests as overt wrongdoing, corrodes trust simply by creating the appearance of compromised judgment. Boards charged with approving executive remuneration, for instance, cannot claim genuine independence if their own discretionary compensation depends on maintaining cordial relations with the very executives they are meant to evaluate. When culpable behavior does come to light, meaningful redress—not mere apology—is essential if accountability is to mean anything beyond rhetoric; otherwise, transparency becomes a performative gesture rather than a substantive commitment to those the institution is bound to serve.",
+  "questions": [
+    {
+      "question": "According to the passage, what is the \"deceptively simple premise\" underlying corporate governance?",
+      "options": [
+        "That shareholders should manage the company directly themselves",
+        "That those with fiduciary duty must prioritize institutional interests over personal advantage",
+        "That regulation is unnecessary as long as executives are honest",
+        "That audits alone are sufficient to guarantee accountability"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the author identify as a key structural weakness enabling malfeasance?",
+      "options": [
+        "Excessive protection granted to whistleblowers",
+        "Inadequate oversight combined with executive entrenchment that enables near impunity",
+        "Too much regulatory scrutiny imposed on firms",
+        "Shareholders having disproportionate power over boards"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the author argue that a conflict of interest is problematic even absent overt wrongdoing?",
+      "options": [
+        "Because it is always illegal regardless of outcome",
+        "Because it corrodes trust simply by creating the appearance of compromised judgment",
+        "Because it automatically triggers a formal audit",
+        "Because shareholders are legally obligated to intervene whenever it arises"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What point does the passage make about boards approving executive remuneration?",
+      "options": [
+        "Boards are described as always fully independent in this role",
+        "Their independence is questionable if their own discretionary compensation depends on the executives they evaluate",
+        "Remuneration decisions are said to have no bearing on governance quality",
+        "Boards should never be involved in setting remuneration at all"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What distinction does the author draw between transparency as a \"performative gesture\" and genuine accountability?",
+      "options": [
+        "There is no meaningful distinction drawn between them",
+        "Genuine accountability requires meaningful redress, not merely apology or symbolic openness",
+        "Performative transparency is presented as preferable to genuine accountability",
+        "Redress is treated as irrelevant to transparency"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's overall tone toward current corporate governance practices as described in the passage?",
+      "options": [
+        "Uncritically approving of existing practices",
+        "Critical, implying that governance structures often fail to ensure genuine accountability",
+        "Entirely neutral and purely descriptive",
+        "Optimistic that malfeasance rarely occurs in practice"
+      ],
+      "answer": 1
+    }
+  ]
+}

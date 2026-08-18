@@ -1,0 +1,229 @@
+{
+  "id": 23,
+  "topic": "Arts and Creativity",
+  "words": [
+    {
+      "word": "creativity",
+      "pos": "noun",
+      "ipa": "/ˌkriːeɪˈtɪvɪti/",
+      "definition": "the ability to produce original and imaginative ideas or things",
+      "example": "Her creativity shone through in every painting she made.",
+      "uz": "ijodkorlik"
+    },
+    {
+      "word": "imagination",
+      "pos": "noun",
+      "ipa": "/ɪˌmædʒɪˈneɪʃən/",
+      "definition": "the ability to form new ideas or pictures in your mind",
+      "example": "Children often use their imagination to invent new games.",
+      "uz": "tasavvur"
+    },
+    {
+      "word": "inspire",
+      "pos": "verb",
+      "ipa": "/ɪnˈspaɪər/",
+      "definition": "to make someone want to create or do something",
+      "example": "The beautiful landscape inspired her to paint a new picture.",
+      "uz": "ilhomlantirmoq"
+    },
+    {
+      "word": "masterpiece",
+      "pos": "noun",
+      "ipa": "/ˈmæstərpiːs/",
+      "definition": "a great work of art created with extraordinary skill",
+      "example": "The museum's most famous masterpiece attracts thousands of visitors.",
+      "uz": "shoh asar"
+    },
+    {
+      "word": "exhibition",
+      "pos": "noun",
+      "ipa": "/ˌeksɪˈbɪʃən/",
+      "definition": "a public display of works of art or interesting objects",
+      "example": "We visited an exhibition of modern sculpture last weekend.",
+      "uz": "ko'rgazma"
+    },
+    {
+      "word": "sculpture",
+      "pos": "noun",
+      "ipa": "/ˈskʌlptʃər/",
+      "definition": "a work of art made by carving or shaping stone, wood, or metal",
+      "example": "The park contains an enormous bronze sculpture.",
+      "uz": "haykal"
+    },
+    {
+      "word": "artistic",
+      "pos": "adjective",
+      "ipa": "/ɑːrˈtɪstɪk/",
+      "definition": "having a natural skill for art or showing good design",
+      "example": "She has always been very artistic, even as a young child.",
+      "uz": "badiiy"
+    },
+    {
+      "word": "talented",
+      "pos": "adjective",
+      "ipa": "/ˈtæləntɪd/",
+      "definition": "having a natural ability to do something well",
+      "example": "He is a talented musician who plays several instruments.",
+      "uz": "iste'dodli"
+    },
+    {
+      "word": "expressive",
+      "pos": "adjective",
+      "ipa": "/ɪkˈspresɪv/",
+      "definition": "showing feelings or thoughts clearly",
+      "example": "Her expressive brushstrokes reveal strong emotion.",
+      "uz": "ta'sirchan"
+    },
+    {
+      "word": "technique",
+      "pos": "noun",
+      "ipa": "/tekˈniːk/",
+      "definition": "a particular way of doing something, especially one that requires skill",
+      "example": "The artist developed a unique technique for mixing colours.",
+      "uz": "texnika"
+    },
+    {
+      "word": "canvas",
+      "pos": "noun",
+      "ipa": "/ˈkænvəs/",
+      "definition": "a piece of strong cloth used for painting on",
+      "example": "He stretched a large canvas before starting the portrait.",
+      "uz": "rasm matosi"
+    },
+    {
+      "word": "abstract",
+      "pos": "adjective",
+      "ipa": "/ˈæbstrækt/",
+      "definition": "not showing things in a realistic way, especially in art",
+      "example": "She prefers abstract art to traditional landscapes.",
+      "uz": "abstrakt"
+    },
+    {
+      "word": "aesthetic",
+      "pos": "adjective",
+      "ipa": "/esˈθetɪk/",
+      "definition": "concerned with beauty or the appreciation of beauty",
+      "example": "The building's aesthetic appeal comes from its simple lines.",
+      "uz": "estetik"
+    },
+    {
+      "word": "craft",
+      "pos": "verb",
+      "ipa": "/kræft/",
+      "definition": "to make something skilfully by hand",
+      "example": "The potter carefully crafted each bowl by hand.",
+      "uz": "qo'lda yasamoq"
+    },
+    {
+      "word": "innovative",
+      "pos": "adjective",
+      "ipa": "/ˈɪnəveɪtɪv/",
+      "definition": "using new methods or ideas",
+      "example": "The gallery is known for showing innovative young artists.",
+      "uz": "innovatsion"
+    },
+    {
+      "word": "appreciate",
+      "pos": "verb",
+      "ipa": "/əˈpriːʃieɪt/",
+      "definition": "to recognize the value or quality of something",
+      "example": "It takes time to appreciate modern art fully.",
+      "uz": "qadrlamoq"
+    },
+    {
+      "word": "portray",
+      "pos": "verb",
+      "ipa": "/pɔːrˈtreɪ/",
+      "definition": "to represent or describe someone or something in a work of art",
+      "example": "The painting portrays a peaceful village scene.",
+      "uz": "tasvirlamoq"
+    },
+    {
+      "word": "vivid",
+      "pos": "adjective",
+      "ipa": "/ˈvɪvɪd/",
+      "definition": "producing strong, clear images in the mind; very bright",
+      "example": "The artist used vivid colours to create a striking effect.",
+      "uz": "yorqin"
+    },
+    {
+      "word": "self-expression",
+      "pos": "noun",
+      "ipa": "/ˌself ɪkˈspreʃən/",
+      "definition": "the expression of one's feelings, thoughts, or abilities",
+      "example": "Painting became a form of self-expression for many teenagers.",
+      "uz": "o'zini ifoda etish"
+    },
+    {
+      "word": "exhibit",
+      "pos": "verb",
+      "ipa": "/ɪɡˈzɪbɪt/",
+      "definition": "to publicly show a work of art",
+      "example": "Local artists exhibit their paintings in the town hall every summer.",
+      "uz": "namoyish qilmoq"
+    }
+  ],
+  "text": "Art plays an important role in human life because it allows people to share their imagination and creativity with others. Some people believe that anyone can be artistic if they practise regularly, while others think that talent is something you are born with. Although both opinions have some truth, most experts agree that developing a good technique takes years of practice, no matter how talented someone is. In cities around the world, galleries hold exhibitions where visitors can appreciate paintings, sculptures, and other works of art. A single masterpiece, whether it is an abstract painting on canvas or a bronze sculpture, can inspire thousands of people. Artists often use vivid colours and expressive shapes to portray emotions that words cannot easily describe. In fact, for many artists, creating art is simply a form of self-expression. Today, technology has produced innovative new tools, such as digital painting programs, that let artists craft their work in exciting new ways. As a result, art has become more accessible than ever, and more people than before are able to exhibit their creativity publicly.",
+  "questions": [
+    {
+      "question": "What do most experts agree about developing technique in art?",
+      "options": [
+        "Only naturally talented people can do it",
+        "It cannot be taught in schools",
+        "It takes years of practice, no matter how talented someone is",
+        "It is unnecessary for creating art"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where can visitors appreciate paintings and sculptures, according to the text?",
+      "options": [
+        "At exhibitions in galleries",
+        "In private homes only",
+        "At music concerts",
+        "In sports stadiums"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What do artists often use vivid colours and expressive shapes for?",
+      "options": [
+        "To reduce production costs",
+        "To portray emotions that words cannot easily describe",
+        "To copy other famous artists",
+        "To avoid using canvas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what does creating art represent for many artists?",
+      "options": [
+        "A required school subject",
+        "A competitive sport",
+        "A form of self-expression",
+        "A way to avoid technology"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What has technology allowed artists to do?",
+      "options": [
+        "Stop learning new techniques",
+        "Craft their work in exciting new ways, such as with digital tools",
+        "Avoid exhibiting their work",
+        "Only paint on canvas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the overall effect of technology on art, based on the passage?",
+      "options": [
+        "Exhibitions have become less common",
+        "Fewer artists are creative today",
+        "Art has become more accessible to more people",
+        "Masterpieces are no longer appreciated"
+      ],
+      "answer": 2
+    }
+  ]
+}

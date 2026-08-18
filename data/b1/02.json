@@ -1,0 +1,229 @@
+{
+  "id": 2,
+  "topic": "Relationships and Communication Styles",
+  "words": [
+    {
+      "word": "relationship",
+      "pos": "noun",
+      "ipa": "/rɪˈleɪ.ʃən.ʃɪp/",
+      "definition": "a connection between two or more people",
+      "example": "They have a close relationship with their neighbours.",
+      "uz": "munosabat"
+    },
+    {
+      "word": "communicate",
+      "pos": "verb",
+      "ipa": "/kəˈmjuː.nɪ.keɪt/",
+      "definition": "to share information, thoughts, or feelings with someone",
+      "example": "It's important to communicate clearly with your partner.",
+      "uz": "muloqot qilmoq"
+    },
+    {
+      "word": "empathy",
+      "pos": "noun",
+      "ipa": "/ˈem.pə.θi/",
+      "definition": "the ability to understand and share another person's feelings",
+      "example": "Good doctors show empathy towards their patients.",
+      "uz": "hamdardlik"
+    },
+    {
+      "word": "assertive",
+      "pos": "adjective",
+      "ipa": "/əˈsɜː.tɪv/",
+      "definition": "confident and direct in expressing your opinion without being aggressive",
+      "example": "She learned to be more assertive at work without being rude.",
+      "uz": "dadil"
+    },
+    {
+      "word": "conflict",
+      "pos": "noun",
+      "ipa": "/ˈkɒn.flɪkt/",
+      "definition": "a serious disagreement between people",
+      "example": "A small conflict between the friends turned into a big argument.",
+      "uz": "ziddiyat"
+    },
+    {
+      "word": "compromise",
+      "pos": "noun",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "definition": "an agreement reached when each side gives up something it wants",
+      "example": "They reached a compromise about where to spend the holidays.",
+      "uz": "murosa"
+    },
+    {
+      "word": "trust",
+      "pos": "noun",
+      "ipa": "/trʌst/",
+      "definition": "a firm belief in the reliability or honesty of someone",
+      "example": "Trust is the foundation of any strong relationship.",
+      "uz": "ishonch"
+    },
+    {
+      "word": "misunderstanding",
+      "pos": "noun",
+      "ipa": "/ˌmɪs.ʌn.dəˈstæn.dɪŋ/",
+      "definition": "a failure to understand something correctly",
+      "example": "A simple misunderstanding caused them to stop speaking for weeks.",
+      "uz": "tushunmovchilik"
+    },
+    {
+      "word": "get along with",
+      "pos": "phrasal verb",
+      "ipa": "/ɡet əˈlɒŋ wɪð/",
+      "definition": "to have a friendly relationship with someone",
+      "example": "My sister gets along with everyone she meets.",
+      "uz": "til topishmoq"
+    },
+    {
+      "word": "body language",
+      "pos": "noun phrase",
+      "ipa": "/ˈbɒd.i ˌlæŋ.ɡwɪdʒ/",
+      "definition": "the way a person's movements and expressions show their feelings",
+      "example": "You can often tell how someone feels from their body language.",
+      "uz": "tana tili"
+    },
+    {
+      "word": "supportive",
+      "pos": "adjective",
+      "ipa": "/səˈpɔː.tɪv/",
+      "definition": "giving help, encouragement, or approval to someone",
+      "example": "My friends were very supportive when I lost my job.",
+      "uz": "qo'llab-quvvatlovchi"
+    },
+    {
+      "word": "open up",
+      "pos": "phrasal verb",
+      "ipa": "/ˈəʊ.pən ʌp/",
+      "definition": "to talk about your feelings honestly",
+      "example": "It took him a long time to open up about his feelings.",
+      "uz": "dilini ochmoq"
+    },
+    {
+      "word": "respect",
+      "pos": "noun",
+      "ipa": "/rɪˈspekt/",
+      "definition": "admiration for someone's qualities, achievements, or feelings",
+      "example": "Couples need to respect each other's opinions.",
+      "uz": "hurmat"
+    },
+    {
+      "word": "listen actively",
+      "pos": "phrase",
+      "ipa": "/ˈlɪs.ən ˈæk.tɪv.li/",
+      "definition": "to pay full attention to someone while they are speaking",
+      "example": "A good friend will listen actively when you have a problem.",
+      "uz": "diqqat bilan tinglamoq"
+    },
+    {
+      "word": "honest",
+      "pos": "adjective",
+      "ipa": "/ˈɒn.ɪst/",
+      "definition": "telling the truth and not hiding information",
+      "example": "Being honest with your partner builds trust.",
+      "uz": "rostgo'y"
+    },
+    {
+      "word": "bond",
+      "pos": "noun",
+      "ipa": "/bɒnd/",
+      "definition": "a close connection between people",
+      "example": "Travelling together created a strong bond between the two friends.",
+      "uz": "yaqin bog'liqlik"
+    },
+    {
+      "word": "argue",
+      "pos": "verb",
+      "ipa": "/ˈɑː.ɡjuː/",
+      "definition": "to disagree with someone, often in an angry way",
+      "example": "They often argue about small, unimportant things.",
+      "uz": "janjallashmoq"
+    },
+    {
+      "word": "reassure",
+      "pos": "verb",
+      "ipa": "/ˌriː.əˈʃɔːr/",
+      "definition": "to say or do something to remove someone's doubts or fears",
+      "example": "He tried to reassure her that everything would be fine.",
+      "uz": "tinchlantirmoq"
+    },
+    {
+      "word": "maintain",
+      "pos": "verb",
+      "ipa": "/meɪnˈteɪn/",
+      "definition": "to keep something continuing at the same level",
+      "example": "It takes effort to maintain a long-distance relationship.",
+      "uz": "saqlab qolmoq"
+    },
+    {
+      "word": "break up",
+      "pos": "phrasal verb",
+      "ipa": "/breɪk ʌp/",
+      "definition": "to end a romantic relationship",
+      "example": "They decided to break up after years of arguing.",
+      "uz": "munosabatni uzmoq"
+    }
+  ],
+  "text": "Every relationship, whether romantic, family, or friendship, depends on good communication. Psychologists say that people who communicate openly and honestly tend to get along with others more easily than those who hide their feelings. Empathy plays a key role too, because if you can understand what another person feels, you are less likely to cause a misunderstanding. Although conflict is a normal part of any relationship, the way people argue often matters more than what they argue about. Being assertive, rather than aggressive, allows you to express your opinion while still showing respect for the other person. Experts also recommend listening actively instead of simply waiting for your turn to speak, since paying attention to body language can reveal more than words alone. When couples or friends learn to compromise, their bond usually becomes stronger. However, if one person is never willing to open up or reassure the other during difficult times, trust can slowly disappear. A supportive partner who is honest and reliable helps maintain a healthy relationship over the years, whereas constant arguing without compromise can eventually lead a couple to break up. In short, communication is the foundation of every strong relationship.",
+  "questions": [
+    {
+      "question": "According to the passage, what helps people get along with others?",
+      "options": [
+        "Hiding their feelings",
+        "Communicating openly and honestly",
+        "Avoiding conflict completely",
+        "Always agreeing with others"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is empathy important in a relationship, according to the text?",
+      "options": [
+        "It makes people more assertive",
+        "It helps prevent misunderstandings",
+        "It ends conflicts immediately",
+        "It replaces the need for trust"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage say matters more than what people argue about?",
+      "options": [
+        "How often they argue",
+        "How they argue",
+        "Who starts the argument",
+        "Where they argue"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does listening actively involve, according to the passage?",
+      "options": [
+        "Waiting for your turn to speak",
+        "Paying attention to body language",
+        "Ignoring the other person's words",
+        "Speaking louder than the other person"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can happen if someone never opens up or reassures their partner?",
+      "options": [
+        "The relationship becomes stronger",
+        "Trust can slowly disappear",
+        "They automatically compromise more",
+        "Conflict disappears completely"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what can constant arguing without compromise lead to?",
+      "options": [
+        "A stronger bond",
+        "Increased empathy",
+        "A break up",
+        "More trust"
+      ],
+      "answer": 2
+    }
+  ]
+}

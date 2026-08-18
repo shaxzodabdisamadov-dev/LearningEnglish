@@ -1,0 +1,229 @@
+{
+  "id": 6,
+  "topic": "Professional Networking and Leadership",
+  "words": [
+    {
+      "word": "mentor",
+      "pos": "noun",
+      "ipa": "/ˈmentɔː/",
+      "definition": "an experienced person who advises and guides someone less experienced",
+      "example": "Her mentor encouraged her to apply for the leadership role.",
+      "uz": "murabbiy, tajribali maslahatchi"
+    },
+    {
+      "word": "delegate",
+      "pos": "verb",
+      "ipa": "/ˈdelɪɡeɪt/",
+      "definition": "to entrust a task or responsibility to another person",
+      "example": "Effective leaders know when to delegate rather than micromanage.",
+      "uz": "vazifani boshqasiga topshirmoq"
+    },
+    {
+      "word": "initiative",
+      "pos": "noun",
+      "ipa": "/ɪˈnɪʃətɪv/",
+      "definition": "the ability to assess and act independently, or a new plan or strategy",
+      "example": "She took the initiative to organize the project before being asked.",
+      "uz": "tashabbus"
+    },
+    {
+      "word": "collaborate",
+      "pos": "verb",
+      "ipa": "/kəˈlæbəreɪt/",
+      "definition": "to work jointly with others toward a shared goal",
+      "example": "The two departments collaborated closely to launch the new product on time.",
+      "uz": "hamkorlikda ishlamoq"
+    },
+    {
+      "word": "networking",
+      "pos": "noun",
+      "ipa": "/ˈnetwɜːkɪŋ/",
+      "definition": "the activity of building professional relationships and contacts",
+      "example": "Networking at industry conferences opened several career opportunities for him.",
+      "uz": "foydali aloqalar (tarmoq) o'rnatish"
+    },
+    {
+      "word": "reach out",
+      "pos": "phrasal verb",
+      "ipa": "/riːtʃ aʊt/",
+      "definition": "to make contact with someone, especially to offer help or begin a connection",
+      "example": "She reached out to a former colleague for advice on the new role.",
+      "uz": "bog'lanmoq, murojaat qilmoq"
+    },
+    {
+      "word": "follow up",
+      "pos": "phrasal verb",
+      "ipa": "/ˈfɒləʊ ʌp/",
+      "definition": "to pursue further action after an initial contact or step",
+      "example": "Remember to follow up with the client after the meeting.",
+      "uz": "qo'shimcha qadam tashlab kuzatib bormoq"
+    },
+    {
+      "word": "credible",
+      "pos": "adjective",
+      "ipa": "/ˈkredəbəl/",
+      "definition": "able to be believed or trusted",
+      "example": "A credible leader earns loyalty through consistency, not authority alone.",
+      "uz": "ishonchli"
+    },
+    {
+      "word": "proactive",
+      "pos": "adjective",
+      "ipa": "/prəʊˈæktɪv/",
+      "definition": "acting in anticipation of future problems rather than reacting after they occur",
+      "example": "A proactive approach to risk management prevents many crises before they happen.",
+      "uz": "oldindan chora ko'ruvchi, tashabbuskor"
+    },
+    {
+      "word": "accountable",
+      "pos": "adjective",
+      "ipa": "/əˈkaʊntəbəl/",
+      "definition": "responsible for one's actions and answerable to others",
+      "example": "Great leaders hold themselves accountable, not just their teams.",
+      "uz": "javobgar, hisob beradigan"
+    },
+    {
+      "word": "influential",
+      "pos": "adjective",
+      "ipa": "/ˌɪnfluˈenʃəl/",
+      "definition": "having great influence over people or events",
+      "example": "She became one of the most influential figures in her industry.",
+      "uz": "nufuzli, ta'sirli"
+    },
+    {
+      "word": "versatile",
+      "pos": "adjective",
+      "ipa": "/ˈvɜːsətaɪl/",
+      "definition": "able to adapt to many different functions or situations",
+      "example": "A versatile manager can thrive across departments, not just one specialty.",
+      "uz": "ko'p qirrali, moslashuvchan"
+    },
+    {
+      "word": "foster",
+      "pos": "verb",
+      "ipa": "/ˈfɒstə/",
+      "definition": "to encourage the development of something",
+      "example": "Good leadership fosters trust and open communication within a team.",
+      "uz": "rivojlanishiga ko'maklashmoq"
+    },
+    {
+      "word": "step up",
+      "pos": "phrasal verb",
+      "ipa": "/step ʌp/",
+      "definition": "to take on more responsibility, especially in a difficult situation",
+      "example": "When the manager left suddenly, she stepped up to lead the team.",
+      "uz": "ko'proq mas'uliyatni o'z zimmasiga olmoq"
+    },
+    {
+      "word": "groom",
+      "pos": "verb",
+      "ipa": "/ɡruːm/",
+      "definition": "to prepare someone for a future position or responsibility",
+      "example": "The CEO had been grooming her successor for over a year.",
+      "uz": "kelajakdagi lavozimga tayyorlamoq"
+    },
+    {
+      "word": "assertiveness",
+      "pos": "noun",
+      "ipa": "/əˈsɜːtɪvnəs/",
+      "definition": "the quality of expressing opinions confidently and directly",
+      "example": "Assertiveness, when balanced with empathy, is a valuable leadership trait.",
+      "uz": "dadillik, qat'iyatlilik bilan fikr bildirish"
+    },
+    {
+      "word": "burnout",
+      "pos": "noun",
+      "ipa": "/ˈbɜːnaʊt/",
+      "definition": "extreme physical or emotional exhaustion, usually caused by prolonged stress",
+      "example": "Overworking employees without recognition often leads to burnout.",
+      "uz": "kuchli charchoq (hissiy-jismoniy tuganish)"
+    },
+    {
+      "word": "consensus",
+      "pos": "noun",
+      "ipa": "/kənˈsensəs/",
+      "definition": "general agreement among a group of people",
+      "example": "The team eventually reached consensus after a lengthy discussion.",
+      "uz": "umumiy kelishuv"
+    },
+    {
+      "word": "hierarchy",
+      "pos": "noun",
+      "ipa": "/ˈhaɪərɑːki/",
+      "definition": "a system in which people are ranked according to status or authority",
+      "example": "The flat hierarchy of the startup encouraged open dialogue between staff and executives.",
+      "uz": "ierarxiya (martaba/mavqe tizimi)"
+    },
+    {
+      "word": "visionary",
+      "pos": "adjective",
+      "ipa": "/ˈvɪʒənəri/",
+      "definition": "having original and creative ideas about the future",
+      "example": "The visionary founder transformed a small startup into a global brand.",
+      "uz": "kelajakni oldindan ko'ra biladigan"
+    }
+  ],
+  "text": "What distinguishes an effective leader from a merely competent manager is rarely technical skill alone; more often, it is the ability to foster trust while remaining accountable for decisions, popular or not. A visionary leader who cannot collaborate, delegate, or build a credible network is unlikely to sustain influence for long, however brilliant the original idea. Networking, contrary to its reputation as self-interested schmoozing, is in fact one of the most underrated leadership skills: reaching out to colleagues, following up consistently, and cultivating genuine relationships often matter more than raw talent. Nor should initiative be confused with recklessness. The most versatile leaders know precisely when to step up and take charge and when, instead, to build consensus and let a decision emerge collectively rather than being imposed from above the hierarchy. Increasingly, organizations recognize the importance of grooming future leaders early, giving proactive employees real responsibility long before an official title arrives. Assertiveness remains essential, yet without empathy it easily tips into domination. Equally telling is how a leader handles vulnerability: acknowledging the risk of burnout, both their own and their team's, rather than treating exhaustion as a badge of honor. Ultimately, influential leadership rests less on authority than on earned trust.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Leadership depends primarily on technical expertise.",
+        "Effective leadership relies more on trust, relationship-building, and balanced judgment than on authority or talent alone.",
+        "Networking is a form of self-interested manipulation.",
+        "Assertiveness alone guarantees successful leadership."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, how does the author view networking?",
+      "options": [
+        "As an unnecessary distraction from real leadership work",
+        "As an underrated but important leadership skill",
+        "As purely about self-promotion",
+        "As less important than technical skill"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest about the relationship between assertiveness and empathy?",
+      "options": [
+        "Assertiveness is unnecessary if a leader has empathy.",
+        "Without empathy, assertiveness can turn into domination.",
+        "Empathy and assertiveness cannot coexist.",
+        "Empathy is more important than accountability."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what should versatile leaders know how to balance?",
+      "options": [
+        "Networking and burnout",
+        "Taking charge and building consensus with others",
+        "Hierarchy and credentials",
+        "Initiative and mentorship only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone in the passage?",
+      "options": [
+        "Critical and cynical about leadership in general",
+        "Thoughtful and instructive, offering a nuanced view of leadership",
+        "Purely anecdotal with no clear argument",
+        "Dismissive of emotional factors in leadership"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage imply about how organizations should treat future leaders?",
+      "options": [
+        "They should wait until an official title is given before offering responsibility.",
+        "They should begin grooming and giving responsibility to proactive employees early.",
+        "They should avoid delegating tasks to junior staff.",
+        "They should prioritize hierarchy over consensus at all times."
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 10,
+  "topic": "Bioethics and Emerging Medical Technologies",
+  "words": [
+    {
+      "word": "efficacy",
+      "pos": "noun",
+      "ipa": "/ˈefɪkəsi/",
+      "definition": "The ability of a treatment or intervention to produce the desired beneficial effect.",
+      "example": "Clinical trials are designed specifically to test a drug's efficacy against a placebo.",
+      "uz": "davolash samaradorligi"
+    },
+    {
+      "word": "informed consent",
+      "pos": "noun",
+      "ipa": "/ɪnˈfɔːmd kənˈsent/",
+      "definition": "A patient's voluntary agreement to a procedure made with full understanding of its risks and implications.",
+      "example": "No experimental procedure may proceed without the patient's informed consent.",
+      "uz": "ogohlantirilgan (bilib turib berilgan) rozilik"
+    },
+    {
+      "word": "autonomy",
+      "pos": "noun",
+      "ipa": "/ɔːˈtɒnəmi/",
+      "definition": "The capacity of an individual to make independent, self-directed decisions about their own body and life.",
+      "example": "Bioethicists regard patient autonomy as one of medicine's most fundamental guiding principles.",
+      "uz": "mustaqil qaror qabul qilish huquqi"
+    },
+    {
+      "word": "germline",
+      "pos": "adjective",
+      "ipa": "/ˈdʒɜːmlaɪn/",
+      "definition": "Relating to genetic material that can be passed on to offspring.",
+      "example": "Unlike somatic gene therapy, germline editing alters DNA that can be inherited by future generations.",
+      "uz": "avlodga o'tuvchi (jinsiy hujayralarga oid)"
+    },
+    {
+      "word": "eugenics",
+      "pos": "noun",
+      "ipa": "/juːˈdʒenɪks/",
+      "definition": "The discredited practice or advocacy of controlled selective breeding of human populations to improve genetic quality.",
+      "example": "The history of eugenics remains a sobering warning about the misuse of genetic science.",
+      "uz": "evgenika"
+    },
+    {
+      "word": "commodify",
+      "pos": "verb",
+      "ipa": "/kəˈmɒdɪfaɪ/",
+      "definition": "To treat something, especially something not traditionally regarded as a market good, as an object of trade.",
+      "example": "Critics worry that surrogacy arrangements risk commodifying human reproduction.",
+      "uz": "tovarga aylantirmoq"
+    },
+    {
+      "word": "equitable",
+      "pos": "adjective",
+      "ipa": "/ˈekwɪtəbl/",
+      "definition": "Fair and impartial, especially regarding access or distribution.",
+      "example": "Ensuring equitable access to new treatments is as urgent as developing the treatments themselves.",
+      "uz": "adolatli"
+    },
+    {
+      "word": "palliative",
+      "pos": "adjective",
+      "ipa": "/ˈpælɪətɪv/",
+      "definition": "Relieving the symptoms of an illness without addressing its underlying cause.",
+      "example": "When a cure is no longer possible, physicians shift their focus to palliative care.",
+      "uz": "paliativ (simptomlarni yengillashtiruvchi)"
+    },
+    {
+      "word": "sentient",
+      "pos": "adjective",
+      "ipa": "/ˈsentiənt/",
+      "definition": "Capable of perceiving or feeling things; possessing subjective consciousness.",
+      "example": "The philosopher argued that any sentient being deserves moral consideration, regardless of species.",
+      "uz": "sezuvchan, ongli his qiluvchi"
+    },
+    {
+      "word": "slippery slope",
+      "pos": "noun",
+      "ipa": "/ˈslɪpəri sləʊp/",
+      "definition": "An argument that a relatively small initial step will inevitably lead to a chain of related, increasingly negative events.",
+      "example": "Opponents warned that legalizing one narrow exception could set off a slippery slope toward broader abuse.",
+      "uz": "sirpanchiq yo'l argumenti"
+    },
+    {
+      "word": "moratorium",
+      "pos": "noun",
+      "ipa": "/ˌmɒrəˈtɔːriəm/",
+      "definition": "A temporary prohibition of an activity, often pending further review.",
+      "example": "Scientists called for an international moratorium on human germline editing until safety could be established.",
+      "uz": "moratoriy (vaqtincha taqiq)"
+    },
+    {
+      "word": "circumvent",
+      "pos": "verb",
+      "ipa": "/ˌsɜːkəmˈvent/",
+      "definition": "To find a way around an obstacle or restriction, often by ingenious or illicit means.",
+      "example": "The clinic was accused of attempting to circumvent standard ethical review procedures.",
+      "uz": "chetlab o'tmoq"
+    },
+    {
+      "word": "unprecedented",
+      "pos": "adjective",
+      "ipa": "/ʌnˈpresɪdentɪd/",
+      "definition": "Never having happened or existed before.",
+      "example": "Gene-editing technology has given researchers unprecedented control over the human genome.",
+      "uz": "misli ko'rilmagan"
+    },
+    {
+      "word": "exacerbate",
+      "pos": "verb",
+      "ipa": "/ɪɡˈzæsərbeɪt/",
+      "definition": "To make a problem, situation, or feeling worse.",
+      "example": "Rushed deployment of untested therapies could exacerbate existing health inequalities.",
+      "uz": "yomonlashtirmoq, og'irlashtirmoq"
+    },
+    {
+      "word": "proliferation",
+      "pos": "noun",
+      "ipa": "/prəˌlɪfəˈreɪʃən/",
+      "definition": "Rapid increase in the number or spread of something.",
+      "example": "The proliferation of unregulated genetic testing kits has outpaced the laws meant to govern them.",
+      "uz": "tez tarqalish, ko'payish"
+    },
+    {
+      "word": "discern",
+      "pos": "verb",
+      "ipa": "/dɪˈsɜːn/",
+      "definition": "To perceive or recognize something, especially something not immediately obvious.",
+      "example": "It can be difficult to discern where legitimate therapy ends and enhancement begins.",
+      "uz": "ilg'ab olmoq, farqlay bilmoq"
+    },
+    {
+      "word": "contentious",
+      "pos": "adjective",
+      "ipa": "/kənˈtenʃəs/",
+      "definition": "Likely to cause disagreement; controversial.",
+      "example": "Few areas of bioethics are as contentious as the question of human cloning.",
+      "uz": "bahsli, munozarali"
+    },
+    {
+      "word": "altruistic",
+      "pos": "adjective",
+      "ipa": "/ˌæltruˈɪstɪk/",
+      "definition": "Showing selfless concern for the wellbeing of others.",
+      "example": "The donor's altruistic decision to give a kidney to a stranger moved the entire hospital staff.",
+      "uz": "o'zgalar manfaatini o'ylovchi (altruistik)"
+    },
+    {
+      "word": "stringent",
+      "pos": "adjective",
+      "ipa": "/ˈstrɪndʒənt/",
+      "definition": "Strict, precise, and rigorously enforced, especially in reference to rules or standards.",
+      "example": "Regulators imposed stringent safety requirements before approving the experimental procedure.",
+      "uz": "qat'iy"
+    },
+    {
+      "word": "dystopian",
+      "pos": "adjective",
+      "ipa": "/dɪˈstəʊpiən/",
+      "definition": "Relating to an imagined future society characterized by suffering, oppression, or dehumanization.",
+      "example": "Some commentators fear a dystopian future in which genetic enhancement becomes available only to the wealthy.",
+      "uz": "distopik"
+    }
+  ],
+  "text": "The advent of precise germline editing has reignited a debate once confined to dystopian fiction. Advocates emphasize the therapeutic efficacy of correcting heritable disease before it manifests, framing the technology as an altruistic extension of medicine's mandate to relieve suffering, whether curative or merely palliative. Yet the proliferation of such techniques raises questions that informed consent cannot resolve: a future child cannot consent to alterations made before birth, and their autonomy is thus circumvented by decisions taken on their behalf. Critics discern in this an echo of eugenics, though defenders retort that correcting a single-gene disorder is categorically distinct from selecting for intelligence or temperament. This is, in essence, a slippery-slope argument, and like most such arguments it is neither self-evidently true nor easily dismissed; a narrow, stringent exception can be exacerbated by commercial pressure into a broader, less equitable practice. Absent a coordinated moratorium, or a rigorously enforced regulatory framework, the risk is not that germline editing proves inefficacious, but that its promise becomes commodified, available chiefly to those who can already afford every advantage.",
+  "questions": [
+    {
+      "question": "What is the author's primary concern about germline editing, as expressed in the passage?",
+      "options": [
+        "That it is technically infeasible",
+        "That unequal access could make the technology available mainly to the already privileged",
+        "That it will inevitably lead to eugenics with no possible distinction",
+        "That scientists have not developed informed consent forms"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's attitude toward the 'slippery slope' argument against germline editing can best be described as",
+      "options": [
+        "Dismissive, regarding it as fundamentally flawed",
+        "Fully accepting, treating it as certain to occur",
+        "Cautiously acknowledging, neither endorsing nor rejecting it outright",
+        "Enthusiastically endorsing it as a decisive objection"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why does the author say a future child's autonomy is 'circumvented'?",
+      "options": [
+        "Because the child will grow up without legal rights",
+        "Because germline modifications are made before the child can consent to them",
+        "Because parents are legally barred from giving consent",
+        "Because autonomy does not apply to unborn children under any framework"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, how do defenders of germline editing respond to comparisons with eugenics?",
+      "options": [
+        "They deny that eugenics ever historically existed",
+        "They argue that treating single-gene disorders differs categorically from selecting for traits like intelligence",
+        "They agree the comparison is entirely apt",
+        "They claim historical eugenics programs were beneficial"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest about the distinction between 'curative' and 'merely palliative' medicine?",
+      "options": [
+        "Curative approaches address underlying causes while palliative ones relieve symptoms without curing them",
+        "Palliative approaches are always more effective than curative ones",
+        "The two terms are used interchangeably with no distinction",
+        "Palliative care is portrayed as unethical in the passage"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The passage's concluding sentence primarily warns against",
+      "options": [
+        "The technology proving scientifically ineffective",
+        "Unequal commercial access undermining the equitable promise of the technology",
+        "Complete prohibition of all genetic research",
+        "The abandonment of any regulatory framework whatsoever"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "question": "Which term describes the philosophical view that only one's own mind can be known to exist with certainty?",
+      "options": [
+        "solipsism",
+        "nihilism",
+        "fatalism",
+        "equanimity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "By misrepresenting his opponent's argument as an extreme position no one actually held, the senator committed a classic ______ fallacy.",
+      "options": [
+        "ad hominem",
+        "straw man",
+        "equivocation",
+        "dichotomy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The tendency to search for and favor information that confirms one's preexisting beliefs while disregarding contradictory evidence is known as:",
+      "options": [
+        "anchoring",
+        "confirmation bias",
+        "overconfidence",
+        "cognitive dissonance"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In her thesis, she chose to ______ two seemingly unrelated case studies in order to reveal an unexpected structural parallel.",
+      "options": [
+        "juxtapose",
+        "postulate",
+        "corroborate",
+        "delineate"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The rapid adoption of remote work forced a genuine ______ in how the company approached productivity, rather than a merely incremental adjustment.",
+      "options": [
+        "legacy system",
+        "paradigm shift",
+        "contingency plan",
+        "buy-in"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A director who has a ______ duty is legally obligated to act in the best interests of shareholders rather than for personal gain.",
+      "options": [
+        "fiduciary",
+        "discretionary",
+        "regulatory",
+        "remunerative"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The process by which an influx of wealthier residents and rising property values displaces long-term, lower-income inhabitants of a neighborhood is called:",
+      "options": [
+        "densification",
+        "gentrification",
+        "sprawl",
+        "retrofitting"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The agricultural practice of cultivating a single crop species across a large area, often at the expense of biodiversity, is known as:",
+      "options": [
+        "subsistence farming",
+        "agrarianism",
+        "monoculture",
+        "traceability"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The psychological tendency for people to feel the pain of a loss more intensely than the pleasure of an equivalent gain is called:",
+      "options": [
+        "sunk cost fallacy",
+        "loss aversion",
+        "anchoring",
+        "bandwagon effect"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Critics warned that permitting germline editing for medical reasons could set off a ______, eventually normalizing genetic enhancement for purely cosmetic traits.",
+      "options": [
+        "moratorium",
+        "slippery slope",
+        "informed consent",
+        "proliferation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The brain's capacity to reorganize itself by forming new neural connections throughout life is termed:",
+      "options": [
+        "neuroimaging",
+        "neuroplasticity",
+        "reductionism",
+        "atrophy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which word most precisely denotes an irrational fear or hatred of people from other countries, rather than simply a narrow, limited outlook?",
+      "options": [
+        "parochialism",
+        "xenophobia",
+        "insularity",
+        "cosmopolitanism"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A foreign policy approach grounded in practical considerations of power and national interest rather than ideological or moral principles is best described as:",
+      "options": [
+        "appeasement",
+        "multilateralism",
+        "realpolitik",
+        "brinkmanship"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A cost or benefit resulting from an economic activity that affects a third party who did not choose to incur it, such as pollution harming nearby residents, is called a(n):",
+      "options": [
+        "subsidy",
+        "externality",
+        "trade-off",
+        "offset"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The loss of a quantum system's delicate superposition state due to unwanted interaction with its environment is known as:",
+      "options": [
+        "entanglement",
+        "decoherence",
+        "encryption",
+        "scalability"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Genetic modifications made to ______ cells are heritable, meaning they will be passed on to future generations.",
+      "options": [
+        "somatic",
+        "germline",
+        "hereditary",
+        "mutated"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which word is the closest synonym of 'circumvent' as used in 'hackers found a way to ______ the firewall'?",
+      "options": [
+        "bypass",
+        "safeguard",
+        "jeopardize",
+        "deter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An environment, especially online, in which a person only encounters information or opinions that reflect and reinforce their own is called a(n):",
+      "options": [
+        "outlet",
+        "echo chamber",
+        "discourse community",
+        "propaganda network"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A prior court decision that serves as an authoritative guide for resolving subsequent cases with similar facts is known as:",
+      "options": [
+        "verdict",
+        "precedent",
+        "testimony",
+        "redress"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The increasingly divisive rhetoric served only to ______ public opinion, pushing moderates toward one extreme or the other.",
+      "options": [
+        "legitimize",
+        "polarize",
+        "centralize",
+        "suppress"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A central bank's unconventional monetary policy of purchasing large quantities of financial assets to inject liquidity into the economy is called:",
+      "options": [
+        "fiscal stimulus",
+        "quantitative easing",
+        "austerity",
+        "deflation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Laws designed to promote fair competition by preventing firms from monopolizing a market are known as ______ laws.",
+      "options": [
+        "antitrust",
+        "proprietary",
+        "licensing",
+        "royalty"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "According to Karl Popper, a scientific hypothesis must be ______ — that is, capable in principle of being proven false by observation or experiment.",
+      "options": [
+        "tautological",
+        "falsifiable",
+        "empirical",
+        "dogmatic"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Art that is experimental, radically innovative, and pushes beyond the conventions accepted by the mainstream of its time is described as:",
+      "options": [
+        "pretentious",
+        "avant-garde",
+        "superficial",
+        "provocative"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A narrator whose credibility has been seriously compromised, leaving readers unsure whether to trust their account of events, is called a(n):",
+      "options": [
+        "protagonist",
+        "unreliable narrator",
+        "omniscient narrator",
+        "metafictional narrator"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The physiological phenomenon in which the body, after adequate recovery from training stress, temporarily performs above its previous baseline level is known as:",
+      "options": [
+        "homeostasis",
+        "supercompensation",
+        "deconditioning",
+        "plateau"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The framework for understanding how overlapping social identities such as race, gender, and class combine to create interconnected, compounding forms of disadvantage is called:",
+      "options": [
+        "stratification",
+        "intersectionality",
+        "tokenism",
+        "meritocracy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Scientists warned that continued warming could push the ice sheet past a ______, after which its collapse would become irreversible regardless of future emissions cuts.",
+      "options": [
+        "tipping point",
+        "mitigation threshold",
+        "free-rider problem",
+        "adaptive capacity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "As automation rendered many assembly-line roles obsolete, the company invested heavily in ______ programs to prepare workers for jobs in data analysis.",
+      "options": [
+        "deskilling",
+        "reskilling",
+        "redundancy",
+        "precarity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A linguist studying how the meaning of a word has changed over several centuries is taking a(n) ______ approach, as opposed to analyzing the language system at a single point in time.",
+      "options": [
+        "synchronic",
+        "diachronic",
+        "descriptive",
+        "prescriptive"
+      ],
+      "answer": 1
+    }
+  ]
+}

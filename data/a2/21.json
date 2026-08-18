@@ -1,0 +1,229 @@
+{
+  "id": 21,
+  "topic": "Culture and Traditions",
+  "words": [
+    {
+      "word": "culture",
+      "pos": "noun",
+      "ipa": "/ˈkʌltʃər/",
+      "definition": "the customs, art, and way of life of a group of people",
+      "example": "Each country has its own culture.",
+      "uz": "madaniyat"
+    },
+    {
+      "word": "tradition",
+      "pos": "noun",
+      "ipa": "/trəˈdɪʃən/",
+      "definition": "a custom that people have followed for a long time",
+      "example": "It is a tradition to eat special food at New Year.",
+      "uz": "an'ana"
+    },
+    {
+      "word": "custom",
+      "pos": "noun",
+      "ipa": "/ˈkʌstəm/",
+      "definition": "a usual way of doing something in a place or culture",
+      "example": "Taking off your shoes at home is a common custom.",
+      "uz": "urf-odat"
+    },
+    {
+      "word": "ceremony",
+      "pos": "noun",
+      "ipa": "/ˈsɛrəmoʊni/",
+      "definition": "a formal event held for a special occasion",
+      "example": "We went to a wedding ceremony last weekend.",
+      "uz": "marosim"
+    },
+    {
+      "word": "celebrate",
+      "pos": "verb",
+      "ipa": "/ˈsɛləbreɪt/",
+      "definition": "to do something special for an important day or event",
+      "example": "We celebrate my grandmother's birthday every year.",
+      "uz": "nishonlamoq"
+    },
+    {
+      "word": "generation",
+      "pos": "noun",
+      "ipa": "/ˌdʒɛnəˈreɪʃən/",
+      "definition": "a group of people born around the same time",
+      "example": "Three generations of my family live in this house.",
+      "uz": "avlod"
+    },
+    {
+      "word": "ancestor",
+      "pos": "noun",
+      "ipa": "/ˈænsɛstər/",
+      "definition": "a person in your family who lived a long time ago",
+      "example": "We remember our ancestors during this festival.",
+      "uz": "ajdod"
+    },
+    {
+      "word": "costume",
+      "pos": "noun",
+      "ipa": "/ˈkɒstjuːm/",
+      "definition": "special clothes worn for a festival or celebration",
+      "example": "The dancers wore colorful traditional costumes.",
+      "uz": "milliy kiyim"
+    },
+    {
+      "word": "religion",
+      "pos": "noun",
+      "ipa": "/rɪˈlɪdʒən/",
+      "definition": "a system of belief in a god or gods",
+      "example": "Many traditions come from religion.",
+      "uz": "din"
+    },
+    {
+      "word": "belief",
+      "pos": "noun",
+      "ipa": "/bɪˈliːf/",
+      "definition": "an idea that people think is true",
+      "example": "This custom comes from an old belief.",
+      "uz": "e'tiqod"
+    },
+    {
+      "word": "respect",
+      "pos": "noun",
+      "ipa": "/rɪˈspɛkt/",
+      "definition": "a feeling of admiration for someone or something",
+      "example": "We show respect to older people in our culture.",
+      "uz": "hurmat"
+    },
+    {
+      "word": "value",
+      "pos": "noun",
+      "ipa": "/ˈvæljuː/",
+      "definition": "an idea about what is important in life",
+      "example": "Family is an important value in many cultures.",
+      "uz": "qadriyat"
+    },
+    {
+      "word": "heritage",
+      "pos": "noun",
+      "ipa": "/ˈhɛrɪtɪdʒ/",
+      "definition": "the traditions and history that a group of people share",
+      "example": "This old building is part of our cultural heritage.",
+      "uz": "meros"
+    },
+    {
+      "word": "wedding",
+      "pos": "noun",
+      "ipa": "/ˈwɛdɪŋ/",
+      "definition": "a ceremony where two people get married",
+      "example": "Her sister's wedding was a beautiful ceremony.",
+      "uz": "to'y"
+    },
+    {
+      "word": "dance",
+      "pos": "noun",
+      "ipa": "/dæns/",
+      "definition": "a set of movements you do to music",
+      "example": "They performed a traditional dance at the festival.",
+      "uz": "raqs"
+    },
+    {
+      "word": "folk",
+      "pos": "adjective",
+      "ipa": "/foʊk/",
+      "definition": "traditional, made by ordinary people over a long time",
+      "example": "We listened to folk music from the countryside.",
+      "uz": "xalq"
+    },
+    {
+      "word": "language",
+      "pos": "noun",
+      "ipa": "/ˈlæŋɡwɪdʒ/",
+      "definition": "the words people use to speak and write",
+      "example": "Language is an important part of every culture.",
+      "uz": "til"
+    },
+    {
+      "word": "greet",
+      "pos": "verb",
+      "ipa": "/ɡriːt/",
+      "definition": "to say hello to someone in a friendly way",
+      "example": "In this culture, people greet each other with a bow.",
+      "uz": "salomlashmoq"
+    },
+    {
+      "word": "elder",
+      "pos": "noun",
+      "ipa": "/ˈɛldər/",
+      "definition": "an older person, especially one who is respected",
+      "example": "We always listen carefully to our elders.",
+      "uz": "oqsoqol"
+    },
+    {
+      "word": "symbol",
+      "pos": "noun",
+      "ipa": "/ˈsɪmbəl/",
+      "definition": "something that represents an idea or thing",
+      "example": "The dragon is a symbol in many Asian cultures.",
+      "uz": "ramz"
+    }
+  ],
+  "text": "Every country has its own culture, and culture includes many things: language, food, music, and tradition. Traditions are customs that pass from one generation to the next, often starting with our ancestors many years ago. For example, in some cultures, people wear a special costume for a wedding or another important ceremony. Families celebrate these events together, and everyone shows respect for the older members, called elders, who often teach the younger generation about their history and beliefs. In many places, religion also plays a big part in local traditions and ceremonies. Music and dance are important too. Folk music and traditional dances tell stories about the past and are often performed during festivals and celebrations. Many symbols, like special colors or animals, also have deep meaning in a culture. These symbols help people remember their heritage and values. Learning about different cultures and their traditions helps us understand and respect people from other countries. Even though customs are different around the world, most cultures value family, respect, and celebration in similar ways.",
+  "questions": [
+    {
+      "question": "According to the text, what do traditions pass from one generation to the next?",
+      "options": [
+        "Money",
+        "Customs",
+        "Buildings",
+        "Countries"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do people often wear for a wedding or important ceremony?",
+      "options": [
+        "A special costume",
+        "A uniform",
+        "Sports clothes",
+        "Nothing special"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who teaches the younger generation about history and beliefs?",
+      "options": [
+        "Teachers only",
+        "Elders",
+        "Strangers",
+        "Coaches"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do folk music and traditional dances often tell?",
+      "options": [
+        "Jokes",
+        "Stories about the past",
+        "News from today",
+        "Weather reports"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do symbols like special colors or animals help people remember?",
+      "options": [
+        "Their heritage",
+        "Their phone numbers",
+        "Their passwords",
+        "Their addresses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "According to the text, what do most cultures value in similar ways?",
+      "options": [
+        "Money and fame",
+        "Family, respect, and celebration",
+        "Sports and competition",
+        "Technology and internet"
+      ],
+      "answer": 1
+    }
+  ]
+}

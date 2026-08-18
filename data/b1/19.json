@@ -1,0 +1,229 @@
+{
+  "id": 19,
+  "topic": "Crime and Law",
+  "words": [
+    {
+      "word": "crime",
+      "pos": "noun",
+      "ipa": "/kraɪm/",
+      "definition": "An illegal act that can be punished by law.",
+      "example": "Theft is a common crime in big cities.",
+      "uz": "jinoyat"
+    },
+    {
+      "word": "criminal",
+      "pos": "noun",
+      "ipa": "/ˈkrɪmɪnəl/",
+      "definition": "A person who has committed a crime.",
+      "example": "The criminal was arrested after a short chase.",
+      "uz": "jinoyatchi"
+    },
+    {
+      "word": "offence",
+      "pos": "noun",
+      "ipa": "/əˈfens/",
+      "definition": "A crime or illegal act.",
+      "example": "Driving without a license is a serious offence.",
+      "uz": "huquqbuzarlik"
+    },
+    {
+      "word": "commit",
+      "pos": "verb",
+      "ipa": "/kəˈmɪt/",
+      "definition": "To do something illegal or wrong.",
+      "example": "He was accused of committing fraud.",
+      "uz": "sodir etmoq"
+    },
+    {
+      "word": "arrest",
+      "pos": "verb",
+      "ipa": "/əˈrest/",
+      "definition": "To take someone by legal authority because they are suspected of a crime.",
+      "example": "Police arrested two suspects near the bank.",
+      "uz": "hibsga olmoq"
+    },
+    {
+      "word": "investigate",
+      "pos": "verb",
+      "ipa": "/ɪnˈvestɪɡeɪt/",
+      "definition": "To examine facts carefully in order to find out the truth about something.",
+      "example": "Detectives are investigating the robbery.",
+      "uz": "tergov qilmoq"
+    },
+    {
+      "word": "evidence",
+      "pos": "noun",
+      "ipa": "/ˈevɪdəns/",
+      "definition": "Facts, objects, or information that prove something is true.",
+      "example": "The lawyer presented new evidence in court.",
+      "uz": "dalil"
+    },
+    {
+      "word": "witness",
+      "pos": "noun",
+      "ipa": "/ˈwɪtnəs/",
+      "definition": "A person who sees an event happen, especially a crime.",
+      "example": "A witness described the attacker to the police.",
+      "uz": "guvoh"
+    },
+    {
+      "word": "trial",
+      "pos": "noun",
+      "ipa": "/ˈtraɪəl/",
+      "definition": "A formal examination of evidence in court to decide if someone is guilty.",
+      "example": "The trial lasted for three weeks.",
+      "uz": "sud jarayoni"
+    },
+    {
+      "word": "jury",
+      "pos": "noun",
+      "ipa": "/ˈdʒʊri/",
+      "definition": "A group of ordinary people who decide if someone is guilty in a trial.",
+      "example": "The jury found him not guilty.",
+      "uz": "hakamlar hay'ati"
+    },
+    {
+      "word": "guilty",
+      "pos": "adjective",
+      "ipa": "/ˈɡɪlti/",
+      "definition": "Having done something wrong or broken the law.",
+      "example": "The court found her guilty of theft.",
+      "uz": "aybdor"
+    },
+    {
+      "word": "innocent",
+      "pos": "adjective",
+      "ipa": "/ˈɪnəsənt/",
+      "definition": "Not guilty of a crime.",
+      "example": "He always claimed he was innocent.",
+      "uz": "begunoh"
+    },
+    {
+      "word": "sentence",
+      "pos": "noun",
+      "ipa": "/ˈsentəns/",
+      "definition": "The punishment given to someone by a court of law.",
+      "example": "The judge gave him a five-year sentence.",
+      "uz": "sud hukmi"
+    },
+    {
+      "word": "punishment",
+      "pos": "noun",
+      "ipa": "/ˈpʌnɪʃmənt/",
+      "definition": "A penalty given to someone for doing something wrong.",
+      "example": "The punishment for the crime was a large fine.",
+      "uz": "jazo"
+    },
+    {
+      "word": "victim",
+      "pos": "noun",
+      "ipa": "/ˈvɪktɪm/",
+      "definition": "A person who has been harmed, injured, or affected by a crime.",
+      "example": "The victim reported the attack to the police.",
+      "uz": "jabrlanuvchi"
+    },
+    {
+      "word": "law",
+      "pos": "noun",
+      "ipa": "/lɔː/",
+      "definition": "A rule made by a government that everyone in a country must follow.",
+      "example": "It is against the law to steal.",
+      "uz": "qonun"
+    },
+    {
+      "word": "illegal",
+      "pos": "adjective",
+      "ipa": "/ɪˈliːɡəl/",
+      "definition": "Not allowed by law.",
+      "example": "Selling fake products is illegal.",
+      "uz": "noqonuniy"
+    },
+    {
+      "word": "justice",
+      "pos": "noun",
+      "ipa": "/ˈdʒʌstɪs/",
+      "definition": "Fair treatment of people through the law.",
+      "example": "The victim's family wanted justice.",
+      "uz": "adolat"
+    },
+    {
+      "word": "prison",
+      "pos": "noun",
+      "ipa": "/ˈprɪzən/",
+      "definition": "A building where criminals are kept as punishment.",
+      "example": "He spent ten years in prison.",
+      "uz": "qamoqxona"
+    },
+    {
+      "word": "testify",
+      "pos": "verb",
+      "ipa": "/ˈtestɪfaɪ/",
+      "definition": "To give a formal statement as evidence in a court of law.",
+      "example": "The witness had to testify in front of the jury.",
+      "uz": "guvohlik bermoq"
+    }
+  ],
+  "text": "Every country has a legal system designed to protect people and punish those who break the law. When someone is suspected of committing a crime, the police usually investigate the situation and try to collect evidence before they arrest a suspect. If there is enough proof, the case may go to trial, where a judge or jury listens to both sides. A witness might be asked to testify about what they saw, and lawyers use evidence to argue whether the accused person is guilty or innocent. If the court decides someone is guilty, the judge gives a sentence, which could include a fine, community service, or time in prison. The goal of punishment is not only to discipline the criminal but also to give justice to the victim and prevent future crime. However, some people believe that prison alone does not stop people from committing another offence, and that education and support are just as important. Although the legal process can take a long time, it exists to make sure that no innocent person is punished for something they did not do.",
+  "questions": [
+    {
+      "question": "What usually happens first after a crime is suspected, according to the passage?",
+      "options": [
+        "The person is sent to prison immediately",
+        "The police investigate the situation and collect evidence",
+        "A jury is formed",
+        "The victim decides the punishment"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a witness asked to do during a trial?",
+      "options": [
+        "Decide the sentence",
+        "Testify about what they saw",
+        "Arrest the suspect",
+        "Write the law"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What must lawyers use to argue whether someone is guilty or innocent?",
+      "options": [
+        "Opinions only",
+        "Evidence",
+        "Money",
+        "Personal feelings"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what is one goal of punishment besides disciplining the criminal?",
+      "options": [
+        "To increase crime",
+        "To give justice to the victim and prevent future crime",
+        "To remove all laws",
+        "To avoid trials"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do some people believe about prison alone, according to the text?",
+      "options": [
+        "It always stops crime completely",
+        "It does not stop people from committing another offence",
+        "It is not a real punishment",
+        "It should be used for every crime"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the legal process take a long time, according to the passage?",
+      "options": [
+        "To make sure no innocent person is punished unfairly",
+        "Because judges are slow",
+        "Because there are no juries",
+        "Because evidence is unnecessary"
+      ],
+      "answer": 0
+    }
+  ]
+}

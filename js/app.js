@@ -8,45 +8,98 @@ function qs(name) {
   return new URLSearchParams(location.search).get(name);
 }
 
+// Sessiya davomida bir xil faylni ikki marta fetch qilmaslik uchun xotirada kesh.
+const fetchCache = new Map();
+
 async function fetchJSON(path) {
+  if (fetchCache.has(path)) return fetchCache.get(path);
   const res = await fetch(path);
   if (!res.ok) throw new Error("Failed to load " + path);
-  return res.json();
+  const data = await res.json();
+  fetchCache.set(path, data);
+  return data;
 }
 
 function getLevels() {
   return fetchJSON("data/levels.json");
 }
 
-function getLevelData(code) {
-  return fetchJSON(`data/${code}.json`);
+// Levelning faqat metama'lumotini yuklaydi (mavzular, so'zlar soni) — bo'limlarning
+// to'liq kontenti (so'zlar, matn, savollar) shu yerda yuklanmaydi.
+function getLevelIndex(code) {
+  return fetchJSON(`data/${code}/index.json`);
 }
 
-const PROGRESS_KEY = "vocab_progress_v1";
+// Bitta bo'limning to'liq kontentini yuklaydi.
+function getSectionData(code, id) {
+  const num = String(id).padStart(2, "0");
+  return fetchJSON(`data/${code}/${num}.json`);
+}
 
+function getLevelTest(code) {
+  return fetchJSON(`data/${code}/test.json`);
+}
+
+// Ma'lumot yuklashda xato bo'lsa, foydalanuvchiga tushunarli xabar va
+// "Qayta urinish" tugmasini ko'rsatadi.
+function showLoadError(container) {
+  container.innerHTML = `
+    <div class="error-banner" role="alert">
+      <span>⚠️ Ma'lumotni yuklab bo'lmadi. Internetni tekshirib, sahifani yangilang.</span>
+      <button class="btn secondary" type="button" onclick="location.reload()">Qayta urinish</button>
+    </div>
+  `;
+}
+
+const PROGRESS_KEY = "wordpath:v1:progress";
+const PROGRESS_VERSION = 1;
+
+function freshProgress() {
+  const levels = {};
+  LEVEL_ORDER.forEach((l) => (levels[l] = { sections: {}, testPassed: false }));
+  return { version: PROGRESS_VERSION, levels };
+}
+
+// Eski yoki buzilgan JSON o'qilsa ham ilova qulab tushmasligi uchun har doim
+// try/catch bilan o'raladi va noto'g'ri shakl bo'lsa standart holatga qaytadi.
 function getProgress() {
   try {
     const raw = localStorage.getItem(PROGRESS_KEY);
-    if (raw) return JSON.parse(raw);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      if (parsed && parsed.version === PROGRESS_VERSION && parsed.levels && typeof parsed.levels === "object") {
+        return parsed.levels;
+      }
+    }
   } catch (e) {}
-  const fresh = {};
-  LEVEL_ORDER.forEach((l) => (fresh[l] = { sections: {}, testPassed: false }));
-  return fresh;
+  return freshProgress().levels;
 }
 
-function saveProgress(p) {
-  localStorage.setItem(PROGRESS_KEY, JSON.stringify(p));
+function saveProgress(levels) {
+  localStorage.setItem(PROGRESS_KEY, JSON.stringify({ version: PROGRESS_VERSION, levels }));
+}
+
+function clearProgress() {
+  localStorage.removeItem(PROGRESS_KEY);
+}
+
+function exportProgress() {
+  const levels = getProgress();
+  return JSON.stringify({ version: PROGRESS_VERSION, levels }, null, 2);
+}
+
+// Import qilinayotgan faylni tekshiradi va shakli to'g'ri bo'lsagina saqlaydi.
+function importProgress(jsonText) {
+  const parsed = JSON.parse(jsonText);
+  if (!parsed || parsed.version !== PROGRESS_VERSION || typeof parsed.levels !== "object") {
+    throw new Error("Fayl shakli noto'g'ri");
+  }
+  saveProgress(parsed.levels);
 }
 
 function ensureLevel(progress, code) {
   if (!progress[code]) progress[code] = { sections: {}, testPassed: false };
   return progress[code];
-}
-
-function isLevelUnlocked(code, progress) {
-  // All levels are unlocked from the start — users can freely jump between
-  // A1-C1 without needing to pass the previous level's test first.
-  return true;
 }
 
 function isSectionUnlocked(id, levelProgress) {
@@ -77,30 +130,138 @@ function overallCompletionPct(levels, progress) {
   return totalSections ? Math.round((doneSections / totalSections) * 100) : 0;
 }
 
-let speechRate = 1; // current playback speed, adjustable via the speed selector on section.html
+const SPEECH_RATE_KEY = "wordpath:v1:speechRate";
 
-function speak(text, btn) {
+function getSavedSpeechRate() {
+  const raw = parseFloat(localStorage.getItem(SPEECH_RATE_KEY));
+  if (isNaN(raw)) return 1;
+  return Math.min(1.5, Math.max(0.5, raw)); // iOS Safari uchun 0.5–1.5 oralig'ida cheklaymiz
+}
+
+function saveSpeechRate(rate) {
+  localStorage.setItem(SPEECH_RATE_KEY, String(rate));
+}
+
+let speechRate = getSavedSpeechRate(); // joriy o'qish tezligi, tezlik tanlagichdan o'zgaradi
+
+// Ingliz ovozini tanlash: getVoices() sahifa ochilganda ba'zan bo'sh massiv
+// qaytaradi, shuning uchun ovozlar hali kelmagan bo'lsa voiceschanged hodisasini kutamiz.
+let cachedEnglishVoice = null;
+let voiceLookupDone = false;
+
+function pickEnglishVoice() {
+  const voices = window.speechSynthesis.getVoices();
+  if (!voices.length) return null;
+  return (
+    voices.find((v) => v.lang === "en-US") ||
+    voices.find((v) => v.lang === "en-GB") ||
+    voices.find((v) => v.lang && v.lang.toLowerCase().startsWith("en")) ||
+    null
+  );
+}
+
+function ensureVoiceReady(callback) {
   if (!("speechSynthesis" in window)) {
-    alert("Brauzeringiz ovozli o'qishni qo'llab-quvvatlamaydi.");
+    callback(null, "Brauzeringiz ovozli o'qishni qo'llab-quvvatlamaydi.");
     return;
   }
-  window.speechSynthesis.cancel();
-  document.querySelectorAll(".speaking").forEach((el) => el.classList.remove("speaking"));
-  const u = new SpeechSynthesisUtterance(text);
+  const existing = pickEnglishVoice();
+  if (existing) {
+    cachedEnglishVoice = existing;
+    voiceLookupDone = true;
+    callback(existing, null);
+    return;
+  }
+  if (voiceLookupDone) {
+    callback(null, "Ingliz tilidagi ovoz topilmadi.");
+    return;
+  }
+  // Ba'zi brauzerlarda ovozlar ro'yxati asinxron yuklanadi.
+  window.speechSynthesis.onvoiceschanged = () => {
+    const found = pickEnglishVoice();
+    cachedEnglishVoice = found;
+    voiceLookupDone = true;
+    if (found) callback(found, null);
+    else callback(null, "Ingliz tilidagi ovoz topilmadi.");
+  };
+  // Ba'zi brauzerlar onvoiceschanged'ni umuman chaqirmaydi — zaxira sifatida biroz kutamiz.
+  setTimeout(() => {
+    if (voiceLookupDone) return;
+    const found = pickEnglishVoice();
+    voiceLookupDone = true;
+    cachedEnglishVoice = found;
+    if (found) callback(found, null);
+    else callback(null, "Ingliz tilidagi ovoz topilmadi.");
+  }, 800);
+}
+
+// Uzun matnni Chrome ~15 soniyadan keyin to'xtatib qo'yishining oldini olish uchun
+// gaplarga bo'lib, navbat bilan bittalab o'qitamiz.
+function splitIntoSentences(text) {
+  const parts = text.match(/[^.!?]+[.!?]*/g);
+  return parts ? parts.map((s) => s.trim()).filter(Boolean) : [text];
+}
+
+let speechQueue = [];
+let speechQueueIndex = 0;
+
+function speakNextInQueue(btn) {
+  if (speechQueueIndex >= speechQueue.length) {
+    if (btn) btn.classList.remove("speaking");
+    return;
+  }
+  const u = new SpeechSynthesisUtterance(speechQueue[speechQueueIndex]);
   u.lang = "en-US";
   u.rate = speechRate;
-  if (btn) {
-    btn.classList.add("speaking");
-    u.onend = () => btn.classList.remove("speaking");
-    u.onerror = () => btn.classList.remove("speaking");
-  }
+  if (cachedEnglishVoice) u.voice = cachedEnglishVoice;
+  u.onend = () => {
+    speechQueueIndex++;
+    speakNextInQueue(btn);
+  };
+  u.onerror = () => {
+    if (btn) btn.classList.remove("speaking");
+  };
   window.speechSynthesis.speak(u);
 }
 
+// iOS Safari faqat foydalanuvchi bosgan hodisa ichida ovoz boshlashga ruxsat beradi,
+// shuning uchun speak() doim tugma bosilganda to'g'ridan-to'g'ri chaqiriladi.
+function speak(text, btn) {
+  ensureVoiceReady((voice, warning) => {
+    if (!("speechSynthesis" in window)) {
+      showVoiceWarning(warning);
+      return;
+    }
+    if (!voice) showVoiceWarning(warning);
+    window.speechSynthesis.cancel();
+    document.querySelectorAll(".speaking").forEach((el) => el.classList.remove("speaking"));
+    speechQueue = splitIntoSentences(text);
+    speechQueueIndex = 0;
+    if (btn) btn.classList.add("speaking");
+    speakNextInQueue(btn);
+  });
+}
+
+function showVoiceWarning(message) {
+  const el = document.getElementById("voiceWarning");
+  if (!el) return;
+  if (message) {
+    el.textContent = "⚠️ " + message;
+    el.hidden = false;
+  } else {
+    el.hidden = true;
+  }
+}
+
 function stopSpeaking() {
+  speechQueue = [];
+  speechQueueIndex = 0;
   if ("speechSynthesis" in window) window.speechSynthesis.cancel();
   document.querySelectorAll(".speaking").forEach((el) => el.classList.remove("speaking"));
 }
+
+// Boshqa bo'limga o'tishda yoki sahifadan chiqishda ovozni to'xtatamiz.
+window.addEventListener("pagehide", stopSpeaking);
 
 /* ===== Topic → decorative emoji mapping (for section hero / cards) ===== */
 
@@ -167,14 +328,17 @@ function getTopicEmoji(topic) {
   return "📘";
 }
 
-function shuffleSeeded(arr) {
-  return arr; // keep deterministic order for reproducibility
-}
-
 /* ===== Page: Dashboard (index.html) ===== */
 
 async function initDashboard() {
-  const [levels, progress] = await Promise.all([getLevels(), Promise.resolve(getProgress())]);
+  let levels;
+  const progress = getProgress();
+  try {
+    levels = await getLevels();
+  } catch (e) {
+    showLoadError(document.getElementById("levelsGrid"));
+    return;
+  }
   const overallPct = overallCompletionPct(levels, progress);
 
   const overallBar = document.getElementById("overallBar");
@@ -182,24 +346,28 @@ async function initDashboard() {
   overallBar.style.width = overallPct + "%";
   overallPctEl.textContent = overallPct + "%";
 
-  let totalWords = 0;
-  levels.forEach((lv) => (totalWords += lv.sections * 20));
+  const WORDS_PER_SECTION = 20;
+  let totalWords = 0,
+    totalSections = 0;
+  levels.forEach((lv) => {
+    totalWords += lv.sections * WORDS_PER_SECTION;
+    totalSections += lv.sections;
+  });
   document.getElementById("totalWords").textContent = totalWords;
+  document.getElementById("levelsSectionsSummary").textContent = `${levels.length} ta level, ${totalSections} ta bo'lim`;
 
   const grid = document.getElementById("levelsGrid");
   grid.innerHTML = "";
   levels.sort((a, b) => a.order - b.order);
   levels.forEach((lv) => {
-    const unlocked = isLevelUnlocked(lv.code, progress);
     const pct = levelCompletionPct(lv.code, lv, progress);
     const testPassed = progress[lv.code] && progress[lv.code].testPassed;
-    const card = document.createElement(unlocked ? "a" : "div");
-    if (unlocked) card.href = `level.html?level=${lv.code}`;
-    card.className = "level-card" + (unlocked ? "" : " locked");
+    const card = document.createElement("a");
+    card.href = `/level?level=${lv.code}`;
+    card.className = "level-card";
     card.style.setProperty("--lc", lv.color);
     card.innerHTML = `
       <div class="bar"></div>
-      ${unlocked ? "" : '<div class="lock-badge">🔒 Yopiq</div>'}
       <div class="code">${lv.name}</div>
       <div class="title">${lv.title}</div>
       <div class="subtitle">${lv.subtitle}</div>
@@ -208,28 +376,78 @@ async function initDashboard() {
     `;
     grid.appendChild(card);
   });
+
+  wireProgressTools();
+}
+
+function wireProgressTools() {
+  const msgEl = document.getElementById("progressToolsMsg");
+  const setMsg = (text) => {
+    msgEl.textContent = text;
+  };
+
+  document.getElementById("exportProgressBtn").onclick = () => {
+    const json = exportProgress();
+    const blob = new Blob([json], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "wordpath-progress.json";
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(url);
+    setMsg("✅ Progress fayl sifatida saqlandi.");
+  };
+
+  const fileInput = document.getElementById("importProgressInput");
+  document.getElementById("importProgressBtn").onclick = () => fileInput.click();
+  fileInput.onchange = () => {
+    const file = fileInput.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = () => {
+      try {
+        importProgress(String(reader.result));
+        setMsg("✅ Progress yuklandi. Sahifa yangilanmoqda...");
+        setTimeout(() => location.reload(), 700);
+      } catch (e) {
+        setMsg("⚠️ Fayl noto'g'ri formatda — import qilinmadi.");
+      }
+    };
+    reader.readAsText(file);
+    fileInput.value = "";
+  };
+
+  document.getElementById("clearProgressBtn").onclick = () => {
+    if (!confirm("Butun progressni tozalashni tasdiqlaysizmi? Bu amalni ortga qaytarib bo'lmaydi.")) return;
+    clearProgress();
+    setMsg("✅ Progress tozalandi. Sahifa yangilanmoqda...");
+    setTimeout(() => location.reload(), 700);
+  };
 }
 
 /* ===== Page: Level (level.html) ===== */
 
 async function initLevelPage() {
   const code = qs("level");
-  const levels = await getLevels();
-  const progressAll = getProgress();
-  const meta = levels.find((l) => l.code === code);
-
-  if (!isLevelUnlocked(code, progressAll)) {
-    document.getElementById("lockedMsg").style.display = "block";
-    document.getElementById("levelContent").style.display = "none";
+  let levels, data;
+  try {
+    [levels, data] = await Promise.all([getLevels(), getLevelIndex(code)]);
+  } catch (e) {
+    showLoadError(document.getElementById("levelContent"));
     return;
   }
-
-  const data = await getLevelData(code);
+  const progressAll = getProgress();
+  const meta = levels.find((l) => l.code === code);
   const progress = ensureLevel(progressAll, code);
 
-  document.title = `${meta.name} — ${meta.title}`;
+  document.title = `${meta.name} — LearningEnglishStat`;
   document.getElementById("levelName").textContent = meta.name;
-  document.getElementById("levelNameTitle").textContent = `${meta.name} — ${meta.title} (${meta.subtitle})`;
+  document.getElementById("levelName").classList.remove("skeleton");
+  const titleEl = document.getElementById("levelNameTitle");
+  titleEl.textContent = `${meta.name} — ${meta.title} (${meta.subtitle})`;
+  titleEl.classList.remove("skeleton");
   document.documentElement.style.setProperty("--lc", meta.color);
 
   const doneCount = Object.keys(progress.sections).length;
@@ -247,7 +465,8 @@ async function initLevelPage() {
     const unlockedSec = exists && isSectionUnlocked(i, progress);
     const clickable = exists && unlockedSec;
     const el = document.createElement(clickable ? "a" : "div");
-    if (clickable) el.href = `section.html?level=${code}&id=${i}`;
+    if (clickable) el.href = `/section?level=${code}&id=${i}`;
+    else el.setAttribute("aria-disabled", "true");
     el.className = "sec-card " + (done ? "done" : clickable ? "todo" : "locked");
     let status;
     if (done) status = "✅ Bajarildi";
@@ -256,7 +475,7 @@ async function initLevelPage() {
     else status = "Boshlash";
     el.innerHTML = `
       <div class="num">${i}</div>
-      ${exists ? `<span class="topic-icon">${getTopicEmoji(sec.topic)}</span>` : ""}
+      ${exists ? `<span class="topic-icon" aria-hidden="true">${getTopicEmoji(sec.topic)}</span>` : ""}
       <div class="topic">${exists ? sec.topic : "Tez orada"}</div>
       <div class="status">${status}</div>
     `;
@@ -271,13 +490,13 @@ async function initLevelPage() {
     testBtn.textContent = "Testni qayta topshirish";
     testBtn.disabled = false;
   } else if (allDone) {
-    testMsg.textContent = "Barcha bo'limlar tugallandi. Endi keyingi levelga o'tish uchun testni topshiring.";
+    testMsg.textContent = "Barcha bo'limlar tugallandi! Endi o'zlashtirishingizni tekshirish uchun testni topshiring.";
     testBtn.disabled = false;
   } else {
     testMsg.textContent = `Testga kirish uchun avval barcha ${meta.sections} ta bo'limni tugatishingiz kerak.`;
     testBtn.disabled = true;
   }
-  testBtn.onclick = () => (location.href = `test.html?level=${code}`);
+  testBtn.onclick = () => (location.href = `/test?level=${code}`);
 }
 
 /* ===== Page: Section (section.html) ===== */
@@ -285,9 +504,14 @@ async function initLevelPage() {
 async function initSectionPage() {
   const code = qs("level");
   const id = parseInt(qs("id"), 10);
-  const [levels, data] = await Promise.all([getLevels(), getLevelData(code)]);
+  let levels, sec;
+  try {
+    [levels, sec] = await Promise.all([getLevels(), getSectionData(code, id)]);
+  } catch (e) {
+    showLoadError(document.getElementById("secBody"));
+    return;
+  }
   const meta = levels.find((l) => l.code === code);
-  const sec = data.sections.find((s) => s.id === id);
   document.documentElement.style.setProperty("--lc", meta.color);
 
   if (!sec) {
@@ -298,20 +522,24 @@ async function initSectionPage() {
   const progressAll = getProgress();
   const levelProgress = ensureLevel(progressAll, code);
   if (!isSectionUnlocked(id, levelProgress)) {
-    document.getElementById("lockedMsg").style.display = "block";
-    document.getElementById("secBody").style.display = "none";
-    document.getElementById("lockedMsg").innerHTML = `
+    const lockedEl = document.getElementById("lockedMsg");
+    lockedEl.hidden = false;
+    document.getElementById("secBody").hidden = true;
+    lockedEl.innerHTML = `
       🔒 Bu bo'lim hali yopiq. Avval <strong>${id - 1}-bo'limni</strong> kamida 70% natija bilan tugating.
-      <br /><a class="btn secondary" style="margin-top:10px;display:inline-block;" href="level.html?level=${code}">Levelga qaytish</a>
+      <br /><a class="btn secondary locked-return-link" href="/level?level=${code}">Levelga qaytish</a>
     `;
     return;
   }
 
-  document.title = `${meta.name} - Bo'lim ${id}`;
+  document.title = `${meta.name} · ${id}-bo'lim: ${sec.topic} — LearningEnglishStat`;
   document.getElementById("crumbLevel").textContent = meta.name;
-  document.getElementById("crumbLevel").href = `level.html?level=${code}`;
-  document.getElementById("secTitle").textContent = `Bo'lim ${id}: ${sec.topic}`;
+  document.getElementById("crumbLevel").href = `/level?level=${code}`;
+  const secTitleEl = document.getElementById("secTitle");
+  secTitleEl.textContent = `Bo'lim ${id}: ${sec.topic}`;
+  secTitleEl.classList.remove("skeleton");
   document.getElementById("heroEmoji").textContent = getTopicEmoji(sec.topic);
+  document.getElementById("wordsHeading").textContent = `1. Yangi so'zlar (${sec.words.length} ta)`;
 
   // Words
   const wg = document.getElementById("wordGrid");
@@ -321,14 +549,14 @@ async function initSectionPage() {
     card.className = "word-card";
     card.innerHTML = `
       <div class="row1">
-        <span class="w">${w.word}</span>
-        <span class="pos">${w.pos}</span>
-        <span class="ipa">${w.ipa}</span>
-        <button class="speak" title="Tinglash">🔊</button>
+        <span class="w" lang="en">${w.word}</span>
+        <span class="pos" lang="en">${w.pos}</span>
+        <span class="ipa" lang="en">${w.ipa}</span>
+        <button class="speak" aria-label="${w.word} so'zini tinglash">🔊</button>
       </div>
-      <div class="def">${w.definition}</div>
-      <div class="uz"><img class="flag-icon" src="assets/uz-flag.svg" alt="UZ" width="18" height="12" /> ${w.uz || ""}</div>
-      <div class="ex">"${w.example}"</div>
+      <div class="def" lang="en">${w.definition}</div>
+      <div class="uz"><img class="flag-icon" src="assets/uz-flag.svg" alt="" width="18" height="12" /> ${w.uz || ""}</div>
+      <div class="ex" lang="en">"${w.example}"</div>
     `;
     card.querySelector(".speak").onclick = (e) => speak(w.word, e.target);
     wg.appendChild(card);
@@ -345,23 +573,25 @@ async function initSectionPage() {
   document.getElementById("speakAllBtn").onclick = (e) => speak(sec.text, e.target);
   document.getElementById("stopSpeakBtn").onclick = () => stopSpeaking();
   const speedSelect = document.getElementById("speedSelect");
-  speechRate = parseFloat(speedSelect.value) || 1;
+  speedSelect.value = String(speechRate); // avval saqlangan tezlikni tanlagichda ko'rsatamiz
   speedSelect.onchange = () => {
     speechRate = parseFloat(speedSelect.value) || 1;
+    saveSpeechRate(speechRate);
   };
 
   // Quiz
+  document.getElementById("quizHeading").textContent = `3. Tushunishni tekshiring (${sec.questions.length} ta savol)`;
   const quizEl = document.getElementById("quiz");
   quizEl.innerHTML = "";
   const answers = new Array(sec.questions.length).fill(null);
   sec.questions.forEach((q, qi) => {
     const qEl = document.createElement("div");
     qEl.className = "quiz-q";
-    qEl.innerHTML = `<div class="qtext">${qi + 1}. ${q.question}</div>`;
+    qEl.innerHTML = `<div class="qtext"><span lang="uz">${qi + 1}.</span> <span lang="en">${q.question}</span></div>`;
     q.options.forEach((opt, oi) => {
       const optEl = document.createElement("label");
       optEl.className = "opt";
-      optEl.innerHTML = `<input type="radio" name="q${qi}" value="${oi}"> <span>${opt}</span>`;
+      optEl.innerHTML = `<input type="radio" name="q${qi}" value="${oi}"> <span lang="en">${opt}</span>`;
       optEl.querySelector("input").onchange = () => {
         answers[qi] = oi;
         qEl.querySelectorAll(".opt").forEach((o) => o.classList.remove("selected"));
@@ -390,7 +620,7 @@ async function initSectionPage() {
     const pct = correct / sec.questions.length;
     const pass = pct >= PASS_THRESHOLD_SECTION;
     const resEl = document.getElementById("result");
-    resEl.style.display = "block";
+    resEl.hidden = false;
     resEl.className = "result-card " + (pass ? "pass" : "fail");
     resEl.innerHTML = `
       <div class="score">${correct}/${sec.questions.length}</div>
@@ -406,18 +636,27 @@ async function initSectionPage() {
     resEl.scrollIntoView({ behavior: "smooth", block: "center" });
   };
 
-  // Prev/Next nav
+  // Prev/Next nav — hozir mavjud bo'lmagan yo'nalish uchun href real qoldiriladi,
+  // lekin aria-disabled va vizual "yopiq" holat qo'yiladi (screen reader va klaviatura uchun tushunarli).
   const prevBtn = document.getElementById("prevSec");
   const nextBtn = document.getElementById("nextSec");
   if (id > 1) {
-    prevBtn.href = `section.html?level=${code}&id=${id - 1}`;
+    prevBtn.href = `/section?level=${code}&id=${id - 1}`;
+    prevBtn.removeAttribute("aria-disabled");
+    prevBtn.classList.remove("disabled");
   } else {
-    prevBtn.style.visibility = "hidden";
+    prevBtn.removeAttribute("href");
+    prevBtn.setAttribute("aria-disabled", "true");
+    prevBtn.classList.add("disabled");
   }
   if (id < meta.sections && isSectionUnlocked(id + 1, levelProgress)) {
-    nextBtn.href = `section.html?level=${code}&id=${id + 1}`;
+    nextBtn.href = `/section?level=${code}&id=${id + 1}`;
+    nextBtn.removeAttribute("aria-disabled");
+    nextBtn.classList.remove("disabled");
   } else {
-    nextBtn.style.visibility = "hidden";
+    nextBtn.removeAttribute("href");
+    nextBtn.setAttribute("aria-disabled", "true");
+    nextBtn.classList.add("disabled");
   }
 }
 
@@ -425,33 +664,34 @@ async function initSectionPage() {
 
 async function initTestPage() {
   const code = qs("level");
-  const [levels, data] = await Promise.all([getLevels(), getLevelData(code)]);
+  let levels, test;
+  try {
+    [levels, test] = await Promise.all([getLevels(), getLevelTest(code)]);
+  } catch (e) {
+    showLoadError(document.querySelector("main"));
+    return;
+  }
   const meta = levels.find((l) => l.code === code);
   document.documentElement.style.setProperty("--lc", meta.color);
-  document.title = `${meta.name} - Level testi`;
+  document.title = `${meta.name} — Test — LearningEnglishStat`;
   document.getElementById("crumbLevel").textContent = meta.name;
-  document.getElementById("crumbLevel").href = `level.html?level=${code}`;
+  document.getElementById("crumbLevel").href = `/level?level=${code}`;
 
-  const idx = LEVEL_ORDER.indexOf(code);
-  const nextCode = LEVEL_ORDER[idx + 1];
-  const nextMeta = nextCode ? levels.find((l) => l.code === nextCode) : null;
+  const testTitleEl = document.getElementById("testTitle");
+  testTitleEl.textContent = `${meta.name} — O'zlashtirish testi`;
+  testTitleEl.classList.remove("skeleton");
 
-  document.getElementById("testTitle").textContent = nextMeta
-    ? `${meta.name} → ${nextMeta.name} o'tish testi`
-    : `${meta.name} — Yakuniy test`;
-
-  const test = data.levelTest;
   const quizEl = document.getElementById("quiz");
   quizEl.innerHTML = "";
   const answers = new Array(test.questions.length).fill(null);
   test.questions.forEach((q, qi) => {
     const qEl = document.createElement("div");
     qEl.className = "quiz-q";
-    qEl.innerHTML = `<div class="qtext">${qi + 1}. ${q.question}</div>`;
+    qEl.innerHTML = `<div class="qtext"><span lang="uz">${qi + 1}.</span> <span lang="en">${q.question}</span></div>`;
     q.options.forEach((opt, oi) => {
       const optEl = document.createElement("label");
       optEl.className = "opt";
-      optEl.innerHTML = `<input type="radio" name="q${qi}" value="${oi}"> <span>${opt}</span>`;
+      optEl.innerHTML = `<input type="radio" name="q${qi}" value="${oi}"> <span lang="en">${opt}</span>`;
       optEl.querySelector("input").onchange = () => {
         answers[qi] = oi;
         qEl.querySelectorAll(".opt").forEach((o) => o.classList.remove("selected"));
@@ -480,18 +720,16 @@ async function initTestPage() {
     const pct = correct / test.questions.length;
     const pass = pct >= PASS_THRESHOLD_TEST;
     const resEl = document.getElementById("result");
-    resEl.style.display = "block";
+    resEl.hidden = false;
     resEl.className = "result-card " + (pass ? "pass" : "fail");
     resEl.innerHTML = `
       <div class="score">${correct}/${test.questions.length} (${Math.round(pct * 100)}%)</div>
       <p>${
         pass
-          ? nextMeta
-            ? `Tabriklaymiz! Siz ${meta.name} levelni tugatdingiz va ${nextMeta.name} ochildi.`
-            : "Tabriklaymiz! Siz barcha levellarni muvaffaqiyatli yakunladingiz!"
+          ? "Tabriklaymiz! Siz bu levelni muvaffaqiyatli o'zlashtirdingiz."
           : "O'tish uchun kamida 80% kerak. Bo'limlarni qayta ko'rib chiqib, yana urinib ko'ring."
       }</p>
-      <a class="btn" href="level.html?level=${code}">Levelga qaytish</a>
+      <a class="btn" href="/level?level=${code}">Levelga qaytish</a>
     `;
     document.getElementById("submitQuiz").disabled = true;
 
@@ -512,4 +750,14 @@ document.addEventListener("DOMContentLoaded", () => {
   else if (page === "level") initLevelPage();
   else if (page === "section") initSectionPage();
   else if (page === "test") initTestPage();
+
+  const footerYear = document.getElementById("footerYear");
+  if (footerYear) footerYear.textContent = new Date().getFullYear();
 });
+
+// PWA: birinchi tashrifdan keyin sayt internetsiz ham ochilishi uchun.
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("/sw.js").catch(() => {});
+  });
+}

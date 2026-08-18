@@ -1,0 +1,229 @@
+{
+  "id": 23,
+  "topic": "Innovation and Intellectual Property",
+  "words": [
+    {
+      "word": "innovation",
+      "pos": "noun",
+      "ipa": "/ˌɪnəˈveɪʃən/",
+      "definition": "the introduction of new ideas, methods, or products",
+      "example": "The company's success is built on constant innovation.",
+      "uz": "innovatsiya, yangilik"
+    },
+    {
+      "word": "patent",
+      "pos": "noun",
+      "ipa": "/ˈpætənt/",
+      "definition": "a government-granted right giving an inventor exclusive control over an invention",
+      "example": "She filed a patent for her new solar panel design.",
+      "uz": "patent"
+    },
+    {
+      "word": "infringe",
+      "pos": "verb",
+      "ipa": "/ɪnˈfrɪndʒ/",
+      "definition": "to violate or trespass upon someone's legal rights, especially intellectual property",
+      "example": "The startup was accused of infringing on an existing patent.",
+      "uz": "mualliflik huquqini buzmoq"
+    },
+    {
+      "word": "proprietary",
+      "pos": "adjective",
+      "ipa": "/prəˈpraɪətəri/",
+      "definition": "owned privately, usually by a company, and protected from unauthorized use",
+      "example": "The software uses a proprietary algorithm that competitors cannot access.",
+      "uz": "xususiy mulk sifatida himoyalangan"
+    },
+    {
+      "word": "disruptive",
+      "pos": "adjective",
+      "ipa": "/dɪsˈrʌptɪv/",
+      "definition": "causing radical change to an existing industry or market",
+      "example": "Streaming services proved disruptive to the traditional television industry.",
+      "uz": "sohani tubdan o'zgartiruvchi"
+    },
+    {
+      "word": "royalty",
+      "pos": "noun",
+      "ipa": "/ˈrɔɪəlti/",
+      "definition": "a payment made to the owner of intellectual property for its use",
+      "example": "The author receives a royalty for every copy of the book sold.",
+      "uz": "mualliflik haqi (royalti)"
+    },
+    {
+      "word": "plagiarism",
+      "pos": "noun",
+      "ipa": "/ˈpleɪdʒərɪzəm/",
+      "definition": "the act of using someone else's work or ideas without acknowledgment",
+      "example": "The student was expelled for plagiarism after copying an entire essay.",
+      "uz": "plagiat"
+    },
+    {
+      "word": "incentivize",
+      "pos": "verb",
+      "ipa": "/ɪnˈsɛntɪvaɪz/",
+      "definition": "to motivate someone to do something by offering a reward",
+      "example": "Tax breaks are used to incentivize research and development.",
+      "uz": "rag'batlantirmoq"
+    },
+    {
+      "word": "counterfeit",
+      "pos": "adjective",
+      "ipa": "/ˈkaʊntərfɪt/",
+      "definition": "made in exact imitation of something valuable with intent to deceive",
+      "example": "Customs officials seized thousands of counterfeit handbags at the border.",
+      "uz": "soxta, qalbaki"
+    },
+    {
+      "word": "licensing",
+      "pos": "noun",
+      "ipa": "/ˈlaɪsənsɪŋ/",
+      "definition": "the process of granting permission to use intellectual property under specific conditions",
+      "example": "The film's licensing agreement allows it to be shown in three countries.",
+      "uz": "litsenziyalash"
+    },
+    {
+      "word": "breakthrough",
+      "pos": "noun",
+      "ipa": "/ˈbreɪkθruː/",
+      "definition": "a sudden, important discovery or development",
+      "example": "Scientists announced a breakthrough in battery technology.",
+      "uz": "muhim kashfiyot"
+    },
+    {
+      "word": "exploit",
+      "pos": "verb",
+      "ipa": "/ɪkˈsplɔɪt/",
+      "definition": "to make full use of and derive benefit from a resource",
+      "example": "Rivals quickly exploited the gap left by the failed merger.",
+      "uz": "resursdan unumli foydalanmoq"
+    },
+    {
+      "word": "copyright",
+      "pos": "noun",
+      "ipa": "/ˈkɒpiraɪt/",
+      "definition": "the legal right to control the reproduction and distribution of a creative work",
+      "example": "The photograph is protected by copyright for seventy years after the artist's death.",
+      "uz": "mualliflik huquqi"
+    },
+    {
+      "word": "trademark",
+      "pos": "noun",
+      "ipa": "/ˈtreɪdmɑːrk/",
+      "definition": "a symbol, word, or phrase legally registered to represent a company or product",
+      "example": "The company registered its logo as a trademark.",
+      "uz": "savdo belgisi"
+    },
+    {
+      "word": "venture",
+      "pos": "noun",
+      "ipa": "/ˈvɛntʃər/",
+      "definition": "a risky or daring undertaking, especially in business",
+      "example": "Their new venture into renewable energy attracted several investors.",
+      "uz": "xatarli tadbirkorlik loyihasi"
+    },
+    {
+      "word": "prototype",
+      "pos": "noun",
+      "ipa": "/ˈproʊtətaɪp/",
+      "definition": "an original model on which later versions are based",
+      "example": "Engineers tested the prototype before mass production began.",
+      "uz": "prototip, dastlabki namuna"
+    },
+    {
+      "word": "monopolize",
+      "pos": "verb",
+      "ipa": "/məˈnɒpəlaɪz/",
+      "definition": "to dominate or control a market entirely, excluding competitors",
+      "example": "Regulators feared the merger would allow the firm to monopolize the market.",
+      "uz": "bozorni to'liq egallab olmoq"
+    },
+    {
+      "word": "obsolete",
+      "pos": "adjective",
+      "ipa": "/ˌɒbsəˈliːt/",
+      "definition": "no longer in use or useful because it has been replaced",
+      "example": "Floppy disks became obsolete once USB drives appeared.",
+      "uz": "eskirgan, iste'moldan chiqqan"
+    },
+    {
+      "word": "stifle",
+      "pos": "verb",
+      "ipa": "/ˈstaɪfəl/",
+      "definition": "to prevent something from happening or developing freely",
+      "example": "Excessive regulation can stifle small business growth.",
+      "uz": "rivojlanishiga to'sqinlik qilmoq"
+    },
+    {
+      "word": "lucrative",
+      "pos": "adjective",
+      "ipa": "/ˈluːkrətɪv/",
+      "definition": "producing a great deal of profit",
+      "example": "Patenting the drug proved extremely lucrative for the company.",
+      "uz": "yuqori daromadli"
+    }
+  ],
+  "text": "Were it not for the promise of financial reward, would inventors still pour years into developing groundbreaking technology? This question lies at the heart of the ongoing debate over intellectual property. Patent systems were designed to incentivize innovation by granting inventors temporary control over their creations, allowing them to charge royalties and recoup research costs. Proponents argue that without such protection, competitors could simply exploit a breakthrough the moment it appeared, rendering the original investment worthless. Critics, however, contend that overly broad patents stifle progress rather than encourage it. When a single corporation manages to monopolize an entire field through aggressive licensing and litigation, smaller ventures are often deterred from building on existing ideas, however disruptive their prototypes might be. Nowhere is this tension more evident than in the pharmaceutical industry, where patented drugs generate lucrative profits while cheaper alternatives remain legally unavailable until protection expires and the original becomes obsolete. Consequently, policymakers face a delicate balancing act: safeguard proprietary rights enough to reward creativity, yet not so much that essential innovation is infringed upon by monopolistic gatekeeping. Notwithstanding decades of reform, no perfect solution has emerged.",
+  "questions": [
+    {
+      "question": "What is the passage primarily about?",
+      "options": [
+        "The history of patent law in the pharmaceutical industry",
+        "The tension between protecting intellectual property and fostering innovation",
+        "Why generic drugs are cheaper than patented ones",
+        "How small businesses can avoid litigation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why were patent systems originally designed?",
+      "options": [
+        "To prevent all companies from competing",
+        "To incentivize innovation by granting temporary exclusive control",
+        "To lower the price of consumer goods",
+        "To eliminate the need for royalties"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about the author's stance on patent protection?",
+      "options": [
+        "The author believes patents should be abolished entirely",
+        "The author sees value in patents but acknowledges legitimate concerns about their overuse",
+        "The author fully supports monopolies in the pharmaceutical industry",
+        "The author believes patents have no effect on innovation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which industry is given as an example of tension over patents?",
+      "options": [
+        "Technology",
+        "Pharmaceutical",
+        "Automotive",
+        "Publishing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone throughout the passage?",
+      "options": [
+        "Dismissive and sarcastic",
+        "Analytical and balanced",
+        "Angry and one-sided",
+        "Casual and humorous"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest about the future of patent policy?",
+      "options": [
+        "A perfect solution is imminent",
+        "Policymakers must continue to negotiate a difficult balance without a definitive fix",
+        "Patents will soon become fully obsolete",
+        "All countries have reached agreement on reform"
+      ],
+      "answer": 1
+    }
+  ]
+}

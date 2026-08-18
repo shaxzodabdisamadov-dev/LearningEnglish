@@ -1,0 +1,229 @@
+{
+  "id": 1,
+  "topic": "Personal Goals and Ambitions",
+  "words": [
+    {
+      "word": "ambition",
+      "pos": "noun",
+      "ipa": "/æmˈbɪʃ.ən/",
+      "definition": "a strong desire to achieve something important",
+      "example": "Her ambition is to become a doctor before she turns thirty.",
+      "uz": "ambitsiya"
+    },
+    {
+      "word": "achieve",
+      "pos": "verb",
+      "ipa": "/əˈtʃiːv/",
+      "definition": "to succeed in doing something after making an effort",
+      "example": "It takes hard work to achieve your dreams.",
+      "uz": "erishmoq"
+    },
+    {
+      "word": "aspire",
+      "pos": "verb",
+      "ipa": "/əˈspaɪər/",
+      "definition": "to have a strong desire to achieve something in the future",
+      "example": "Many young athletes aspire to compete in the Olympics.",
+      "uz": "orzu qilmoq"
+    },
+    {
+      "word": "determination",
+      "pos": "noun",
+      "ipa": "/dɪˌtɜː.mɪˈneɪ.ʃən/",
+      "definition": "the quality of continuing to try to do something difficult",
+      "example": "She showed great determination when learning a new language.",
+      "uz": "qat'iyat"
+    },
+    {
+      "word": "obstacle",
+      "pos": "noun",
+      "ipa": "/ˈɒb.stə.kəl/",
+      "definition": "something that blocks progress or makes something difficult",
+      "example": "Lack of money was the biggest obstacle to starting his business.",
+      "uz": "to'siq"
+    },
+    {
+      "word": "motivate",
+      "pos": "verb",
+      "ipa": "/ˈməʊ.tɪ.veɪt/",
+      "definition": "to make someone want to do something",
+      "example": "A good coach knows how to motivate the team before a big match.",
+      "uz": "rag'batlantirmoq"
+    },
+    {
+      "word": "pursue",
+      "pos": "verb",
+      "ipa": "/pəˈsjuː/",
+      "definition": "to continue trying to achieve a goal over a long period",
+      "example": "He decided to pursue a career in engineering.",
+      "uz": "intilib harakat qilmoq"
+    },
+    {
+      "word": "persistence",
+      "pos": "noun",
+      "ipa": "/pəˈsɪs.təns/",
+      "definition": "continuing to do something despite difficulty or opposition",
+      "example": "Her persistence finally paid off when she got the job.",
+      "uz": "matonat"
+    },
+    {
+      "word": "fulfil",
+      "pos": "verb",
+      "ipa": "/fʊlˈfɪl/",
+      "definition": "to achieve or complete something you hoped for",
+      "example": "Winning the championship helped him fulfil a lifelong dream.",
+      "uz": "amalga oshirmoq"
+    },
+    {
+      "word": "accomplish",
+      "pos": "verb",
+      "ipa": "/əˈkʌm.plɪʃ/",
+      "definition": "to succeed in doing something",
+      "example": "We accomplished all our goals for the project on time.",
+      "uz": "uddalamoq"
+    },
+    {
+      "word": "self-discipline",
+      "pos": "noun",
+      "ipa": "/ˌself ˈdɪs.ɪ.plɪn/",
+      "definition": "the ability to control yourself and work hard without being told to",
+      "example": "Self-discipline is essential if you want to study every day.",
+      "uz": "o'z-o'zini intizomga solish"
+    },
+    {
+      "word": "willpower",
+      "pos": "noun",
+      "ipa": "/ˈwɪl.paʊər/",
+      "definition": "strong determination to do something difficult",
+      "example": "It takes a lot of willpower to give up sugar.",
+      "uz": "iroda"
+    },
+    {
+      "word": "target",
+      "pos": "noun",
+      "ipa": "/ˈtɑː.ɡɪt/",
+      "definition": "a result that someone tries to achieve",
+      "example": "The company set a new sales target for this year.",
+      "uz": "maqsad"
+    },
+    {
+      "word": "long-term",
+      "pos": "adjective",
+      "ipa": "/ˌlɒŋ ˈtɜːm/",
+      "definition": "relating to a long period of time in the future",
+      "example": "Saving money is a long-term goal for most people.",
+      "uz": "uzoq muddatli"
+    },
+    {
+      "word": "give up",
+      "pos": "phrasal verb",
+      "ipa": "/ɡɪv ʌp/",
+      "definition": "to stop trying to do something",
+      "example": "Don't give up on your dreams just because it's difficult.",
+      "uz": "voz kechmoq"
+    },
+    {
+      "word": "set a goal",
+      "pos": "phrase",
+      "ipa": "/set ə ɡəʊl/",
+      "definition": "to decide clearly what you want to achieve",
+      "example": "At the start of the year, she decided to set a goal to run a marathon.",
+      "uz": "maqsad qo'ymoq"
+    },
+    {
+      "word": "overcome",
+      "pos": "verb",
+      "ipa": "/ˌəʊ.vəˈkʌm/",
+      "definition": "to successfully deal with a difficult problem",
+      "example": "He managed to overcome his fear of public speaking.",
+      "uz": "yengib o'tmoq"
+    },
+    {
+      "word": "potential",
+      "pos": "noun",
+      "ipa": "/pəˈten.ʃəl/",
+      "definition": "qualities or abilities that could develop and lead to success",
+      "example": "The teacher believes the student has great potential.",
+      "uz": "salohiyat"
+    },
+    {
+      "word": "confidence",
+      "pos": "noun",
+      "ipa": "/ˈkɒn.fɪ.dəns/",
+      "definition": "a feeling of trust in your own abilities",
+      "example": "Public speaking classes helped him build confidence.",
+      "uz": "o'ziga ishonch"
+    },
+    {
+      "word": "milestone",
+      "pos": "noun",
+      "ipa": "/ˈmaɪl.stəʊn/",
+      "definition": "an important event or stage in the development of something",
+      "example": "Graduating from university was an important milestone in her life.",
+      "uz": "muhim bosqich"
+    }
+  ],
+  "text": "Everyone has an ambition, but not everyone knows how to achieve it. Setting a goal is the first step, although turning that goal into reality requires determination and persistence. Many people aspire to change their careers or improve their lives, but they give up too soon when they meet an obstacle. Friends and mentors can motivate you when things feel difficult, but real change only happens if you fulfil your own promises to yourself. Experts recommend breaking a big dream into smaller targets and celebrating every milestone along the way. Self-discipline and willpower are also essential, since inspiration alone does not last forever. In fact, it is persistence, not motivation, that helps people accomplish their long-term plans. Believing in your own potential can boost your confidence and make it easier to overcome obstacles when they appear. As a result, people who pursue their goals with a clear plan are more likely to succeed than those who simply wait for the perfect moment. Although the path is rarely easy, anyone can reach great achievements if they stay focused and keep pursuing what truly matters to them.",
+  "questions": [
+    {
+      "question": "According to the passage, what is the first step toward achieving an ambition?",
+      "options": [
+        "Finding a mentor",
+        "Setting a goal",
+        "Waiting for the perfect moment",
+        "Giving up easily"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is persistence more important than motivation, according to the passage?",
+      "options": [
+        "Motivation is not necessary at all",
+        "Motivation does not last forever",
+        "Persistence is easier than motivation",
+        "Motivation always leads to success"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest doing with a big dream?",
+      "options": [
+        "Ignoring it until you feel ready",
+        "Breaking it into smaller targets",
+        "Keeping it secret from others",
+        "Achieving it immediately"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can help make it easier to overcome obstacles?",
+      "options": [
+        "Avoiding all obstacles",
+        "Believing in your own potential",
+        "Relying only on friends",
+        "Changing your goal frequently"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, who is more likely to succeed?",
+      "options": [
+        "People who wait for the perfect moment",
+        "People who pursue goals with a clear plan",
+        "People who never set targets",
+        "People who depend only on motivation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage say about the path to achieving goals?",
+      "options": [
+        "It is always easy",
+        "It is rarely easy but achievable with focus",
+        "It is impossible without luck",
+        "It requires no effort"
+      ],
+      "answer": 1
+    }
+  ]
+}

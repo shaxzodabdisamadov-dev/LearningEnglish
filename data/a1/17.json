@@ -1,0 +1,229 @@
+{
+  "id": 17,
+  "topic": "Travel and Places",
+  "words": [
+    {
+      "word": "travel",
+      "pos": "verb",
+      "ipa": "/ˈtrævəl/",
+      "definition": "to go from one place to another, often to a different country",
+      "example": "We like to travel every summer.",
+      "uz": "sayohat qilmoq"
+    },
+    {
+      "word": "airport",
+      "pos": "noun",
+      "ipa": "/ˈeəpɔːrt/",
+      "definition": "a place where planes take off and land",
+      "example": "We arrived at the airport early.",
+      "uz": "aeroport"
+    },
+    {
+      "word": "ticket",
+      "pos": "noun",
+      "ipa": "/ˈtɪkɪt/",
+      "definition": "a small piece of paper that lets you travel or enter a place",
+      "example": "I bought two tickets for the train.",
+      "uz": "chipta"
+    },
+    {
+      "word": "suitcase",
+      "pos": "noun",
+      "ipa": "/ˈsuːtkeɪs/",
+      "definition": "a large bag that you use to carry clothes when you travel",
+      "example": "I packed my clothes in a suitcase.",
+      "uz": "chamadon"
+    },
+    {
+      "word": "passport",
+      "pos": "noun",
+      "ipa": "/ˈpɑːspɔːrt/",
+      "definition": "an official document that shows who you are when you travel to another country",
+      "example": "Don't forget your passport at the airport.",
+      "uz": "pasport"
+    },
+    {
+      "word": "hotel",
+      "pos": "noun",
+      "ipa": "/hoʊˈtel/",
+      "definition": "a building where people pay to sleep when they are away from home",
+      "example": "We stayed in a small hotel near the beach.",
+      "uz": "mehmonxona"
+    },
+    {
+      "word": "map",
+      "pos": "noun",
+      "ipa": "/mæp/",
+      "definition": "a drawing of a place that shows roads, cities, and other things",
+      "example": "She used a map to find the hotel.",
+      "uz": "xarita"
+    },
+    {
+      "word": "train",
+      "pos": "noun",
+      "ipa": "/treɪn/",
+      "definition": "a long vehicle that moves on rails and carries people",
+      "example": "We took a train to the city center.",
+      "uz": "poyezd"
+    },
+    {
+      "word": "beach",
+      "pos": "noun",
+      "ipa": "/biːtʃ/",
+      "definition": "an area of sand next to the sea",
+      "example": "The children played on the beach.",
+      "uz": "plyaj"
+    },
+    {
+      "word": "mountain",
+      "pos": "noun",
+      "ipa": "/ˈmaʊntən/",
+      "definition": "a very high hill",
+      "example": "We climbed a small mountain last year.",
+      "uz": "tog'"
+    },
+    {
+      "word": "city",
+      "pos": "noun",
+      "ipa": "/ˈsɪti/",
+      "definition": "a large town where many people live",
+      "example": "London is a big city.",
+      "uz": "shahar"
+    },
+    {
+      "word": "country",
+      "pos": "noun",
+      "ipa": "/ˈkʌntri/",
+      "definition": "a land with its own people and government",
+      "example": "I want to visit a new country.",
+      "uz": "mamlakat"
+    },
+    {
+      "word": "arrive",
+      "pos": "verb",
+      "ipa": "/əˈraɪv/",
+      "definition": "to reach a place",
+      "example": "We arrived at the hotel at noon.",
+      "uz": "yetib kelmoq"
+    },
+    {
+      "word": "leave",
+      "pos": "verb",
+      "ipa": "/liːv/",
+      "definition": "to go away from a place",
+      "example": "Our train leaves at nine o'clock.",
+      "uz": "ketmoq"
+    },
+    {
+      "word": "book",
+      "pos": "verb",
+      "ipa": "/bʊk/",
+      "definition": "to arrange to have a room, ticket, or seat before you need it",
+      "example": "We booked a hotel room online.",
+      "uz": "band qilmoq"
+    },
+    {
+      "word": "luggage",
+      "pos": "noun",
+      "ipa": "/ˈlʌɡɪdʒ/",
+      "definition": "the bags that you take with you when you travel",
+      "example": "I put my luggage on the train.",
+      "uz": "bagaj"
+    },
+    {
+      "word": "tourist",
+      "pos": "noun",
+      "ipa": "/ˈtʊərɪst/",
+      "definition": "a person who visits a place for pleasure",
+      "example": "Many tourists visit the mountain in summer.",
+      "uz": "turist"
+    },
+    {
+      "word": "abroad",
+      "pos": "adverb",
+      "ipa": "/əˈbrɔːd/",
+      "definition": "in or to a foreign country",
+      "example": "My sister lives abroad now.",
+      "uz": "chet elda"
+    },
+    {
+      "word": "flight",
+      "pos": "noun",
+      "ipa": "/flaɪt/",
+      "definition": "a journey in a plane",
+      "example": "Our flight was at nine o'clock.",
+      "uz": "parvoz"
+    },
+    {
+      "word": "souvenir",
+      "pos": "noun",
+      "ipa": "/ˌsuːvəˈnɪər/",
+      "definition": "a thing that you buy to remember a place you visited",
+      "example": "I bought a souvenir for my grandmother.",
+      "uz": "esdalik sovg'a"
+    }
+  ],
+  "text": "Last summer, my family and I decided to travel abroad. First, we needed a passport for each person. We went to the airport early because our flight was at nine o'clock. At the airport, we showed our tickets and put our luggage on a big machine. I packed my clothes in a small suitcase. After two hours, we arrived in a beautiful country. From the airport, we took a train to our hotel near the beach. Every day, we walked on the sand and swam in the sea. One day, we visited a big mountain outside the city. We used a map to find the way. Many tourists were there too, taking photos. Before we left the country, we bought a nice souvenir for our grandmother. Our holiday was short, but it was wonderful. We will always remember the beach, the mountain, and the friendly people. Next year, we want to travel to a different country and see new cities. Traveling teaches us about the world and new cultures.",
+  "questions": [
+    {
+      "question": "Why did the family need a passport?",
+      "options": [
+        "To buy a ticket",
+        "To travel to another country",
+        "To book a hotel",
+        "To visit a mountain"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What time was their flight?",
+      "options": [
+        "Seven o'clock",
+        "Eight o'clock",
+        "Nine o'clock",
+        "Ten o'clock"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How did they travel from the airport to the hotel?",
+      "options": [
+        "By car",
+        "By train",
+        "By bus",
+        "By taxi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where was the hotel located?",
+      "options": [
+        "Near the mountain",
+        "Near the airport",
+        "Near the beach",
+        "Near the city"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did they buy before leaving the country?",
+      "options": [
+        "A map",
+        "A ticket",
+        "A souvenir",
+        "A suitcase"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the writer say about traveling?",
+      "options": [
+        "It is boring",
+        "It teaches about the world",
+        "It is too expensive",
+        "It is dangerous"
+      ],
+      "answer": 1
+    }
+  ]
+}

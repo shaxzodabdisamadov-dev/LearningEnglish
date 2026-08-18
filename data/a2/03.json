@@ -1,0 +1,229 @@
+{
+  "id": 3,
+  "topic": "Describing People",
+  "words": [
+    {
+      "word": "tall",
+      "pos": "adjective",
+      "ipa": "/tɔːl/",
+      "definition": "having a greater than average height.",
+      "example": "My brother is very tall.",
+      "uz": "baland bo'yli"
+    },
+    {
+      "word": "short",
+      "pos": "adjective",
+      "ipa": "/ʃɔːrt/",
+      "definition": "having a smaller than average height.",
+      "example": "She is quite short.",
+      "uz": "past bo'yli"
+    },
+    {
+      "word": "slim",
+      "pos": "adjective",
+      "ipa": "/slɪm/",
+      "definition": "thin in an attractive way.",
+      "example": "He stayed slim by exercising every day.",
+      "uz": "nozik qomatli"
+    },
+    {
+      "word": "overweight",
+      "pos": "adjective",
+      "ipa": "/ˌoʊvərˈweɪt/",
+      "definition": "weighing more than is healthy.",
+      "example": "The doctor said he was a little overweight.",
+      "uz": "ortiqcha vaznli"
+    },
+    {
+      "word": "curly",
+      "pos": "adjective",
+      "ipa": "/ˈkɜːrli/",
+      "definition": "having curves or rings, used for hair.",
+      "example": "She has beautiful curly hair.",
+      "uz": "jingalak (soch)"
+    },
+    {
+      "word": "straight",
+      "pos": "adjective",
+      "ipa": "/streɪt/",
+      "definition": "not curly; without curves, used for hair.",
+      "example": "His hair is straight and black.",
+      "uz": "to'g'ri (soch)"
+    },
+    {
+      "word": "bald",
+      "pos": "adjective",
+      "ipa": "/bɔːld/",
+      "definition": "having little or no hair on the head.",
+      "example": "Her grandfather is completely bald.",
+      "uz": "taqir bosh"
+    },
+    {
+      "word": "beard",
+      "pos": "noun",
+      "ipa": "/bɪərd/",
+      "definition": "hair that grows on a man's chin and cheeks.",
+      "example": "He grew a beard over the winter.",
+      "uz": "soqol"
+    },
+    {
+      "word": "moustache",
+      "pos": "noun",
+      "ipa": "/məˈstæʃ/",
+      "definition": "hair that grows above a man's upper lip.",
+      "example": "My father has a grey moustache.",
+      "uz": "mo'ylov"
+    },
+    {
+      "word": "friendly",
+      "pos": "adjective",
+      "ipa": "/ˈfrendli/",
+      "definition": "kind and pleasant to other people.",
+      "example": "Our new neighbor is very friendly.",
+      "uz": "samimiy"
+    },
+    {
+      "word": "shy",
+      "pos": "adjective",
+      "ipa": "/ʃaɪ/",
+      "definition": "nervous about meeting or talking to other people.",
+      "example": "The little boy was too shy to speak.",
+      "uz": "uyatchan"
+    },
+    {
+      "word": "generous",
+      "pos": "adjective",
+      "ipa": "/ˈdʒenərəs/",
+      "definition": "willing to give money, help, or time freely.",
+      "example": "She is generous and often helps her friends.",
+      "uz": "saxiy"
+    },
+    {
+      "word": "honest",
+      "pos": "adjective",
+      "ipa": "/ˈɒnɪst/",
+      "definition": "always telling the truth.",
+      "example": "I trust him because he is honest.",
+      "uz": "rostgo'y"
+    },
+    {
+      "word": "lazy",
+      "pos": "adjective",
+      "ipa": "/ˈleɪzi/",
+      "definition": "not willing to work or do anything.",
+      "example": "Don't be lazy — help me clean the house.",
+      "uz": "dangasa"
+    },
+    {
+      "word": "hardworking",
+      "pos": "adjective",
+      "ipa": "/ˌhɑːrdˈwɜːrkɪŋ/",
+      "definition": "working with a lot of effort.",
+      "example": "She is a hardworking student.",
+      "uz": "tirishqoq"
+    },
+    {
+      "word": "confident",
+      "pos": "adjective",
+      "ipa": "/ˈkɒnfɪdənt/",
+      "definition": "sure of your own abilities.",
+      "example": "He felt confident before the interview.",
+      "uz": "o'ziga ishongan"
+    },
+    {
+      "word": "kind",
+      "pos": "adjective",
+      "ipa": "/kaɪnd/",
+      "definition": "caring and helpful towards other people.",
+      "example": "Thank you for being so kind.",
+      "uz": "mehribon"
+    },
+    {
+      "word": "rude",
+      "pos": "adjective",
+      "ipa": "/ruːd/",
+      "definition": "not polite; not showing respect for other people.",
+      "example": "It's rude to interrupt someone.",
+      "uz": "qo'pol"
+    },
+    {
+      "word": "appearance",
+      "pos": "noun",
+      "ipa": "/əˈpɪərəns/",
+      "definition": "the way a person or thing looks.",
+      "example": "Her appearance surprised everyone.",
+      "uz": "tashqi ko'rinish"
+    },
+    {
+      "word": "personality",
+      "pos": "noun",
+      "ipa": "/ˌpɜːrsəˈnæləti/",
+      "definition": "the character and qualities of a person.",
+      "example": "He has a warm personality.",
+      "uz": "xarakter"
+    }
+  ],
+  "text": "Last month, two new colleagues joined our office, Tom and Lucy. Their appearance and personality are very different. Tom is tall and slim — not overweight at all — with short curly hair and a small beard. He doesn't have a moustache. Lucy is short, with long straight hair. Tom's uncle is bald, but Tom still has a lot of hair! In terms of personality, Tom is friendly and confident. He talks to everyone and is never shy. He is also generous — he often brings coffee for the whole team. Lucy is quieter and a little shy at first, but she is honest and kind. She always tells the truth, even when it's difficult. Both of them are hardworking; they never seem lazy, and they finish their work on time. Some new employees can be rude to their colleagues, but Tom and Lucy are polite to everyone. Nobody has ever heard them say an unkind word. The whole team likes them and hopes they will stay at the company for a long time, because good, kind colleagues are hard to find.",
+  "questions": [
+    {
+      "question": "What does Tom look like?",
+      "options": [
+        "Short and overweight",
+        "Tall and slim with curly hair",
+        "Bald with a moustache",
+        "Short with straight hair"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Does Tom have a moustache?",
+      "options": [
+        "Yes",
+        "No",
+        "The text does not say",
+        "He used to have one"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What kind of hair does Lucy have?",
+      "options": [
+        "Short and curly",
+        "Long and straight",
+        "Bald",
+        "Short and straight"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How is Tom's personality described?",
+      "options": [
+        "Shy and rude",
+        "Lazy and quiet",
+        "Friendly and confident",
+        "Honest but unfriendly"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does Lucy always do, even when it's difficult?",
+      "options": [
+        "She stays confident",
+        "She tells the truth",
+        "She avoids people",
+        "She works slowly"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How do Tom and Lucy behave with their colleagues?",
+      "options": [
+        "They are often rude",
+        "They are lazy",
+        "They are polite to everyone",
+        "They stay shy with everyone"
+      ],
+      "answer": 2
+    }
+  ]
+}

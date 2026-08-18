@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "question": "Please ___ in the form with your name and address.",
+      "options": [
+        "complete",
+        "fill",
+        "do",
+        "make"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A woman's father's brother is called her ___.",
+      "options": [
+        "cousin",
+        "nephew",
+        "uncle",
+        "brother-in-law"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The opposite of 'tall' is ___.",
+      "options": [
+        "slim",
+        "short",
+        "curly",
+        "bald"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "On weekends, I like to ___ by watching movies at home.",
+      "options": [
+        "exercise",
+        "subscribe",
+        "relax",
+        "join"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "To cook food in hot oil is to ___.",
+      "options": [
+        "boil",
+        "fry",
+        "bake",
+        "chop"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "I bought a shirt but it didn't fit, so I want to ___ it for a bigger size.",
+      "options": [
+        "afford",
+        "bargain",
+        "browse",
+        "exchange"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A person who rents a house from a landlord is called a ___.",
+      "options": [
+        "neighbor",
+        "tenant",
+        "resident",
+        "guest"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If you need medicine, you should go to the ___.",
+      "options": [
+        "library",
+        "post office",
+        "pharmacy",
+        "fire station"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The opposite of 'hot' is ___.",
+      "options": [
+        "warm",
+        "cool",
+        "cold",
+        "sunny"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Before the flight, I packed my clothes in my ___.",
+      "options": [
+        "ticket",
+        "passport",
+        "map",
+        "suitcase"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The place where you wait for a train is called the ___.",
+      "options": [
+        "fare",
+        "platform",
+        "route",
+        "schedule"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "I have a headache and a ___, so I think I have a cold.",
+      "options": [
+        "cough",
+        "degree",
+        "salary",
+        "deadline"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Students do ___ every evening after school.",
+      "options": [
+        "salary",
+        "interview",
+        "homework",
+        "promotion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A meeting where an employer asks you questions before hiring you is called a(n) ___.",
+      "options": [
+        "appointment",
+        "exam",
+        "interview",
+        "lesson"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "I need to ___ some money from the bank to buy a car.",
+      "options": [
+        "spend",
+        "save",
+        "donate",
+        "borrow"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The opposite of 'win' is ___.",
+      "options": [
+        "score",
+        "lose",
+        "practice",
+        "compete"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "I need to ___ my phone because the battery is low.",
+      "options": [
+        "download",
+        "click",
+        "charge",
+        "connect"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "To click a button to show you like a friend's post is to ___ it.",
+      "options": [
+        "follow",
+        "tag",
+        "comment",
+        "like"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "We should ___ plastic bottles instead of throwing them away.",
+      "options": [
+        "pollute",
+        "waste",
+        "recycle",
+        "litter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An animal that is close to disappearing forever is ___.",
+      "options": [
+        "wild",
+        "tame",
+        "endangered",
+        "extinct"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In many countries, people ___ their New Year with special food and dancing.",
+      "options": [
+        "respect",
+        "greet",
+        "celebrate",
+        "symbolize"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A public parade with music and colorful clothes to celebrate something is called a ___.",
+      "options": [
+        "ceremony",
+        "meeting",
+        "lesson",
+        "festival"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A king or queen used to live in a big ___.",
+      "options": [
+        "apartment",
+        "museum",
+        "castle",
+        "factory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Water becomes gas when you ___ it.",
+      "options": [
+        "freeze",
+        "mix",
+        "solve",
+        "boil"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A person who travels into space is called an ___.",
+      "options": [
+        "pilot",
+        "scientist",
+        "astronaut",
+        "engineer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A person who writes news stories for a newspaper is a ___.",
+      "options": [
+        "teacher",
+        "driver",
+        "journalist",
+        "doctor"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The opposite of 'happy' is ___.",
+      "options": [
+        "excited",
+        "nervous",
+        "sad",
+        "afraid"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "I always arrive on time; I am never late because I am very ___.",
+      "options": [
+        "urgent",
+        "lonely",
+        "generous",
+        "punctual"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "People who work without pay to help others are called ___.",
+      "options": [
+        "employees",
+        "customers",
+        "tourists",
+        "volunteers"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "My ___ is to become a doctor one day.",
+      "options": [
+        "bill",
+        "symptom",
+        "receipt",
+        "dream"
+      ],
+      "answer": 3
+    }
+  ]
+}

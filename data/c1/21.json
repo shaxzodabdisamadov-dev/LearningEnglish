@@ -1,0 +1,229 @@
+{
+  "id": 21,
+  "topic": "Macroeconomics and Monetary Policy",
+  "words": [
+    {
+      "word": "stagflation",
+      "pos": "noun",
+      "ipa": "/stæɡˈfleɪʃən/",
+      "definition": "a state of the economy in which stagnant growth and high unemployment coincide with persistent inflation",
+      "example": "The oil shocks of the 1970s produced a bout of stagflation that confounded conventional economic remedies.",
+      "uz": "stagflyatsiya"
+    },
+    {
+      "word": "quantitative easing",
+      "pos": "noun phrase",
+      "ipa": "/ˈkwɒntɪtətɪv ˈiːzɪŋ/",
+      "definition": "a monetary policy in which a central bank purchases financial assets to inject liquidity directly into the economy",
+      "example": "Central banks turned to quantitative easing after conventional interest-rate cuts proved insufficient to stimulate growth.",
+      "uz": "miqdoriy yumshatish"
+    },
+    {
+      "word": "fiscal policy",
+      "pos": "noun phrase",
+      "ipa": "/ˈfɪskəl ˈpɒləsi/",
+      "definition": "government policy regarding taxation and spending used to influence economic conditions",
+      "example": "Lawmakers debated whether expansionary fiscal policy or monetary intervention would more effectively address the downturn.",
+      "uz": "fiskal (byudjet-soliq) siyosati"
+    },
+    {
+      "word": "deflationary",
+      "pos": "adjective",
+      "ipa": "/diːˈfleɪʃənəri/",
+      "definition": "tending to cause a general decline in prices, often associated with reduced economic activity",
+      "example": "Persistent deflationary pressure can discourage consumer spending, as buyers delay purchases anticipating even lower prices.",
+      "uz": "deflyatsion"
+    },
+    {
+      "word": "liquidity",
+      "pos": "noun",
+      "ipa": "/lɪˈkwɪdɪti/",
+      "definition": "the availability of liquid assets to a market or company, or the ease with which an asset can be converted into cash",
+      "example": "The central bank moved to ensure sufficient liquidity in the banking system to prevent a credit crunch.",
+      "uz": "likvidlik"
+    },
+    {
+      "word": "solvency",
+      "pos": "noun",
+      "ipa": "/ˈsɒlvənsi/",
+      "definition": "the ability of a company or individual to meet its long-term financial obligations",
+      "example": "Regulators distinguished between a bank facing a temporary liquidity shortfall and one whose solvency was genuinely in question.",
+      "uz": "to'lov qobiliyati"
+    },
+    {
+      "word": "austerity",
+      "pos": "noun",
+      "ipa": "/ɔːˈstɛrɪti/",
+      "definition": "a set of economic policies aimed at reducing government budget deficits through spending cuts, tax increases, or both",
+      "example": "The government's austerity program provoked widespread protests amid rising unemployment.",
+      "uz": "qattiq tejamkorlik siyosati"
+    },
+    {
+      "word": "contractionary",
+      "pos": "adjective",
+      "ipa": "/kənˈtrækʃənɛri/",
+      "definition": "describing economic policy designed to reduce the money supply or government spending in order to slow economic growth, often to curb inflation",
+      "example": "The central bank adopted a contractionary stance, raising interest rates sharply to rein in inflation.",
+      "uz": "siqib qisqartiruvchi (restriktiv) siyosatga oid"
+    },
+    {
+      "word": "expansionary",
+      "pos": "adjective",
+      "ipa": "/ɪkˈspænʃənɛri/",
+      "definition": "describing economic policy intended to increase the money supply or government spending in order to stimulate growth",
+      "example": "An expansionary budget, financed largely by borrowing, aimed to jolt the economy out of recession.",
+      "uz": "kengaytiruvchi (rag'batlantiruvchi) siyosatga oid"
+    },
+    {
+      "word": "hyperinflation",
+      "pos": "noun",
+      "ipa": "/ˌhaɪpərɪnˈfleɪʃən/",
+      "definition": "extremely rapid and out-of-control inflation, often exceeding fifty percent per month",
+      "example": "The country's currency became virtually worthless amid hyperinflation that saw prices double within days.",
+      "uz": "giperinflyatsiya"
+    },
+    {
+      "word": "amortize",
+      "pos": "verb",
+      "ipa": "/ˈæmərtaɪz/",
+      "definition": "to gradually pay off a debt over a period through regular installments, or to spread the cost of an asset over its useful life",
+      "example": "The government chose to amortize the reconstruction costs over three decades rather than raise taxes immediately.",
+      "uz": "amortizatsiya qilmoq (bosqichma-bosqich to'lamoq)"
+    },
+    {
+      "word": "procyclical",
+      "pos": "adjective",
+      "ipa": "/proʊˈsaɪklɪkəl/",
+      "definition": "moving in the same direction as, and tending to amplify, the overall business cycle",
+      "example": "Procyclical government spending — cutting budgets in recessions and expanding them in booms — can deepen economic instability.",
+      "uz": "protsiklik (iqtisodiy tsiklni kuchaytiruvchi)"
+    },
+    {
+      "word": "countercyclical",
+      "pos": "adjective",
+      "ipa": "/ˌkaʊntərˈsaɪklɪkəl/",
+      "definition": "moving opposite to the business cycle, typically intended to stabilize the economy by increasing spending during downturns and restraining it during booms",
+      "example": "Unemployment insurance functions as a countercyclical stabilizer, automatically increasing government outlays during recessions.",
+      "uz": "kontrtsiklik (iqtisodiy tsiklga qarshi)"
+    },
+    {
+      "word": "moral hazard",
+      "pos": "noun phrase",
+      "ipa": "/ˈmɒrəl ˈhæzərd/",
+      "definition": "the risk that a party insulated from the consequences of risk-taking will behave differently than if fully exposed to those consequences",
+      "example": "Critics argued that bailing out failing banks created a moral hazard, encouraging excessive risk-taking in the future.",
+      "uz": "axloqiy xavf"
+    },
+    {
+      "word": "bailout",
+      "pos": "noun",
+      "ipa": "/ˈbeɪlaʊt/",
+      "definition": "a rescue of a failing business or economy through the provision of capital or other financial assistance",
+      "example": "The government's bailout of the banking sector averted immediate collapse but drew fierce public criticism.",
+      "uz": "moliyaviy qutqaruv yordami"
+    },
+    {
+      "word": "purchasing power",
+      "pos": "noun phrase",
+      "ipa": "/ˈpɜːrtʃəsɪŋ ˈpaʊər/",
+      "definition": "the value of currency expressed in terms of the goods and services it can buy",
+      "example": "Wage increases were quickly eroded by inflation, leaving workers' purchasing power essentially unchanged.",
+      "uz": "sotib olish qobiliyati"
+    },
+    {
+      "word": "speculative bubble",
+      "pos": "noun phrase",
+      "ipa": "/ˈspɛkjʊlətɪv ˈbʌbəl/",
+      "definition": "a situation in which asset prices rise far above their intrinsic value, driven by exuberant speculation rather than fundamentals, typically followed by a sharp collapse",
+      "example": "Analysts warned that soaring property prices resembled a speculative bubble poised to burst.",
+      "uz": "spekulyativ (narx) pufagi"
+    },
+    {
+      "word": "stimulus",
+      "pos": "noun",
+      "ipa": "/ˈstɪmjʊləs/",
+      "definition": "an action or measure, especially government spending, intended to promote economic activity",
+      "example": "The legislature approved a fiscal stimulus package to counteract the sharpest contraction in decades.",
+      "uz": "iqtisodiy rag'batlantirish chorasi"
+    },
+    {
+      "word": "protectionism",
+      "pos": "noun",
+      "ipa": "/prəˈtɛkʃənɪzəm/",
+      "definition": "the economic policy of restricting imports through tariffs, quotas, or other barriers to shield domestic industries from foreign competition",
+      "example": "Rising protectionism among major trading partners has unsettled global supply chains.",
+      "uz": "protektsionizm"
+    },
+    {
+      "word": "recessionary",
+      "pos": "adjective",
+      "ipa": "/rɪˈsɛʃənɛri/",
+      "definition": "relating to or characteristic of an economic recession, typically marked by declining output and rising unemployment",
+      "example": "Consumer confidence surveys pointed to mounting recessionary pressures well before the official downturn was confirmed.",
+      "uz": "retsessiyaga (iqtisodiy pasayishga) oid"
+    }
+  ],
+  "text": "Central banks confront an unenviable balancing act whenever inflation accelerates beyond target. Raising interest rates — a contractionary measure — can restrain runaway prices, but it risks tipping a fragile economy into recessionary territory, eroding purchasing power for households already burdened by rising costs. When conventional tools prove inadequate, some institutions resort to quantitative easing during downturns, only to face the delicate task of unwinding that liquidity once growth resumes without reigniting inflation. The specter of stagflation, in which stagnant output coexists with persistent price growth, is particularly vexing, since neither expansionary nor contractionary policy addresses both problems simultaneously. Fiscal policy complicates the picture further: legislatures often behave procyclically, expanding spending during booms and imposing austerity precisely when countercyclical stimulus would be most beneficial, a pattern that tends to amplify rather than dampen volatility. Bailing out systemically important institutions during a crisis can avert a broader collapse, yet doing so introduces a genuine moral hazard, since firms may take on excessive risk believing that their solvency will always be rescued rather than left to fail. Meanwhile, speculative bubbles in housing or equities, inflated by cheap credit, periodically remind policymakers that stability is never guaranteed, however sophisticated their models purport to be.",
+  "questions": [
+    {
+      "question": "What dilemma does the passage identify regarding central banks raising interest rates to fight inflation?",
+      "options": [
+        "Raising rates has no effect on economic growth",
+        "Raising rates can curb inflation but risks pushing the economy into recession and reducing purchasing power",
+        "Raising rates always increases purchasing power immediately",
+        "Raising rates is the only tool central banks possess"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is stagflation described as 'particularly vexing' for policymakers?",
+      "options": [
+        "Because it never occurs in real economies",
+        "Because standard expansionary or contractionary tools cannot address both stagnant growth and inflation at once",
+        "Because it only affects developing economies",
+        "Because it is caused solely by quantitative easing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What criticism does the passage make of typical legislative fiscal behavior over the business cycle?",
+      "options": [
+        "Legislatures consistently apply countercyclical policy correctly",
+        "Legislatures tend to behave procyclically, worsening rather than smoothing economic volatility",
+        "Legislatures never engage in austerity",
+        "Legislatures always reduce spending during booms"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what is the connection between bailouts and moral hazard?",
+      "options": [
+        "Bailouts eliminate all future risk-taking by firms",
+        "Bailouts may encourage firms to take excessive risks if they expect to be rescued from insolvency",
+        "Bailouts have no relationship to firm behavior",
+        "Moral hazard only applies to individual consumers, not institutions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest about quantitative easing?",
+      "options": [
+        "It is easy to reverse without any economic consequences",
+        "Unwinding the liquidity it introduces is a delicate task that risks reigniting inflation",
+        "It is only used during periods of high inflation",
+        "It has never been used by any central bank"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the overall tone of the passage toward monetary and fiscal policymaking?",
+      "options": [
+        "Confidently optimistic that policymakers can always avoid economic instability",
+        "Measured and skeptical, emphasizing persistent trade-offs and the limits of policy tools",
+        "Dismissive, arguing that all economic policy is useless",
+        "Purely celebratory of central bank interventions"
+      ],
+      "answer": 1
+    }
+  ]
+}

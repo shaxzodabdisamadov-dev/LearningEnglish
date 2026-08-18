@@ -1,0 +1,229 @@
+{
+  "id": 26,
+  "topic": "Modern Literature and Storytelling",
+  "words": [
+    {
+      "word": "narrative",
+      "pos": "noun",
+      "ipa": "/ˈnærətɪv/",
+      "definition": "a spoken or written account of connected events; a story",
+      "example": "The novel's narrative shifts between three different time periods.",
+      "uz": "hikoya, bayon"
+    },
+    {
+      "word": "protagonist",
+      "pos": "noun",
+      "ipa": "/proʊˈtægənɪst/",
+      "definition": "the main character in a story",
+      "example": "The protagonist struggles with guilt throughout the novel.",
+      "uz": "bosh qahramon"
+    },
+    {
+      "word": "allegory",
+      "pos": "noun",
+      "ipa": "/ˈæləˌgɔːri/",
+      "definition": "a story with a hidden moral or political meaning",
+      "example": "The novel functions as an allegory for political corruption.",
+      "uz": "majoziy hikoya (allegoriya)"
+    },
+    {
+      "word": "foreshadow",
+      "pos": "verb",
+      "ipa": "/fɔːrˈʃædoʊ/",
+      "definition": "to give an early indication of a future event in a story",
+      "example": "The storm in the opening chapter foreshadows the family's downfall.",
+      "uz": "kelajak voqeaga oldindan ishora qilmoq"
+    },
+    {
+      "word": "ambiguity",
+      "pos": "noun",
+      "ipa": "/ˌæmbɪˈgjuːəti/",
+      "definition": "the quality of being open to more than one interpretation",
+      "example": "The ending's ambiguity left readers debating its meaning for years.",
+      "uz": "ikki xil talqin qilinishi"
+    },
+    {
+      "word": "poignant",
+      "pos": "adjective",
+      "ipa": "/ˈpɔɪnjənt/",
+      "definition": "evoking a keen sense of sadness or regret",
+      "example": "The final letter was a poignant reminder of what had been lost.",
+      "uz": "yurakni ezuvchi, ta'sirchan"
+    },
+    {
+      "word": "unreliable",
+      "pos": "adjective",
+      "ipa": "/ˌʌnrɪˈlaɪəbəl/",
+      "definition": "not able to be trusted, especially regarding a narrator's account",
+      "example": "The unreliable narrator gradually reveals that his memory cannot be trusted.",
+      "uz": "ishonchsiz (hikoyachi haqida)"
+    },
+    {
+      "word": "motif",
+      "pos": "noun",
+      "ipa": "/moʊˈtiːf/",
+      "definition": "a recurring element or theme in a literary work",
+      "example": "The image of a broken clock is a recurring motif in the novel.",
+      "uz": "takrorlanuvchi mavzu (motiv)"
+    },
+    {
+      "word": "plausible",
+      "pos": "adjective",
+      "ipa": "/ˈplɔːzəbəl/",
+      "definition": "seeming reasonable or probable",
+      "example": "Even in a fantasy world, the characters' motivations must remain plausible.",
+      "uz": "ishonarli, haqiqatga yaqin"
+    },
+    {
+      "word": "introspective",
+      "pos": "adjective",
+      "ipa": "/ˌɪntrəˈspɛktɪv/",
+      "definition": "characterized by examining one's own thoughts and feelings",
+      "example": "The introspective narrator spends much of the book questioning her own choices.",
+      "uz": "ichki dunyosini kuzatuvchi"
+    },
+    {
+      "word": "subplot",
+      "pos": "noun",
+      "ipa": "/ˈsʌbplɒt/",
+      "definition": "a secondary strand of plot in a story",
+      "example": "A romantic subplot runs alongside the novel's central mystery.",
+      "uz": "qo'shimcha syujet chizig'i"
+    },
+    {
+      "word": "evoke",
+      "pos": "verb",
+      "ipa": "/ɪˈvoʊk/",
+      "definition": "to bring a feeling or image to mind",
+      "example": "The author's spare prose evokes a powerful sense of loneliness.",
+      "uz": "his yoki xotira uyg'otmoq"
+    },
+    {
+      "word": "dystopian",
+      "pos": "adjective",
+      "ipa": "/dɪsˈtoʊpiən/",
+      "definition": "relating to an imagined society characterized by suffering or injustice",
+      "example": "The dystopian novel depicts a world controlled by surveillance technology.",
+      "uz": "distopik"
+    },
+    {
+      "word": "nuanced",
+      "pos": "adjective",
+      "ipa": "/ˈnuːɑːnst/",
+      "definition": "characterized by subtle shades of meaning",
+      "example": "The author offers a nuanced portrait of a deeply flawed family.",
+      "uz": "nozik ma'nolarga boy"
+    },
+    {
+      "word": "resonate",
+      "pos": "verb",
+      "ipa": "/ˈrɛzəneɪt/",
+      "definition": "to evoke a strong response or feel relevant",
+      "example": "The book's themes of isolation resonate with many readers today.",
+      "uz": "kuchli hissiy aks-sado bermoq"
+    },
+    {
+      "word": "convoluted",
+      "pos": "adjective",
+      "ipa": "/ˈkɒnvəluːtɪd/",
+      "definition": "extremely complex and difficult to follow",
+      "example": "Some critics found the plot's convoluted structure frustrating.",
+      "uz": "chigal, murakkab"
+    },
+    {
+      "word": "verisimilitude",
+      "pos": "noun",
+      "ipa": "/ˌvɛrɪsɪˈmɪlɪtjuːd/",
+      "definition": "the appearance of being true or real",
+      "example": "The historical novel is praised for its remarkable verisimilitude.",
+      "uz": "haqiqatga o'xshashlik"
+    },
+    {
+      "word": "catharsis",
+      "pos": "noun",
+      "ipa": "/kəˈθɑːrsɪs/",
+      "definition": "the release of strong emotions through art or storytelling",
+      "example": "Reading the tragedy provided a sense of catharsis for many readers.",
+      "uz": "hissiy yengillashish (katarsis)"
+    },
+    {
+      "word": "redemption",
+      "pos": "noun",
+      "ipa": "/rɪˈdɛmpʃən/",
+      "definition": "the act of being saved or reforming from past wrongdoing",
+      "example": "The story ultimately becomes one of redemption rather than despair.",
+      "uz": "gunohdan qutulish, najot topish"
+    },
+    {
+      "word": "juxtapose",
+      "pos": "verb",
+      "ipa": "/ˈdʒʌkstəpoʊz/",
+      "definition": "to place two things side by side for contrasting effect",
+      "example": "The author juxtaposes scenes of war with quiet domestic life.",
+      "uz": "qarama-qarshi qo'yib qo'ymoq"
+    }
+  ],
+  "text": "Why do certain novels endure for generations while others fade into obscurity almost immediately? Part of the answer lies in how skillfully a narrative balances ambiguity with emotional truth. A compelling protagonist need not be likable, but must be plausible, flawed enough that readers recognize something of themselves in an otherwise unreliable, introspective voice. Consider the modern dystopian novel: beneath its bleak setting often lies a nuanced allegory about present-day anxieties, one that would resonate far less were it stripped of subtlety and reduced to blunt political messaging. Skilled authors foreshadow catastrophe not through convoluted exposition, but through a recurring motif planted quietly across early chapters, so that later revelations feel inevitable rather than contrived. Verisimilitude, too, matters enormously; even fantastical worlds must obey internal logic convincing enough to sustain belief. Perhaps most importantly, the finest stories juxtapose despair against the possibility of redemption, evoking genuine catharsis by the final page. Had readers been offered comfort without struggle, the emotional payoff would ring hollow. It is precisely this tension, between suffering and hope, clarity and ambiguity, that separates a poignant, lasting narrative from one merely competent.",
+  "questions": [
+    {
+      "question": "What is the passage primarily about?",
+      "options": [
+        "A summary of a specific dystopian novel",
+        "The qualities that make a novel emotionally powerful and enduring",
+        "A biography of a famous author",
+        "Instructions on how to write a plot outline"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, how do skilled authors typically foreshadow events?",
+      "options": [
+        "Through convoluted exposition",
+        "Through a recurring motif introduced early in the story",
+        "By directly stating what will happen",
+        "By avoiding any hints until the ending"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest about dystopian novels' political messaging?",
+      "options": [
+        "It works best when delivered bluntly and directly",
+        "It resonates more strongly when conveyed through subtle, nuanced allegory",
+        "It should be entirely avoided in fiction",
+        "It has no connection to present-day concerns"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the author say is necessary for a protagonist, even if unlikable?",
+      "options": [
+        "Perfection and moral clarity",
+        "Plausibility that readers can recognize in themselves",
+        "Complete reliability as a narrator",
+        "A dramatic dystopian setting"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's overall purpose in this passage?",
+      "options": [
+        "To criticize modern literature for lacking originality",
+        "To analyze and explain what makes storytelling emotionally resonant and lasting",
+        "To provide a chronological history of the novel",
+        "To promote a specific book"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the passage argue that struggle must precede redemption in a story?",
+      "options": [
+        "Because readers prefer purely happy endings",
+        "Because emotional payoff feels hollow without genuine tension or hardship beforehand",
+        "Because dystopian settings require constant suffering",
+        "Because catharsis is impossible in fiction"
+      ],
+      "answer": 1
+    }
+  ]
+}

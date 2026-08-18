@@ -1,0 +1,229 @@
+{
+  "id": 20,
+  "topic": "City and Directions",
+  "words": [
+    {
+      "word": "street",
+      "pos": "noun",
+      "ipa": "/striːt/",
+      "definition": "a road in a town or city with houses or shops on it",
+      "example": "We live on a quiet street.",
+      "uz": "ko'cha"
+    },
+    {
+      "word": "road",
+      "pos": "noun",
+      "ipa": "/roʊd/",
+      "definition": "a long hard surface that vehicles travel on",
+      "example": "Cross the road carefully.",
+      "uz": "yo'l"
+    },
+    {
+      "word": "corner",
+      "pos": "noun",
+      "ipa": "/ˈkɔːrnər/",
+      "definition": "the place where two streets meet",
+      "example": "The shop is on the corner.",
+      "uz": "burchak"
+    },
+    {
+      "word": "bridge",
+      "pos": "noun",
+      "ipa": "/brɪdʒ/",
+      "definition": "a structure built over a river or road so people can cross it",
+      "example": "We walked across the bridge.",
+      "uz": "ko'prik"
+    },
+    {
+      "word": "building",
+      "pos": "noun",
+      "ipa": "/ˈbɪldɪŋ/",
+      "definition": "a structure with walls and a roof, like a house or office",
+      "example": "That building is very tall.",
+      "uz": "bino"
+    },
+    {
+      "word": "shop",
+      "pos": "noun",
+      "ipa": "/ʃɒp/",
+      "definition": "a place where you buy things",
+      "example": "I bought bread at the shop.",
+      "uz": "do'kon"
+    },
+    {
+      "word": "bank",
+      "pos": "noun",
+      "ipa": "/bæŋk/",
+      "definition": "a place where people keep and borrow money",
+      "example": "My mother works at a bank.",
+      "uz": "bank"
+    },
+    {
+      "word": "hospital",
+      "pos": "noun",
+      "ipa": "/ˈhɒspɪtl/",
+      "definition": "a place where sick or hurt people go to get medical care",
+      "example": "The doctor works at the hospital.",
+      "uz": "kasalxona"
+    },
+    {
+      "word": "station",
+      "pos": "noun",
+      "ipa": "/ˈsteɪʃən/",
+      "definition": "a place where trains or buses stop for people to get on or off",
+      "example": "I will meet you at the train station.",
+      "uz": "bekat"
+    },
+    {
+      "word": "park",
+      "pos": "noun",
+      "ipa": "/pɑːrk/",
+      "definition": "a public area with grass and trees where people relax",
+      "example": "The children play in the park.",
+      "uz": "park"
+    },
+    {
+      "word": "traffic",
+      "pos": "noun",
+      "ipa": "/ˈtræfɪk/",
+      "definition": "the cars, buses, and other vehicles moving on a road",
+      "example": "There was a lot of traffic this morning.",
+      "uz": "yo'l harakati"
+    },
+    {
+      "word": "light",
+      "pos": "noun",
+      "ipa": "/laɪt/",
+      "definition": "a signal with colored lights that controls traffic",
+      "example": "Stop at the red light.",
+      "uz": "svetofor"
+    },
+    {
+      "word": "left",
+      "pos": "adverb",
+      "ipa": "/left/",
+      "definition": "toward the left side, opposite of right",
+      "example": "Turn left at the corner.",
+      "uz": "chapga"
+    },
+    {
+      "word": "right",
+      "pos": "adverb",
+      "ipa": "/raɪt/",
+      "definition": "toward the right side, opposite of left",
+      "example": "Turn right after the bridge.",
+      "uz": "o'ngga"
+    },
+    {
+      "word": "straight",
+      "pos": "adverb",
+      "ipa": "/streɪt/",
+      "definition": "in a direct line, without turning",
+      "example": "Go straight until you see the park.",
+      "uz": "to'g'ri"
+    },
+    {
+      "word": "near",
+      "pos": "preposition",
+      "ipa": "/nɪər/",
+      "definition": "close to something in distance",
+      "example": "The bank is near the hospital.",
+      "uz": "yaqin"
+    },
+    {
+      "word": "far",
+      "pos": "adjective",
+      "ipa": "/fɑːr/",
+      "definition": "a long distance away",
+      "example": "The station is not far from here.",
+      "uz": "uzoq"
+    },
+    {
+      "word": "turn",
+      "pos": "verb",
+      "ipa": "/tɜːrn/",
+      "definition": "to change direction",
+      "example": "Turn left at the traffic light.",
+      "uz": "burilmoq"
+    },
+    {
+      "word": "cross",
+      "pos": "verb",
+      "ipa": "/krɒs/",
+      "definition": "to go from one side of something to the other",
+      "example": "We crossed the road together.",
+      "uz": "kesib o'tmoq"
+    },
+    {
+      "word": "direction",
+      "pos": "noun",
+      "ipa": "/dəˈrekʃən/",
+      "definition": "the way you must go to reach a place",
+      "example": "Can you give me directions to the park?",
+      "uz": "yo'nalish"
+    }
+  ],
+  "text": "Yesterday, I visited a new city. I did not know the streets, so I asked a woman for directions to the hospital. She said, 'Go straight on this road, then turn left at the corner. The hospital is near the bank, not far from here.' I said thank you and started walking. There was a lot of traffic, so I waited for the light to turn green before I crossed the road. I walked past many shops and a big building. Then I saw a small park with a river and a bridge. I crossed the bridge and turned right. Finally, I saw the train station next to the hospital. The woman was right; it was not far. On my way back, I walked through the park again because I liked the trees and flowers there. Next time, I will remember the directions myself. I learned that streets in a new city can be confusing, but people are usually happy to help you find the right way. Asking for directions is a good idea when you are lost.",
+  "questions": [
+    {
+      "question": "Where did the woman say the hospital was?",
+      "options": [
+        "Near the park",
+        "Near the bank",
+        "Near the station",
+        "Near the bridge"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the writer do before crossing the road?",
+      "options": [
+        "Asked a woman for help",
+        "Waited for the light to turn green",
+        "Turned left at the corner",
+        "Crossed the bridge"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the writer see after the shops and the big building?",
+      "options": [
+        "A hospital",
+        "A bank",
+        "A small park with a river and a bridge",
+        "A train station"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where was the train station?",
+      "options": [
+        "Next to the park",
+        "Next to the bank",
+        "Next to the hospital",
+        "Next to the bridge"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why did the writer walk through the park on the way back?",
+      "options": [
+        "It was faster",
+        "He liked the trees and flowers",
+        "He was lost",
+        "The road was closed"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the writer learn at the end of the text?",
+      "options": [
+        "Cities are always confusing",
+        "Asking for directions is a good idea when lost",
+        "It is better not to ask for help",
+        "Traffic lights are not important"
+      ],
+      "answer": 1
+    }
+  ]
+}

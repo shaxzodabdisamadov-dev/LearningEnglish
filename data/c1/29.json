@@ -1,0 +1,229 @@
+{
+  "id": 29,
+  "topic": "The Future of Labor and Post-Automation Economy",
+  "words": [
+    {
+      "word": "automation",
+      "pos": "noun",
+      "ipa": "/ˌɔːtəˈmeɪʃən/",
+      "definition": "The use of technology to perform tasks with minimal human intervention.",
+      "example": "Automation has transformed manufacturing over the past decade.",
+      "uz": "avtomatlashtirish"
+    },
+    {
+      "word": "obsolescence",
+      "pos": "noun",
+      "ipa": "/ˌɒbsəˈlɛsəns/",
+      "definition": "The state of becoming outdated or no longer used.",
+      "example": "Rapid innovation accelerates the obsolescence of certain job skills.",
+      "uz": "eskirish, iste'moldan chiqish"
+    },
+    {
+      "word": "displacement",
+      "pos": "noun",
+      "ipa": "/dɪsˈpleɪsmənt/",
+      "definition": "The forced removal of workers from jobs, especially due to technological change.",
+      "example": "Economists debate the extent of worker displacement caused by AI.",
+      "uz": "ish o'rnidan siqib chiqarilish"
+    },
+    {
+      "word": "precariat",
+      "pos": "noun",
+      "ipa": "/prɪˈkɛəriət/",
+      "definition": "A social class characterized by chronic employment insecurity.",
+      "example": "The rise of gig work has expanded the global precariat.",
+      "uz": "prekariat"
+    },
+    {
+      "word": "reskilling",
+      "pos": "noun",
+      "ipa": "/riːˈskɪlɪŋ/",
+      "definition": "The process of learning new skills to adapt to changing job demands.",
+      "example": "The government funded reskilling programs for laid-off factory workers.",
+      "uz": "qayta malaka oshirish"
+    },
+    {
+      "word": "redundancy",
+      "pos": "noun",
+      "ipa": "/rɪˈdʌndənsi/",
+      "definition": "The state of being no longer needed, especially loss of employment due to a role becoming unnecessary.",
+      "example": "Hundreds of employees were made redundant after the merger.",
+      "uz": "shtatdan qisqartirish (ortiqcha ish o'rni)"
+    },
+    {
+      "word": "stagnation",
+      "pos": "noun",
+      "ipa": "/stægˈneɪʃən/",
+      "definition": "A state of little or no growth or development.",
+      "example": "Wage stagnation has persisted despite rising productivity.",
+      "uz": "turg'unlik, stagnatsiya"
+    },
+    {
+      "word": "productivity",
+      "pos": "noun",
+      "ipa": "/ˌprɒdʌkˈtɪvɪti/",
+      "definition": "The effectiveness of productive effort, especially output per unit of input.",
+      "example": "New software dramatically boosted office productivity.",
+      "uz": "unumdorlik"
+    },
+    {
+      "word": "commodification",
+      "pos": "noun",
+      "ipa": "/kəˌmɒdɪfɪˈkeɪʃən/",
+      "definition": "The process of turning something, including labor, into a good to be traded.",
+      "example": "Critics warn against the commodification of personal data.",
+      "uz": "tijoratlashtirish (mehnatni tovarlashtirish)"
+    },
+    {
+      "word": "gig economy",
+      "pos": "noun phrase",
+      "ipa": "/gɪg ɪˈkɒnəmi/",
+      "definition": "A labor market characterized by short-term, flexible, and often insecure work arrangements.",
+      "example": "She juggles three jobs within the gig economy.",
+      "uz": "gig-iqtisodiyot"
+    },
+    {
+      "word": "subsistence",
+      "pos": "noun",
+      "ipa": "/səbˈsɪstəns/",
+      "definition": "The means of maintaining the minimum necessities of life.",
+      "example": "The proposal aims to guarantee subsistence income for all citizens.",
+      "uz": "kun kechirish uchun minimal ta'minot"
+    },
+    {
+      "word": "redistribution",
+      "pos": "noun",
+      "ipa": "/ˌriːdɪstrɪˈbjuːʃən/",
+      "definition": "The action of sharing resources or wealth out among a wider population.",
+      "example": "Progressive taxation is one tool for wealth redistribution.",
+      "uz": "qayta taqsimlash"
+    },
+    {
+      "word": "disruptive",
+      "pos": "adjective",
+      "ipa": "/dɪsˈrʌptɪv/",
+      "definition": "Causing radical change to an existing industry or market.",
+      "example": "The startup's disruptive technology upended the taxi industry.",
+      "uz": "tarmoqni tubdan o'zgartiruvchi (inqilobiy)"
+    },
+    {
+      "word": "contingent",
+      "pos": "adjective",
+      "ipa": "/kənˈtɪndʒənt/",
+      "definition": "Dependent on circumstances, not guaranteed or secure.",
+      "example": "Many young workers now hold contingent, short-term contracts.",
+      "uz": "vaziyatga bog'liq, kafolatlanmagan"
+    },
+    {
+      "word": "attrition",
+      "pos": "noun",
+      "ipa": "/əˈtrɪʃən/",
+      "definition": "A gradual reduction in workforce, often through natural turnover rather than layoffs.",
+      "example": "The company reduced staff through natural attrition rather than layoffs.",
+      "uz": "tabiiy kamayish (bosqichma-bosqich ishdan chiqish)"
+    },
+    {
+      "word": "viability",
+      "pos": "noun",
+      "ipa": "/ˌvaɪəˈbɪlɪti/",
+      "definition": "The capacity to work successfully or be feasible.",
+      "example": "Investors questioned the long-term viability of the business model.",
+      "uz": "amalga oshirish imkoniyati, hayotiyligi"
+    },
+    {
+      "word": "paradigm shift",
+      "pos": "noun phrase",
+      "ipa": "/ˈpærədaɪm ʃɪft/",
+      "definition": "A fundamental change in the underlying assumptions of a field.",
+      "example": "Remote work triggered a paradigm shift in office culture.",
+      "uz": "paradigma o'zgarishi, tub burilish"
+    },
+    {
+      "word": "entrepreneurial",
+      "pos": "adjective",
+      "ipa": "/ˌɒntrəprəˈnɜːriəl/",
+      "definition": "Characterized by the ability to take initiative and risk in creating new ventures.",
+      "example": "Her entrepreneurial spirit led her to launch three startups.",
+      "uz": "tadbirkorlik ruhiga xos"
+    },
+    {
+      "word": "dislocation",
+      "pos": "noun",
+      "ipa": "/ˌdɪsloʊˈkeɪʃən/",
+      "definition": "A disruption to the normal order or arrangement, especially economic.",
+      "example": "The factory's closure caused significant economic dislocation locally.",
+      "uz": "iqtisodiy izdan chiqish, tartibsizlik"
+    },
+    {
+      "word": "universal basic income",
+      "pos": "noun phrase",
+      "ipa": "/ˌjuːnɪˈvɜːsəl ˈbeɪsɪk ˈɪnkʌm/",
+      "definition": "A policy proposal providing unconditional periodic cash payments to all citizens.",
+      "example": "Finland piloted a universal basic income experiment.",
+      "uz": "universal asosiy daromad"
+    }
+  ],
+  "text": "Few debates about the disruptive potential of artificial intelligence generate as much anxiety as the prospect of large-scale worker displacement. Optimists point to historical precedent: earlier waves of automation, however wrenching in the short term, ultimately raised aggregate productivity and generated new occupations that had been unimaginable beforehand. Skeptics respond that this time may differ in kind, not merely degree, since machine learning increasingly threatens cognitive and creative tasks once assumed immune to obsolescence, potentially consigning a growing precariat to chronic redundancy rather than transitional dislocation. The rise of the gig economy is often cited as an early symptom: work has become more contingent, stripped of the stability once associated with long-term employment, a shift some read as the commodification of labor in its rawest form. Proposed remedies range from aggressive reskilling programs, whose viability depends on institutions retraining workers faster than jobs disappear, to more radical redistribution schemes such as a universal basic income, intended to decouple subsistence from formal employment altogether. Whether such measures amount to a genuine paradigm shift in how societies organize work, or merely delay an inevitable reckoning with structural stagnation in demand for human labor, remains an open and consequential question.",
+  "questions": [
+    {
+      "question": "What do \"optimists\" in the passage cite as evidence against fears of mass worker displacement?",
+      "options": [
+        "Previous automation waves ultimately raised productivity and created new occupations",
+        "Automation has never previously displaced workers",
+        "Machine learning poses no threat to cognitive tasks",
+        "Redistribution schemes have historically failed"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "According to skeptics mentioned in the passage, how might the current wave of automation differ from previous ones?",
+      "options": [
+        "It will have no effect on employment at all",
+        "It may threaten cognitive and creative tasks previously thought immune, risking chronic redundancy rather than temporary dislocation",
+        "It will only affect manual labor",
+        "It guarantees a smooth transition to new jobs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The gig economy is described in the passage as an example of:",
+      "options": [
+        "Stable, long-term employment gaining ground",
+        "Work becoming more contingent and reflecting the commodification of labor",
+        "The complete disappearance of the labor market",
+        "A solution to worker displacement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the viability of reskilling programs depend on, according to the passage?",
+      "options": [
+        "Government subsidies alone",
+        "Whether institutions can retrain workers faster than jobs disappear",
+        "The elimination of the gig economy",
+        "The abolition of automation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the stated purpose of a universal basic income, as described in the passage?",
+      "options": [
+        "To increase reliance on formal employment",
+        "To decouple subsistence from formal employment altogether",
+        "To eliminate the gig economy entirely",
+        "To reduce productivity growth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The passage's final sentence primarily functions to:",
+      "options": [
+        "Definitively resolve whether current changes constitute a genuine paradigm shift",
+        "Leave open the question of whether current measures represent fundamental change or merely delay deeper structural stagnation",
+        "Argue decisively that redistribution schemes will fail",
+        "Claim automation has no lasting economic consequences"
+      ],
+      "answer": 1
+    }
+  ]
+}

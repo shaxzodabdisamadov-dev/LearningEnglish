@@ -1,0 +1,229 @@
+{
+  "id": 16,
+  "topic": "Genetic Engineering and Societal Implications",
+  "words": [
+    {
+      "word": "genome",
+      "pos": "noun",
+      "ipa": "/ˈdʒiːnoʊm/",
+      "definition": "the complete set of genetic material present in an organism",
+      "example": "Sequencing the human genome took over a decade and cost billions of dollars.",
+      "uz": "genom"
+    },
+    {
+      "word": "splice",
+      "pos": "verb",
+      "ipa": "/splaɪs/",
+      "definition": "to insert a segment of DNA into an existing genetic sequence, joining it to form a new combination",
+      "example": "Scientists spliced a gene from a jellyfish into the mouse embryo to make it fluoresce.",
+      "uz": "(DNK segmentini) kesib ulamoq"
+    },
+    {
+      "word": "hereditary",
+      "pos": "adjective",
+      "ipa": "/həˈrɛdɪtɛri/",
+      "definition": "passed down genetically from parent to offspring",
+      "example": "Huntington's disease is a hereditary disorder caused by a single dominant gene.",
+      "uz": "irsiy"
+    },
+    {
+      "word": "germline",
+      "pos": "noun",
+      "ipa": "/ˈdʒɜːrmlaɪn/",
+      "definition": "the sequence of germ cells whose genetic material can be passed to offspring",
+      "example": "Editing the germline raises the ethical stakes, since any alteration would be inherited by all future generations.",
+      "uz": "jinsiy hujayralar liniyasi"
+    },
+    {
+      "word": "bioethical",
+      "pos": "adjective",
+      "ipa": "/ˌbaɪoʊiˈθɛtɪkəl/",
+      "definition": "relating to the ethical implications of biological and medical research",
+      "example": "The bioethical debate surrounding embryo editing shows no sign of resolution.",
+      "uz": "bioetik"
+    },
+    {
+      "word": "engender",
+      "pos": "verb",
+      "ipa": "/ɪnˈdʒɛndər/",
+      "definition": "to give rise to; to bring about a particular feeling or situation",
+      "example": "The prospect of heritable gene editing has engendered fierce debate among scientists and ethicists alike.",
+      "uz": "keltirib chiqarmoq"
+    },
+    {
+      "word": "proliferation",
+      "pos": "noun",
+      "ipa": "/prəˌlɪfəˈreɪʃən/",
+      "definition": "a rapid increase in the number or spread of something",
+      "example": "The proliferation of unregulated gene-editing clinics abroad has alarmed international regulators.",
+      "uz": "tez ko'payish (tarqalish)"
+    },
+    {
+      "word": "commodify",
+      "pos": "verb",
+      "ipa": "/kəˈmɒdɪfaɪ/",
+      "definition": "to turn something into an object of trade, especially something not conventionally regarded as an item of commerce",
+      "example": "Critics warn that reproductive gene editing risks commodifying human traits, reducing children to consumer products.",
+      "uz": "tijoratlashtirmoq"
+    },
+    {
+      "word": "dystopian",
+      "pos": "adjective",
+      "ipa": "/dɪsˈtoʊpiən/",
+      "definition": "relating to an imagined society characterized by human misery, often invoked as a warning against unchecked technological or political trends",
+      "example": "Opponents invoke dystopian scenarios of a genetically stratified society to argue against permitting germline modification.",
+      "uz": "antiutopik"
+    },
+    {
+      "word": "eugenics",
+      "pos": "noun",
+      "ipa": "/juːˈdʒɛnɪks/",
+      "definition": "the discredited practice or advocacy of controlled selective breeding of human populations to alter the population's genetic composition",
+      "example": "The history of eugenics, with its coercive sterilization programs, casts a long shadow over contemporary genetic research.",
+      "uz": "evgenika"
+    },
+    {
+      "word": "eradicate",
+      "pos": "verb",
+      "ipa": "/ɪˈrædɪkeɪt/",
+      "definition": "to eliminate something completely, especially something undesirable",
+      "example": "Gene therapy holds the promise of eradicating certain inherited diseases within a generation.",
+      "uz": "butunlay yo'q qilmoq"
+    },
+    {
+      "word": "stigmatize",
+      "pos": "verb",
+      "ipa": "/ˈstɪɡmətaɪz/",
+      "definition": "to characterize a person or group unfairly as being shameful or worthy of disgrace",
+      "example": "There is a risk that individuals who decline genetic screening could be stigmatized as reckless parents.",
+      "uz": "tamg'alamoq (qoralamoq)"
+    },
+    {
+      "word": "inequity",
+      "pos": "noun",
+      "ipa": "/ɪnˈɛkwɪti/",
+      "definition": "unfairness or injustice, especially in the distribution of resources or opportunities",
+      "example": "If gene editing remains prohibitively expensive, it could entrench existing inequities rather than alleviate them.",
+      "uz": "adolatsizlik"
+    },
+    {
+      "word": "tinker",
+      "pos": "verb",
+      "ipa": "/ˈtɪŋkər/",
+      "definition": "to make small adjustments to or experiment with something in an unsystematic way",
+      "example": "The notion of tinkering with the building blocks of life unsettles even some scientists who work in the field.",
+      "uz": "tizimsiz ravishda o'zgartirib ko'rmoq"
+    },
+    {
+      "word": "safeguard",
+      "pos": "verb",
+      "ipa": "/ˈseɪfɡɑːrd/",
+      "definition": "to protect from harm or damage through preventive measures",
+      "example": "Regulators insist that robust oversight mechanisms are needed to safeguard against irresponsible clinical applications.",
+      "uz": "himoya qilmoq"
+    },
+    {
+      "word": "contentious",
+      "pos": "adjective",
+      "ipa": "/kənˈtɛnʃəs/",
+      "definition": "likely to cause disagreement or controversy",
+      "example": "Few areas of biomedical research are as contentious as heritable genome editing.",
+      "uz": "bahstalab, munozarali"
+    },
+    {
+      "word": "exacerbate",
+      "pos": "verb",
+      "ipa": "/ɪɡˈzæsərbeɪt/",
+      "definition": "to make a problem, situation, or feeling worse",
+      "example": "Unequal access to genetic enhancement could exacerbate social divisions along economic lines.",
+      "uz": "yomonlashtirmoq, kuchaytirmoq"
+    },
+    {
+      "word": "underpin",
+      "pos": "verb",
+      "ipa": "/ˌʌndərˈpɪn/",
+      "definition": "to form the basis or foundation for something; to support or justify",
+      "example": "The principle of informed consent underpins virtually all ethical frameworks governing genetic intervention.",
+      "uz": "asos bo'lmoq, negiz bo'lmoq"
+    },
+    {
+      "word": "circumvent",
+      "pos": "verb",
+      "ipa": "/ˌsɜːrkəmˈvɛnt/",
+      "definition": "to find a way around an obstacle, restriction, or difficulty, often through indirect means",
+      "example": "Wealthy prospective parents may simply travel abroad to circumvent domestic restrictions on embryo editing.",
+      "uz": "chetlab (aylanib) o'tmoq"
+    },
+    {
+      "word": "autonomy",
+      "pos": "noun",
+      "ipa": "/ɔːˈtɒnəmi/",
+      "definition": "the right or condition of self-governance; freedom from external control",
+      "example": "Reproductive autonomy is often invoked by advocates who argue that parents should be free to make genetic choices for their children.",
+      "uz": "avtonomiya, mustaqillik"
+    }
+  ],
+  "text": "The capacity to splice genes directly into the human germline no longer belongs to speculative fiction; it is an emergent, if still contentious, clinical possibility. Proponents contend that heritable interventions could eradicate a narrow class of devastating hereditary diseases, sparing future generations suffering that no amount of postnatal treatment can undo. Yet the prospect engenders unease that extends well beyond immediate safety concerns. Critics warn that, absent rigorous safeguards, the proliferation of genome-editing clinics — some operating in jurisdictions eager to circumvent stricter regulatory regimes elsewhere — could exacerbate the inequities that already stratify access to healthcare. There is, moreover, a darker historical undercurrent: the discourse of genetic 'improvement' cannot be disentangled from eugenics, a movement whose coercive legacy still colors bioethical deliberation today. Should germline editing become normalized, one must ask whether parents who decline it would eventually be stigmatized as negligent, and whether the autonomy invoked to justify the technology might, paradoxically, narrow rather than expand. Advocates insist that consent and transparency can underpin a responsible framework; skeptics fear a quietly dystopian drift in which human traits are gradually commodified. Neither tinkering cautiously nor forging ahead heedlessly seems fully defensible.",
+  "questions": [
+    {
+      "question": "What is the author's overall stance toward germline gene editing?",
+      "options": [
+        "Wholly supportive, viewing it as an unambiguous medical triumph",
+        "Cautiously ambivalent, acknowledging benefits while highlighting significant risks",
+        "Entirely dismissive, regarding it as ethically indefensible",
+        "Indifferent, presenting no evaluative perspective"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why might restricting access to genome editing worsen existing inequities?",
+      "options": [
+        "Because only wealthy individuals could access clinics that circumvent stricter regulations",
+        "Because governments would ban the technology outright",
+        "Because genome editing is inherently more dangerous for poorer populations",
+        "Because hereditary diseases only affect low-income communities"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The passage's reference to eugenics primarily serves to:",
+      "options": [
+        "Prove that genetic engineering research should be banned",
+        "Provide historical context that complicates the notion of 'genetic improvement'",
+        "Argue that current researchers are eugenicists",
+        "Show that eugenics has no relevance to modern bioethics"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What paradox does the author identify regarding parental autonomy and germline editing?",
+      "options": [
+        "Autonomy has no relevance to genetic decision-making",
+        "Invoking autonomy to justify editing might, if the practice becomes normalized, pressure parents into using it, effectively narrowing choice",
+        "Autonomy will inevitably increase regardless of what parents choose",
+        "Parental autonomy is legally impossible to protect"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the final sentence, what is the author doing by stating that neither tinkering cautiously nor forging ahead heedlessly seems fully defensible?",
+      "options": [
+        "Endorsing a clearly specified middle path",
+        "Suggesting that both extremes are inadequate without offering a definitive resolution",
+        "Concluding that cautious research is unambiguously the only reasonable option",
+        "Arguing that reckless action is preferable to caution"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What rhetorical technique does the author primarily use throughout the passage?",
+      "options": [
+        "Presenting one-sided advocacy for genome editing",
+        "Balancing proponents' arguments against critics' concerns through concession and counterpoint",
+        "Providing purely statistical evidence",
+        "Telling a personal narrative about a patient"
+      ],
+      "answer": 1
+    }
+  ]
+}

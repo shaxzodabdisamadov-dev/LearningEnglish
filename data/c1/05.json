@@ -1,0 +1,229 @@
+{
+  "id": 5,
+  "topic": "Organizational Strategy and Change Management",
+  "words": [
+    {
+      "word": "restructure",
+      "pos": "verb",
+      "ipa": "/ˌriːˈstrʌktʃər/",
+      "definition": "to reorganize the structure or arrangement of an organization or system",
+      "example": "The board voted to restructure the company into three semi-autonomous divisions.",
+      "uz": "qayta tashkil etmoq"
+    },
+    {
+      "word": "synergy",
+      "pos": "noun",
+      "ipa": "/ˈsɪnərdʒi/",
+      "definition": "the combined effect of two or more elements working together that is greater than the sum of their individual effects",
+      "example": "The merger was justified on the grounds of synergy between the two firms' distribution networks.",
+      "uz": "sinergiya"
+    },
+    {
+      "word": "incremental",
+      "pos": "adjective",
+      "ipa": "/ˌɪnkrɪˈmɛntəl/",
+      "definition": "occurring gradually, in small successive stages, rather than all at once",
+      "example": "Rather than a single overhaul, the company pursued incremental improvements over several years.",
+      "uz": "bosqichma-bosqich"
+    },
+    {
+      "word": "legacy",
+      "pos": "adjective",
+      "ipa": "/ˈlɛɡəsi/",
+      "definition": "relating to old or outdated systems, equipment, or methods that remain in use despite newer alternatives",
+      "example": "Migrating away from legacy software proved far more disruptive than anyone had anticipated.",
+      "uz": "eskirgan, meros bo'lib qolgan"
+    },
+    {
+      "word": "stakeholder",
+      "pos": "noun",
+      "ipa": "/ˈsteɪkhəʊldər/",
+      "definition": "a person or group with an interest or concern in the outcomes of an organization's decisions",
+      "example": "Any successful reform effort must secure the support of key stakeholders early in the process.",
+      "uz": "manfaatdor tomon"
+    },
+    {
+      "word": "attrition",
+      "pos": "noun",
+      "ipa": "/əˈtrɪʃən/",
+      "definition": "a gradual reduction in the number of employees, often through voluntary departure rather than layoffs",
+      "example": "The department reduced headcount primarily through natural attrition rather than forced redundancies.",
+      "uz": "xodimlarning tabiiy kamayishi"
+    },
+    {
+      "word": "agile",
+      "pos": "adjective",
+      "ipa": "/ˈædʒaɪl/",
+      "definition": "able to move, think, or adapt quickly and easily in response to changing circumstances",
+      "example": "Smaller firms often prove more agile than industry giants when responding to sudden market shifts.",
+      "uz": "chaqqon, tez moslashuvchan"
+    },
+    {
+      "word": "entrench",
+      "pos": "verb",
+      "ipa": "/ɪnˈtrɛntʃ/",
+      "definition": "to establish something so firmly that it becomes very difficult to change or remove",
+      "example": "Years of unchallenged authority had entrenched the old management style well beyond its usefulness.",
+      "uz": "mustahkam o'rnatmoq"
+    },
+    {
+      "word": "inertia",
+      "pos": "noun",
+      "ipa": "/ɪˈnɜːʃə/",
+      "definition": "a tendency to remain unchanged or to resist any alteration to an existing state or course of action",
+      "example": "Bureaucratic inertia often outlasts even the most determined reform initiatives.",
+      "uz": "harakatsizlik (inertsiya)"
+    },
+    {
+      "word": "paradigm shift",
+      "pos": "noun",
+      "ipa": "/ˈpærədaɪm ʃɪft/",
+      "definition": "a fundamental change in the basic assumptions or approach underlying a field or organization",
+      "example": "The introduction of remote work forced a genuine paradigm shift in how productivity was measured.",
+      "uz": "paradigma almashinuvi"
+    },
+    {
+      "word": "mandate",
+      "pos": "noun",
+      "ipa": "/ˈmændeɪt/",
+      "definition": "the official authority or instruction given to a person or body to carry out a particular policy",
+      "example": "The new CEO arrived with a clear mandate from the board to cut costs.",
+      "uz": "rasmiy vakolat (topshiriq)"
+    },
+    {
+      "word": "buy-in",
+      "pos": "noun",
+      "ipa": "/ˈbaɪ ɪn/",
+      "definition": "agreement and commitment to a decision or plan from those who will be affected by it",
+      "example": "Without genuine employee buy-in, even the best-designed strategy is likely to fail in practice.",
+      "uz": "qo'llab-quvvatlash va rozilik"
+    },
+    {
+      "word": "entrepreneurial",
+      "pos": "adjective",
+      "ipa": "/ˌɒntrəprəˈnɜːriəl/",
+      "definition": "showing initiative, willingness to take risks, and resourcefulness in pursuing new opportunities",
+      "example": "The firm tried to preserve its entrepreneurial culture even after growing into a large corporation.",
+      "uz": "tadbirkorlik ruhidagi"
+    },
+    {
+      "word": "streamline",
+      "pos": "verb",
+      "ipa": "/ˈstriːmlaɪn/",
+      "definition": "to make an organization or process more efficient by simplifying or removing unnecessary steps",
+      "example": "The new software was designed to streamline approval processes that once took weeks.",
+      "uz": "soddalashtirib samaraliroq qilmoq"
+    },
+    {
+      "word": "proactive",
+      "pos": "adjective",
+      "ipa": "/prəʊˈæktɪv/",
+      "definition": "acting in anticipation of future problems or needs, rather than merely reacting to them",
+      "example": "A proactive communication strategy helped the company avoid much of the backlash competitors faced.",
+      "uz": "oldindan chora ko'ruvchi"
+    },
+    {
+      "word": "resilience",
+      "pos": "noun",
+      "ipa": "/rɪˈzɪliəns/",
+      "definition": "the capacity to recover quickly from difficulties, setbacks, or disruption",
+      "example": "The organization's resilience during the downturn was attributed to its diversified revenue streams.",
+      "uz": "bardoshlilik, tez tiklanish qobiliyati"
+    },
+    {
+      "word": "holistic",
+      "pos": "adjective",
+      "ipa": "/həʊˈlɪstɪk/",
+      "definition": "concerned with entire systems as a whole rather than with the analysis of, or treatment of, individual parts",
+      "example": "Consultants recommended a holistic review of operations rather than isolated department-by-department fixes.",
+      "uz": "yaxlit (tizimli) yondashuvga oid"
+    },
+    {
+      "word": "contingency",
+      "pos": "noun",
+      "ipa": "/kənˈtɪndʒənsi/",
+      "definition": "a future event or circumstance that is possible but cannot be predicted with certainty; a backup plan for such an event",
+      "example": "Prudent managers build contingency plans for supply disruptions well before they occur.",
+      "uz": "kutilmagan holat uchun zaxira reja"
+    },
+    {
+      "word": "galvanize",
+      "pos": "verb",
+      "ipa": "/ˈɡælvənaɪz/",
+      "definition": "to shock or excite a person or group into taking action",
+      "example": "The crisis galvanized the entire organization into adopting reforms it had long resisted.",
+      "uz": "harakatga chorlamoq, jonlantirmoq"
+    },
+    {
+      "word": "entail",
+      "pos": "verb",
+      "ipa": "/ɪnˈteɪl/",
+      "definition": "to involve something as a necessary consequence or requirement",
+      "example": "Genuine transformation entails more than a change in slogans; it requires new incentives and habits.",
+      "uz": "o'z ichiga olmoq, taqozo etmoq"
+    }
+  ],
+  "text": "Organizational change rarely succeeds through mandate alone; it requires genuine buy-in from stakeholders at every level, from frontline employees to senior executives. Leaders who attempt to restructure an enterprise overnight frequently underestimate the sheer inertia embedded within legacy systems and entrenched habits, both of which resist even well-designed reform. A more holistic approach recognizes that lasting transformation is rarely a single dramatic event but rather an incremental process, unfolding through numerous small adjustments that cumulatively galvanize an organization toward a genuine paradigm shift. This is not to say bold action is never warranted—a proactive, entrepreneurial culture that streamlines decision-making can respond to market disruption far more effectively than one paralyzed by bureaucratic caution—but sustainable change management entails balancing decisiveness with patience. Contingency planning matters too: organizations that anticipate attrition, resource shortfalls, or shifting stakeholder priorities are better positioned to preserve resilience under pressure than those that assume a single strategy will unfold exactly as designed. Ultimately, the synergy between top-down vision and bottom-up adaptation, rather than either alone, determines whether an ambitious restructuring initiative becomes a durable success or merely another failed corporate experiment.",
+  "questions": [
+    {
+      "question": "According to the passage, why do overnight restructuring attempts often fail?",
+      "options": [
+        "Because stakeholders always resist change under any circumstances",
+        "Because leaders underestimate the inertia embedded in legacy systems and entrenched habits",
+        "Because incremental change is inherently less effective than dramatic change",
+        "Because mandates are legally required before restructuring"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest is the relationship between bold action and patience in change management?",
+      "options": [
+        "Bold action should always be avoided in favor of patience",
+        "Effective change management requires balancing decisive action with patience rather than choosing one exclusively",
+        "Patience is described as irrelevant to entrepreneurial cultures",
+        "Bold action alone guarantees success without any contingency planning"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the author mention contingency planning?",
+      "options": [
+        "To argue that no single strategy should ever be planned in detail",
+        "To suggest that organizations anticipating disruptions are better positioned to preserve resilience",
+        "To claim contingency planning is unnecessary in agile organizations",
+        "To criticize stakeholders who plan ahead of time"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is implied by the phrase \"another failed corporate experiment\" at the end of the passage?",
+      "options": [
+        "The author believes all restructuring efforts inevitably fail",
+        "The author implies restructuring without balancing top-down vision and bottom-up adaptation risks failure",
+        "The phrase refers to a specific historical case study",
+        "The phrase applies only to entrepreneurial startups"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what ultimately determines whether a restructuring initiative succeeds?",
+      "options": [
+        "The mandate issued by senior executives alone",
+        "The synergy between top-down vision and bottom-up adaptation",
+        "The complete elimination of organizational inertia",
+        "The overall size of the organization"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone toward leaders who attempt dramatic overnight transformation without addressing organizational inertia?",
+      "options": [
+        "Fully approving of such attempts",
+        "Mildly skeptical, implying such attempts often underestimate real obstacles",
+        "Enthusiastically supportive of rapid change",
+        "Entirely neutral, offering no judgment at all"
+      ],
+      "answer": 1
+    }
+  ]
+}

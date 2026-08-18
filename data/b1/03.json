@@ -1,0 +1,229 @@
+{
+  "id": 3,
+  "topic": "Work-Life Balance",
+  "words": [
+    {
+      "word": "work-life balance",
+      "pos": "noun phrase",
+      "ipa": "/ˌwɜːk laɪf ˈbæl.əns/",
+      "definition": "a healthy division of time between work and personal life",
+      "example": "Many employees struggle to find a healthy work-life balance.",
+      "uz": "ish va hayot muvozanati"
+    },
+    {
+      "word": "overtime",
+      "pos": "noun",
+      "ipa": "/ˈəʊ.və.taɪm/",
+      "definition": "extra time spent working beyond normal working hours",
+      "example": "He worked overtime every night last week to finish the project.",
+      "uz": "qo'shimcha ish vaqti"
+    },
+    {
+      "word": "burnout",
+      "pos": "noun",
+      "ipa": "/ˈbɜːn.aʊt/",
+      "definition": "extreme tiredness caused by long-term stress at work",
+      "example": "Constant stress at work can eventually lead to burnout.",
+      "uz": "charchash sindromi"
+    },
+    {
+      "word": "flexible",
+      "pos": "adjective",
+      "ipa": "/ˈflek.sɪ.bəl/",
+      "definition": "able to change or adapt easily to different situations",
+      "example": "The company offers flexible working hours.",
+      "uz": "moslashuvchan"
+    },
+    {
+      "word": "deadline",
+      "pos": "noun",
+      "ipa": "/ˈded.laɪn/",
+      "definition": "the time by which something must be finished",
+      "example": "She stayed late to meet the deadline.",
+      "uz": "muddat"
+    },
+    {
+      "word": "prioritize",
+      "pos": "verb",
+      "ipa": "/praɪˈɒr.ɪ.taɪz/",
+      "definition": "to treat something as more important than other things",
+      "example": "You need to prioritize your tasks when you have too much to do.",
+      "uz": "ustuvorlik bermoq"
+    },
+    {
+      "word": "workload",
+      "pos": "noun",
+      "ipa": "/ˈwɜːk.ləʊd/",
+      "definition": "the amount of work that a person has to do",
+      "example": "Her workload increased after two colleagues left the company.",
+      "uz": "ish yuki"
+    },
+    {
+      "word": "commute",
+      "pos": "verb",
+      "ipa": "/kəˈmjuːt/",
+      "definition": "to travel regularly between home and work",
+      "example": "He has a long commute to work every morning.",
+      "uz": "ishga qatnamoq"
+    },
+    {
+      "word": "remote work",
+      "pos": "noun phrase",
+      "ipa": "/rɪˈməʊt wɜːk/",
+      "definition": "work done from home or outside a traditional office",
+      "example": "Remote work has become common since the pandemic.",
+      "uz": "masofaviy ish"
+    },
+    {
+      "word": "stress",
+      "pos": "noun",
+      "ipa": "/stres/",
+      "definition": "a feeling of worry or pressure caused by difficult situations",
+      "example": "Too much stress at work can affect your health.",
+      "uz": "stress"
+    },
+    {
+      "word": "productivity",
+      "pos": "noun",
+      "ipa": "/ˌprɒd.ʌkˈtɪv.ɪ.ti/",
+      "definition": "the rate at which work is done successfully",
+      "example": "Taking short breaks can actually improve productivity.",
+      "uz": "samaradorlik"
+    },
+    {
+      "word": "switch off",
+      "pos": "phrasal verb",
+      "ipa": "/swɪtʃ ɒf/",
+      "definition": "to stop thinking about work and relax",
+      "example": "It's important to switch off from work in the evenings.",
+      "uz": "ishdan uzilib dam olmoq"
+    },
+    {
+      "word": "juggle",
+      "pos": "verb",
+      "ipa": "/ˈdʒʌɡ.əl/",
+      "definition": "to try to do several things at the same time",
+      "example": "Parents often juggle work and family responsibilities.",
+      "uz": "bir vaqtda uddalamoq"
+    },
+    {
+      "word": "time off",
+      "pos": "noun phrase",
+      "ipa": "/taɪm ɒf/",
+      "definition": "a period during which someone does not work",
+      "example": "She took some time off to relax after a busy month.",
+      "uz": "dam olish vaqti"
+    },
+    {
+      "word": "exhausted",
+      "pos": "adjective",
+      "ipa": "/ɪɡˈzɔː.stɪd/",
+      "definition": "extremely tired",
+      "example": "He felt completely exhausted after the long shift.",
+      "uz": "charchagan"
+    },
+    {
+      "word": "schedule",
+      "pos": "noun",
+      "ipa": "/ˈʃed.juːl/",
+      "definition": "a plan of when things will happen or be done",
+      "example": "My schedule is full this week.",
+      "uz": "jadval"
+    },
+    {
+      "word": "boundary",
+      "pos": "noun",
+      "ipa": "/ˈbaʊn.dri/",
+      "definition": "a limit that separates two areas, such as work and personal life",
+      "example": "Setting a boundary between work and home life is important.",
+      "uz": "chegara"
+    },
+    {
+      "word": "take a break",
+      "pos": "phrase",
+      "ipa": "/teɪk ə breɪk/",
+      "definition": "to stop working for a short time in order to rest",
+      "example": "You should take a break if you feel tired.",
+      "uz": "tanaffus qilmoq"
+    },
+    {
+      "word": "wellbeing",
+      "pos": "noun",
+      "ipa": "/welˈbiː.ɪŋ/",
+      "definition": "the state of being healthy, happy, and comfortable",
+      "example": "Employee wellbeing is now a priority for many companies.",
+      "uz": "farovonlik"
+    },
+    {
+      "word": "demanding",
+      "pos": "adjective",
+      "ipa": "/dɪˈmɑːn.dɪŋ/",
+      "definition": "needing a lot of skill, energy, or time",
+      "example": "She has a demanding job with long hours.",
+      "uz": "mashaqqatli"
+    }
+  ],
+  "text": "In recent years, work-life balance has become one of the most discussed topics in modern workplaces. As jobs become more demanding, many employees struggle to juggle their careers with family life, hobbies, and rest. A heavy workload, combined with tight deadlines, often forces people to work overtime, which can eventually lead to burnout if it continues for too long. Although remote work has given employees more flexible schedules and reduced the need to commute every day, it has also made it harder for some people to switch off after office hours. As a result, many workers feel stress even during their time off, because they check emails or messages out of habit. Experts suggest setting clear boundaries between work and personal life, learning to prioritize important tasks, and taking a break regularly instead of working non-stop. Companies that care about employee wellbeing often see higher productivity, since exhausted staff tend to make more mistakes and lose motivation. Simple habits, such as leaving the laptop closed after work, can make a real difference. In the end, a good work-life balance is not a luxury; it is essential for both mental health and long-term success at work.",
+  "questions": [
+    {
+      "question": "According to the passage, what often forces people to work overtime?",
+      "options": [
+        "A heavy workload and tight deadlines",
+        "Remote work",
+        "Employee wellbeing programs",
+        "Flexible schedules"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What benefit of remote work does the passage mention?",
+      "options": [
+        "It eliminates all stress",
+        "It gives employees more flexible schedules",
+        "It always improves productivity",
+        "It removes the need for deadlines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What problem does the passage say remote work can create?",
+      "options": [
+        "It increases commuting time",
+        "It makes it harder to switch off after work",
+        "It reduces employee wellbeing programs",
+        "It removes all boundaries between colleagues"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do experts suggest in the passage to improve work-life balance?",
+      "options": [
+        "Working overtime regularly",
+        "Ignoring workload completely",
+        "Setting clear boundaries and taking breaks",
+        "Checking emails constantly"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the passage, why might exhausted staff be a problem for companies?",
+      "options": [
+        "They ask for more time off",
+        "They tend to make more mistakes and lose motivation",
+        "They always demand higher pay",
+        "They never take breaks"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the passage's overall conclusion about work-life balance?",
+      "options": [
+        "It is unnecessary for successful careers",
+        "It is only important for remote workers",
+        "It is essential for mental health and long-term success",
+        "It only matters for company productivity"
+      ],
+      "answer": 2
+    }
+  ]
+}

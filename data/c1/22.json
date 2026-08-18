@@ -1,0 +1,229 @@
+{
+  "id": 22,
+  "topic": "Patents, Innovation Economics, and Monopoly",
+  "words": [
+    {
+      "word": "patent",
+      "pos": "noun",
+      "ipa": "/ˈpætənt/",
+      "definition": "a government-granted right that gives an inventor exclusive control over the production, use, and sale of an invention for a limited period",
+      "example": "The pharmaceutical company held a patent that prevented competitors from manufacturing the drug for twenty years.",
+      "uz": "patent"
+    },
+    {
+      "word": "monopoly",
+      "pos": "noun",
+      "ipa": "/məˈnɒpəli/",
+      "definition": "exclusive control of the supply or trade in a commodity or service by a single entity, eliminating meaningful competition",
+      "example": "Regulators moved to break up the monopoly after concluding it had suppressed competition for decades.",
+      "uz": "monopoliya"
+    },
+    {
+      "word": "royalty",
+      "pos": "noun",
+      "ipa": "/ˈrɔɪəlti/",
+      "definition": "a payment made to the owner of a patent, copyright, or resource in exchange for the right to use it",
+      "example": "The inventor continued to collect a royalty on every unit sold under the licensing agreement.",
+      "uz": "royalti (mualliflik/patent haqi)"
+    },
+    {
+      "word": "licensing",
+      "pos": "noun",
+      "ipa": "/ˈlaɪsənsɪŋ/",
+      "definition": "the process of granting permission to another party to use protected intellectual property under specified conditions, usually in exchange for payment",
+      "example": "Rather than manufacturing the product itself, the small firm survived through licensing its patent to larger competitors.",
+      "uz": "litsenziyalash"
+    },
+    {
+      "word": "infringement",
+      "pos": "noun",
+      "ipa": "/ɪnˈfrɪndʒmənt/",
+      "definition": "the action of violating another party's legal rights, especially intellectual property rights",
+      "example": "The court found the rival firm liable for patent infringement and ordered substantial damages.",
+      "uz": "huquqbuzarlik (patent/mualliflik huquqini buzish)"
+    },
+    {
+      "word": "proprietary",
+      "pos": "adjective",
+      "ipa": "/prəˈpraɪətɛri/",
+      "definition": "relating to an owner or ownership, especially of technology or products marketed under exclusive legal right",
+      "example": "The company guarded its proprietary formula so closely that even senior employees knew only fragments of the recipe.",
+      "uz": "mulkiy, eksklyuziv huquqqa ega"
+    },
+    {
+      "word": "antitrust",
+      "pos": "adjective",
+      "ipa": "/ˌæntiˈtrʌst/",
+      "definition": "relating to legislation designed to prevent or restrict monopolistic business practices and promote competition",
+      "example": "Antitrust regulators launched an investigation into whether the merger would substantially reduce competition in the sector.",
+      "uz": "antimonopol"
+    },
+    {
+      "word": "oligopoly",
+      "pos": "noun",
+      "ipa": "/ˌɒlɪˈɡɒpəli/",
+      "definition": "a market structure in which a small number of firms collectively dominate an industry",
+      "example": "The airline industry in many countries functions as an oligopoly, with a handful of carriers controlling most routes.",
+      "uz": "oligopoliya"
+    },
+    {
+      "word": "incentivize",
+      "pos": "verb",
+      "ipa": "/ɪnˈsɛntɪvaɪz/",
+      "definition": "to provide someone with a motive or reason to undertake a particular course of action",
+      "example": "Patent protection is intended to incentivize costly research by guaranteeing inventors a period of exclusive profit.",
+      "uz": "rag'batlantirmoq"
+    },
+    {
+      "word": "novelty",
+      "pos": "noun",
+      "ipa": "/ˈnɒvəlti/",
+      "definition": "in patent law, the requirement that an invention be genuinely new and not previously disclosed or anticipated by prior art",
+      "example": "The patent application was rejected because the examiner found the design lacked sufficient novelty over an earlier prior-art device.",
+      "uz": "yangilik mezoni (patent huquqida)"
+    },
+    {
+      "word": "patent troll",
+      "pos": "noun phrase",
+      "ipa": "/ˈpætənt troʊl/",
+      "definition": "a company or individual that acquires patents solely to extract licensing fees or damages through litigation, without producing any actual product",
+      "example": "The startup was besieged by a notorious patent troll demanding royalties for a vaguely worded, decades-old patent.",
+      "uz": "patent troli"
+    },
+    {
+      "word": "exclusivity",
+      "pos": "noun",
+      "ipa": "/ˌɛksklʊˈsɪvɪti/",
+      "definition": "the state of being restricted to a single party or possessor, excluding others from a right or benefit",
+      "example": "The period of market exclusivity granted by the patent allowed the firm to recoup its enormous research costs.",
+      "uz": "eksklyuzivlik, yakka huquqlilik"
+    },
+    {
+      "word": "barrier to entry",
+      "pos": "noun phrase",
+      "ipa": "/ˈbæriər tuː ˈɛntri/",
+      "definition": "an obstacle that makes it difficult for new competitors to enter a market",
+      "example": "Steep patent-licensing costs constitute a significant barrier to entry for smaller biotechnology firms.",
+      "uz": "bozorga kirish to'sig'i"
+    },
+    {
+      "word": "rent-seeking",
+      "pos": "noun",
+      "ipa": "/ˈrɛnt siːkɪŋ/",
+      "definition": "the pursuit of increased wealth through manipulation of the economic or political environment rather than through the creation of new value",
+      "example": "Economists criticize excessive patent litigation as a form of rent-seeking that diverts resources from genuine innovation.",
+      "uz": "rentaizlash (manipulyatsiya orqali boylik izlash)"
+    },
+    {
+      "word": "deadweight loss",
+      "pos": "noun phrase",
+      "ipa": "/ˈdɛdweɪt lɒs/",
+      "definition": "the loss of economic efficiency that occurs when a market outcome, such as one caused by monopoly pricing, fails to achieve an efficient allocation of resources",
+      "example": "Economists estimate that monopoly pricing generates a significant deadweight loss by excluding consumers who would otherwise have purchased the good at a competitive price.",
+      "uz": "sof samaradorlik yo'qotilishi"
+    },
+    {
+      "word": "cartel",
+      "pos": "noun",
+      "ipa": "/kɑːrˈtɛl/",
+      "definition": "an association of manufacturers or suppliers formed to maintain prices at a high level and restrict competition",
+      "example": "Several manufacturers were fined for operating a cartel that fixed prices across the industry.",
+      "uz": "kartel"
+    },
+    {
+      "word": "predatory pricing",
+      "pos": "noun phrase",
+      "ipa": "/ˈprɛdətɔːri ˈpraɪsɪŋ/",
+      "definition": "the practice of setting prices very low with the intent of driving competitors out of the market, in order to later raise prices once competition is eliminated",
+      "example": "The commission accused the conglomerate of predatory pricing designed to bankrupt smaller rivals before restoring higher prices.",
+      "uz": "yirtqich narxlash"
+    },
+    {
+      "word": "counterfeit",
+      "pos": "adjective",
+      "ipa": "/ˈkaʊntərfɪt/",
+      "definition": "made in exact imitation of something valuable with the intent to deceive or defraud",
+      "example": "Customs officials seized a shipment of counterfeit goods bearing the trademark of a leading manufacturer.",
+      "uz": "qalbaki, soxta"
+    },
+    {
+      "word": "stifle",
+      "pos": "verb",
+      "ipa": "/ˈstaɪfəl/",
+      "definition": "to suppress or prevent the development or expression of something, such as competition or innovation",
+      "example": "Overly broad patents can stifle follow-on innovation by discouraging researchers from building on existing work.",
+      "uz": "bo'g'moq (rivojlanishga to'sqinlik qilmoq)"
+    },
+    {
+      "word": "compulsory license",
+      "pos": "noun phrase",
+      "ipa": "/kəmˈpʌlsəri ˈlaɪsəns/",
+      "definition": "a government-mandated authorization permitting a party to use a patented invention without the patent holder's consent, typically in exchange for a set fee",
+      "example": "During the epidemic, several governments considered issuing a compulsory license to allow domestic manufacturers to produce the patented vaccine.",
+      "uz": "majburiy litsenziya"
+    }
+  ],
+  "text": "The patent system rests on a deceptively simple bargain: in exchange for publicly disclosing an invention that satisfies the requirement of novelty, the state grants an inventor temporary exclusivity, intended to incentivize the costly, uncertain work of research and development. Absent such protection, economists argue, firms would systematically underinvest in innovation, since rivals could freely copy any breakthrough without bearing its development costs. Yet the same monopoly that rewards genuine invention can, if left unchecked, generate a substantial deadweight loss, excluding consumers who would gladly purchase a good at its true competitive price but cannot afford the artificially elevated one a patent holder commands. Critics point to the rise of the so-called patent troll, an entity that acquires patents not to manufacture anything but to extract royalties through litigation, exemplifying a form of rent-seeking that stifles rather than encourages genuine progress. Antitrust authorities, meanwhile, must distinguish lawful market dominance earned through superior innovation from tactics such as predatory pricing or informal cartel behavior designed to erect an insurmountable barrier to entry. In sectors where patented goods concern public health, governments occasionally invoke a compulsory license, overriding exclusivity to ensure affordable access — a remedy proprietary-rights holders naturally resist, but one that underscores how contested the boundary between incentive and monopoly power remains.",
+  "questions": [
+    {
+      "question": "What is the fundamental 'bargain' the passage describes at the heart of the patent system?",
+      "options": [
+        "Inventors receive permanent ownership in exchange for secrecy",
+        "Inventors publicly disclose their invention in exchange for temporary exclusive rights",
+        "Governments fund all research in exchange for public ownership of inventions",
+        "Consumers pay royalties directly to the government"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why might firms underinvest in innovation without patent protection?",
+      "options": [
+        "Because innovation is inherently unprofitable",
+        "Because rivals could freely copy breakthroughs without incurring the original development costs",
+        "Because governments would ban all research",
+        "Because patents are required by international law"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's critique of 'patent trolls'?",
+      "options": [
+        "They manufacture counterfeit goods",
+        "They exploit the patent system purely for litigation-based profit rather than to produce anything, exemplifying rent-seeking",
+        "They are essential to fostering genuine innovation",
+        "They primarily operate through predatory pricing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What distinction must antitrust authorities draw, according to the passage?",
+      "options": [
+        "Between patents and copyrights",
+        "Between market dominance earned through genuine innovation and dominance achieved through anticompetitive tactics",
+        "Between domestic and foreign patent holders",
+        "Between compulsory licenses and royalties"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the passage mention compulsory licensing in the context of public health?",
+      "options": [
+        "To argue that patents should never apply to medicine",
+        "To illustrate a mechanism by which exclusivity can be overridden to balance innovation incentives against access",
+        "To show that proprietary-rights holders always support such measures",
+        "To prove that patents have no relevance to public health"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the overall argumentative structure of the passage?",
+      "options": [
+        "A one-sided defense of unlimited patent rights",
+        "A balanced examination that concedes the rationale for patents while detailing their potential for economic and competitive harm",
+        "A purely historical account with no evaluative content",
+        "An argument that patents should be immediately abolished"
+      ],
+      "answer": 1
+    }
+  ]
+}

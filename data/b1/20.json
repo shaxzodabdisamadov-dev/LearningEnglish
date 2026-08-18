@@ -1,0 +1,229 @@
+{
+  "id": 20,
+  "topic": "Government and Politics Basics",
+  "words": [
+    {
+      "word": "government",
+      "pos": "noun",
+      "ipa": "/ˈɡʌvərnmənt/",
+      "definition": "The group of people who officially control and run a country.",
+      "example": "The government announced new tax rules.",
+      "uz": "hukumat"
+    },
+    {
+      "word": "politician",
+      "pos": "noun",
+      "ipa": "/ˌpɒləˈtɪʃən/",
+      "definition": "A person who works in politics, especially as an elected official.",
+      "example": "The politician promised to improve healthcare.",
+      "uz": "siyosatchi"
+    },
+    {
+      "word": "election",
+      "pos": "noun",
+      "ipa": "/ɪˈlekʃən/",
+      "definition": "A formal process in which people vote to choose someone for a position.",
+      "example": "The presidential election takes place every four years.",
+      "uz": "saylov"
+    },
+    {
+      "word": "vote",
+      "pos": "verb",
+      "ipa": "/voʊt/",
+      "definition": "To formally choose someone or something, usually in an election.",
+      "example": "Citizens vote to choose their leaders.",
+      "uz": "ovoz bermoq"
+    },
+    {
+      "word": "candidate",
+      "pos": "noun",
+      "ipa": "/ˈkændɪdət/",
+      "definition": "A person who is competing for an elected position.",
+      "example": "Three candidates are running for mayor.",
+      "uz": "nomzod"
+    },
+    {
+      "word": "campaign",
+      "pos": "noun",
+      "ipa": "/kæmˈpeɪn/",
+      "definition": "An organized effort to achieve a goal, especially winning an election.",
+      "example": "Her campaign focused on education reform.",
+      "uz": "kampaniya"
+    },
+    {
+      "word": "policy",
+      "pos": "noun",
+      "ipa": "/ˈpɒləsi/",
+      "definition": "A plan of action agreed on by a government or organization.",
+      "example": "The new policy aims to reduce pollution.",
+      "uz": "siyosat"
+    },
+    {
+      "word": "democracy",
+      "pos": "noun",
+      "ipa": "/dɪˈmɒkrəsi/",
+      "definition": "A system of government in which people vote for their leaders.",
+      "example": "Free elections are a key part of democracy.",
+      "uz": "demokratiya"
+    },
+    {
+      "word": "citizen",
+      "pos": "noun",
+      "ipa": "/ˈsɪtɪzən/",
+      "definition": "A legally recognized member of a country.",
+      "example": "Every citizen has the right to vote.",
+      "uz": "fuqaro"
+    },
+    {
+      "word": "parliament",
+      "pos": "noun",
+      "ipa": "/ˈpɑːrləmənt/",
+      "definition": "The group of elected people who make laws in some countries.",
+      "example": "The bill was debated in parliament.",
+      "uz": "parlament"
+    },
+    {
+      "word": "represent",
+      "pos": "verb",
+      "ipa": "/ˌreprɪˈzent/",
+      "definition": "To act or speak officially on behalf of someone or a group.",
+      "example": "Each member of parliament represents a local area.",
+      "uz": "vakillik qilmoq"
+    },
+    {
+      "word": "debate",
+      "pos": "noun",
+      "ipa": "/dɪˈbeɪt/",
+      "definition": "A formal discussion in which people express different opinions.",
+      "example": "The candidates took part in a televised debate.",
+      "uz": "munozara"
+    },
+    {
+      "word": "reform",
+      "pos": "noun",
+      "ipa": "/rɪˈfɔːrm/",
+      "definition": "A change made to improve a system, organization, or law.",
+      "example": "The government promised reform of the tax system.",
+      "uz": "islohot"
+    },
+    {
+      "word": "authority",
+      "pos": "noun",
+      "ipa": "/əˈθɔːrəti/",
+      "definition": "The power to give orders, make decisions, or enforce rules.",
+      "example": "Local authority controls waste collection in the city.",
+      "uz": "hokimiyat"
+    },
+    {
+      "word": "corruption",
+      "pos": "noun",
+      "ipa": "/kəˈrʌpʃən/",
+      "definition": "Dishonest or illegal behavior, especially by people in positions of power.",
+      "example": "The report exposed corruption within the police force.",
+      "uz": "korrupsiya"
+    },
+    {
+      "word": "rights",
+      "pos": "noun",
+      "ipa": "/raɪts/",
+      "definition": "Things that people are legally or morally allowed to have or do.",
+      "example": "Human rights should be protected by every government.",
+      "uz": "huquqlar"
+    },
+    {
+      "word": "tax",
+      "pos": "noun",
+      "ipa": "/tæks/",
+      "definition": "Money that people or businesses must pay to the government.",
+      "example": "The government raised tax on fuel.",
+      "uz": "soliq"
+    },
+    {
+      "word": "protest",
+      "pos": "verb",
+      "ipa": "/prəˈtest/",
+      "definition": "To publicly show strong disagreement with something.",
+      "example": "Thousands of people protested against the new law.",
+      "uz": "norozilik bildirmoq"
+    },
+    {
+      "word": "leader",
+      "pos": "noun",
+      "ipa": "/ˈliːdər/",
+      "definition": "A person who controls, guides, or is in charge of a group or country.",
+      "example": "The country's leader gave a speech last night.",
+      "uz": "yetakchi"
+    },
+    {
+      "word": "opposition",
+      "pos": "noun",
+      "ipa": "/ˌɒpəˈzɪʃən/",
+      "definition": "The political party or group that opposes the government in power.",
+      "example": "The opposition criticized the new policy.",
+      "uz": "oppozitsiya"
+    }
+  ],
+  "text": "In a democracy, citizens have the right to vote for the people who will represent them in government. Every few years, an election is held, and different candidates present their policy ideas during a public campaign. Some candidates focus on reform, promising to improve healthcare, education, or the economy, while others prefer to keep things as they are. Once elected, politicians usually work in parliament, where laws are debated and, if enough members agree, eventually passed. Although the government has the authority to make important decisions, an opposition party exists to question its choices and offer alternative solutions. This system, in theory, helps prevent corruption and protects the rights of ordinary citizens. However, if people lose trust in their leaders, they may protest in the streets to demand change. Money is another important issue in politics because governments need tax revenue to pay for schools, hospitals, and roads. As a result, debates about how much tax citizens should pay are often at the center of every election. Understanding these basic ideas helps people become more active and informed members of society.",
+  "questions": [
+    {
+      "question": "What right do citizens have in a democracy, according to the passage?",
+      "options": [
+        "The right to become president automatically",
+        "The right to vote for their representatives",
+        "The right to avoid paying tax",
+        "The right to control parliament directly"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do candidates present during a campaign?",
+      "options": [
+        "Their personal finances",
+        "Their policy ideas",
+        "Their family history",
+        "Their voting record only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the role of the opposition, according to the text?",
+      "options": [
+        "To always agree with the government",
+        "To question government choices and offer alternatives",
+        "To make all the laws",
+        "To collect taxes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what may happen if people lose trust in their leaders?",
+      "options": [
+        "They may protest in the streets",
+        "They automatically win the next election",
+        "They stop paying tax immediately",
+        "Parliament is closed"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why do governments need tax revenue, according to the text?",
+      "options": [
+        "To pay politicians' personal expenses",
+        "To pay for schools, hospitals, and roads",
+        "To fund political campaigns only",
+        "To reduce corruption"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does understanding basic political ideas help people do, according to the passage?",
+      "options": [
+        "Avoid voting",
+        "Become more active and informed members of society",
+        "Stop all elections",
+        "Ignore government policy"
+      ],
+      "answer": 1
+    }
+  ]
+}

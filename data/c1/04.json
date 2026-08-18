@@ -1,0 +1,229 @@
+{
+  "id": 4,
+  "topic": "Advanced Academic Writing and Research",
+  "words": [
+    {
+      "word": "corpus",
+      "pos": "noun",
+      "ipa": "/ˈkɔːpəs/",
+      "definition": "a large, systematically organized collection of written or spoken material used as a basis for research",
+      "example": "The linguists compiled a corpus of newspaper articles spanning fifty years to trace shifts in usage.",
+      "uz": "matnlar korpusi"
+    },
+    {
+      "word": "methodology",
+      "pos": "noun",
+      "ipa": "/ˌmɛθəˈdɒlədʒi/",
+      "definition": "a system of methods and principles used in a particular field of study or research",
+      "example": "The paper's conclusions are only as strong as the methodology used to reach them.",
+      "uz": "metodologiya"
+    },
+    {
+      "word": "empirical",
+      "pos": "adjective",
+      "ipa": "/ɪmˈpɪrɪkəl/",
+      "definition": "based on observation or experiment rather than theory or pure logic alone",
+      "example": "The claim remained speculative until it was tested against empirical evidence gathered in the field.",
+      "uz": "empirik (tajribaga asoslangan)"
+    },
+    {
+      "word": "paradigm",
+      "pos": "noun",
+      "ipa": "/ˈpærədaɪm/",
+      "definition": "a distinct framework or set of assumptions that shapes how a field of inquiry is understood",
+      "example": "The discovery forced researchers to abandon the prevailing paradigm and construct a new theoretical framework.",
+      "uz": "paradigma"
+    },
+    {
+      "word": "hypothesis",
+      "pos": "noun",
+      "ipa": "/haɪˈpɒθəsɪs/",
+      "definition": "a proposed explanation, made on the basis of limited evidence, as a starting point for further investigation",
+      "example": "Before collecting any data, the team formulated a precise, testable hypothesis.",
+      "uz": "gipoteza"
+    },
+    {
+      "word": "delineate",
+      "pos": "verb",
+      "ipa": "/dɪˈlɪnieɪt/",
+      "definition": "to describe, explain, or portray something precisely and in careful detail",
+      "example": "The introduction delineates the scope of the study before turning to methodology.",
+      "uz": "aniq va batafsil tasvirlamoq"
+    },
+    {
+      "word": "seminal",
+      "pos": "adjective",
+      "ipa": "/ˈsɛmɪnəl/",
+      "definition": "strongly influential in originating or shaping later developments in a field",
+      "example": "The paper is now regarded as a seminal contribution to the study of collective behavior.",
+      "uz": "asos soluvchi, katta ta'sirli"
+    },
+    {
+      "word": "corroborative",
+      "pos": "adjective",
+      "ipa": "/kəˈrɒbərətɪv/",
+      "definition": "tending to confirm, support, or strengthen a claim or finding",
+      "example": "Additional corroborative evidence emerged only after the original study had already been published.",
+      "uz": "tasdiqlovchi"
+    },
+    {
+      "word": "juxtapose",
+      "pos": "verb",
+      "ipa": "/ˈdʒʌkstəpəʊz/",
+      "definition": "to place two or more things side by side for the purpose of comparison or contrast",
+      "example": "The essay juxtaposes two competing theories to highlight where their predictions diverge.",
+      "uz": "yonma-yon qo'yib solishtirmoq"
+    },
+    {
+      "word": "rigorous",
+      "pos": "adjective",
+      "ipa": "/ˈrɪɡərəs/",
+      "definition": "extremely thorough, careful, and precise, especially in the application of methods and standards",
+      "example": "The journal is known for its rigorous peer-review process, which few submissions survive unrevised.",
+      "uz": "puxta va qat'iy"
+    },
+    {
+      "word": "synthesis",
+      "pos": "noun",
+      "ipa": "/ˈsɪnθəsɪs/",
+      "definition": "the combination of separate ideas, findings, or theories to form a coherent whole",
+      "example": "The review offers a valuable synthesis of decades of fragmented research.",
+      "uz": "sintez"
+    },
+    {
+      "word": "peer-reviewed",
+      "pos": "adjective",
+      "ipa": "/ˌpɪə rɪˈvjuːd/",
+      "definition": "having been evaluated by independent experts in the same field before publication",
+      "example": "Only peer-reviewed studies were included in the final meta-analysis.",
+      "uz": "mutaxassislar taqrizidan o'tgan"
+    },
+    {
+      "word": "citation",
+      "pos": "noun",
+      "ipa": "/saɪˈteɪʃən/",
+      "definition": "a reference to a source cited in a text, used to acknowledge and support a claim",
+      "example": "Every statistic in the report is accompanied by a precise citation.",
+      "uz": "iqtibos (havola)"
+    },
+    {
+      "word": "epistemology",
+      "pos": "noun",
+      "ipa": "/ɪˌpɪstɪˈmɒlədʒi/",
+      "definition": "the branch of philosophy concerned with the nature, sources, and limits of knowledge",
+      "example": "Their disagreement was less about facts than about epistemology: what counts as legitimate evidence at all.",
+      "uz": "gnoseologiya (bilish nazariyasi)"
+    },
+    {
+      "word": "qualitative",
+      "pos": "adjective",
+      "ipa": "/ˈkwɒlɪtətɪv/",
+      "definition": "relating to the quality or nature of something rather than to a measurable quantity",
+      "example": "The study combined qualitative interviews with quantitative survey data.",
+      "uz": "sifatga oid"
+    },
+    {
+      "word": "quantifiable",
+      "pos": "adjective",
+      "ipa": "/ˈkwɒntɪfaɪəbəl/",
+      "definition": "able to be measured or expressed as a number",
+      "example": "Not every important outcome is quantifiable, which complicates purely statistical evaluation.",
+      "uz": "miqdoriy o'lchash mumkin bo'lgan"
+    },
+    {
+      "word": "plagiarism",
+      "pos": "noun",
+      "ipa": "/ˈpleɪdʒərɪzəm/",
+      "definition": "the practice of using someone else's work or ideas without proper acknowledgment, presenting them as one's own",
+      "example": "The university's honor code treats even unintentional plagiarism as a serious offense.",
+      "uz": "plagiat"
+    },
+    {
+      "word": "discourse",
+      "pos": "noun",
+      "ipa": "/ˈdɪskɔːs/",
+      "definition": "written or spoken communication or debate, especially within a particular field or community",
+      "example": "The article traces how the term entered mainstream academic discourse over the past decade.",
+      "uz": "muhokama-nutq (diskurs)"
+    },
+    {
+      "word": "postulate",
+      "pos": "verb",
+      "ipa": "/ˈpɒstjʊleɪt/",
+      "definition": "to suggest or assume a theory, principle, or premise as a basis for reasoning, without immediate proof",
+      "example": "Early theorists postulated the existence of a particle that would not be observed for decades.",
+      "uz": "asos sifatida ilgari surmoq"
+    },
+    {
+      "word": "tangential",
+      "pos": "adjective",
+      "ipa": "/tænˈdʒɛnʃəl/",
+      "definition": "only slightly relevant to the main subject; digressive",
+      "example": "The editor cut an entire section deemed tangential to the paper's central argument.",
+      "uz": "asosiy mavzuga daxli kam"
+    }
+  ],
+  "text": "Rigorous academic writing depends on a methodology capable of withstanding scrutiny from a skeptical, peer-reviewed audience. Before advancing a hypothesis, a researcher must first delineate the theoretical paradigm within which the inquiry operates, since the same empirical data can be interpreted radically differently depending on the underlying epistemology one adopts. Seminal studies in a field often owe their influence not merely to novel findings but to a persuasive synthesis of previously disparate strands of discourse. A well-constructed argument juxtaposes qualitative insights—rich, contextual, and difficult to quantify—against quantifiable data, allowing each to corroborate the other rather than treating them as mutually exclusive forms of evidence. Throughout, scholars must resist the temptation to postulate conclusions unsupported by their corpus of evidence, and they must scrupulously avoid plagiarism by providing accurate citation of every source consulted, whether directly quoted or merely paraphrased. Equally important is the discipline of excising tangential material: however interesting a digression may seem, it dilutes the paper's central claim and taxes the reader's patience. In short, the craft of scholarly writing lies not in accumulating information but in shaping it—precisely, honestly, and with due deference to the corroborative or contradictory evidence already established by others.",
+  "questions": [
+    {
+      "question": "According to the passage, why must a researcher delineate a theoretical paradigm before advancing a hypothesis?",
+      "options": [
+        "Because paradigms are irrelevant to how data is interpreted",
+        "Because the same empirical data can be interpreted differently depending on the underlying framework",
+        "Because a hypothesis cannot exist without a named paradigm",
+        "Because peer review legally requires it"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest is the true source of influence for seminal studies?",
+      "options": [
+        "Simply possessing novel findings",
+        "A persuasive synthesis of previously disparate discourse, not novel findings alone",
+        "Extensive citation counts by themselves",
+        "Avoiding qualitative data entirely"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the passage characterize the relationship between qualitative and quantifiable evidence?",
+      "options": [
+        "They are mutually exclusive and should never be combined",
+        "They can be juxtaposed so that each corroborates the other",
+        "Qualitative evidence is described as inherently superior",
+        "Quantifiable evidence should always be excised from research"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is implied about postulating conclusions unsupported by one's corpus of evidence?",
+      "options": [
+        "It is presented as an encouraged practice in rigorous research",
+        "It is presented as a temptation that researchers must resist",
+        "It is described as a formal requirement of peer review",
+        "It is treated as unrelated to the concept of plagiarism"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the author recommend excising tangential material, even if it is interesting?",
+      "options": [
+        "Because it violates citation rules",
+        "Because it dilutes the central claim and taxes the reader's patience",
+        "Because tangential material is by definition plagiarized",
+        "Because peer reviewers forbid it outright"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's overall view of the \"craft\" of scholarly writing, as expressed in the final sentence?",
+      "options": [
+        "It lies in accumulating as much information as possible",
+        "It lies in shaping information precisely, honestly, and with deference to existing evidence",
+        "It lies primarily in avoiding tangents at all costs",
+        "It lies mainly in choosing an appealing paradigm"
+      ],
+      "answer": 1
+    }
+  ]
+}

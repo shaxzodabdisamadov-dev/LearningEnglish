@@ -1,0 +1,229 @@
+{
+  "id": 20,
+  "topic": "Legal Systems and Human Rights",
+  "words": [
+    {
+      "word": "legislation",
+      "pos": "noun",
+      "ipa": "/ˌlɛdʒɪsˈleɪʃən/",
+      "definition": "laws that have been formally enacted by a governing body",
+      "example": "New legislation was passed to protect workers' rights.",
+      "uz": "qonunchilik"
+    },
+    {
+      "word": "enforce",
+      "pos": "verb",
+      "ipa": "/ɪnˈfɔːs/",
+      "definition": "to compel observance of or compliance with a law",
+      "example": "Authorities struggled to enforce the new regulations consistently.",
+      "uz": "qonunni amalga tatbiq etmoq"
+    },
+    {
+      "word": "violate",
+      "pos": "verb",
+      "ipa": "/ˈvaɪəleɪt/",
+      "definition": "to break or fail to comply with a law, rule, or right",
+      "example": "The company was found to have violated environmental laws.",
+      "uz": "buzmoq"
+    },
+    {
+      "word": "testimony",
+      "pos": "noun",
+      "ipa": "/ˈtɛstɪməni/",
+      "definition": "a formal statement given as evidence in a legal proceeding",
+      "example": "The witness gave testimony that contradicted the defendant's account.",
+      "uz": "guvohlik ko'rsatmasi"
+    },
+    {
+      "word": "verdict",
+      "pos": "noun",
+      "ipa": "/ˈvɜːdɪkt/",
+      "definition": "a formal decision made by a jury or judge on a disputed issue",
+      "example": "The jury returned a verdict of not guilty.",
+      "uz": "sud hukmi"
+    },
+    {
+      "word": "plaintiff",
+      "pos": "noun",
+      "ipa": "/ˈpleɪntɪf/",
+      "definition": "a person who brings a legal case against another in a court of law",
+      "example": "The plaintiff sought compensation for the damages suffered.",
+      "uz": "da'vogar"
+    },
+    {
+      "word": "defendant",
+      "pos": "noun",
+      "ipa": "/dɪˈfɛndənt/",
+      "definition": "a person accused of a crime or sued in a court of law",
+      "example": "The defendant maintained their innocence throughout the trial.",
+      "uz": "sudlanuvchi, javobgar"
+    },
+    {
+      "word": "jurisdiction",
+      "pos": "noun",
+      "ipa": "/ˌdʒʊərɪsˈdɪkʃən/",
+      "definition": "the official power of a court or authority to make legal decisions",
+      "example": "The case fell outside the court's jurisdiction.",
+      "uz": "sud vakolati (yurisdiksiya)"
+    },
+    {
+      "word": "impartial",
+      "pos": "adjective",
+      "ipa": "/ɪmˈpɑːʃəl/",
+      "definition": "treating all sides fairly, without favoritism",
+      "example": "Judges are expected to remain impartial at all times.",
+      "uz": "xolis, adolatli"
+    },
+    {
+      "word": "entitlement",
+      "pos": "noun",
+      "ipa": "/ɪnˈtaɪtlmənt/",
+      "definition": "the right to have or receive something",
+      "example": "Citizens have a legal entitlement to a fair trial.",
+      "uz": "huquq (haq)"
+    },
+    {
+      "word": "uphold",
+      "pos": "verb",
+      "ipa": "/ʌpˈhəʊld/",
+      "definition": "to confirm or maintain a decision, law, or principle, especially after challenge",
+      "example": "The appeals court upheld the original ruling.",
+      "uz": "qarorni kuchda saqlamoq"
+    },
+    {
+      "word": "discriminate",
+      "pos": "verb",
+      "ipa": "/dɪˈskrɪmɪneɪt/",
+      "definition": "to treat a person or group unfairly based on a particular characteristic",
+      "example": "It is illegal to discriminate against employees on the basis of age.",
+      "uz": "kamsitmoq"
+    },
+    {
+      "word": "infringe",
+      "pos": "verb",
+      "ipa": "/ɪnˈfrɪndʒ/",
+      "definition": "to violate or limit someone's rights",
+      "example": "The new policy was accused of infringing on free speech.",
+      "uz": "huquqni poymol qilmoq"
+    },
+    {
+      "word": "redress",
+      "pos": "noun",
+      "ipa": "/rɪˈdrɛs/",
+      "definition": "a remedy or compensation for a wrong or grievance suffered",
+      "example": "Victims of the fraud sought legal redress through the courts.",
+      "uz": "yetkazilgan zarar uchun tovon"
+    },
+    {
+      "word": "inalienable",
+      "pos": "adjective",
+      "ipa": "/ɪnˈeɪliənəbl/",
+      "definition": "unable to be taken away or transferred to someone else",
+      "example": "The right to a fair trial is considered inalienable.",
+      "uz": "ajralmas (huquq)"
+    },
+    {
+      "word": "precedent",
+      "pos": "noun",
+      "ipa": "/ˈprɛsɪdənt/",
+      "definition": "a previous legal decision used as a guide in later similar cases",
+      "example": "The ruling set an important precedent for future cases.",
+      "uz": "sud presedenti"
+    },
+    {
+      "word": "sanction",
+      "pos": "noun",
+      "ipa": "/ˈsæŋkʃən/",
+      "definition": "an official penalty imposed for violating a law or rule",
+      "example": "The country faced international sanctions after the violations.",
+      "uz": "jazo choralari"
+    },
+    {
+      "word": "advocate",
+      "pos": "verb",
+      "ipa": "/ˈædvəkeɪt/",
+      "definition": "to publicly support or recommend a particular cause or policy",
+      "example": "Human rights groups advocate for stronger legal protections.",
+      "uz": "ochiqchasiga himoya qilmoq"
+    },
+    {
+      "word": "arbitrary",
+      "pos": "adjective",
+      "ipa": "/ˈɑːbɪtrəri/",
+      "definition": "based on random choice or personal whim rather than reason or law",
+      "example": "Citizens protested against the arbitrary arrests made by police.",
+      "uz": "o'zboshimchalik bilan, asossiz"
+    },
+    {
+      "word": "due process",
+      "pos": "noun",
+      "ipa": "/djuː ˈprəʊsɛs/",
+      "definition": "fair legal treatment guaranteed to individuals under the law",
+      "example": "Every defendant is entitled to due process under the constitution.",
+      "uz": "adolatli sud tartib-taomili"
+    }
+  ],
+  "text": "That every individual possesses certain inalienable rights is a principle enshrined in legislation worldwide, yet upholding it in practice proves far harder than declaring it in theory. Courts rely on precedent to judge whether a law has been applied fairly, but when judges act arbitrarily rather than impartially, the legitimacy of the justice system is called into question. Consider a case in which a plaintiff claims an agency has violated their entitlement to due process: unless the defendant's authority falls within the court's jurisdiction, the case may never be heard. Human rights advocates argue that redress should be available to anyone whose freedoms have been infringed, regardless of status, and that failing to enforce such protections renders them meaningless. Laws must not only exist on paper; they must be applied consistently, without discriminating against particular groups. Governments that ignore international sanctions for rights violations, notwithstanding the diplomatic costs, signal that accountability is negotiable. Only through vigilant enforcement, impartial testimony, and unwavering commitment to justice can inalienable rights become more than empty words.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Human rights are automatically respected once written into law.",
+        "Legal protections for human rights must be consistently enforced to have real meaning.",
+        "Courts never rely on past decisions.",
+        "International sanctions have no effect on governments."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what happens when judges act arbitrarily?",
+      "options": [
+        "The legitimacy of the justice system is questioned.",
+        "Precedent becomes more important.",
+        "Trials automatically end in acquittal.",
+        "Legislation is immediately rewritten."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the passage suggest about laws that exist 'on paper' but aren't enforced?",
+      "options": [
+        "They are sufficient to protect citizens.",
+        "They fail to provide genuine protection.",
+        "They automatically become precedent.",
+        "They are stronger than enforced laws."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What must be true for a plaintiff's case against a government agency to be heard, according to the passage?",
+      "options": [
+        "The defendant must confess.",
+        "The case must fall within the court's jurisdiction.",
+        "The plaintiff must be a citizen.",
+        "International sanctions must apply."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's main purpose in writing this passage?",
+      "options": [
+        "To argue that legal rights are meaningless without enforcement and accountability",
+        "To celebrate the perfection of modern legal systems",
+        "To criticize the concept of due process",
+        "To provide legal advice to defendants"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the passage, 'infringed' is closest in meaning to:",
+      "options": [
+        "Protected",
+        "Violated",
+        "Enforced",
+        "Advocated"
+      ],
+      "answer": 1
+    }
+  ]
+}

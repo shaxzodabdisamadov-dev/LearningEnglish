@@ -1,0 +1,229 @@
+{
+  "id": 18,
+  "topic": "News Media and Misinformation",
+  "words": [
+    {
+      "word": "misinformation",
+      "pos": "noun",
+      "ipa": "/ˌmɪsɪnfərˈmeɪʃən/",
+      "definition": "False or inaccurate information that is spread, often without meaning to deceive.",
+      "example": "Misinformation about the disease spread quickly online.",
+      "uz": "noto'g'ri ma'lumot"
+    },
+    {
+      "word": "disinformation",
+      "pos": "noun",
+      "ipa": "/ˌdɪsɪnfərˈmeɪʃən/",
+      "definition": "False information that is spread deliberately to deceive people.",
+      "example": "The report warned about disinformation campaigns during elections.",
+      "uz": "dezinformatsiya"
+    },
+    {
+      "word": "source",
+      "pos": "noun",
+      "ipa": "/sɔːrs/",
+      "definition": "The place, person, or document that information comes from.",
+      "example": "Always check the source before sharing a news story.",
+      "uz": "manba"
+    },
+    {
+      "word": "reliable",
+      "pos": "adjective",
+      "ipa": "/rɪˈlaɪəbəl/",
+      "definition": "Able to be trusted because it is consistently good or accurate.",
+      "example": "It is important to use reliable news sources.",
+      "uz": "ishonchli"
+    },
+    {
+      "word": "bias",
+      "pos": "noun",
+      "ipa": "/ˈbaɪəs/",
+      "definition": "A tendency to unfairly favor one side, person, or opinion.",
+      "example": "Readers should be aware of bias in the news.",
+      "uz": "tarafkashlik"
+    },
+    {
+      "word": "headline",
+      "pos": "noun",
+      "ipa": "/ˈhedlaɪn/",
+      "definition": "The title of a news story, usually printed in large letters.",
+      "example": "The headline exaggerated what really happened.",
+      "uz": "sarlavha"
+    },
+    {
+      "word": "fact-check",
+      "pos": "verb",
+      "ipa": "/ˈfækt tʃek/",
+      "definition": "To check whether a piece of information is true.",
+      "example": "Journalists should fact-check every claim before publishing.",
+      "uz": "faktlarni tekshirmoq"
+    },
+    {
+      "word": "spread",
+      "pos": "verb",
+      "ipa": "/spred/",
+      "definition": "To become passed on to more and more people or places.",
+      "example": "False stories can spread faster than true ones.",
+      "uz": "tarqalmoq"
+    },
+    {
+      "word": "accurate",
+      "pos": "adjective",
+      "ipa": "/ˈækjərət/",
+      "definition": "Correct and free from errors.",
+      "example": "It's hard to find fully accurate reports during a crisis.",
+      "uz": "aniq"
+    },
+    {
+      "word": "journalist",
+      "pos": "noun",
+      "ipa": "/ˈdʒɜːrnəlɪst/",
+      "definition": "A person whose job is to write or report news.",
+      "example": "The journalist investigated the story for months.",
+      "uz": "jurnalist"
+    },
+    {
+      "word": "publish",
+      "pos": "verb",
+      "ipa": "/ˈpʌblɪʃ/",
+      "definition": "To make information available to the public, in print or online.",
+      "example": "The newspaper published the article on its front page.",
+      "uz": "nashr etmoq"
+    },
+    {
+      "word": "credible",
+      "pos": "adjective",
+      "ipa": "/ˈkredəbəl/",
+      "definition": "Able to be believed; trustworthy.",
+      "example": "A credible source usually explains where its information came from.",
+      "uz": "ishonarli"
+    },
+    {
+      "word": "exaggerate",
+      "pos": "verb",
+      "ipa": "/ɪɡˈzædʒəreɪt/",
+      "definition": "To make something seem bigger, better, or more extreme than it really is.",
+      "example": "The article exaggerated the number of victims.",
+      "uz": "bo'rttirib ko'rsatmoq"
+    },
+    {
+      "word": "audience",
+      "pos": "noun",
+      "ipa": "/ˈɔːdiəns/",
+      "definition": "The people who read, watch, or listen to something.",
+      "example": "The channel has a large online audience.",
+      "uz": "auditoriya"
+    },
+    {
+      "word": "claim",
+      "pos": "noun",
+      "ipa": "/kleɪm/",
+      "definition": "A statement that something is true, which has not necessarily been proven.",
+      "example": "The company denied the claim made in the article.",
+      "uz": "da'vo"
+    },
+    {
+      "word": "distort",
+      "pos": "verb",
+      "ipa": "/dɪˈstɔːrt/",
+      "definition": "To change or twist the true meaning of something.",
+      "example": "Editing a quote out of context can distort its meaning.",
+      "uz": "buzib ko'rsatmoq"
+    },
+    {
+      "word": "skeptical",
+      "pos": "adjective",
+      "ipa": "/ˈskeptɪkəl/",
+      "definition": "Having doubts about whether something is true or will happen.",
+      "example": "Readers are becoming more skeptical of online news.",
+      "uz": "shubha bilan qaraydigan"
+    },
+    {
+      "word": "verify",
+      "pos": "verb",
+      "ipa": "/ˈverɪfaɪ/",
+      "definition": "To check that something is true, accurate, or correct.",
+      "example": "Before sharing, you should verify the facts.",
+      "uz": "tasdiqlamoq"
+    },
+    {
+      "word": "mislead",
+      "pos": "verb",
+      "ipa": "/ˌmɪsˈliːd/",
+      "definition": "To make someone believe something that is not true.",
+      "example": "The advertisement was designed to mislead customers.",
+      "uz": "chalg'itmoq"
+    },
+    {
+      "word": "impact",
+      "pos": "noun",
+      "ipa": "/ˈɪmpækt/",
+      "definition": "A powerful effect that something has on someone or something else.",
+      "example": "Fake news can have a serious impact on public opinion.",
+      "uz": "ta'sir"
+    }
+  ],
+  "text": "In today's digital world, anyone can publish a story online within seconds, which means news spreads faster than ever before. Unfortunately, this also makes it easier for misinformation to reach a huge audience. Sometimes false stories are shared by accident, but disinformation is created deliberately to mislead people for political or financial reasons. A dramatic headline can exaggerate the truth, and a single unverified claim can distort how people understand an event. Because so many websites publish content without checking their source, readers are becoming increasingly skeptical of what they read online. Professional journalists are trained to fact-check information and only report facts they can verify, but not every website follows the same standards. As a result, it is often difficult to know which source is credible and which one is not reliable. If people do not learn to think critically, misinformation can have a serious impact on elections, health decisions, and public trust. Experts suggest checking several sources, looking for the original claim, and asking whether a story seems too extreme to be accurate before sharing it with others.",
+  "questions": [
+    {
+      "question": "Why can misinformation spread quickly today, according to the passage?",
+      "options": [
+        "Because journalists check every fact",
+        "Because anyone can publish a story online within seconds",
+        "Because governments control all news",
+        "Because there is less internet access"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the difference between misinformation and disinformation, according to the text?",
+      "options": [
+        "There is no difference",
+        "Disinformation is created deliberately to mislead people",
+        "Misinformation is always true",
+        "Disinformation is only shared by journalists"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can a dramatic headline do, according to the passage?",
+      "options": [
+        "Always tell the exact truth",
+        "Exaggerate the truth",
+        "Prevent misinformation",
+        "Verify facts automatically"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are professional journalists trained to do?",
+      "options": [
+        "Create viral content",
+        "Fact-check information and verify facts",
+        "Avoid using reliable sources",
+        "Ignore public opinion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why are readers becoming more skeptical, according to the text?",
+      "options": [
+        "Because all news is accurate",
+        "Because many websites publish content without checking their source",
+        "Because journalists no longer exist",
+        "Because governments ban misinformation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do experts suggest people do before sharing a story?",
+      "options": [
+        "Share it immediately",
+        "Check several sources and consider if it seems too extreme",
+        "Only read headlines",
+        "Trust every claim"
+      ],
+      "answer": 1
+    }
+  ]
+}

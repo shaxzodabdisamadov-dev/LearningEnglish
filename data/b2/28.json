@@ -1,0 +1,229 @@
+{
+  "id": 28,
+  "topic": "Social Movements and Activism",
+  "words": [
+    {
+      "word": "advocacy",
+      "pos": "noun",
+      "ipa": "/ˈædvəkəsi/",
+      "definition": "public support for a particular cause or policy",
+      "example": "Her advocacy for disability rights spanned three decades.",
+      "uz": "g'oyani himoya qilish, targ'ibot"
+    },
+    {
+      "word": "grassroots",
+      "pos": "adjective",
+      "ipa": "/ˈgræsruːts/",
+      "definition": "originating from ordinary people rather than leaders or elites",
+      "example": "The campaign began as a small grassroots effort in one neighborhood.",
+      "uz": "oddiy xalq ommasidan kelib chiquvchi"
+    },
+    {
+      "word": "mobilize",
+      "pos": "verb",
+      "ipa": "/ˈmoʊbəlaɪz/",
+      "definition": "to organize people or resources for action",
+      "example": "Volunteers worked around the clock to mobilize voters.",
+      "uz": "safarbar qilmoq"
+    },
+    {
+      "word": "marginalized",
+      "pos": "adjective",
+      "ipa": "/ˈmɑːrdʒɪnəlaɪzd/",
+      "definition": "treated as insignificant or excluded from the mainstream",
+      "example": "The program aims to give marginalized communities a stronger political voice.",
+      "uz": "jamiyatdan chetlashtirilgan"
+    },
+    {
+      "word": "solidarity",
+      "pos": "noun",
+      "ipa": "/ˌsɒlɪˈdærəti/",
+      "definition": "unity and mutual support among a group with shared interests",
+      "example": "Workers across the country expressed solidarity with the striking miners.",
+      "uz": "birdamlik"
+    },
+    {
+      "word": "dissent",
+      "pos": "noun",
+      "ipa": "/dɪˈsɛnt/",
+      "definition": "the expression of opinions that differ from the accepted view",
+      "example": "Public dissent grew as the new policy became more widely known.",
+      "uz": "rasmiy fikrga qarshi norozilik"
+    },
+    {
+      "word": "legislation",
+      "pos": "noun",
+      "ipa": "/ˌlɛdʒɪˈsleɪʃən/",
+      "definition": "laws considered collectively, or the process of making laws",
+      "example": "The activists lobbied lawmakers to pass new legislation on wages.",
+      "uz": "qonunchilik"
+    },
+    {
+      "word": "grievance",
+      "pos": "noun",
+      "ipa": "/ˈgriːvəns/",
+      "definition": "a real or imagined wrong regarded as grounds for complaint",
+      "example": "The protesters listed their grievances in a formal statement.",
+      "uz": "shikoyat sababi"
+    },
+    {
+      "word": "resilience",
+      "pos": "noun",
+      "ipa": "/rɪˈzɪliəns/",
+      "definition": "the ability to withstand and recover from difficult circumstances",
+      "example": "The movement's resilience kept it alive through years of setbacks.",
+      "uz": "qiyinchiliklarga bardosh berish qobiliyati"
+    },
+    {
+      "word": "systemic",
+      "pos": "adjective",
+      "ipa": "/sɪˈstɛmɪk/",
+      "definition": "relating to a whole system rather than individual parts",
+      "example": "Activists argued that the problem was systemic, not the fault of a few individuals.",
+      "uz": "tizimga xos, tizimli"
+    },
+    {
+      "word": "galvanize",
+      "pos": "verb",
+      "ipa": "/ˈgælvənaɪz/",
+      "definition": "to shock or excite people into taking action",
+      "example": "The photograph galvanized public opposition to the war.",
+      "uz": "harakatga safarbar etmoq"
+    },
+    {
+      "word": "petition",
+      "pos": "noun",
+      "ipa": "/pəˈtɪʃən/",
+      "definition": "a formal written request signed by many people",
+      "example": "Over a million people signed the petition demanding reform.",
+      "uz": "ko'plab imzo bilan murojaatnoma"
+    },
+    {
+      "word": "inequity",
+      "pos": "noun",
+      "ipa": "/ɪnˈɛkwəti/",
+      "definition": "unfairness or lack of justice, especially in treatment",
+      "example": "The report highlighted deep inequity in access to healthcare.",
+      "uz": "adolatsizlik"
+    },
+    {
+      "word": "accountability",
+      "pos": "noun",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "definition": "the state of being responsible or answerable for one's actions",
+      "example": "Protesters demanded greater accountability from local officials.",
+      "uz": "javobgarlik"
+    },
+    {
+      "word": "backlash",
+      "pos": "noun",
+      "ipa": "/ˈbækˌlæʃ/",
+      "definition": "a strong negative reaction by a group of people to a social change",
+      "example": "The new policy triggered a fierce backlash from certain communities.",
+      "uz": "keskin qarshi reaksiya"
+    },
+    {
+      "word": "civil disobedience",
+      "pos": "noun phrase",
+      "ipa": "/ˈsɪvəl ˌdɪsəˈbiːdiəns/",
+      "definition": "the refusal to obey laws as a form of peaceful protest",
+      "example": "The activists practiced civil disobedience by blocking the entrance peacefully.",
+      "uz": "fuqarolik itoatsizligi"
+    },
+    {
+      "word": "empower",
+      "pos": "verb",
+      "ipa": "/ɪmˈpaʊər/",
+      "definition": "to give someone the authority or confidence to act",
+      "example": "The training program aims to empower young community leaders.",
+      "uz": "harakat qilishga vakolat bermoq"
+    },
+    {
+      "word": "polarize",
+      "pos": "verb",
+      "ipa": "/ˈpoʊləraɪz/",
+      "definition": "to divide people into sharply opposing groups",
+      "example": "The issue continues to polarize public opinion.",
+      "uz": "ikki qarama-qarshi guruhga bo'lib tashlamoq"
+    },
+    {
+      "word": "underrepresented",
+      "pos": "adjective",
+      "ipa": "/ˌʌndərˌrɛprɪˈzɛntɪd/",
+      "definition": "having fewer members or less influence than would be proportionate",
+      "example": "Women remain underrepresented in senior political positions.",
+      "uz": "yetarlicha vakillik qilinmagan"
+    },
+    {
+      "word": "reform",
+      "pos": "noun",
+      "ipa": "/rɪˈfɔːrm/",
+      "definition": "changes made to something, especially a law or institution, in order to improve it",
+      "example": "The coalition pushed for reform of the criminal justice system.",
+      "uz": "islohot"
+    }
+  ],
+  "text": "Can a handful of ordinary citizens genuinely reshape legislation, or is meaningful reform always driven from above? History suggests otherwise: countless grassroots movements have galvanized public opinion long before governments took formal notice. What typically begins as scattered dissent among marginalized or underrepresented communities gradually coalesces into organized advocacy, as shared grievances forge solidarity across otherwise disconnected groups. Petitions and demonstrations mobilize supporters, while, in more extreme cases, civil disobedience draws attention to systemic inequity that conventional politics has repeatedly failed to address. Such movements rarely proceed smoothly. Backlash from those who benefit from the status quo often polarizes public discourse, and progress frequently stalls before renewed momentum pushes reform forward once again. Nevertheless, resilience has repeatedly proven decisive: movements that persist despite setbacks are far more likely to secure lasting accountability from institutions than those that fade after initial enthusiasm wanes. What ultimately empowers ordinary people is not merely the righteousness of their cause, but the discipline to sustain pressure over years, sometimes decades. Were history any guide, transformative change rarely arrives quickly; instead, it accumulates gradually, propelled by countless individuals who refuse to accept injustice as permanent.",
+  "questions": [
+    {
+      "question": "What is the passage mainly arguing?",
+      "options": [
+        "That governments alone are responsible for social reform",
+        "That sustained grassroots activism can drive meaningful social and legislative change",
+        "That civil disobedience is always counterproductive",
+        "That social movements never succeed without government support"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what typically begins social movements?",
+      "options": [
+        "Formal government legislation",
+        "Scattered dissent among marginalized or underrepresented groups",
+        "Sudden backlash from powerful institutions",
+        "International treaties"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage imply is the key factor in a movement's long-term success?",
+      "options": [
+        "Avoiding all forms of backlash",
+        "Resilience and sustained pressure over an extended period",
+        "Immediate government cooperation",
+        "The size of the initial protest"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What effect does backlash have on social movements, according to the passage?",
+      "options": [
+        "It always ends the movement immediately",
+        "It often polarizes public discourse and can stall progress temporarily",
+        "It has no measurable effect",
+        "It guarantees quick legislative reform"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone in this passage?",
+      "options": [
+        "Cynical and dismissive of activism",
+        "Analytical and cautiously optimistic about grassroots change",
+        "Purely neutral with no perspective",
+        "Angry and accusatory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest about the pace of transformative social change?",
+      "options": [
+        "It usually happens overnight",
+        "It tends to accumulate gradually through sustained effort",
+        "It is impossible without civil disobedience",
+        "It always follows a predictable timeline"
+      ],
+      "answer": 1
+    }
+  ]
+}

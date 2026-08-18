@@ -1,0 +1,229 @@
+{
+  "id": 18,
+  "topic": "Social Media and Communication",
+  "words": [
+    {
+      "word": "social media",
+      "pos": "phrase",
+      "ipa": "/ˈsoʊʃəl ˈmiːdiə/",
+      "definition": "websites and apps where people share information and talk to others",
+      "example": "Many young people use social media every day.",
+      "uz": "ijtimoiy tarmoqlar"
+    },
+    {
+      "word": "post",
+      "pos": "verb",
+      "ipa": "/poʊst/",
+      "definition": "to put a message, photo or video on the internet for others to see",
+      "example": "She posted a photo of her dog.",
+      "uz": "joylamoq"
+    },
+    {
+      "word": "share",
+      "pos": "verb",
+      "ipa": "/ʃɛr/",
+      "definition": "to send something you found online to other people",
+      "example": "He shared the article with his friends.",
+      "uz": "ulashmoq"
+    },
+    {
+      "word": "comment",
+      "pos": "noun",
+      "ipa": "/ˈkɒmɛnt/",
+      "definition": "a short written opinion about something online",
+      "example": "I left a comment under her photo.",
+      "uz": "izoh"
+    },
+    {
+      "word": "like",
+      "pos": "verb",
+      "ipa": "/laɪk/",
+      "definition": "to click a button to show you enjoy a post",
+      "example": "I liked her new profile picture.",
+      "uz": "layk bosmoq"
+    },
+    {
+      "word": "follow",
+      "pos": "verb",
+      "ipa": "/ˈfɒloʊ/",
+      "definition": "to choose to see someone's posts regularly online",
+      "example": "I follow my favorite singer on social media.",
+      "uz": "obuna bo'lmoq"
+    },
+    {
+      "word": "friend",
+      "pos": "noun",
+      "ipa": "/frɛnd/",
+      "definition": "a person you know well and like",
+      "example": "She has many friends online and in real life.",
+      "uz": "do'st"
+    },
+    {
+      "word": "chat",
+      "pos": "verb",
+      "ipa": "/tʃæt/",
+      "definition": "to talk with someone in a friendly, informal way, often online",
+      "example": "We chatted for an hour last night.",
+      "uz": "suhbatlashmoq"
+    },
+    {
+      "word": "call",
+      "pos": "verb",
+      "ipa": "/kɔːl/",
+      "definition": "to speak to someone using a phone",
+      "example": "I called my mother after work.",
+      "uz": "qo'ng'iroq qilmoq"
+    },
+    {
+      "word": "text",
+      "pos": "verb",
+      "ipa": "/tɛkst/",
+      "definition": "to send a written message using a phone",
+      "example": "Can you text me your address?",
+      "uz": "xabar yozib yubormoq"
+    },
+    {
+      "word": "photo",
+      "pos": "noun",
+      "ipa": "/ˈfoʊtoʊ/",
+      "definition": "a picture taken with a camera",
+      "example": "He posted a photo from his trip.",
+      "uz": "rasm"
+    },
+    {
+      "word": "profile",
+      "pos": "noun",
+      "ipa": "/ˈproʊfaɪl/",
+      "definition": "information about you on a social media account",
+      "example": "My profile has my name and photo.",
+      "uz": "profil"
+    },
+    {
+      "word": "network",
+      "pos": "noun",
+      "ipa": "/ˈnɛtwɜːrk/",
+      "definition": "a group of connected people or computers",
+      "example": "Social media helps you build a network of friends.",
+      "uz": "tarmoq"
+    },
+    {
+      "word": "update",
+      "pos": "verb",
+      "ipa": "/ˈʌpdeɪt/",
+      "definition": "to add new information",
+      "example": "I updated my profile with a new photo.",
+      "uz": "yangilamoq"
+    },
+    {
+      "word": "tag",
+      "pos": "verb",
+      "ipa": "/tæɡ/",
+      "definition": "to add someone's name to a photo or post online",
+      "example": "She tagged me in her holiday photo.",
+      "uz": "teglamoq"
+    },
+    {
+      "word": "notification",
+      "pos": "noun",
+      "ipa": "/ˌnoʊtəfɪˈkeɪʃən/",
+      "definition": "a message that tells you something new has happened",
+      "example": "I got a notification about her new post.",
+      "uz": "bildirishnoma"
+    },
+    {
+      "word": "group",
+      "pos": "noun",
+      "ipa": "/ɡruːp/",
+      "definition": "a number of people who are connected together",
+      "example": "We made a family group to share news.",
+      "uz": "guruh"
+    },
+    {
+      "word": "contact",
+      "pos": "noun",
+      "ipa": "/ˈkɒntækt/",
+      "definition": "a person you can communicate with, often saved in your phone",
+      "example": "She is one of my contacts on my phone.",
+      "uz": "kontakt"
+    },
+    {
+      "word": "conversation",
+      "pos": "noun",
+      "ipa": "/ˌkɒnvərˈseɪʃən/",
+      "definition": "a talk between two or more people",
+      "example": "We had a long conversation about our holiday.",
+      "uz": "suhbat"
+    },
+    {
+      "word": "communicate",
+      "pos": "verb",
+      "ipa": "/kəˈmjuːnɪkeɪt/",
+      "definition": "to share information or ideas with someone",
+      "example": "Social media helps people communicate with family far away.",
+      "uz": "muloqot qilmoq"
+    }
+  ],
+  "text": "Social media has changed the way people communicate. Ten years ago, if you wanted to talk to a friend, you usually called them or waited to see them. Today, you can text, chat, or start a video call in seconds. Many people use social media to stay in touch with their network of friends and family. For example, when Maria goes on holiday, she takes a lot of photos and posts them online for her friends to see. Her friends often leave a comment or like her post. Sometimes, they tag her in a photo too. Maria also joined a group for people who love cooking. In the group, people share recipes and have interesting conversations. Every day, Maria gets many notifications on her phone about new posts from her contacts. She checks her profile and updates it with new information sometimes. Communication is much faster now than before, but some people think we should also call our friends and family, not just follow them online. Real conversations are still very important.",
+  "questions": [
+    {
+      "question": "According to the text, what did people usually do to talk to a friend ten years ago?",
+      "options": [
+        "Send an email",
+        "Call them or see them",
+        "Post a photo",
+        "Join a group"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does Maria do when she goes on holiday?",
+      "options": [
+        "She stays home",
+        "She takes photos and posts them online",
+        "She calls her coach",
+        "She stops using her phone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What kind of group did Maria join?",
+      "options": [
+        "A running group",
+        "A cooking group",
+        "A study group",
+        "A music group"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do people do in Maria's group?",
+      "options": [
+        "Watch videos",
+        "Play games",
+        "Share recipes and have conversations",
+        "Sell photos"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does Maria get every day on her phone?",
+      "options": [
+        "Many phone calls",
+        "Many notifications about new posts",
+        "New passwords",
+        "New photos from a camera"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do some people think we should also do, besides following friends online?",
+      "options": [
+        "Stop using social media",
+        "Call our friends and family",
+        "Post more photos",
+        "Join more groups"
+      ],
+      "answer": 1
+    }
+  ]
+}

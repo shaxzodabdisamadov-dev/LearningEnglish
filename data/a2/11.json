@@ -1,0 +1,229 @@
+{
+  "id": 11,
+  "topic": "Public Transport",
+  "words": [
+    {
+      "word": "bus",
+      "pos": "noun",
+      "ipa": "/bʌs/",
+      "definition": "a large vehicle that carries many people along a fixed route.",
+      "example": "I take the bus to work every day.",
+      "uz": "avtobus"
+    },
+    {
+      "word": "train",
+      "pos": "noun",
+      "ipa": "/treɪn/",
+      "definition": "a vehicle that travels on rails and carries passengers or goods.",
+      "example": "The train arrived on time.",
+      "uz": "poyezd"
+    },
+    {
+      "word": "subway",
+      "pos": "noun",
+      "ipa": "/ˈsʌbweɪ/",
+      "definition": "an underground train system in a city.",
+      "example": "We took the subway to the museum.",
+      "uz": "metro"
+    },
+    {
+      "word": "taxi",
+      "pos": "noun",
+      "ipa": "/ˈtæksi/",
+      "definition": "a car with a driver that you pay to take you somewhere.",
+      "example": "We called a taxi to the airport.",
+      "uz": "taksi"
+    },
+    {
+      "word": "station",
+      "pos": "noun",
+      "ipa": "/ˈsteɪʃən/",
+      "definition": "a building where trains or buses stop for passengers.",
+      "example": "Meet me at the train station.",
+      "uz": "stansiya"
+    },
+    {
+      "word": "platform",
+      "pos": "noun",
+      "ipa": "/ˈplætfɔːrm/",
+      "definition": "the area at a station where you wait for a train.",
+      "example": "The train left from platform three.",
+      "uz": "peron"
+    },
+    {
+      "word": "fare",
+      "pos": "noun",
+      "ipa": "/fɛr/",
+      "definition": "the money you pay to travel on a bus, train, or taxi.",
+      "example": "The bus fare is two dollars.",
+      "uz": "yo'l haqi"
+    },
+    {
+      "word": "ticket",
+      "pos": "noun",
+      "ipa": "/ˈtɪkɪt/",
+      "definition": "a piece of paper that shows you have paid to travel.",
+      "example": "I bought a ticket at the machine.",
+      "uz": "chipta"
+    },
+    {
+      "word": "driver",
+      "pos": "noun",
+      "ipa": "/ˈdraɪvər/",
+      "definition": "a person who drives a vehicle.",
+      "example": "The bus driver was very friendly.",
+      "uz": "haydovchi"
+    },
+    {
+      "word": "passenger",
+      "pos": "noun",
+      "ipa": "/ˈpæsəndʒər/",
+      "definition": "a person traveling in a vehicle but not driving it.",
+      "example": "The bus was full of passengers.",
+      "uz": "yo'lovchi"
+    },
+    {
+      "word": "schedule",
+      "pos": "noun",
+      "ipa": "/ˈskɛdʒuːl/",
+      "definition": "a plan that shows the times of buses or trains.",
+      "example": "Check the schedule before you leave.",
+      "uz": "qatnov jadvali"
+    },
+    {
+      "word": "delay",
+      "pos": "noun",
+      "ipa": "/dɪˈleɪ/",
+      "definition": "a time when something happens later than planned.",
+      "example": "There was a delay because of the snow.",
+      "uz": "kechikish"
+    },
+    {
+      "word": "route",
+      "pos": "noun",
+      "ipa": "/ruːt/",
+      "definition": "the roads or way you follow to get somewhere.",
+      "example": "This bus route goes through the city center.",
+      "uz": "marshrut"
+    },
+    {
+      "word": "stop",
+      "pos": "noun",
+      "ipa": "/stɒp/",
+      "definition": "a place where a bus or train stops for passengers.",
+      "example": "Get off at the next stop.",
+      "uz": "bekat"
+    },
+    {
+      "word": "connection",
+      "pos": "noun",
+      "ipa": "/kəˈnɛkʃən/",
+      "definition": "a train or bus that you change to during a journey.",
+      "example": "We missed our connection in London.",
+      "uz": "transport almashinuvi"
+    },
+    {
+      "word": "crowded",
+      "pos": "adjective",
+      "ipa": "/ˈkraʊdɪd/",
+      "definition": "very full of people.",
+      "example": "The train was crowded during rush hour.",
+      "uz": "gavjum"
+    },
+    {
+      "word": "rush hour",
+      "pos": "phrase",
+      "ipa": "/ˈrʌʃ ˌaʊər/",
+      "definition": "the busy time of day when many people travel to or from work.",
+      "example": "Traffic is bad during rush hour.",
+      "uz": "band soatlar"
+    },
+    {
+      "word": "transport",
+      "pos": "noun",
+      "ipa": "/ˈtrænspɔːrt/",
+      "definition": "the system of vehicles used to move people or goods.",
+      "example": "Public transport is cheaper than driving.",
+      "uz": "transport"
+    },
+    {
+      "word": "ride",
+      "pos": "verb",
+      "ipa": "/raɪd/",
+      "definition": "to travel in or on a vehicle.",
+      "example": "I ride the bus to school every morning.",
+      "uz": "minib bormoq"
+    },
+    {
+      "word": "arrive",
+      "pos": "verb",
+      "ipa": "/əˈraɪv/",
+      "definition": "to reach a place at the end of a journey.",
+      "example": "The train should arrive at nine o'clock.",
+      "uz": "yetib kelmoq"
+    }
+  ],
+  "text": "Every morning, I use public transport to get to work. My house is near a bus stop, so I usually ride the bus to the train station. During rush hour, the streets are busy, and the bus is often crowded with passengers. Sometimes the bus driver has to wait because of traffic, which causes a small delay. At the station, I walk to platform two and wait for my train. I always check the schedule on my phone before I leave home, so I know the exact time. I buy my ticket at a machine, and I pay the fare with my card. My train route goes through three stations before it reaches the city center. Last week, there was a problem, and I missed my connection to the next train. I had to wait twenty minutes for another one, and I arrived at work late! Most days, though, everything works well, and I arrive on time. I like taking the train because it is faster than a taxi and cheaper too. Public transport can be crowded sometimes, but it is still the best way to travel around a big city.",
+  "questions": [
+    {
+      "question": "How does the writer usually get to the train station?",
+      "options": [
+        "By taxi",
+        "By bus",
+        "On foot the whole way",
+        "By car"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is the bus sometimes crowded?",
+      "options": [
+        "It is a holiday",
+        "It happens during rush hour",
+        "The bus is very small",
+        "There is a football match"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the writer do before leaving home?",
+      "options": [
+        "Calls a taxi",
+        "Buys a newspaper",
+        "Checks the train schedule",
+        "Talks to the driver"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What happened last week?",
+      "options": [
+        "The writer lost a ticket",
+        "The writer missed a connection",
+        "The bus broke down",
+        "The train station closed"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How long did the writer wait for another train?",
+      "options": [
+        "Ten minutes",
+        "Twenty minutes",
+        "One hour",
+        "Five minutes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the writer prefer the train to a taxi?",
+      "options": [
+        "It is more comfortable",
+        "It is faster and cheaper",
+        "It has better seats",
+        "It never gets crowded"
+      ],
+      "answer": 1
+    }
+  ]
+}

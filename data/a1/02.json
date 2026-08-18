@@ -1,0 +1,229 @@
+{
+  "id": 2,
+  "topic": "Food and Drinks",
+  "words": [
+    {
+      "word": "food",
+      "pos": "noun",
+      "ipa": "/fuːd/",
+      "definition": "things that people and animals eat",
+      "example": "I like Italian food.",
+      "uz": "ovqat"
+    },
+    {
+      "word": "drink",
+      "pos": "verb",
+      "ipa": "/drɪŋk/",
+      "definition": "to take liquid into your mouth and swallow it",
+      "example": "I drink water every day.",
+      "uz": "ichmoq"
+    },
+    {
+      "word": "water",
+      "pos": "noun",
+      "ipa": "/ˈwɔːtər/",
+      "definition": "a clear liquid that people and animals need to live",
+      "example": "Can I have a glass of water?",
+      "uz": "suv"
+    },
+    {
+      "word": "bread",
+      "pos": "noun",
+      "ipa": "/bred/",
+      "definition": "a common food made by baking flour and water",
+      "example": "She eats bread for breakfast.",
+      "uz": "non"
+    },
+    {
+      "word": "milk",
+      "pos": "noun",
+      "ipa": "/mɪlk/",
+      "definition": "a white liquid from cows that people drink",
+      "example": "He drinks milk every morning.",
+      "uz": "sut"
+    },
+    {
+      "word": "egg",
+      "pos": "noun",
+      "ipa": "/eɡ/",
+      "definition": "a round food laid by a chicken",
+      "example": "I eat an egg for breakfast.",
+      "uz": "tuxum"
+    },
+    {
+      "word": "rice",
+      "pos": "noun",
+      "ipa": "/raɪs/",
+      "definition": "small white or brown grains that people cook and eat",
+      "example": "We eat rice with vegetables.",
+      "uz": "guruch"
+    },
+    {
+      "word": "meat",
+      "pos": "noun",
+      "ipa": "/miːt/",
+      "definition": "the part of an animal that people cook and eat",
+      "example": "He doesn't eat meat.",
+      "uz": "go'sht"
+    },
+    {
+      "word": "fish",
+      "pos": "noun",
+      "ipa": "/fɪʃ/",
+      "definition": "an animal that lives in water and that people eat",
+      "example": "We have fish for dinner.",
+      "uz": "baliq"
+    },
+    {
+      "word": "fruit",
+      "pos": "noun",
+      "ipa": "/fruːt/",
+      "definition": "the sweet part of a plant that you can eat, like an apple",
+      "example": "Fruit is good for you.",
+      "uz": "meva"
+    },
+    {
+      "word": "vegetable",
+      "pos": "noun",
+      "ipa": "/ˈvedʒtəbəl/",
+      "definition": "a plant, or part of a plant, that people eat, like a carrot",
+      "example": "I eat vegetables every day.",
+      "uz": "sabzavot"
+    },
+    {
+      "word": "apple",
+      "pos": "noun",
+      "ipa": "/ˈæpəl/",
+      "definition": "a round fruit with red or green skin",
+      "example": "She eats an apple every day.",
+      "uz": "olma"
+    },
+    {
+      "word": "banana",
+      "pos": "noun",
+      "ipa": "/bəˈnænə/",
+      "definition": "a long yellow fruit",
+      "example": "He likes bananas.",
+      "uz": "banan"
+    },
+    {
+      "word": "coffee",
+      "pos": "noun",
+      "ipa": "/ˈkɔːfi/",
+      "definition": "a hot brown drink made from small beans",
+      "example": "My father drinks coffee in the morning.",
+      "uz": "kofe"
+    },
+    {
+      "word": "tea",
+      "pos": "noun",
+      "ipa": "/tiː/",
+      "definition": "a hot drink made with hot water and leaves",
+      "example": "We drink tea after dinner.",
+      "uz": "choy"
+    },
+    {
+      "word": "sugar",
+      "pos": "noun",
+      "ipa": "/ˈʃʊɡər/",
+      "definition": "a sweet white food that people put in drinks",
+      "example": "I don't like sugar in my tea.",
+      "uz": "shakar"
+    },
+    {
+      "word": "cheese",
+      "pos": "noun",
+      "ipa": "/tʃiːz/",
+      "definition": "a solid food made from milk",
+      "example": "I put cheese on my sandwich.",
+      "uz": "pishloq"
+    },
+    {
+      "word": "hungry",
+      "pos": "adjective",
+      "ipa": "/ˈhʌŋɡri/",
+      "definition": "wanting to eat food",
+      "example": "I am hungry now.",
+      "uz": "och"
+    },
+    {
+      "word": "thirsty",
+      "pos": "adjective",
+      "ipa": "/ˈθɜːrsti/",
+      "definition": "wanting to drink something",
+      "example": "She is thirsty after running.",
+      "uz": "chanqagan"
+    },
+    {
+      "word": "cook",
+      "pos": "verb",
+      "ipa": "/kʊk/",
+      "definition": "to make food ready to eat by heating it",
+      "example": "My mother cooks dinner every day.",
+      "uz": "pishirmoq"
+    }
+  ],
+  "text": "Every morning, my family eats breakfast together. My mother cooks eggs and bread for us. My father likes coffee, but I drink tea with a little sugar. My sister drinks milk because she likes it. We are hungry in the morning, so we eat a big breakfast. Sometimes we eat cheese with our bread too.\n\nAt lunch, we eat different food. We often have rice with vegetables and fish or meat. My mother says vegetables are good for our health. After lunch, I like to eat fruit, like an apple or a banana. When I am thirsty, I drink water.\n\nIn the evening, we cook dinner together. My father cooks meat, and I help him. We drink water with dinner, not soda. On weekends, we sometimes eat fish. Food is an important part of our family time. We talk and eat together every day. Good food makes us happy and strong.",
+  "questions": [
+    {
+      "question": "What does the writer's father drink in the morning?",
+      "options": [
+        "Tea",
+        "Coffee",
+        "Milk",
+        "Water"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the family eat a big breakfast?",
+      "options": [
+        "Because they are thirsty",
+        "Because they are hungry in the morning",
+        "Because it is dinner time",
+        "Because they like cheese"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do they eat with rice at lunch?",
+      "options": [
+        "Bread and butter",
+        "Vegetables and fish or meat",
+        "Fruit and sugar",
+        "Milk and eggs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which fruits does the writer mention?",
+      "options": [
+        "Apple and banana",
+        "Orange and grape",
+        "Apple and orange",
+        "Banana and mango"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who cooks dinner in the evening?",
+      "options": [
+        "The mother alone",
+        "The sister",
+        "The father, with the writer's help",
+        "A cook from a restaurant"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the family drink with dinner?",
+      "options": [
+        "Soda",
+        "Coffee",
+        "Water",
+        "Tea"
+      ],
+      "answer": 2
+    }
+  ]
+}

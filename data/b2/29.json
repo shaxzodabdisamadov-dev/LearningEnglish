@@ -1,0 +1,229 @@
+{
+  "id": 29,
+  "topic": "Climate Adaptation and Resilience",
+  "words": [
+    {
+      "word": "mitigate",
+      "pos": "verb",
+      "ipa": "/ˈmɪtɪgeɪt/",
+      "definition": "to make less severe or serious",
+      "example": "New building codes are designed to mitigate flood damage.",
+      "uz": "yumshatmoq"
+    },
+    {
+      "word": "resilience",
+      "pos": "noun",
+      "ipa": "/rɪˈzɪliəns/",
+      "definition": "the capacity to recover quickly from difficulties",
+      "example": "Investing in resilience helps communities recover faster after disasters.",
+      "uz": "tez tiklanish qobiliyati"
+    },
+    {
+      "word": "vulnerability",
+      "pos": "noun",
+      "ipa": "/ˌvʌlnərəˈbɪləti/",
+      "definition": "the state of being exposed to harm or damage",
+      "example": "Coastal towns face growing vulnerability to rising sea levels.",
+      "uz": "zarar ko'rishga moyillik"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adjective",
+      "ipa": "/səˈsteɪnəbəl/",
+      "definition": "able to be maintained without depleting resources",
+      "example": "The city invested in sustainable water management systems.",
+      "uz": "resurslarni tugatmaydigan, barqaror"
+    },
+    {
+      "word": "infrastructure",
+      "pos": "noun",
+      "ipa": "/ˈɪnfrəstrʌktʃər/",
+      "definition": "the basic physical systems of a society, such as roads and utilities",
+      "example": "Aging infrastructure struggled to cope with the intense storm.",
+      "uz": "infratuzilma"
+    },
+    {
+      "word": "displacement",
+      "pos": "noun",
+      "ipa": "/dɪsˈpleɪsmənt/",
+      "definition": "the forced movement of people from their homes or region",
+      "example": "Flooding caused the displacement of thousands of families.",
+      "uz": "majburiy ko'chirilish"
+    },
+    {
+      "word": "erosion",
+      "pos": "noun",
+      "ipa": "/ɪˈroʊʒən/",
+      "definition": "the gradual wearing away of land or soil, often by water or wind",
+      "example": "Coastal erosion has claimed several meters of beach each year.",
+      "uz": "tuproq eroziyasi (yuvilib ketishi)"
+    },
+    {
+      "word": "unprecedented",
+      "pos": "adjective",
+      "ipa": "/ʌnˈprɛsɪdɛntɪd/",
+      "definition": "never having happened or existed before",
+      "example": "The region experienced unprecedented flooding last summer.",
+      "uz": "misli ko'rilmagan"
+    },
+    {
+      "word": "adaptive",
+      "pos": "adjective",
+      "ipa": "/əˈdæptɪv/",
+      "definition": "capable of adjusting to new conditions",
+      "example": "Farmers are adopting adaptive techniques to cope with changing rainfall.",
+      "uz": "yangi sharoitga moslashuvchan"
+    },
+    {
+      "word": "proactive",
+      "pos": "adjective",
+      "ipa": "/proʊˈæktɪv/",
+      "definition": "taking action to control a situation before it happens rather than reacting",
+      "example": "City planners took a proactive approach to prevent future flooding.",
+      "uz": "oldindan chora ko'ruvchi"
+    },
+    {
+      "word": "exacerbate",
+      "pos": "verb",
+      "ipa": "/ɪgˈzæsərbeɪt/",
+      "definition": "to make a problem or situation worse",
+      "example": "Poor drainage systems exacerbated the effects of the storm.",
+      "uz": "muammoni yanada og'irlashtirmoq"
+    },
+    {
+      "word": "threshold",
+      "pos": "noun",
+      "ipa": "/ˈθrɛʃhoʊld/",
+      "definition": "the point at which a change or effect begins to occur",
+      "example": "Scientists warn that global temperatures are nearing a dangerous threshold.",
+      "uz": "o'zgarish boshlanadigan chegara"
+    },
+    {
+      "word": "contingency",
+      "pos": "noun",
+      "ipa": "/kənˈtɪndʒənsi/",
+      "definition": "a plan prepared for a possible future event or circumstance",
+      "example": "The government drafted a contingency plan for mass evacuation.",
+      "uz": "favqulodda holat uchun reja"
+    },
+    {
+      "word": "mitigation",
+      "pos": "noun",
+      "ipa": "/ˌmɪtɪˈgeɪʃən/",
+      "definition": "action taken to reduce the severity of something",
+      "example": "Emission mitigation remains central to international climate agreements.",
+      "uz": "og'irligini kamaytirish chorasi"
+    },
+    {
+      "word": "encroach",
+      "pos": "verb",
+      "ipa": "/ɪnˈkroʊtʃ/",
+      "definition": "to gradually intrude upon or advance into a territory",
+      "example": "Rising waters continue to encroach upon low-lying farmland.",
+      "uz": "asta-sekin bosib kirmoq"
+    },
+    {
+      "word": "resurgence",
+      "pos": "noun",
+      "ipa": "/rɪˈsɜːrdʒəns/",
+      "definition": "a renewed increase or occurrence of something",
+      "example": "There has been a resurgence of interest in traditional flood defenses.",
+      "uz": "qayta kuchayish, jonlanish"
+    },
+    {
+      "word": "deplete",
+      "pos": "verb",
+      "ipa": "/dɪˈpliːt/",
+      "definition": "to use up a resource",
+      "example": "Prolonged drought has depleted the region's groundwater supplies.",
+      "uz": "resursni sarflab tugatmoq"
+    },
+    {
+      "word": "viable",
+      "pos": "adjective",
+      "ipa": "/ˈvaɪəbəl/",
+      "definition": "capable of working successfully; feasible",
+      "example": "Relocating the entire village is not a financially viable option.",
+      "uz": "amalga oshirish mumkin"
+    },
+    {
+      "word": "jeopardize",
+      "pos": "verb",
+      "ipa": "/ˈdʒɛpərdaɪz/",
+      "definition": "to put something at risk of harm or destruction",
+      "example": "Delayed action could jeopardize the safety of coastal residents.",
+      "uz": "xavf ostiga qo'ymoq"
+    },
+    {
+      "word": "fortify",
+      "pos": "verb",
+      "ipa": "/ˈfɔːrtɪfaɪ/",
+      "definition": "to strengthen something against attack or damage",
+      "example": "Engineers worked to fortify the levees before the next storm season.",
+      "uz": "mustahkamlamoq"
+    }
+  ],
+  "text": "Given the unprecedented pace of coastal erosion, should governments continue investing in mitigation alone, or is it time to prioritize adaptive resilience instead? For decades, climate policy focused almost exclusively on mitigation, reducing emissions to prevent temperatures from crossing dangerous thresholds. Yet as rising seas encroach upon low-lying communities and extreme weather grows more frequent, many experts now argue that vulnerability itself must be addressed directly, rather than treated as a secondary concern. Sustainable infrastructure, designed to withstand flooding and heat rather than merely resist it temporarily, has become central to this proactive shift. Coastal cities are fortifying seawalls, while others are drafting contingency plans for displacement long before disaster forces evacuation. Critics warn that without such foresight, delayed action will only exacerbate future costs, jeopardizing both economies and human lives. Nevertheless, resources remain limited, and every dollar spent fortifying infrastructure is one not spent reducing emissions, a trade-off with no universally viable solution. Notwithstanding this tension, most researchers agree that resilience and mitigation are not competing strategies but complementary ones. Consequently, the most effective climate policy increasingly combines both: cutting emissions today while simultaneously preparing communities to adapt to changes that, however unwelcome, can no longer be avoided.",
+  "questions": [
+    {
+      "question": "What is the passage primarily discussing?",
+      "options": [
+        "The history of climate change denial",
+        "The debate between prioritizing emissions mitigation versus building adaptive resilience",
+        "A detailed technical guide to seawall construction",
+        "Why climate change is not a serious threat"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what has become central to the proactive shift in climate policy?",
+      "options": [
+        "Ignoring infrastructure entirely",
+        "Sustainable infrastructure designed to withstand flooding and heat",
+        "Reducing government spending on climate issues",
+        "Relying solely on emissions reduction"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage imply about spending trade-offs in climate policy?",
+      "options": [
+        "There is unlimited funding for both mitigation and resilience",
+        "Resources are limited, so investing in one area often means less for another",
+        "Mitigation and resilience require no financial resources",
+        "Adaptive resilience is always cheaper than mitigation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do critics warn will happen without proactive planning, according to the passage?",
+      "options": [
+        "Costs will decrease over time",
+        "Future costs will increase and jeopardize economies and lives",
+        "Coastal erosion will stop naturally",
+        "Displacement will become unnecessary"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone in this passage?",
+      "options": [
+        "Alarmist and exaggerated",
+        "Balanced and analytical, weighing competing priorities",
+        "Dismissive of climate science",
+        "Purely celebratory of current policy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What conclusion does the passage draw about mitigation and resilience?",
+      "options": [
+        "They are entirely incompatible strategies",
+        "They should be pursued together as complementary approaches",
+        "Only one should ever be chosen",
+        "Neither strategy is effective"
+      ],
+      "answer": 1
+    }
+  ]
+}

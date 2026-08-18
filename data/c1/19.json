@@ -1,0 +1,229 @@
+{
+  "id": 19,
+  "topic": "Constitutional Law and Civil Rights",
+  "words": [
+    {
+      "word": "jurisprudence",
+      "pos": "noun",
+      "ipa": "/ˌdʒʊərɪsˈpruːdəns/",
+      "definition": "the theory or philosophy of law, or a body of legal decisions and interpretations",
+      "example": "Constitutional jurisprudence has evolved considerably since the founding era.",
+      "uz": "huquqshunoslik (huquq falsafasi)"
+    },
+    {
+      "word": "precedent",
+      "pos": "noun",
+      "ipa": "/ˈprɛsɪdənt/",
+      "definition": "a previous legal decision or case that serves as an authoritative example or guide for future rulings",
+      "example": "The court declined to overturn the decades-old precedent, citing the principle of stare decisis.",
+      "uz": "presedent"
+    },
+    {
+      "word": "statute",
+      "pos": "noun",
+      "ipa": "/ˈstætʃuːt/",
+      "definition": "a written law formally enacted by a legislative body",
+      "example": "The statute was later challenged on the grounds that it exceeded the legislature's constitutional authority.",
+      "uz": "qonun hujjati"
+    },
+    {
+      "word": "unconstitutional",
+      "pos": "adjective",
+      "ipa": "/ˌʌnkɒnstɪˈtjuːʃənəl/",
+      "definition": "not in accordance with a political constitution; forbidden by constitutional law",
+      "example": "The justices ruled the surveillance program unconstitutional, finding it violated the Fourth Amendment.",
+      "uz": "konstitutsiyaga zid"
+    },
+    {
+      "word": "litigation",
+      "pos": "noun",
+      "ipa": "/ˌlɪtɪˈɡeɪʃən/",
+      "definition": "the process of taking legal action or engaging in a lawsuit",
+      "example": "Years of litigation preceded the landmark ruling that finally settled the matter.",
+      "uz": "sud jarayoni, da'vo yuritish"
+    },
+    {
+      "word": "plaintiff",
+      "pos": "noun",
+      "ipa": "/ˈpleɪntɪf/",
+      "definition": "a person who brings a case against another in a court of law",
+      "example": "The plaintiff argued that the statute violated her right to equal protection under the law.",
+      "uz": "da'vogar"
+    },
+    {
+      "word": "adjudicate",
+      "pos": "verb",
+      "ipa": "/əˈdʒuːdɪkeɪt/",
+      "definition": "to make a formal judgment on a disputed matter, typically in a court",
+      "example": "It fell to the Supreme Court to adjudicate the dispute between the federal government and the states.",
+      "uz": "sud tartibida hal qilmoq"
+    },
+    {
+      "word": "due process",
+      "pos": "noun phrase",
+      "ipa": "/djuː ˈproʊsɛs/",
+      "definition": "fair treatment through the normal judicial system, especially as a citizen's entitlement",
+      "example": "Detaining a suspect indefinitely without a hearing raises serious due process concerns.",
+      "uz": "tegishli (adolatli) sud tartib-taomili"
+    },
+    {
+      "word": "judicial review",
+      "pos": "noun phrase",
+      "ipa": "/dʒuːˈdɪʃəl rɪˈvjuː/",
+      "definition": "the power of courts to assess whether a law or governmental action complies with the constitution",
+      "example": "Judicial review allows courts to strike down legislation that conflicts with constitutional guarantees.",
+      "uz": "sud-konstitutsiyaviy nazorat"
+    },
+    {
+      "word": "entrench",
+      "pos": "verb",
+      "ipa": "/ɪnˈtrɛntʃ/",
+      "definition": "to establish something firmly and make it difficult to change or challenge",
+      "example": "Critics feared the ruling would entrench existing inequalities rather than dismantle them.",
+      "uz": "mustahkam (huquqiy jihatdan) o'rnatmoq"
+    },
+    {
+      "word": "redress",
+      "pos": "noun",
+      "ipa": "/rɪˈdrɛs/",
+      "definition": "remedy or compensation for a wrong or grievance",
+      "example": "Victims of the discriminatory policy sought redress through the federal courts.",
+      "uz": "huquqni tiklash, tovon"
+    },
+    {
+      "word": "discriminatory",
+      "pos": "adjective",
+      "ipa": "/dɪˈskrɪmɪnətɔːri/",
+      "definition": "making or showing an unjust or prejudicial distinction between different categories of people",
+      "example": "The law was struck down as discriminatory because it disproportionately burdened one racial group.",
+      "uz": "kamsituvchi"
+    },
+    {
+      "word": "equal protection",
+      "pos": "noun phrase",
+      "ipa": "/ˈiːkwəl prəˈtɛkʃən/",
+      "definition": "the constitutional guarantee that no person or group will be denied the same legal rights and protections as others in similar conditions",
+      "example": "The equal protection clause has been invoked in cases ranging from school desegregation to marriage rights.",
+      "uz": "teng huquqiy himoya"
+    },
+    {
+      "word": "sovereignty",
+      "pos": "noun",
+      "ipa": "/ˈsɒvrənti/",
+      "definition": "supreme power or authority, especially the right of a state or governing body to govern itself",
+      "example": "The tribal nation asserted its sovereignty in resisting federal encroachment on its jurisdiction.",
+      "uz": "suverenitet"
+    },
+    {
+      "word": "inalienable",
+      "pos": "adjective",
+      "ipa": "/ɪnˈeɪliənəbəl/",
+      "definition": "unable to be taken away from or given away by the possessor",
+      "example": "The declaration proclaims certain rights to be inalienable, existing independently of governmental grant.",
+      "uz": "ajralmas (huquq)"
+    },
+    {
+      "word": "dissent",
+      "pos": "noun",
+      "ipa": "/dɪˈsɛnt/",
+      "definition": "in a judicial context, a judge's formal disagreement with the majority opinion of a court",
+      "example": "In a scathing dissent, the justice warned that the majority's reasoning would erode fundamental protections.",
+      "uz": "sudyaning qarshi (alohida) fikri"
+    },
+    {
+      "word": "codify",
+      "pos": "verb",
+      "ipa": "/ˈkɒdɪfaɪ/",
+      "definition": "to arrange laws or rules into a systematic code; to formally set down a rule or principle",
+      "example": "Lawmakers moved to codify the protections that had previously existed only as judicial precedent.",
+      "uz": "kodifikatsiya qilmoq"
+    },
+    {
+      "word": "injunction",
+      "pos": "noun",
+      "ipa": "/ɪnˈdʒʌŋkʃən/",
+      "definition": "a judicial order restraining a person or entity from beginning or continuing an action, or compelling an action",
+      "example": "The court granted a temporary injunction, halting enforcement of the statute pending trial.",
+      "uz": "sudning taqiqlovchi (majburlovchi) buyrug'i"
+    },
+    {
+      "word": "disenfranchise",
+      "pos": "verb",
+      "ipa": "/ˌdɪsɪnˈfræntʃaɪz/",
+      "definition": "to deprive someone of the right to vote or of other rights of citizenship",
+      "example": "Historians have documented how literacy tests were used to disenfranchise eligible voters.",
+      "uz": "saylov huquqidan mahrum qilmoq"
+    },
+    {
+      "word": "arbitrary",
+      "pos": "adjective",
+      "ipa": "/ˈɑːrbɪtrɛri/",
+      "definition": "based on random choice or personal whim rather than reason, system, or fairness",
+      "example": "The court found the eligibility criteria arbitrary, lacking any rational connection to a legitimate government interest.",
+      "uz": "o'zboshimchalik bilan, asossiz"
+    }
+  ],
+  "text": "Few doctrines have shaped American jurisprudence as profoundly as judicial review, the power by which courts adjudicate whether a statute comports with constitutional guarantees. Proponents regard the doctrine as an indispensable check, ensuring that no legislative majority can trample the inalienable rights of a minority without redress. Critics, however, note that unelected judges wield considerable influence over policy when they declare a law unconstitutional, entrenching their own interpretive preferences under the guise of neutral adjudication. This tension surfaces most sharply in cases alleging discriminatory treatment, where plaintiffs invoke the equal protection guarantee to challenge statutes they contend rest on arbitrary distinctions rather than legitimate governmental purpose. Historically, litigation over voting restrictions illustrates the stakes: measures ostensibly designed to prevent fraud have, in practice, served to disenfranchise eligible voters, prompting courts to issue injunctions while the underlying disputes proceed. A memorable dissent can prove as consequential as the majority opinion it opposes, occasionally supplying the intellectual scaffolding for a future court to revisit settled precedent. Legislatures, for their part, can codify protections that once depended on judicial interpretation, though such statutes remain more vulnerable to repeal than constitutional guarantees themselves. Sovereignty, ultimately, is negotiated continuously among these competing institutions.",
+  "questions": [
+    {
+      "question": "What is the central tension the passage describes regarding judicial review?",
+      "options": [
+        "Between state and federal legislatures",
+        "Between judicial review as a check on majoritarian overreach and concern about unelected judges shaping policy",
+        "Between plaintiffs and defendants in civil suits",
+        "Between written statutes and unwritten customs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what historical pattern does litigation over voting restrictions reveal?",
+      "options": [
+        "Fraud-prevention measures have consistently increased voter turnout",
+        "Measures framed as preventing fraud have sometimes functioned to disenfranchise eligible voters",
+        "Courts have never intervened in voting rights disputes",
+        "Voting restrictions have had no discernible legal consequences"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What role does a judicial dissent play, according to the passage?",
+      "options": [
+        "It has no lasting legal or intellectual significance",
+        "It can supply reasoning that a future court later uses to revisit established precedent",
+        "It automatically overturns the majority ruling",
+        "It is only relevant to the losing party in the specific case"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the passage suggest that statutes codifying rights are less secure than constitutional guarantees?",
+      "options": [
+        "Because statutes are more difficult to interpret than constitutional text",
+        "Because statutes can be repealed more easily than constitutional protections",
+        "Because statutes are never subject to judicial review",
+        "Because constitutional guarantees do not require legislative support"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The phrase 'under the guise of neutral adjudication' implies which critique from opponents of judicial review?",
+      "options": [
+        "That judges are always entirely neutral and unbiased",
+        "That judges' claims of neutrality may mask the influence of their own interpretive preferences",
+        "That adjudication is a purely mechanical process with no room for interpretation",
+        "That judicial review has been formally abolished"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's overall rhetorical approach in this passage?",
+      "options": [
+        "Advocating exclusively for the abolition of judicial review",
+        "Presenting competing perspectives on judicial review's legitimacy without fully resolving the debate",
+        "Providing a purely historical timeline without analysis",
+        "Arguing that legislatures should have no role in protecting rights"
+      ],
+      "answer": 1
+    }
+  ]
+}

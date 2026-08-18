@@ -1,0 +1,229 @@
+{
+  "id": 13,
+  "topic": "Diplomacy, Power, and Global Order",
+  "words": [
+    {
+      "word": "multilateralism",
+      "pos": "noun",
+      "ipa": "/ˌmʌltiˈlætərəlɪzəm/",
+      "definition": "The practice of coordinating international policy among three or more countries, typically through formal institutions.",
+      "example": "The treaty exemplifies multilateralism, binding dozens of nations to a common set of emissions targets.",
+      "uz": "ko'p tomonlama hamkorlik siyosati"
+    },
+    {
+      "word": "hegemon",
+      "pos": "noun",
+      "ipa": "/ˈhedʒɪmɒn/",
+      "definition": "A state or entity that exercises dominant influence over others.",
+      "example": "Historians debate whether any single hegemon can indefinitely maintain global order alone.",
+      "uz": "gegemon davlat"
+    },
+    {
+      "word": "sovereignty",
+      "pos": "noun",
+      "ipa": "/ˈsɒvrənti/",
+      "definition": "The authority of a state to govern itself without external interference.",
+      "example": "The dispute centered on whether the intervention violated the smaller nation's sovereignty.",
+      "uz": "suverenitet"
+    },
+    {
+      "word": "brinkmanship",
+      "pos": "noun",
+      "ipa": "/ˈbrɪŋkmənʃɪp/",
+      "definition": "The practice of pursuing a dangerous policy to the limits of safety before stopping, especially in international relations.",
+      "example": "The standoff was a dangerous exercise in nuclear brinkmanship.",
+      "uz": "xavf chegarasida siyosat yuritish"
+    },
+    {
+      "word": "realpolitik",
+      "pos": "noun",
+      "ipa": "/reɪˈɑːlpɒlɪtiːk/",
+      "definition": "A system of politics based on practical and material factors rather than on ideals or moral considerations.",
+      "example": "The minister defended the alliance on grounds of realpolitik rather than shared values.",
+      "uz": "amaliy manfaatlarga asoslangan siyosat"
+    },
+    {
+      "word": "appeasement",
+      "pos": "noun",
+      "ipa": "/əˈpiːzmənt/",
+      "definition": "The policy of making political or material concessions to a hostile power to avoid conflict.",
+      "example": "Historians still argue over whether the 1938 agreement amounted to appeasement or prudent diplomacy.",
+      "uz": "yon berish (murosasozlik) siyosati"
+    },
+    {
+      "word": "deterrence",
+      "pos": "noun",
+      "ipa": "/dɪˈterəns/",
+      "definition": "The prevention of an action by instilling fear of the consequences.",
+      "example": "Nuclear deterrence rests on the credible threat of overwhelming retaliation.",
+      "uz": "qaytarish siyosati (oldini olish)"
+    },
+    {
+      "word": "unilateral",
+      "pos": "adjective",
+      "ipa": "/ˌjuːnɪˈlætərəl/",
+      "definition": "Undertaken by one party alone, without the agreement of others.",
+      "example": "The unilateral withdrawal from the treaty angered even the country's closest allies.",
+      "uz": "bir tomonlama"
+    },
+    {
+      "word": "proxy",
+      "pos": "noun",
+      "ipa": "/ˈprɒksi/",
+      "definition": "A person, group, or state authorized to act on behalf of another, especially in indirect conflict.",
+      "example": "The two rival powers fought a protracted proxy war rather than confronting each other directly.",
+      "uz": "bilvosita harakat qiluvchi vositachi"
+    },
+    {
+      "word": "entente",
+      "pos": "noun",
+      "ipa": "/ɒnˈtɒnt/",
+      "definition": "A friendly understanding or informal alliance between states.",
+      "example": "The two former adversaries gradually forged an entente after decades of hostility.",
+      "uz": "davlatlar o'rtasidagi do'stona kelishuv"
+    },
+    {
+      "word": "sanction",
+      "pos": "noun",
+      "ipa": "/ˈsæŋkʃən/",
+      "definition": "A punitive measure imposed by a state or international body to enforce compliance with a norm or law.",
+      "example": "The Security Council imposed sanctions in response to the violation of the ceasefire.",
+      "uz": "sanksiya (jazo choralari)"
+    },
+    {
+      "word": "destabilize",
+      "pos": "verb",
+      "ipa": "/diːˈsteɪbəlaɪz/",
+      "definition": "To undermine the stability of a political system or region.",
+      "example": "Foreign interference threatened to destabilize the fragile coalition government.",
+      "uz": "beqarorlashtirmoq"
+    },
+    {
+      "word": "rapprochement",
+      "pos": "noun",
+      "ipa": "/ræˈprɒʃmɒ̃/",
+      "definition": "The establishment or resumption of harmonious relations between previously hostile states.",
+      "example": "Years of quiet diplomacy finally produced a genuine rapprochement between the two nations.",
+      "uz": "munosabatlarni yaqinlashtirish"
+    },
+    {
+      "word": "autocracy",
+      "pos": "noun",
+      "ipa": "/ɔːˈtɒkrəsi/",
+      "definition": "A system of government in which absolute power is held by a single ruler.",
+      "example": "The report documented the steady slide from democracy toward autocracy.",
+      "uz": "avtokratiya (yakka hokimlik)"
+    },
+    {
+      "word": "multipolar",
+      "pos": "adjective",
+      "ipa": "/ˌmʌltiˈpəʊlər/",
+      "definition": "Characterized by several centers of power rather than one or two dominant states.",
+      "example": "Analysts increasingly describe the twenty-first century as a multipolar era rather than one dominated by a single power.",
+      "uz": "ko'p qutbli"
+    },
+    {
+      "word": "encroach",
+      "pos": "verb",
+      "ipa": "/ɪnˈkrəʊtʃ/",
+      "definition": "To intrude gradually and often unlawfully on another's territory, rights, or authority.",
+      "example": "The smaller nation accused its neighbor of encroaching on disputed border territory.",
+      "uz": "asta-sekin tajovuz qilmoq"
+    },
+    {
+      "word": "leverage",
+      "pos": "noun",
+      "ipa": "/ˈliːvərɪdʒ/",
+      "definition": "The power to influence people or situations, often derived from a position of strength.",
+      "example": "Control of the region's oil supply gave the country significant diplomatic leverage.",
+      "uz": "ta'sir o'tkazish vositasi (dastak)"
+    },
+    {
+      "word": "tacit",
+      "pos": "adjective",
+      "ipa": "/ˈtæsɪt/",
+      "definition": "Understood or implied without being directly stated.",
+      "example": "Both sides operated under a tacit understanding that the ceasefire line would not be crossed.",
+      "uz": "so'zsiz tushuniladigan, yashirin"
+    },
+    {
+      "word": "belligerent",
+      "pos": "adjective",
+      "ipa": "/bəˈlɪdʒərənt/",
+      "definition": "Hostile and aggressive, especially in the conduct of international affairs.",
+      "example": "The ambassador's belligerent rhetoric alarmed allies hoping for a peaceful resolution.",
+      "uz": "tajovuzkor, jangari"
+    },
+    {
+      "word": "equilibrium",
+      "pos": "noun",
+      "ipa": "/ˌiːkwɪˈlɪbriəm/",
+      "definition": "A state of balance among competing forces or interests.",
+      "example": "Diplomats worked for years to restore a fragile equilibrium among the region's rival factions.",
+      "uz": "muvozanat"
+    }
+  ],
+  "text": "The post-Cold War assumption that a single hegemon could indefinitely underwrite global equilibrium has given way to a more contested, multipolar reality, in which rising powers increasingly encroach on spheres of influence once considered settled. Advocates of realpolitik regard this shift as an overdue correction: institutions built on multilateralism, they argue, presuppose a tacit consensus about sovereignty and legitimate conduct that autocracies pursuing unilateral advantage rarely share. Deterrence, on this view, is not belligerent posturing but prudence—the leverage necessary to prevent smaller disputes from escalating through brinkmanship into open conflict. Critics counter that treating every rival as a threat to be deterred risks becoming a self-fulfilling prophecy, destabilizing regions through proxy confrontations that a genuine rapprochement might have forestalled. History offers cautionary tales in both directions: appeasement at Munich emboldened aggression, yet reflexive belligerence has proven equally capable of provoking the very conflicts it claims to prevent. What both camps generally concede, however reluctantly, is that sanctions and unilateral shows of force are poor substitutes for a durable entente; equilibrium among competing powers, in a genuinely multipolar order, is achieved through sustained diplomatic engagement rather than the accumulation of leverage alone.",
+  "questions": [
+    {
+      "question": "According to the passage, what do advocates of realpolitik believe about multilateral institutions?",
+      "options": [
+        "That they function well regardless of who participates",
+        "That they presuppose a shared tacit consensus that autocracies rarely honor",
+        "That they should be abolished immediately and without exception",
+        "That they automatically guarantee equilibrium among nations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's discussion of Munich and appeasement serves to",
+      "options": [
+        "Prove that appeasement always succeeds in preventing war",
+        "Illustrate that neither excessive concession nor reflexive belligerence reliably prevents conflict",
+        "Argue that deterrence is always immoral and should be abandoned",
+        "Dismiss historical analogies as entirely useless in diplomacy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What common ground does the author claim both 'camps' (realpolitik advocates and their critics) ultimately share?",
+      "options": [
+        "That sanctions and unilateral force are ultimately poor substitutes for a durable diplomatic relationship",
+        "That autocracies should be excluded from all international institutions",
+        "That deterrence should be abandoned as a strategy entirely",
+        "That multipolarity is inherently undesirable"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How does the author characterize the shift from a unipolar to a multipolar order?",
+      "options": [
+        "As an unambiguous catastrophe for global stability",
+        "As a contested reality that challenges old assumptions while also offering a corrective, depending on perspective",
+        "As entirely irrelevant to diplomatic practice",
+        "As a temporary anomaly certain to reverse itself soon"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is implied by the phrase 'self-fulfilling prophecy' in relation to treating rivals as threats?",
+      "options": [
+        "Expecting hostility from a rival can itself provoke the very hostility anticipated",
+        "Prophecies are a common feature of formal diplomacy",
+        "Rivals never actually pose any real threat to one another",
+        "Deterrence always succeeds once it is declared"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The passage's concluding sentence suggests that lasting international stability depends primarily on",
+      "options": [
+        "Accumulating as much leverage as possible over rivals",
+        "Sustained diplomatic engagement rather than coercive tools alone",
+        "Unilateral military dominance over weaker states",
+        "Strict autocratic control of foreign policy"
+      ],
+      "answer": 1
+    }
+  ]
+}

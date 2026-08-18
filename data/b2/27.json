@@ -1,0 +1,229 @@
+{
+  "id": 27,
+  "topic": "Sports Science and Performance",
+  "words": [
+    {
+      "word": "endurance",
+      "pos": "noun",
+      "ipa": "/ɪnˈdʊərəns/",
+      "definition": "the ability to sustain prolonged physical or mental effort",
+      "example": "Marathon training gradually builds an athlete's endurance.",
+      "uz": "chidamlilik, bardoshlilik"
+    },
+    {
+      "word": "physiology",
+      "pos": "noun",
+      "ipa": "/ˌfɪziˈɒlədʒi/",
+      "definition": "the study of how living organisms and their parts function",
+      "example": "Understanding physiology helps coaches design safer training programs.",
+      "uz": "fiziologiya"
+    },
+    {
+      "word": "exertion",
+      "pos": "noun",
+      "ipa": "/ɪgˈzɜːrʃən/",
+      "definition": "vigorous or determined physical effort",
+      "example": "After such intense exertion, the runner needed several days to recover.",
+      "uz": "jismoniy zo'r berish"
+    },
+    {
+      "word": "regimen",
+      "pos": "noun",
+      "ipa": "/ˈrɛdʒɪmən/",
+      "definition": "a structured plan of diet, exercise, or medical treatment",
+      "example": "The swimmer follows a strict daily training regimen.",
+      "uz": "mashg'ulot-parhez tartibi"
+    },
+    {
+      "word": "optimize",
+      "pos": "verb",
+      "ipa": "/ˈɒptɪmaɪz/",
+      "definition": "to make the best or most effective use of something",
+      "example": "Nutritionists help athletes optimize their diets for peak performance.",
+      "uz": "eng samarali holga keltirmoq"
+    },
+    {
+      "word": "fatigue",
+      "pos": "noun",
+      "ipa": "/fəˈtiːg/",
+      "definition": "extreme tiredness resulting from physical or mental exertion",
+      "example": "Muscle fatigue set in during the final lap of the race.",
+      "uz": "charchoq"
+    },
+    {
+      "word": "metabolism",
+      "pos": "noun",
+      "ipa": "/məˈtæbəlɪzəm/",
+      "definition": "the chemical processes in the body that convert food into energy",
+      "example": "A faster metabolism allows some athletes to recover energy more quickly.",
+      "uz": "moddalar almashinuvi"
+    },
+    {
+      "word": "peak",
+      "pos": "noun",
+      "ipa": "/piːk/",
+      "definition": "the point of highest performance or achievement",
+      "example": "The gymnast reached her peak just before the Olympic trials.",
+      "uz": "eng yuqori natija cho'qqisi"
+    },
+    {
+      "word": "resilience",
+      "pos": "noun",
+      "ipa": "/rɪˈzɪliəns/",
+      "definition": "the capacity to recover quickly from difficulty or setback",
+      "example": "Mental resilience helped her return to competition after the injury.",
+      "uz": "tez tiklanish qobiliyati"
+    },
+    {
+      "word": "rehabilitation",
+      "pos": "noun",
+      "ipa": "/ˌriːəˌbɪlɪˈteɪʃən/",
+      "definition": "the process of restoring someone to health after injury",
+      "example": "He spent six months in rehabilitation after tearing his ligament.",
+      "uz": "jarohatdan keyin tiklanish davolash"
+    },
+    {
+      "word": "threshold",
+      "pos": "noun",
+      "ipa": "/ˈθrɛʃhoʊld/",
+      "definition": "the point at which a physiological effect begins to occur",
+      "example": "Pushing past the lactate threshold increases muscular endurance.",
+      "uz": "fiziologik chegara (bo'sag'a)"
+    },
+    {
+      "word": "sustain",
+      "pos": "verb",
+      "ipa": "/səˈsteɪn/",
+      "definition": "to keep something going over a period of time",
+      "example": "Few runners can sustain that pace for an entire marathon.",
+      "uz": "davom ettirib turmoq"
+    },
+    {
+      "word": "taper",
+      "pos": "verb",
+      "ipa": "/ˈteɪpər/",
+      "definition": "to gradually reduce training intensity before a competition",
+      "example": "Coaches told the swimmers to taper their training the week before the meet.",
+      "uz": "musobaqa oldidan mashqni asta pasaytirish"
+    },
+    {
+      "word": "deplete",
+      "pos": "verb",
+      "ipa": "/dɪˈpliːt/",
+      "definition": "to use up the supply of something, such as energy",
+      "example": "Long endurance events can severely deplete glycogen stores.",
+      "uz": "energiya zaxirasini sarflab tugatmoq"
+    },
+    {
+      "word": "cognitive",
+      "pos": "adjective",
+      "ipa": "/ˈkɒgnɪtɪv/",
+      "definition": "relating to mental processes such as thinking and reasoning",
+      "example": "Fatigue can impair an athlete's cognitive focus during competition.",
+      "uz": "aqliy, kognitiv"
+    },
+    {
+      "word": "biomechanics",
+      "pos": "noun",
+      "ipa": "/ˌbaɪoʊməˈkænɪks/",
+      "definition": "the study of the mechanical laws relating to movement of living organisms",
+      "example": "Analyzing biomechanics helped the coach correct her running form.",
+      "uz": "biomexanika"
+    },
+    {
+      "word": "overtraining",
+      "pos": "noun",
+      "ipa": "/ˌoʊvərˈtreɪnɪŋ/",
+      "definition": "excessive physical training that leads to decreased performance and fatigue",
+      "example": "Overtraining left the athlete exhausted and prone to injury.",
+      "uz": "ortiqcha mashq qilib charchatish"
+    },
+    {
+      "word": "marginal",
+      "pos": "adjective",
+      "ipa": "/ˈmɑːrdʒɪnəl/",
+      "definition": "relating to a small or minor difference or improvement",
+      "example": "Elite teams now focus on marginal gains in every aspect of training.",
+      "uz": "sezilarsiz, kichik"
+    },
+    {
+      "word": "attain",
+      "pos": "verb",
+      "ipa": "/əˈteɪn/",
+      "definition": "to succeed in achieving something through effort",
+      "example": "It took years of discipline to attain such a high level of skill.",
+      "uz": "harakat bilan erishmoq"
+    },
+    {
+      "word": "plateau",
+      "pos": "noun",
+      "ipa": "/plæˈtoʊ/",
+      "definition": "a period during which progress stops or levels off",
+      "example": "After rapid early gains, her progress reached a frustrating plateau.",
+      "uz": "taraqqiyot to'xtab qolgan davr"
+    }
+  ],
+  "text": "How is it that two athletes following seemingly identical training regimens can produce vastly different results? The answer often lies in the subtle interplay between physiology and recovery. Elite coaches no longer chase dramatic overhauls; instead, they pursue marginal gains, tiny adjustments to biomechanics, nutrition, or sleep that, compounded over months, help an athlete attain peak performance. Pushing the body past its lactate threshold builds endurance, yet prolonged exertion without adequate rest can deplete energy reserves and trigger overtraining, a condition in which fatigue accumulates faster than the metabolism can repair damaged tissue. Consequently, most elite programs deliberately taper training intensity in the days before competition, allowing the body to sustain effort when it matters most rather than peaking too early. Rehabilitation, too, has evolved considerably; what was once viewed merely as physical recovery now incorporates cognitive strategies, since mental resilience often determines whether an athlete returns from injury stronger or simply reaches a frustrating plateau. Were performance purely a matter of willpower, training science would be unnecessary. Instead, sustained success demands a carefully optimized balance between exertion and rest, a lesson many ambitious amateurs learn only after injury forces them to slow down.",
+  "questions": [
+    {
+      "question": "What is the main focus of the passage?",
+      "options": [
+        "The history of professional sports competitions",
+        "How careful management of training, recovery, and marginal improvements leads to peak athletic performance",
+        "The dangers of extreme dieting for athletes",
+        "Why willpower alone determines sporting success"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what do elite coaches now prioritize over dramatic training overhauls?",
+      "options": [
+        "Marginal gains from small adjustments",
+        "Longer training sessions",
+        "Strict avoidance of any rest",
+        "Ignoring biomechanics entirely"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about overtraining based on the passage?",
+      "options": [
+        "It results from too much rest and insufficient exertion",
+        "It occurs when fatigue builds up faster than the body can recover",
+        "It has no connection to metabolism",
+        "It always improves an athlete's endurance"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why do elite programs taper training intensity before competitions?",
+      "options": [
+        "To allow the body to recover and sustain peak effort when needed",
+        "To reduce the athlete's overall fitness",
+        "To increase the risk of injury",
+        "To eliminate the need for a regimen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the author's purpose in this passage?",
+      "options": [
+        "To criticize modern sports science as ineffective",
+        "To explain the physiological and strategic factors behind elite athletic performance",
+        "To tell the personal story of one athlete",
+        "To argue that rehabilitation is unnecessary"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest happens to many ambitious amateurs?",
+      "options": [
+        "They naturally understand training science without experience",
+        "They often learn the importance of balancing exertion and rest only after being injured",
+        "They always outperform professional athletes",
+        "They avoid injury by ignoring rest"
+      ],
+      "answer": 1
+    }
+  ]
+}

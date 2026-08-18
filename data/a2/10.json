@@ -1,0 +1,229 @@
+{
+  "id": 10,
+  "topic": "Travel and Tourism",
+  "words": [
+    {
+      "word": "travel",
+      "pos": "verb",
+      "ipa": "/ˈtrævəl/",
+      "definition": "to go from one place to another, often to a different country.",
+      "example": "We love to travel in summer.",
+      "uz": "sayohat qilmoq"
+    },
+    {
+      "word": "trip",
+      "pos": "noun",
+      "ipa": "/trɪp/",
+      "definition": "a journey to a place and back.",
+      "example": "We took a trip to the mountains.",
+      "uz": "sayohat"
+    },
+    {
+      "word": "journey",
+      "pos": "noun",
+      "ipa": "/ˈdʒɜːrni/",
+      "definition": "the act of traveling from one place to another.",
+      "example": "The journey took six hours by train.",
+      "uz": "safar"
+    },
+    {
+      "word": "tourist",
+      "pos": "noun",
+      "ipa": "/ˈtʊrɪst/",
+      "definition": "a person who visits a place for pleasure.",
+      "example": "Many tourists visit the old city every year.",
+      "uz": "turist"
+    },
+    {
+      "word": "passport",
+      "pos": "noun",
+      "ipa": "/ˈpæspɔːrt/",
+      "definition": "an official document you need to travel to another country.",
+      "example": "Don't forget your passport at the airport.",
+      "uz": "pasport"
+    },
+    {
+      "word": "luggage",
+      "pos": "noun",
+      "ipa": "/ˈlʌɡɪdʒ/",
+      "definition": "the bags and cases you take with you when you travel.",
+      "example": "We packed our luggage the night before.",
+      "uz": "bagaj"
+    },
+    {
+      "word": "hotel",
+      "pos": "noun",
+      "ipa": "/hoʊˈtɛl/",
+      "definition": "a building where you pay to sleep when you travel.",
+      "example": "We stayed in a small hotel near the beach.",
+      "uz": "mehmonxona"
+    },
+    {
+      "word": "book",
+      "pos": "verb",
+      "ipa": "/bʊk/",
+      "definition": "to arrange to have a room, ticket, or seat before you arrive.",
+      "example": "I booked our flights online.",
+      "uz": "band qilmoq"
+    },
+    {
+      "word": "ticket",
+      "pos": "noun",
+      "ipa": "/ˈtɪkɪt/",
+      "definition": "a piece of paper that shows you have paid to travel or enter somewhere.",
+      "example": "She bought a ticket for the train.",
+      "uz": "chipta"
+    },
+    {
+      "word": "abroad",
+      "pos": "adverb",
+      "ipa": "/əˈbrɔːd/",
+      "definition": "in or to a foreign country.",
+      "example": "They went abroad for their holiday.",
+      "uz": "chet elda"
+    },
+    {
+      "word": "destination",
+      "pos": "noun",
+      "ipa": "/ˌdɛstɪˈneɪʃən/",
+      "definition": "the place where someone is going.",
+      "example": "Paris was our final destination.",
+      "uz": "borish joyi"
+    },
+    {
+      "word": "suitcase",
+      "pos": "noun",
+      "ipa": "/ˈsuːtkeɪs/",
+      "definition": "a case with a handle for carrying clothes when you travel.",
+      "example": "He packed his suitcase quickly.",
+      "uz": "chamodon"
+    },
+    {
+      "word": "map",
+      "pos": "noun",
+      "ipa": "/mæp/",
+      "definition": "a drawing that shows where places are.",
+      "example": "We used a map to find the museum.",
+      "uz": "xarita"
+    },
+    {
+      "word": "guide",
+      "pos": "noun",
+      "ipa": "/ɡaɪd/",
+      "definition": "a person who shows tourists around a place.",
+      "example": "Our guide told us about the castle's history.",
+      "uz": "gid"
+    },
+    {
+      "word": "sightseeing",
+      "pos": "noun",
+      "ipa": "/ˈsaɪtsiːɪŋ/",
+      "definition": "visiting interesting places as a tourist.",
+      "example": "We spent the day sightseeing in the old town.",
+      "uz": "diqqatga sazovor joylarni ko'rish"
+    },
+    {
+      "word": "souvenir",
+      "pos": "noun",
+      "ipa": "/ˌsuːvəˈnɪr/",
+      "definition": "a small item you buy to remember a place you visited.",
+      "example": "I bought a souvenir from the market.",
+      "uz": "suvenir"
+    },
+    {
+      "word": "beach",
+      "pos": "noun",
+      "ipa": "/biːtʃ/",
+      "definition": "an area of sand or stones next to the sea.",
+      "example": "We relaxed on the beach all afternoon.",
+      "uz": "plyaj"
+    },
+    {
+      "word": "adventure",
+      "pos": "noun",
+      "ipa": "/ədˈvɛntʃər/",
+      "definition": "an exciting or unusual experience.",
+      "example": "Climbing the mountain was a great adventure.",
+      "uz": "sarguzasht"
+    },
+    {
+      "word": "culture",
+      "pos": "noun",
+      "ipa": "/ˈkʌltʃər/",
+      "definition": "the way of life, customs, and art of a group of people.",
+      "example": "We learned about the local culture.",
+      "uz": "madaniyat"
+    },
+    {
+      "word": "currency",
+      "pos": "noun",
+      "ipa": "/ˈkʌrənsi/",
+      "definition": "the money used in a particular country.",
+      "example": "We changed our money into the local currency.",
+      "uz": "valyuta"
+    }
+  ],
+  "text": "Last summer, my sister and I decided to travel abroad for the first time. We planned a two-week trip to Italy. First, we had to check our passports and book our flights and hotel online. Before we left, we packed our suitcases carefully and put all our luggage in the car. The journey to the airport took about an hour, and we showed our tickets at the gate. When we arrived, we felt so excited! Our destination was a small town near the sea, with a beautiful beach and old streets full of history. Every day, we went sightseeing with a friendly local guide who told us stories about the culture and the town's past. We also used a paper map to explore on our own because it felt like a real adventure. In the evenings, we visited the market to buy souvenirs for our family. We had to change our money into the local currency before we could buy anything. By the end of the trip, we were tired but very happy. It was one of the best adventures of our lives, and we already want to travel again next year.",
+  "questions": [
+    {
+      "question": "Where did the sisters travel to?",
+      "options": [
+        "France",
+        "Italy",
+        "Spain",
+        "Greece"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did they do before they left home?",
+      "options": [
+        "Bought a car",
+        "Learned Italian",
+        "Packed suitcases and booked flights",
+        "Sold their house"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was special about their destination?",
+      "options": [
+        "It was a big city",
+        "It was a small town near the sea",
+        "It was in the mountains",
+        "It was a famous island"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who told them stories about the town's history?",
+      "options": [
+        "A taxi driver",
+        "A local guide",
+        "A hotel worker",
+        "A shop owner"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why did they use a paper map?",
+      "options": [
+        "Their phone was broken",
+        "It felt like a real adventure",
+        "The guide told them to",
+        "They couldn't afford a phone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did they need before buying souvenirs?",
+      "options": [
+        "A passport",
+        "A ticket",
+        "Local currency",
+        "A suitcase"
+      ],
+      "answer": 2
+    }
+  ]
+}

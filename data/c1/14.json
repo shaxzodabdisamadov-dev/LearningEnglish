@@ -1,0 +1,229 @@
+{
+  "id": 14,
+  "topic": "Environmental Economics and Policy Trade-offs",
+  "words": [
+    {
+      "word": "externality",
+      "pos": "noun",
+      "ipa": "/ɪkˈstɜːnəlɪti/",
+      "definition": "A cost or benefit resulting from an economic activity that affects a third party not involved in the transaction.",
+      "example": "Air pollution from the factory is a classic negative externality borne by nearby residents.",
+      "uz": "tashqi (iqtisodiy) ta'sir"
+    },
+    {
+      "word": "carbon tax",
+      "pos": "noun",
+      "ipa": "/ˈkɑːbən tæks/",
+      "definition": "A levy imposed on the carbon content of fuels to discourage emissions.",
+      "example": "Economists broadly favor a carbon tax as an efficient way to price emissions.",
+      "uz": "uglerod solig'i"
+    },
+    {
+      "word": "subsidize",
+      "pos": "verb",
+      "ipa": "/ˈsʌbsɪdaɪz/",
+      "definition": "To support financially, typically to reduce the cost of a good or activity.",
+      "example": "The government decided to subsidize solar panel installation to accelerate the energy transition.",
+      "uz": "moliyaviy qo'llab-quvvatlamoq (subsidiya)"
+    },
+    {
+      "word": "mitigate",
+      "pos": "verb",
+      "ipa": "/ˈmɪtɪɡeɪt/",
+      "definition": "To make less severe, serious, or painful.",
+      "example": "Wetland restoration can mitigate the impact of coastal flooding.",
+      "uz": "yumshatmoq"
+    },
+    {
+      "word": "unsustainable",
+      "pos": "adjective",
+      "ipa": "/ˌʌnsəˈsteɪnəbl/",
+      "definition": "Unable to be maintained at the current rate or level without causing harm.",
+      "example": "Current rates of groundwater extraction in the region are widely regarded as unsustainable.",
+      "uz": "barqaror bo'lmagan"
+    },
+    {
+      "word": "depletion",
+      "pos": "noun",
+      "ipa": "/dɪˈpliːʃən/",
+      "definition": "The reduction in the quantity of a resource.",
+      "example": "Overfishing has accelerated the depletion of several commercially important species.",
+      "uz": "resursning kamayib ketishi"
+    },
+    {
+      "word": "regulatory",
+      "pos": "adjective",
+      "ipa": "/ˈreɡjʊlətəri/",
+      "definition": "Relating to rules imposed by an authority to control behavior or activity.",
+      "example": "The new regulatory framework requires companies to disclose their carbon emissions annually.",
+      "uz": "tartibga soluvchi"
+    },
+    {
+      "word": "trade-off",
+      "pos": "noun",
+      "ipa": "/ˈtreɪd ɒf/",
+      "definition": "A balance achieved between two desirable but incompatible outcomes, gaining one at the expense of the other.",
+      "example": "Policymakers face a genuine trade-off between short-term economic growth and long-term environmental stability.",
+      "uz": "murosali tanlov (bir narsadan voz kechish)"
+    },
+    {
+      "word": "incremental",
+      "pos": "adjective",
+      "ipa": "/ˌɪnkrəˈmentəl/",
+      "definition": "Occurring gradually, in small successive stages.",
+      "example": "Rather than a single dramatic reform, the country pursued incremental reductions in emissions each year.",
+      "uz": "bosqichma-bosqich"
+    },
+    {
+      "word": "viable",
+      "pos": "adjective",
+      "ipa": "/ˈvaɪəbl/",
+      "definition": "Capable of working successfully; feasible.",
+      "example": "Battery storage is becoming a commercially viable solution to renewable energy's intermittency problem.",
+      "uz": "amalga oshirish mumkin bo'lgan"
+    },
+    {
+      "word": "commodification",
+      "pos": "noun",
+      "ipa": "/kəˌmɒdɪfɪˈkeɪʃən/",
+      "definition": "The process of treating something as a marketable commodity.",
+      "example": "Some economists question the commodification of ecosystem services through carbon credit markets.",
+      "uz": "tovarlashtirish"
+    },
+    {
+      "word": "disproportionate",
+      "pos": "adjective",
+      "ipa": "/ˌdɪsprəˈpɔːʃənət/",
+      "definition": "Too large or small in relation to something else; out of proportion.",
+      "example": "Low-income households often bear a disproportionate share of the costs of environmental degradation.",
+      "uz": "nomutanosib"
+    },
+    {
+      "word": "curtail",
+      "pos": "verb",
+      "ipa": "/kɜːˈteɪl/",
+      "definition": "To reduce or restrict something, especially a right or privilege.",
+      "example": "New emissions standards are designed to curtail industrial pollution significantly.",
+      "uz": "qisqartirmoq, cheklamoq"
+    },
+    {
+      "word": "degradation",
+      "pos": "noun",
+      "ipa": "/ˌdeɡrəˈdeɪʃən/",
+      "definition": "The process of deterioration, especially of environmental quality.",
+      "example": "Decades of deforestation have caused severe soil degradation across the region.",
+      "uz": "atrof-muhit sifatining yomonlashuvi"
+    },
+    {
+      "word": "stopgap",
+      "pos": "adjective",
+      "ipa": "/ˈstɒpɡæp/",
+      "definition": "Serving as a temporary substitute or expedient measure.",
+      "example": "Diesel generators were installed as a stopgap measure until the grid could be repaired.",
+      "uz": "vaqtinchalik chora sifatidagi"
+    },
+    {
+      "word": "entail",
+      "pos": "verb",
+      "ipa": "/ɪnˈteɪl/",
+      "definition": "To involve something as a necessary or inevitable consequence.",
+      "example": "Transitioning to renewable energy will entail significant upfront investment.",
+      "uz": "taqozo etmoq, o'z ichiga olmoq"
+    },
+    {
+      "word": "offset",
+      "pos": "noun",
+      "ipa": "/ˈɒfset/",
+      "definition": "An action or arrangement that compensates for or counterbalances an equivalent action elsewhere, e.g., a carbon offset.",
+      "example": "The airline allows passengers to purchase a carbon offset to compensate for their flight's emissions.",
+      "uz": "kompensatsiya qiluvchi chora"
+    },
+    {
+      "word": "protracted",
+      "pos": "adjective",
+      "ipa": "/prəˈtræktɪd/",
+      "definition": "Lasting for a long time or longer than expected, especially unpleasantly so.",
+      "example": "The protracted negotiations over emissions targets dragged on for nearly a decade.",
+      "uz": "cho'zilgan, kutilganidan uzoq davom etgan"
+    },
+    {
+      "word": "redress",
+      "pos": "verb",
+      "ipa": "/rɪˈdres/",
+      "definition": "To remedy or set right an injustice or wrong.",
+      "example": "The fund was established to redress the damage caused by decades of industrial pollution.",
+      "uz": "adolatni tiklamoq, tuzatmoq"
+    },
+    {
+      "word": "austerity",
+      "pos": "noun",
+      "ipa": "/ɒˈsterəti/",
+      "definition": "Conditions characterized by reduced expenditure and consumption, especially imposed as economic policy.",
+      "example": "Critics argued that austerity measures should not come at the expense of environmental protections.",
+      "uz": "qattiq tejamkorlik siyosati"
+    }
+  ],
+  "text": "Environmental economics is, at its core, the study of how to price what markets routinely misprice: pollution is a textbook externality, a cost quietly displaced onto third parties who never consented to bear it. A carbon tax addresses this directly, internalizing the true price of emissions and thereby prompting firms to curtail unsustainable practices without dictating precisely how. Regulatory mandates, by contrast, can mitigate depletion and degradation more predictably but often at the cost of flexibility, imposing disproportionate burdens on industries for which no immediately viable low-carbon alternative yet exists. Subsidizing renewable energy is frequently proposed as a stopgap solution, though critics note that subsidies can entail their own distortions, propping up technologies that might otherwise fail to achieve genuine market viability. Carbon offsets present a further complication: they promise to redress emissions elsewhere, yet the commodification of atmospheric carbon has produced markets rife with dubious accounting. None of this reduces to a simple trade-off between economic growth and environmental protection; rather, policymakers face a protracted sequence of incremental decisions, each entailing real costs, in which austerity for its own sake is no more defensible than unregulated growth. The question is not whether adjustment is necessary, but who bears it, and how fairly.",
+  "questions": [
+    {
+      "question": "According to the passage, what problem does a carbon tax attempt to solve?",
+      "options": [
+        "The fact that markets fail to price the externality of pollution",
+        "The high cost of renewable energy technology",
+        "The overregulation of heavy industry",
+        "The depletion of government tax revenue"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What advantage does the author attribute to a carbon tax over regulatory mandates?",
+      "options": [
+        "It guarantees identical outcomes for every industry",
+        "It lets firms decide how to reduce emissions rather than dictating specific methods",
+        "It eliminates the need for any environmental policy whatsoever",
+        "It is legally easier to repeal than regulation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What criticism does the passage raise about subsidies for renewable energy?",
+      "options": [
+        "They are illegal under international trade law",
+        "They may distort markets by sustaining technologies that are not yet independently viable",
+        "They always fail to reduce emissions",
+        "They have no measurable effect on the energy sector"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's view of carbon offset markets?",
+      "options": [
+        "Entirely reliable and beyond any criticism",
+        "Complicated by dubious accounting practices stemming from the commodification of atmospheric carbon",
+        "Irrelevant to environmental policy debates",
+        "More effective than carbon taxes at reducing emissions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The passage's final sentence ('The question is not whether adjustment is necessary, but who bears it, and how fairly') implies that the author considers which issue most important?",
+      "options": [
+        "Whether environmental policy is needed at all",
+        "The distribution of costs among different groups in society",
+        "The exact dollar amount of a proposed carbon tax",
+        "Whether austerity should be abandoned entirely"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which best describes the overall rhetorical approach of the passage?",
+      "options": [
+        "It advocates for one single policy solution as clearly superior to all others",
+        "It weighs multiple policy tools, noting the trade-offs and limitations of each rather than endorsing one exclusively",
+        "It argues that environmental economics is fundamentally a pseudoscience",
+        "It focuses solely on historical case studies with no policy analysis"
+      ],
+      "answer": 1
+    }
+  ]
+}

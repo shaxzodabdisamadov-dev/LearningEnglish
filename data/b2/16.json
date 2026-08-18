@@ -1,0 +1,229 @@
+{
+  "id": 16,
+  "topic": "Space Exploration and Scientific Discovery",
+  "words": [
+    {
+      "word": "propel",
+      "pos": "verb",
+      "ipa": "/prəˈpɛl/",
+      "definition": "to drive or push something forward, often with force",
+      "example": "The rocket engines propelled the spacecraft toward orbit.",
+      "uz": "oldinga itarmoq"
+    },
+    {
+      "word": "trajectory",
+      "pos": "noun",
+      "ipa": "/trəˈdʒɛktəri/",
+      "definition": "the curved path followed by an object moving through space",
+      "example": "Engineers carefully adjusted the satellite's trajectory.",
+      "uz": "traektoriya"
+    },
+    {
+      "word": "unprecedented",
+      "pos": "adjective",
+      "ipa": "/ʌnˈprɛsɪdɛntɪd/",
+      "definition": "never done or known before",
+      "example": "The mission achieved an unprecedented level of precision.",
+      "uz": "misli ko'rilmagan"
+    },
+    {
+      "word": "hypothesis",
+      "pos": "noun",
+      "ipa": "/haɪˈpɒθəsɪs/",
+      "definition": "a proposed explanation based on limited evidence, used as a starting point for investigation",
+      "example": "Researchers tested their hypothesis about life on Europa.",
+      "uz": "gipoteza"
+    },
+    {
+      "word": "breakthrough",
+      "pos": "noun",
+      "ipa": "/ˈbreɪkθruː/",
+      "definition": "an important discovery or development that leads to great progress",
+      "example": "The new telescope led to a major breakthrough in astronomy.",
+      "uz": "muhim yutuq"
+    },
+    {
+      "word": "speculate",
+      "pos": "verb",
+      "ipa": "/ˈspɛkjuleɪt/",
+      "definition": "to form a theory or guess about something without firm evidence",
+      "example": "Scientists speculate that the planet may once have had oceans.",
+      "uz": "taxmin qilmoq"
+    },
+    {
+      "word": "dwindle",
+      "pos": "verb",
+      "ipa": "/ˈdwɪndl/",
+      "definition": "to gradually become smaller or fewer",
+      "example": "Funding for the space program began to dwindle after the crisis.",
+      "uz": "asta-sekin kamaymoq"
+    },
+    {
+      "word": "feasible",
+      "pos": "adjective",
+      "ipa": "/ˈfiːzəbl/",
+      "definition": "possible to do easily or conveniently",
+      "example": "A crewed mission to Mars is becoming increasingly feasible.",
+      "uz": "amalga oshirish mumkin bo'lgan"
+    },
+    {
+      "word": "venture",
+      "pos": "noun",
+      "ipa": "/ˈvɛntʃər/",
+      "definition": "a risky or daring journey or undertaking, especially in business",
+      "example": "The private space venture attracted billions in investment.",
+      "uz": "xatarli tashabbus"
+    },
+    {
+      "word": "meticulous",
+      "pos": "adjective",
+      "ipa": "/məˈtɪkjʊləs/",
+      "definition": "showing great attention to detail; very careful and precise",
+      "example": "The engineers performed meticulous checks before launch.",
+      "uz": "puxta va sinchkov"
+    },
+    {
+      "word": "vast",
+      "pos": "adjective",
+      "ipa": "/vɑːst/",
+      "definition": "extremely large in area, extent, or amount",
+      "example": "The probe will travel across vast distances of empty space.",
+      "uz": "ulkan, cheksiz"
+    },
+    {
+      "word": "embark on",
+      "pos": "phrasal verb",
+      "ipa": "/ɪmˈbɑːk ɒn/",
+      "definition": "to begin a new project, task, or journey",
+      "example": "The astronauts embarked on a six-month mission to the space station.",
+      "uz": "kirishmoq, boshlamoq"
+    },
+    {
+      "word": "groundbreaking",
+      "pos": "adjective",
+      "ipa": "/ˈɡraʊndbreɪkɪŋ/",
+      "definition": "introducing new ideas or methods; highly innovative",
+      "example": "The telescope produced groundbreaking images of distant galaxies.",
+      "uz": "tub burilish yasovchi"
+    },
+    {
+      "word": "inevitably",
+      "pos": "adverb",
+      "ipa": "/ɪnˈɛvɪtəbli/",
+      "definition": "in a way that cannot be avoided or prevented",
+      "example": "Long space missions inevitably expose astronauts to radiation.",
+      "uz": "muqarrar ravishda"
+    },
+    {
+      "word": "daunting",
+      "pos": "adjective",
+      "ipa": "/ˈdɔːntɪŋ/",
+      "definition": "seeming difficult to deal with in prospect; intimidating",
+      "example": "Landing safely on Mars remains a daunting technical challenge.",
+      "uz": "cho'chitadigan darajada murakkab"
+    },
+    {
+      "word": "sustain",
+      "pos": "verb",
+      "ipa": "/səˈsteɪn/",
+      "definition": "to keep something going or maintain it over time",
+      "example": "It takes enormous resources to sustain a colony on another planet.",
+      "uz": "davom ettirmoq, saqlab turmoq"
+    },
+    {
+      "word": "viable",
+      "pos": "adjective",
+      "ipa": "/ˈvaɪəbl/",
+      "definition": "capable of working successfully; practical",
+      "example": "Scientists are exploring whether a lunar base is economically viable.",
+      "uz": "amalga oshirish mumkin, hayotiy"
+    },
+    {
+      "word": "plummet",
+      "pos": "verb",
+      "ipa": "/ˈplʌmɪt/",
+      "definition": "to fall or drop suddenly and steeply",
+      "example": "Temperatures on the planet's surface plummet at night.",
+      "uz": "keskin pasayib ketmoq"
+    },
+    {
+      "word": "discern",
+      "pos": "verb",
+      "ipa": "/dɪˈsɜːn/",
+      "definition": "to perceive or recognize something, often with difficulty",
+      "example": "Astronomers could barely discern the faint signal among the noise.",
+      "uz": "ilg'amoq, farqlay bilmoq"
+    },
+    {
+      "word": "scrutinize",
+      "pos": "verb",
+      "ipa": "/ˈskruːtɪnaɪz/",
+      "definition": "to examine something closely and thoroughly",
+      "example": "Mission control scrutinized every reading before approving the launch.",
+      "uz": "sinchiklab tekshirmoq"
+    }
+  ],
+  "text": "Not since the Apollo era has humanity witnessed such an unprecedented surge of interest in space exploration. Private companies, once dismissed as reckless ventures, have now embarked on missions that were unthinkable a decade ago. Rockets are propelled along increasingly precise trajectories, guided by meticulous calculations that leave little room for error. Nevertheless, scrutinize the industry closely and one will discern a persistent tension: public funding has begun to dwindle just as the costs of sustaining long-term missions rise. Scientists speculate that a groundbreaking breakthrough in propulsion technology could make crewed journeys to Mars genuinely feasible within a generation. Whether such an ambitious plan is truly viable, however, remains daunting to determine. Were budgets to plummet further, momentum built over years could vanish almost overnight. Consequently, agencies find themselves walking a tightrope, balancing bold hypothesis-driven research against the vast uncertainties of interplanetary travel. Inevitably, the question is not merely whether we can reach other worlds, but whether we can sustain the will, and the funding, to get there.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Private companies have replaced government space agencies entirely.",
+        "Space exploration is experiencing renewed enthusiasm, but its future depends on uncertain funding and technology.",
+        "Crewed missions to Mars will definitely happen within ten years.",
+        "Public interest in space exploration has declined sharply."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what tension does close examination of the industry reveal?",
+      "options": [
+        "A rivalry between different private companies",
+        "Public funding is decreasing while mission costs are increasing",
+        "Astronauts refuse to accept the risks involved",
+        "Governments are banning private space ventures"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about the author's attitude toward a crewed mission to Mars?",
+      "options": [
+        "Fully confident it will happen soon",
+        "Completely dismissive of the idea",
+        "Cautiously uncertain about its feasibility",
+        "Angry that it hasn't happened yet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the passage say could happen if budgets were to plummet further?",
+      "options": [
+        "New technology would be developed faster",
+        "Momentum built over years could disappear quickly",
+        "Private companies would take full control",
+        "Public interest would increase"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the primary purpose of the passage?",
+      "options": [
+        "To celebrate the certain success of space exploration",
+        "To criticize private space companies",
+        "To analyze both the promise and the challenges facing space exploration",
+        "To provide a technical manual for rocket propulsion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In the passage, the phrase 'walking a tightrope' suggests that agencies are:",
+      "options": [
+        "Literally performing dangerous physical tasks",
+        "Carefully balancing competing pressures and risks",
+        "Ignoring the risks of space travel",
+        "Refusing to take any risks at all"
+      ],
+      "answer": 1
+    }
+  ]
+}

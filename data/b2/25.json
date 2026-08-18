@@ -1,0 +1,229 @@
+{
+  "id": 25,
+  "topic": "Art Criticism and Cultural Commentary",
+  "words": [
+    {
+      "word": "aesthetic",
+      "pos": "adjective",
+      "ipa": "/ɛsˈθɛtɪk/",
+      "definition": "relating to beauty or the appreciation of art",
+      "example": "The gallery's aesthetic choices emphasized minimalism.",
+      "uz": "estetik"
+    },
+    {
+      "word": "avant-garde",
+      "pos": "adjective",
+      "ipa": "/ˌævɒ̃ˈgɑːrd/",
+      "definition": "new and experimental ideas, especially in the arts",
+      "example": "The exhibition featured avant-garde sculptures made from recycled electronics.",
+      "uz": "avangard"
+    },
+    {
+      "word": "connoisseur",
+      "pos": "noun",
+      "ipa": "/ˌkɒnəˈsɜːr/",
+      "definition": "an expert judge in matters of taste, especially art",
+      "example": "As a wine connoisseur, she could identify the vintage by smell alone.",
+      "uz": "nozikta'b bilimdon"
+    },
+    {
+      "word": "juxtaposition",
+      "pos": "noun",
+      "ipa": "/ˌdʒʌkstəpəˈzɪʃən/",
+      "definition": "the fact of placing two things close together for contrasting effect",
+      "example": "The painting's power comes from the juxtaposition of light and darkness.",
+      "uz": "qarama-qarshi qo'yib solishtirish"
+    },
+    {
+      "word": "evoke",
+      "pos": "verb",
+      "ipa": "/ɪˈvoʊk/",
+      "definition": "to bring a feeling, memory, or image to mind",
+      "example": "The music evoked memories of her childhood.",
+      "uz": "his-tuyg'u uyg'otmoq"
+    },
+    {
+      "word": "subversive",
+      "pos": "adjective",
+      "ipa": "/səbˈvɜːrsɪv/",
+      "definition": "seeking to undermine established norms or authority",
+      "example": "The novel was considered subversive when it was first published.",
+      "uz": "mavjud tartibga qarshi qaratilgan"
+    },
+    {
+      "word": "ambivalent",
+      "pos": "adjective",
+      "ipa": "/æmˈbɪvələnt/",
+      "definition": "having mixed or contradictory feelings about something",
+      "example": "Critics felt ambivalent about the director's radical new style.",
+      "uz": "ikkilanuvchan, qarama-qarshi tuyg'uli"
+    },
+    {
+      "word": "pretentious",
+      "pos": "adjective",
+      "ipa": "/prɪˈtɛnʃəs/",
+      "definition": "attempting to impress by claiming greater importance than is actually possessed",
+      "example": "Some viewers dismissed the film as pretentious and overly complicated.",
+      "uz": "o'zini ko'z-ko'z qiluvchi"
+    },
+    {
+      "word": "medium",
+      "pos": "noun",
+      "ipa": "/ˈmiːdiəm/",
+      "definition": "the material or method used by an artist to create a work",
+      "example": "The artist experimented with an unusual medium: melted wax.",
+      "uz": "ijod vositasi (san'at turi)"
+    },
+    {
+      "word": "nuance",
+      "pos": "noun",
+      "ipa": "/ˈnuːɑːns/",
+      "definition": "a subtle difference in meaning, expression, or tone",
+      "example": "The critic praised the nuance in the actor's quiet performance.",
+      "uz": "nozik farq"
+    },
+    {
+      "word": "commentary",
+      "pos": "noun",
+      "ipa": "/ˈkɒmənˌtɛri/",
+      "definition": "a spoken or written explanation or opinion about an event or work",
+      "example": "The mural serves as social commentary on urban inequality.",
+      "uz": "sharh, izoh"
+    },
+    {
+      "word": "provocative",
+      "pos": "adjective",
+      "ipa": "/prəˈvɒkətɪv/",
+      "definition": "deliberately causing debate, argument, or strong reaction",
+      "example": "Her provocative installation sparked heated debate among critics.",
+      "uz": "bahs-munozara uyg'otuvchi"
+    },
+    {
+      "word": "authenticity",
+      "pos": "noun",
+      "ipa": "/ˌɔːθɛnˈtɪsəti/",
+      "definition": "the quality of being genuine or true to its origin",
+      "example": "Collectors questioned the authenticity of the newly discovered painting.",
+      "uz": "asllik, haqiqiylik"
+    },
+    {
+      "word": "discern",
+      "pos": "verb",
+      "ipa": "/dɪˈsɜːrn/",
+      "definition": "to perceive or recognize a subtle distinction",
+      "example": "It takes a trained eye to discern the difference between the two styles.",
+      "uz": "nozik farqni ilg'amoq"
+    },
+    {
+      "word": "superficial",
+      "pos": "adjective",
+      "ipa": "/ˌsuːpərˈfɪʃəl/",
+      "definition": "existing only on the surface, lacking depth",
+      "example": "The reviewer dismissed the exhibit as superficial and unoriginal.",
+      "uz": "sayoz, yuzaki"
+    },
+    {
+      "word": "resonate",
+      "pos": "verb",
+      "ipa": "/ˈrɛzəneɪt/",
+      "definition": "to evoke a strong emotional response or connection",
+      "example": "The painting's themes of loss resonate with many viewers.",
+      "uz": "kuchli hissiy taassurot qoldirmoq"
+    },
+    {
+      "word": "convention",
+      "pos": "noun",
+      "ipa": "/kənˈvɛnʃən/",
+      "definition": "a widely accepted way of doing something, especially in art or society",
+      "example": "The photographer deliberately broke from convention in composing his shots.",
+      "uz": "qabul qilingan an'ana"
+    },
+    {
+      "word": "subtext",
+      "pos": "noun",
+      "ipa": "/ˈsʌbtɛkst/",
+      "definition": "an underlying meaning not explicitly stated",
+      "example": "Beneath the comedy, the play carries a serious political subtext.",
+      "uz": "yashirin ma'no"
+    },
+    {
+      "word": "discourse",
+      "pos": "noun",
+      "ipa": "/ˈdɪskɔːrs/",
+      "definition": "formal discussion or debate on a subject",
+      "example": "The essay contributed meaningfully to contemporary artistic discourse.",
+      "uz": "rasmiy muhokama, bahs"
+    },
+    {
+      "word": "iconoclastic",
+      "pos": "adjective",
+      "ipa": "/aɪˌkɒnəˈklæstɪk/",
+      "definition": "attacking or rejecting cherished beliefs and traditions",
+      "example": "The iconoclastic artist deliberately defaced reproductions of famous paintings.",
+      "uz": "an'analarni inkor etuvchi"
+    }
+  ],
+  "text": "What separates genuine artistic commentary from mere provocation designed to shock? This question has long divided critics and connoisseurs alike. Contemporary avant-garde artists frequently rely on jarring juxtaposition, combining sacred imagery with commercial waste, for instance, to evoke discomfort and challenge convention. Such iconoclastic gestures are often dismissed by traditionalists as pretentious or superficial, lacking the nuance of more established mediums. Nevertheless, defenders argue that subversive art performs a vital function: it forces audiences to discern meaning beneath the obvious subtext, rather than passively consuming imagery. Ambivalent viewers may leave a gallery uncertain whether they have witnessed profound commentary or a hollow spectacle engineered purely for attention. Authenticity, in this context, becomes difficult to measure; a work resonates not necessarily because it is beautiful, but because it disrupts expectations shaped by decades of artistic discourse. Were critics to judge every provocative piece solely by traditional aesthetic standards, much of the most influential art of the past century would never have been taken seriously. Consequently, understanding contemporary art increasingly requires tolerance for ambiguity, alongside a willingness to look past superficial shock toward whatever deeper nuance the artist intends.",
+  "questions": [
+    {
+      "question": "What is the passage mainly discussing?",
+      "options": [
+        "The history of avant-garde painting techniques",
+        "The debate over how to judge provocative, unconventional art",
+        "Why traditional art is superior to modern art",
+        "The financial value of contemporary artworks"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what technique do avant-garde artists often use?",
+      "options": [
+        "Strict adherence to classical convention",
+        "Jarring juxtaposition of contrasting imagery",
+        "Avoiding all forms of commentary",
+        "Exclusively using traditional mediums"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the author imply about judging art solely by traditional aesthetic standards?",
+      "options": [
+        "It is the only fair method of evaluation",
+        "It might cause influential, boundary-pushing art to be overlooked or dismissed",
+        "It guarantees authenticity",
+        "It has no impact on how art is received"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How do traditionalists reportedly view iconoclastic gestures in art?",
+      "options": [
+        "As deeply meaningful and profound",
+        "As pretentious or superficial",
+        "As essential to preserving convention",
+        "As too subtle to be noticed"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone in this passage?",
+      "options": [
+        "Dismissively critical of all modern art",
+        "Thoughtful and balanced, weighing multiple perspectives",
+        "Purely descriptive with no analysis",
+        "Enthusiastically promotional"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about \"ambivalent viewers\" mentioned in the passage?",
+      "options": [
+        "They are certain that all avant-garde art is meaningless",
+        "They experience uncertainty about whether provocative art has real depth or is just shocking",
+        "They refuse to attend art galleries",
+        "They fully agree with traditionalist critics"
+      ],
+      "answer": 1
+    }
+  ]
+}

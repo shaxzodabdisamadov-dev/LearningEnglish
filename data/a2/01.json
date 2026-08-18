@@ -1,0 +1,229 @@
+{
+  "id": 1,
+  "topic": "Personal Information and Identity",
+  "words": [
+    {
+      "word": "name",
+      "pos": "noun",
+      "ipa": "/neɪm/",
+      "definition": "the word that people use to call or identify a person.",
+      "example": "Please write your full name on the form.",
+      "uz": "ism"
+    },
+    {
+      "word": "surname",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrneɪm/",
+      "definition": "a person's family name, used after the first name.",
+      "example": "Her surname is Rodriguez.",
+      "uz": "familiya"
+    },
+    {
+      "word": "address",
+      "pos": "noun",
+      "ipa": "/əˈdres/",
+      "definition": "the details of where a person lives, including street and city.",
+      "example": "I wrote my home address on the envelope.",
+      "uz": "manzil"
+    },
+    {
+      "word": "nationality",
+      "pos": "noun",
+      "ipa": "/ˌnæʃəˈnæləti/",
+      "definition": "the country that a person legally belongs to.",
+      "example": "His nationality is Brazilian.",
+      "uz": "millat"
+    },
+    {
+      "word": "passport",
+      "pos": "noun",
+      "ipa": "/ˈpæspɔːrt/",
+      "definition": "an official document that lets you travel to other countries.",
+      "example": "You need a passport to fly abroad.",
+      "uz": "pasport"
+    },
+    {
+      "word": "signature",
+      "pos": "noun",
+      "ipa": "/ˈsɪɡnətʃər/",
+      "definition": "your name written in your own special way, used to show it is really you.",
+      "example": "The manager asked for my signature on the contract.",
+      "uz": "imzo"
+    },
+    {
+      "word": "married",
+      "pos": "adjective",
+      "ipa": "/ˈmærid/",
+      "definition": "having a husband or a wife.",
+      "example": "My sister got married last summer.",
+      "uz": "turmush qurgan"
+    },
+    {
+      "word": "single",
+      "pos": "adjective",
+      "ipa": "/ˈsɪŋɡl/",
+      "definition": "not married.",
+      "example": "He is thirty years old and still single.",
+      "uz": "turmush qurmagan"
+    },
+    {
+      "word": "occupation",
+      "pos": "noun",
+      "ipa": "/ˌɒkjuˈpeɪʃn/",
+      "definition": "a person's job.",
+      "example": "Please state your occupation on the application.",
+      "uz": "kasb"
+    },
+    {
+      "word": "document",
+      "pos": "noun",
+      "ipa": "/ˈdɒkjumənt/",
+      "definition": "an official paper with important information.",
+      "example": "Keep this document in a safe place.",
+      "uz": "hujjat"
+    },
+    {
+      "word": "form",
+      "pos": "noun",
+      "ipa": "/fɔːrm/",
+      "definition": "a paper with spaces for you to write information.",
+      "example": "She filled in the form carefully.",
+      "uz": "blank"
+    },
+    {
+      "word": "sign",
+      "pos": "verb",
+      "ipa": "/saɪn/",
+      "definition": "to write your signature on something.",
+      "example": "Please sign here.",
+      "uz": "imzo chekmoq"
+    },
+    {
+      "word": "birthplace",
+      "pos": "noun",
+      "ipa": "/ˈbɜːrθpleɪs/",
+      "definition": "the place where a person was born.",
+      "example": "Paris is his birthplace.",
+      "uz": "tug'ilgan joy"
+    },
+    {
+      "word": "born",
+      "pos": "verb",
+      "ipa": "/bɔːrn/",
+      "definition": "to start life; to come into the world.",
+      "example": "She was born in 1995.",
+      "uz": "tug'ilmoq"
+    },
+    {
+      "word": "male",
+      "pos": "adjective",
+      "ipa": "/meɪl/",
+      "definition": "belonging to the sex that does not have babies; a man or boy.",
+      "example": "The form asked if he was male or female.",
+      "uz": "erkak jinsiga oid"
+    },
+    {
+      "word": "female",
+      "pos": "adjective",
+      "ipa": "/ˈfiːmeɪl/",
+      "definition": "belonging to the sex that can have babies; a woman or girl.",
+      "example": "She is the only female in her team.",
+      "uz": "ayol jinsiga oid"
+    },
+    {
+      "word": "identity",
+      "pos": "noun",
+      "ipa": "/aɪˈdentəti/",
+      "definition": "who a person is.",
+      "example": "You must show your identity card at the airport.",
+      "uz": "shaxsiyat"
+    },
+    {
+      "word": "fill in",
+      "pos": "phrase",
+      "ipa": "/fɪl ɪn/",
+      "definition": "to write information in the empty spaces of a form.",
+      "example": "Fill in your name and address, please.",
+      "uz": "to'ldirmoq"
+    },
+    {
+      "word": "phone number",
+      "pos": "noun",
+      "ipa": "/ˈfoʊn ˌnʌmbər/",
+      "definition": "the numbers you use to call someone.",
+      "example": "Can I have your phone number?",
+      "uz": "telefon raqami"
+    },
+    {
+      "word": "email address",
+      "pos": "noun",
+      "ipa": "/ˈiːmeɪl əˌdres/",
+      "definition": "the address you use to send electronic messages.",
+      "example": "Write your email address clearly.",
+      "uz": "elektron pochta manzili"
+    }
+  ],
+  "text": "Last week, Maria went to a government office to get a new identity card. She had to fill in a long form with her personal information. First, she wrote her name and surname, and then her birthplace. Maria was born in a small town, but now she lives in the city, so she also wrote her new address. The form asked about her nationality and her occupation — she works as a nurse. Maria is married, not single, so she wrote her husband's name too. After that, she needed to sign the document. Her signature had to look exactly like the one on her passport. The clerk checked her identity card and passport together. He also asked for her phone number and email address, in case the office needed to write to her later. Finally, he said that a new card for a male or female applicant usually takes two weeks. Maria left the office and hoped her new card would arrive soon.",
+  "questions": [
+    {
+      "question": "Why did Maria go to the government office?",
+      "options": [
+        "To get a new passport photo",
+        "To get a new identity card",
+        "To open a bank account",
+        "To buy a plane ticket"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did Maria write first on the form?",
+      "options": [
+        "Her nationality",
+        "Her occupation",
+        "Her name and surname",
+        "Her phone number"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is Maria's occupation?",
+      "options": [
+        "Teacher",
+        "Nurse",
+        "Clerk",
+        "Driver"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Is Maria married or single?",
+      "options": [
+        "Married",
+        "Single",
+        "The text does not say",
+        "Divorced"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What did Maria's signature need to match?",
+      "options": [
+        "Her birth certificate",
+        "Her old identity card",
+        "Her passport",
+        "Her husband's signature"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How long does a new identity card usually take?",
+      "options": [
+        "One week",
+        "Two weeks",
+        "One month",
+        "Two months"
+      ],
+      "answer": 1
+    }
+  ]
+}

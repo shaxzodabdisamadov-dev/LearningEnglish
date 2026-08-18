@@ -1,0 +1,229 @@
+{
+  "id": 3,
+  "topic": "Numbers and Time",
+  "words": [
+    {
+      "word": "one",
+      "pos": "adjective",
+      "ipa": "/wʌn/",
+      "definition": "the number 1",
+      "example": "I have one brother.",
+      "uz": "bir"
+    },
+    {
+      "word": "two",
+      "pos": "adjective",
+      "ipa": "/tuː/",
+      "definition": "the number 2",
+      "example": "She has two cats.",
+      "uz": "ikki"
+    },
+    {
+      "word": "three",
+      "pos": "adjective",
+      "ipa": "/θriː/",
+      "definition": "the number 3",
+      "example": "We need three chairs.",
+      "uz": "uch"
+    },
+    {
+      "word": "ten",
+      "pos": "adjective",
+      "ipa": "/ten/",
+      "definition": "the number 10",
+      "example": "He is ten years old.",
+      "uz": "o'n"
+    },
+    {
+      "word": "hundred",
+      "pos": "noun",
+      "ipa": "/ˈhʌndrəd/",
+      "definition": "the number 100",
+      "example": "There are one hundred students.",
+      "uz": "yuz"
+    },
+    {
+      "word": "first",
+      "pos": "adjective",
+      "ipa": "/fɜːrst/",
+      "definition": "coming before all the others",
+      "example": "January is the first month.",
+      "uz": "birinchi"
+    },
+    {
+      "word": "last",
+      "pos": "adjective",
+      "ipa": "/læst/",
+      "definition": "coming after all the others",
+      "example": "December is the last month.",
+      "uz": "oxirgi"
+    },
+    {
+      "word": "hour",
+      "pos": "noun",
+      "ipa": "/ˈaʊər/",
+      "definition": "a period of sixty minutes",
+      "example": "The film is one hour long.",
+      "uz": "soat"
+    },
+    {
+      "word": "minute",
+      "pos": "noun",
+      "ipa": "/ˈmɪnɪt/",
+      "definition": "a period of sixty seconds",
+      "example": "Wait a minute, please.",
+      "uz": "daqiqa"
+    },
+    {
+      "word": "second",
+      "pos": "noun",
+      "ipa": "/ˈsekənd/",
+      "definition": "a very short period of time, part of a minute",
+      "example": "There are sixty seconds in a minute.",
+      "uz": "soniya"
+    },
+    {
+      "word": "day",
+      "pos": "noun",
+      "ipa": "/deɪ/",
+      "definition": "a period of twenty-four hours",
+      "example": "I go to school every day.",
+      "uz": "kun"
+    },
+    {
+      "word": "week",
+      "pos": "noun",
+      "ipa": "/wiːk/",
+      "definition": "a period of seven days",
+      "example": "We have a test next week.",
+      "uz": "hafta"
+    },
+    {
+      "word": "month",
+      "pos": "noun",
+      "ipa": "/mʌnθ/",
+      "definition": "one of the twelve parts of a year",
+      "example": "My birthday is in this month.",
+      "uz": "oy"
+    },
+    {
+      "word": "year",
+      "pos": "noun",
+      "ipa": "/jɪər/",
+      "definition": "a period of twelve months",
+      "example": "I am ten years old.",
+      "uz": "yil"
+    },
+    {
+      "word": "morning",
+      "pos": "noun",
+      "ipa": "/ˈmɔːrnɪŋ/",
+      "definition": "the early part of the day",
+      "example": "I drink tea in the morning.",
+      "uz": "ertalab"
+    },
+    {
+      "word": "afternoon",
+      "pos": "noun",
+      "ipa": "/ˌæftərˈnuːn/",
+      "definition": "the part of the day between midday and evening",
+      "example": "We play football in the afternoon.",
+      "uz": "tushdan keyin"
+    },
+    {
+      "word": "night",
+      "pos": "noun",
+      "ipa": "/naɪt/",
+      "definition": "the time when it is dark outside",
+      "example": "I sleep at night.",
+      "uz": "tun"
+    },
+    {
+      "word": "today",
+      "pos": "adverb",
+      "ipa": "/təˈdeɪ/",
+      "definition": "on this day",
+      "example": "Today is Monday.",
+      "uz": "bugun"
+    },
+    {
+      "word": "tomorrow",
+      "pos": "adverb",
+      "ipa": "/təˈmɔːroʊ/",
+      "definition": "on the day after today",
+      "example": "I will see you tomorrow.",
+      "uz": "ertaga"
+    },
+    {
+      "word": "clock",
+      "pos": "noun",
+      "ipa": "/klɑːk/",
+      "definition": "a machine that shows the time",
+      "example": "The clock is on the wall.",
+      "uz": "soat"
+    }
+  ],
+  "text": "Every day, I wake up early in the morning. I look at the clock, and it says seven o'clock. First, I drink a cup of tea. Then I eat breakfast. School starts at eight o'clock. About one hundred students study at my school, and I have three classes before lunch.\n\nIn the afternoon, I have two more classes. School finishes at three o'clock. After school, I play with my friends for one hour. Then I go home and do my homework. It takes about thirty minutes, and every minute and second is important to me.\n\nAt night, my family eats dinner together. We talk about our day. I go to bed at nine o'clock. Today is Monday, and tomorrow is Tuesday. Every week has seven days, and every month has about four weeks. There are twelve months in one year. My birthday is next month, and I will be ten years old! Time goes fast. The last hour of my day is my favorite because I read books before I sleep.",
+  "questions": [
+    {
+      "question": "What time does the clock show when the writer wakes up?",
+      "options": [
+        "Six o'clock",
+        "Seven o'clock",
+        "Eight o'clock",
+        "Nine o'clock"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many classes does the writer have before lunch?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How long does the writer play with friends after school?",
+      "options": [
+        "Thirty minutes",
+        "Two hours",
+        "One hour",
+        "Ten minutes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What day is 'today' in the story?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Friday"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How old will the writer be next month?",
+      "options": [
+        "Nine",
+        "Ten",
+        "Eleven",
+        "Twelve"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the writer like the last hour of the day?",
+      "options": [
+        "Because of school",
+        "Because of homework",
+        "Because of reading books before sleep",
+        "Because of dinner"
+      ],
+      "answer": 2
+    }
+  ]
+}

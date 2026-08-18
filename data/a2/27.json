@@ -1,0 +1,229 @@
+{
+  "id": 27,
+  "topic": "Emotions and Relationships",
+  "words": [
+    {
+      "word": "happy",
+      "pos": "adjective",
+      "ipa": "/ˈhæpi/",
+      "definition": "feeling pleased or glad",
+      "example": "She felt happy when she saw her old friend.",
+      "uz": "baxtli"
+    },
+    {
+      "word": "sad",
+      "pos": "adjective",
+      "ipa": "/sæd/",
+      "definition": "feeling unhappy",
+      "example": "He was sad when his friend moved away.",
+      "uz": "g'amgin"
+    },
+    {
+      "word": "angry",
+      "pos": "adjective",
+      "ipa": "/ˈæŋɡri/",
+      "definition": "feeling strong displeasure",
+      "example": "She got angry when he was late again.",
+      "uz": "g'azablangan"
+    },
+    {
+      "word": "afraid",
+      "pos": "adjective",
+      "ipa": "/əˈfreɪd/",
+      "definition": "feeling fear",
+      "example": "Some people feel afraid before a job interview.",
+      "uz": "qo'rqqan"
+    },
+    {
+      "word": "excited",
+      "pos": "adjective",
+      "ipa": "/ɪkˈsaɪtɪd/",
+      "definition": "feeling happy and full of energy about something",
+      "example": "The children were excited about the party.",
+      "uz": "hayajonlangan"
+    },
+    {
+      "word": "nervous",
+      "pos": "adjective",
+      "ipa": "/ˈnɜːrvəs/",
+      "definition": "feeling worried or afraid about something",
+      "example": "I always feel nervous before I speak in public.",
+      "uz": "asabiylashgan"
+    },
+    {
+      "word": "friend",
+      "pos": "noun",
+      "ipa": "/frend/",
+      "definition": "a person you like and trust",
+      "example": "My best friend always listens to me.",
+      "uz": "do'st"
+    },
+    {
+      "word": "family",
+      "pos": "noun",
+      "ipa": "/ˈfæməli/",
+      "definition": "a group of people related to each other",
+      "example": "We had dinner with my family last night.",
+      "uz": "oila"
+    },
+    {
+      "word": "relationship",
+      "pos": "noun",
+      "ipa": "/rɪˈleɪʃənʃɪp/",
+      "definition": "the connection between two people",
+      "example": "They have a strong relationship built on trust.",
+      "uz": "munosabat"
+    },
+    {
+      "word": "love",
+      "pos": "verb",
+      "ipa": "/lʌv/",
+      "definition": "to care about someone very much",
+      "example": "She loves her family very much.",
+      "uz": "sevmoq"
+    },
+    {
+      "word": "trust",
+      "pos": "verb",
+      "ipa": "/trʌst/",
+      "definition": "to believe someone is honest and reliable",
+      "example": "I trust my best friend completely.",
+      "uz": "ishonmoq"
+    },
+    {
+      "word": "share",
+      "pos": "verb",
+      "ipa": "/ʃeər/",
+      "definition": "to tell someone about your feelings or things",
+      "example": "It helps to share your problems with a friend.",
+      "uz": "baham ko'rmoq"
+    },
+    {
+      "word": "support",
+      "pos": "verb",
+      "ipa": "/səˈpɔːrt/",
+      "definition": "to help and encourage someone",
+      "example": "Good friends support each other in hard times.",
+      "uz": "qo'llab-quvvatlamoq"
+    },
+    {
+      "word": "argue",
+      "pos": "verb",
+      "ipa": "/ˈɑːrɡjuː/",
+      "definition": "to disagree with someone in an angry way",
+      "example": "The couple sometimes argue about small things.",
+      "uz": "bahslashmoq"
+    },
+    {
+      "word": "forgive",
+      "pos": "verb",
+      "ipa": "/fərˈɡɪv/",
+      "definition": "to stop being angry with someone",
+      "example": "It is healthy to forgive a friend after an argument.",
+      "uz": "kechirmoq"
+    },
+    {
+      "word": "care",
+      "pos": "verb",
+      "ipa": "/keər/",
+      "definition": "to feel interested in and worried about someone",
+      "example": "Parents always care about their children's future.",
+      "uz": "g'amxo'rlik qilmoq"
+    },
+    {
+      "word": "feel",
+      "pos": "verb",
+      "ipa": "/fiːl/",
+      "definition": "to experience an emotion",
+      "example": "It is normal to feel nervous sometimes.",
+      "uz": "his qilmoq"
+    },
+    {
+      "word": "comfort",
+      "pos": "verb",
+      "ipa": "/ˈkʌmfərt/",
+      "definition": "to make someone feel better when they are sad",
+      "example": "She tried to comfort her crying friend.",
+      "uz": "tasalli bermoq"
+    },
+    {
+      "word": "marriage",
+      "pos": "noun",
+      "ipa": "/ˈmærɪdʒ/",
+      "definition": "the relationship between a husband and wife",
+      "example": "They celebrated ten years of marriage.",
+      "uz": "nikoh"
+    },
+    {
+      "word": "lonely",
+      "pos": "adjective",
+      "ipa": "/ˈloʊnli/",
+      "definition": "feeling sad because you are alone",
+      "example": "He felt lonely after moving to a new city.",
+      "uz": "yolg'iz"
+    }
+  ],
+  "text": "Emotions are a big part of our lives. Every day, we feel happy, sad, angry, or excited about different things. Sometimes we feel afraid or nervous before something new, like a job interview or a wedding. Our family and friends help us understand our emotions. A good relationship is built on trust and love. When you trust someone, you believe they will not hurt you. Friends and family also share their problems with each other, and they support one another when life is hard. Sometimes people argue with someone they love, but a strong relationship can survive an argument if both people forgive each other. It is important to care about how other people feel. If a friend feels sad or lonely, you can comfort them and listen carefully. Many people want a happy marriage, but every relationship needs work. You have to talk, listen, and understand your partner's feelings. When you show that you care and support the people around you, your relationships become stronger. Good emotional health means you can feel your emotions, talk about them, and ask for help when you need it.",
+  "questions": [
+    {
+      "question": "What is a good relationship built on, according to the text?",
+      "options": [
+        "money and time",
+        "trust and love",
+        "arguments and fear",
+        "distance and silence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can a strong relationship survive, if both people forgive each other?",
+      "options": [
+        "a long journey",
+        "an argument",
+        "a deadline",
+        "a challenge at work"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What should you do if a friend feels sad or lonely, according to the text?",
+      "options": [
+        "ignore them",
+        "argue with them",
+        "comfort them and listen",
+        "avoid them"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the text, what does every relationship need?",
+      "options": [
+        "money",
+        "work",
+        "a marriage",
+        "a plan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does good emotional health mean, according to the text?",
+      "options": [
+        "never feeling sad",
+        "hiding your feelings",
+        "feeling emotions and asking for help when needed",
+        "being alone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When might a person feel nervous, according to the text?",
+      "options": [
+        "when they are sleeping",
+        "before something new, like an interview or wedding",
+        "when they are eating",
+        "when they are reading"
+      ],
+      "answer": 1
+    }
+  ]
+}

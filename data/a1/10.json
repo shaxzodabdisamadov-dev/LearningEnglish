@@ -1,0 +1,229 @@
+{
+  "id": 10,
+  "topic": "Days, Months and Calendar",
+  "words": [
+    {
+      "word": "Monday",
+      "pos": "noun",
+      "ipa": "/ˈmʌndeɪ/",
+      "definition": "the first day of the working week, after Sunday",
+      "example": "I go to school on Monday.",
+      "uz": "dushanba"
+    },
+    {
+      "word": "Tuesday",
+      "pos": "noun",
+      "ipa": "/ˈtuːzdeɪ/",
+      "definition": "the day of the week after Monday",
+      "example": "We have English class on Tuesday.",
+      "uz": "seshanba"
+    },
+    {
+      "word": "Wednesday",
+      "pos": "noun",
+      "ipa": "/ˈwenzdeɪ/",
+      "definition": "the day of the week after Tuesday",
+      "example": "Wednesday is my favorite day.",
+      "uz": "chorshanba"
+    },
+    {
+      "word": "Thursday",
+      "pos": "noun",
+      "ipa": "/ˈθɜːrzdeɪ/",
+      "definition": "the day of the week after Wednesday",
+      "example": "I visit my grandmother on Thursday.",
+      "uz": "payshanba"
+    },
+    {
+      "word": "Friday",
+      "pos": "noun",
+      "ipa": "/ˈfraɪdeɪ/",
+      "definition": "the day of the week after Thursday, before the weekend",
+      "example": "We finish work on Friday.",
+      "uz": "juma"
+    },
+    {
+      "word": "Saturday",
+      "pos": "noun",
+      "ipa": "/ˈsætərdeɪ/",
+      "definition": "the day of the week after Friday, part of the weekend",
+      "example": "I sleep late on Saturday.",
+      "uz": "shanba"
+    },
+    {
+      "word": "Sunday",
+      "pos": "noun",
+      "ipa": "/ˈsʌndeɪ/",
+      "definition": "the day of the week after Saturday, before Monday",
+      "example": "We go to the park on Sunday.",
+      "uz": "yakshanba"
+    },
+    {
+      "word": "week",
+      "pos": "noun",
+      "ipa": "/wiːk/",
+      "definition": "a period of seven days",
+      "example": "I study English every week.",
+      "uz": "hafta"
+    },
+    {
+      "word": "month",
+      "pos": "noun",
+      "ipa": "/mʌnθ/",
+      "definition": "one of the twelve parts of a year",
+      "example": "This month is very busy.",
+      "uz": "oy"
+    },
+    {
+      "word": "year",
+      "pos": "noun",
+      "ipa": "/jɪr/",
+      "definition": "a period of twelve months",
+      "example": "I learn many new things every year.",
+      "uz": "yil"
+    },
+    {
+      "word": "today",
+      "pos": "adverb",
+      "ipa": "/təˈdeɪ/",
+      "definition": "on this day",
+      "example": "Today is a sunny day.",
+      "uz": "bugun"
+    },
+    {
+      "word": "tomorrow",
+      "pos": "adverb",
+      "ipa": "/təˈmɒroʊ/",
+      "definition": "on the day after today",
+      "example": "I will see you tomorrow.",
+      "uz": "ertaga"
+    },
+    {
+      "word": "yesterday",
+      "pos": "adverb",
+      "ipa": "/ˈjestərdeɪ/",
+      "definition": "on the day before today",
+      "example": "I was sick yesterday.",
+      "uz": "kecha"
+    },
+    {
+      "word": "calendar",
+      "pos": "noun",
+      "ipa": "/ˈkælɪndər/",
+      "definition": "a chart that shows the days, weeks, and months of a year",
+      "example": "Look at the calendar for the date.",
+      "uz": "kalendar"
+    },
+    {
+      "word": "date",
+      "pos": "noun",
+      "ipa": "/deɪt/",
+      "definition": "a particular day of a month or year",
+      "example": "What is today's date?",
+      "uz": "sana"
+    },
+    {
+      "word": "birthday",
+      "pos": "noun",
+      "ipa": "/ˈbɜːrθdeɪ/",
+      "definition": "the day of the year when someone was born",
+      "example": "My birthday is in May.",
+      "uz": "tug'ilgan kun"
+    },
+    {
+      "word": "January",
+      "pos": "noun",
+      "ipa": "/ˈdʒænjuˌeri/",
+      "definition": "the first month of the year",
+      "example": "It is cold in January.",
+      "uz": "yanvar"
+    },
+    {
+      "word": "December",
+      "pos": "noun",
+      "ipa": "/dɪˈsembər/",
+      "definition": "the last month of the year",
+      "example": "We celebrate the New Year in December.",
+      "uz": "dekabr"
+    },
+    {
+      "word": "weekend",
+      "pos": "noun",
+      "ipa": "/ˈwiːkˌend/",
+      "definition": "Saturday and Sunday",
+      "example": "We relax on the weekend.",
+      "uz": "dam olish kunlari"
+    },
+    {
+      "word": "morning",
+      "pos": "noun",
+      "ipa": "/ˈmɔːrnɪŋ/",
+      "definition": "the early part of the day, before noon",
+      "example": "I drink tea in the morning.",
+      "uz": "ertalab"
+    }
+  ],
+  "text": "A week has seven days: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday. I go to school every day from Monday to Friday. On the weekend, I stay home and rest with my family. There are twelve months in a year. January is the first month, and December is the last month. My birthday is in July, so I don't have school that day, and we always have a small party. I always look at the calendar to check the date before I make plans. Today is Thursday, tomorrow is Friday, and yesterday was Wednesday. I like Friday because the weekend comes next and I can sleep late on Saturday morning. Every morning, I wake up early and eat breakfast before school starts. This month, my family will visit my grandmother in another town, and we are all very happy about it. Next year, I will study a new subject at school. Time moves fast: today becomes yesterday, and tomorrow will soon be today too, so I try to enjoy every day and every month of the year.",
+  "questions": [
+    {
+      "question": "How many days are in a week?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the text, what day is today?",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When is the writer's birthday?",
+      "options": [
+        "January",
+        "May",
+        "July",
+        "December"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which month is the first month of the year?",
+      "options": [
+        "December",
+        "January",
+        "July",
+        "March"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the writer do every morning?",
+      "options": [
+        "Visit grandmother",
+        "Check the calendar only",
+        "Wake up early and eat breakfast",
+        "Rest at home"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What will the family do this month?",
+      "options": [
+        "Go on a trip",
+        "Visit the grandmother",
+        "Study a new subject",
+        "Celebrate a birthday"
+      ],
+      "answer": 1
+    }
+  ]
+}

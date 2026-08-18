@@ -1,0 +1,229 @@
+{
+  "id": 11,
+  "topic": "Travel Experiences and Cultural Exchange",
+  "words": [
+    {
+      "word": "itinerary",
+      "pos": "noun",
+      "ipa": "/aɪˈtɪnəreri/",
+      "definition": "a planned route or schedule for a journey",
+      "example": "We printed our itinerary before the trip.",
+      "uz": "sayohat rejasi"
+    },
+    {
+      "word": "accommodation",
+      "pos": "noun",
+      "ipa": "/əˌkɒməˈdeɪʃən/",
+      "definition": "a place to stay, such as a hotel",
+      "example": "We booked our accommodation two months in advance.",
+      "uz": "turar joy"
+    },
+    {
+      "word": "destination",
+      "pos": "noun",
+      "ipa": "/ˌdestɪˈneɪʃən/",
+      "definition": "the place someone is traveling to",
+      "example": "Paris is a popular destination for tourists.",
+      "uz": "manzil"
+    },
+    {
+      "word": "immerse",
+      "pos": "verb",
+      "ipa": "/ɪˈmɜːrs/",
+      "definition": "to become fully involved in an experience or culture",
+      "example": "She wanted to immerse herself in the local culture.",
+      "uz": "chuqur sho'ng'ib ketmoq"
+    },
+    {
+      "word": "custom",
+      "pos": "noun",
+      "ipa": "/ˈkʌstəm/",
+      "definition": "a traditional way of behaving that is common in a society",
+      "example": "It is a local custom to remove your shoes before entering a house.",
+      "uz": "urf-odat"
+    },
+    {
+      "word": "tradition",
+      "pos": "noun",
+      "ipa": "/trəˈdɪʃən/",
+      "definition": "a belief or way of doing things passed down through generations",
+      "example": "The festival is an old tradition in this region.",
+      "uz": "an'ana"
+    },
+    {
+      "word": "broaden",
+      "pos": "verb",
+      "ipa": "/ˈbrɔːdən/",
+      "definition": "to make wider or more general, especially knowledge or experience",
+      "example": "Travel can broaden your understanding of the world.",
+      "uz": "kengaytirmoq"
+    },
+    {
+      "word": "souvenir",
+      "pos": "noun",
+      "ipa": "/ˌsuːvəˈnɪər/",
+      "definition": "an object bought to remember a place or trip",
+      "example": "He bought a souvenir to remind him of his trip.",
+      "uz": "esdalik sovg'a"
+    },
+    {
+      "word": "budget",
+      "pos": "noun",
+      "ipa": "/ˈbʌdʒɪt/",
+      "definition": "the amount of money available to spend",
+      "example": "They planned a trip that fit their budget.",
+      "uz": "byudjet"
+    },
+    {
+      "word": "explore",
+      "pos": "verb",
+      "ipa": "/ɪkˈsplɔːr/",
+      "definition": "to travel through a place to learn about it",
+      "example": "We spent the afternoon exploring the old town.",
+      "uz": "kashf qilib o'rganmoq"
+    },
+    {
+      "word": "authentic",
+      "pos": "adjective",
+      "ipa": "/ɔːˈθentɪk/",
+      "definition": "real and genuine, not fake or copied",
+      "example": "The restaurant serves authentic local dishes.",
+      "uz": "asl"
+    },
+    {
+      "word": "adapt",
+      "pos": "verb",
+      "ipa": "/əˈdæpt/",
+      "definition": "to change your behavior to suit a new situation",
+      "example": "It took her a while to adapt to the new culture.",
+      "uz": "moslashmoq"
+    },
+    {
+      "word": "hospitality",
+      "pos": "noun",
+      "ipa": "/ˌhɒspɪˈtæləti/",
+      "definition": "friendly and generous treatment of guests or visitors",
+      "example": "We were impressed by the hospitality of the local people.",
+      "uz": "mehmondo'stlik"
+    },
+    {
+      "word": "diverse",
+      "pos": "adjective",
+      "ipa": "/daɪˈvɜːrs/",
+      "definition": "including many different types of people or things",
+      "example": "The city has a diverse population from many countries.",
+      "uz": "xilma-xil"
+    },
+    {
+      "word": "journey",
+      "pos": "noun",
+      "ipa": "/ˈdʒɜːrni/",
+      "definition": "an act of traveling from one place to another",
+      "example": "The journey to the mountains took six hours.",
+      "uz": "safar"
+    },
+    {
+      "word": "landmark",
+      "pos": "noun",
+      "ipa": "/ˈlændmɑːrk/",
+      "definition": "a well-known building or place that is easy to recognize",
+      "example": "The tower is a famous landmark in the city.",
+      "uz": "diqqatga sazovor joy"
+    },
+    {
+      "word": "local",
+      "pos": "adjective",
+      "ipa": "/ˈloʊkəl/",
+      "definition": "belonging to a particular area or place",
+      "example": "We asked a local resident for directions.",
+      "uz": "mahalliy"
+    },
+    {
+      "word": "cuisine",
+      "pos": "noun",
+      "ipa": "/kwɪˈziːn/",
+      "definition": "a style of cooking typical of a country or region",
+      "example": "Thai cuisine is known for its spicy flavors.",
+      "uz": "pazandachilik"
+    },
+    {
+      "word": "experience",
+      "pos": "noun",
+      "ipa": "/ɪkˈspɪəriəns/",
+      "definition": "something that happens to you that affects how you feel or what you know",
+      "example": "Living abroad was an unforgettable experience.",
+      "uz": "tajriba"
+    },
+    {
+      "word": "abroad",
+      "pos": "adverb",
+      "ipa": "/əˈbrɔːd/",
+      "definition": "in or to a foreign country",
+      "example": "She decided to study abroad for a year.",
+      "uz": "chet elda"
+    }
+  ],
+  "text": "Traveling abroad is one of the best ways to broaden your horizons and learn about different cultures. Before setting off on a journey, most travelers plan an itinerary and book accommodation in advance, especially if they are traveling on a tight budget. Once they arrive at their destination, many people like to explore famous landmarks, although the most memorable experiences often happen in quieter, less touristy places. Trying local cuisine is another highlight of travel, as food can reveal a lot about a country's traditions and customs. Travelers who immerse themselves in daily life, rather than staying only in tourist areas, usually gain a more authentic understanding of the culture. This can be challenging at first, since visitors must adapt to unfamiliar customs and sometimes a different language, but the warm hospitality shown by local people often makes the process easier. Buying a small souvenir is a common way to remember a trip, though the real value of travel lies in meeting diverse people and seeing the world from new perspectives. As a result, many travelers return home with a greater respect for cultures that are different from their own.",
+  "questions": [
+    {
+      "question": "What do most travelers do before starting their journey, according to the passage?",
+      "options": [
+        "Buy souvenirs",
+        "Plan an itinerary and book accommodation",
+        "Learn a new language fluently",
+        "Visit every landmark"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, where do the most memorable experiences often happen?",
+      "options": [
+        "In famous landmarks only",
+        "In quieter, less touristy places",
+        "In hotels",
+        "At the airport"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can trying local cuisine reveal about a country?",
+      "options": [
+        "Its economy",
+        "Its traditions and customs",
+        "Its weather",
+        "Its transportation system"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What helps travelers gain a more authentic understanding of a culture?",
+      "options": [
+        "Staying only in tourist areas",
+        "Buying many souvenirs",
+        "Immersing themselves in daily life",
+        "Avoiding local people"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What makes it easier for travelers to adapt to unfamiliar customs?",
+      "options": [
+        "A large budget",
+        "The hospitality of local people",
+        "A detailed itinerary",
+        "Famous landmarks"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do many travelers gain from meeting diverse people, according to the passage?",
+      "options": [
+        "A new itinerary",
+        "A greater respect for different cultures",
+        "More souvenirs",
+        "A shorter journey"
+      ],
+      "answer": 1
+    }
+  ]
+}

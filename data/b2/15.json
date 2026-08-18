@@ -1,0 +1,229 @@
+{
+  "id": 15,
+  "topic": "Environmental Policy and Conservation",
+  "words": [
+    {
+      "word": "emission",
+      "pos": "noun",
+      "ipa": "/ɪˈmɪʃn/",
+      "definition": "a substance, especially a gas, released into the atmosphere",
+      "example": "Reducing carbon emissions is central to any serious climate policy.",
+      "uz": "atmosferaga chiqariladigan gaz (chiqindi)"
+    },
+    {
+      "word": "mitigate",
+      "pos": "verb",
+      "ipa": "/ˈmɪtɪɡeɪt/",
+      "definition": "to make a harmful effect less severe",
+      "example": "Planting trees can help mitigate the effects of rising temperatures.",
+      "uz": "salbiy ta'sirni yumshatmoq"
+    },
+    {
+      "word": "renewable",
+      "pos": "adjective",
+      "ipa": "/rɪˈnjuːəbl/",
+      "definition": "(of energy or resources) able to be naturally replenished rather than exhausted",
+      "example": "Investment in renewable energy has grown rapidly over the past decade.",
+      "uz": "qayta tiklanadigan (energiya/resurs)"
+    },
+    {
+      "word": "deforestation",
+      "pos": "noun",
+      "ipa": "/diːˌfɒrɪˈsteɪʃn/",
+      "definition": "the large-scale clearing or destruction of forests",
+      "example": "Deforestation in the region has accelerated soil erosion and species loss.",
+      "uz": "o'rmonlarning keng ko'lamda qirilishi"
+    },
+    {
+      "word": "ecosystem",
+      "pos": "noun",
+      "ipa": "/ˈiːkoʊsɪstəm/",
+      "definition": "a community of living organisms interacting with their physical environment",
+      "example": "Coral reefs support one of the most diverse ecosystems on the planet.",
+      "uz": "ekotizim"
+    },
+    {
+      "word": "conservation",
+      "pos": "noun",
+      "ipa": "/ˌkɒnsərˈveɪʃn/",
+      "definition": "the protection and sustainable management of natural resources and wildlife",
+      "example": "The organization funds conservation projects aimed at protecting endangered species.",
+      "uz": "tabiiy resurslarni muhofaza qilish"
+    },
+    {
+      "word": "irreversible",
+      "pos": "adjective",
+      "ipa": "/ˌɪrɪˈvɜːrsəbl/",
+      "definition": "impossible to undo or return to a previous state",
+      "example": "Scientists warn that some damage to polar ice sheets may already be irreversible.",
+      "uz": "orqaga qaytarib bo'lmaydigan"
+    },
+    {
+      "word": "footprint",
+      "pos": "noun",
+      "ipa": "/ˈfʊtprɪnt/",
+      "definition": "the measurable impact a person, activity, or organization has on the environment",
+      "example": "Switching to public transport can significantly reduce your carbon footprint.",
+      "uz": "atrof-muhitga ko'rsatiladigan ta'sir (ekologik iz)"
+    },
+    {
+      "word": "regulate",
+      "pos": "verb",
+      "ipa": "/ˈreɡjəleɪt/",
+      "definition": "to control an activity or process by means of rules",
+      "example": "Governments must regulate industrial pollution more strictly to protect public health.",
+      "uz": "qoidalar orqali tartibga solmoq"
+    },
+    {
+      "word": "extinction",
+      "pos": "noun",
+      "ipa": "/ɪkˈstɪŋkʃn/",
+      "definition": "the complete disappearance of a species from the earth",
+      "example": "Habitat loss is the leading cause of extinction among large mammals today.",
+      "uz": "turning yer yuzidan butunlay yo'q bo'lib ketishi"
+    },
+    {
+      "word": "degradation",
+      "pos": "noun",
+      "ipa": "/ˌdeɡrəˈdeɪʃn/",
+      "definition": "the gradual worsening or decline in the condition of something, especially land",
+      "example": "Overgrazing has led to severe degradation of once-fertile grasslands.",
+      "uz": "holatning (ayniqsa yerning) asta-sekin yomonlashuvi"
+    },
+    {
+      "word": "offset",
+      "pos": "verb",
+      "ipa": "/ˈɒfset/",
+      "definition": "to counterbalance one effect with another, opposite one",
+      "example": "Companies can offset their emissions by investing in reforestation projects.",
+      "uz": "bir ta'sirni boshqasi bilan qoplamoq"
+    },
+    {
+      "word": "threshold",
+      "pos": "noun",
+      "ipa": "/ˈθreʃhoʊld/",
+      "definition": "the point at which a significant change or effect begins to occur",
+      "example": "Many scientists believe the planet is approaching a dangerous climate threshold.",
+      "uz": "jiddiy o'zgarish boshlanadigan chegara"
+    },
+    {
+      "word": "incentive",
+      "pos": "noun",
+      "ipa": "/ɪnˈsentɪv/",
+      "definition": "something that encourages a person or organization to act in a particular way",
+      "example": "Tax breaks provide a strong incentive for households to install solar panels.",
+      "uz": "rag'batlantiruvchi omil"
+    },
+    {
+      "word": "compliance",
+      "pos": "noun",
+      "ipa": "/kəmˈplaɪəns/",
+      "definition": "the act of following a rule, regulation, or standard",
+      "example": "Factories face heavy fines for failing to ensure compliance with emissions standards.",
+      "uz": "qoida va standartlarga rioya qilish"
+    },
+    {
+      "word": "habitat",
+      "pos": "noun",
+      "ipa": "/ˈhæbɪtæt/",
+      "definition": "the natural environment in which a particular species normally lives",
+      "example": "Rising sea levels are steadily destroying the coastal habitat of many bird species.",
+      "uz": "tur yashaydigan tabiiy muhit"
+    },
+    {
+      "word": "depletion",
+      "pos": "noun",
+      "ipa": "/dɪˈpliːʃn/",
+      "definition": "the reduction in the amount of a resource through excessive use",
+      "example": "Overfishing has caused the alarming depletion of several fish stocks worldwide.",
+      "uz": "resursning ortiqcha foydalanish tufayli kamayishi"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adjective",
+      "ipa": "/səˈsteɪnəbl/",
+      "definition": "capable of being maintained at a steady level without exhausting natural resources",
+      "example": "The city has committed to a more sustainable model of urban development.",
+      "uz": "resurslarni tugatmaydigan darajada barqaror"
+    },
+    {
+      "word": "resilience",
+      "pos": "noun",
+      "ipa": "/rɪˈzɪliəns/",
+      "definition": "the capacity of a system or organism to recover from disturbance or stress",
+      "example": "Restoring wetlands can significantly increase a coastline's resilience to storms.",
+      "uz": "tizimning tashqi ta'sirdan keyin tiklanish qobiliyati"
+    },
+    {
+      "word": "stakeholder",
+      "pos": "noun",
+      "ipa": "/ˈsteɪkhoʊldər/",
+      "definition": "a person or group with an interest in or affected by a decision or project",
+      "example": "Effective conservation policy requires input from all relevant stakeholders, including local communities.",
+      "uz": "qarordan manfaatdor yoki ta'sirlanuvchi taraf"
+    }
+  ],
+  "text": "Nowhere is the tension between economic growth and environmental protection more apparent than in debates over deforestation. Clearing forest for agriculture may offer short-term financial gain, yet it accelerates habitat loss, threatens countless species with extinction, and contributes significantly to carbon emissions. Were such degradation to continue unchecked, the resulting damage to fragile ecosystems could prove irreversible, pushing some regions past a critical ecological threshold. Consequently, policymakers face mounting pressure to regulate industries more strictly, ensuring genuine compliance rather than symbolic gestures. Some governments offer financial incentives, rewarding companies that shrink their carbon footprint or invest in renewable energy; others require firms to offset unavoidable emissions through reforestation elsewhere. Nevertheless, no single measure can substitute for a coordinated strategy involving every stakeholder, from multinational corporations to local communities who depend directly on natural resources for their livelihoods. Conservation efforts must extend beyond isolated protected areas, since the depletion of resources in one region often has consequences far beyond its borders. Building resilience into ecosystems and economies will require sustained investment and difficult trade-offs. Only through such a sustainable, cooperative approach can further depletion be mitigated before thresholds are crossed that cannot be reversed.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Deforestation has no significant environmental consequences.",
+        "Balancing economic growth with environmental protection requires coordinated, sustained action from multiple stakeholders.",
+        "Only government regulation can solve environmental problems.",
+        "Renewable energy alone will solve the problem of deforestation."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what risk does unchecked degradation pose to ecosystems?",
+      "options": [
+        "It could push ecosystems past a critical threshold, causing irreversible damage.",
+        "It would have no lasting effect on species survival.",
+        "It would only affect regions engaged in agriculture.",
+        "It always leads to increased biodiversity."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the passage suggest about financial incentives offered by some governments?",
+      "options": [
+        "They are used to reward companies that reduce their carbon footprint or invest in renewable energy.",
+        "They are designed to increase deforestation.",
+        "They eliminate the need for compliance with regulations.",
+        "They have proven completely ineffective."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What can be inferred about the author's view of relying on a single environmental measure?",
+      "options": [
+        "The author believes one strong policy is sufficient.",
+        "The author believes no single measure can replace a coordinated strategy involving all stakeholders.",
+        "The author believes local communities should be excluded from decision-making.",
+        "The author believes conservation should focus only on protected areas."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's tone in the passage is best described as:",
+      "options": [
+        "alarmist without offering solutions",
+        "analytical, urging coordinated and sustainable action",
+        "dismissive of environmental concerns",
+        "purely celebratory of current environmental policy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why must conservation efforts extend beyond isolated protected areas?",
+      "options": [
+        "Because protected areas are no longer effective at all",
+        "Because depletion of resources in one region often has consequences beyond its borders",
+        "Because local communities oppose protected areas",
+        "Because international law prohibits protected areas"
+      ],
+      "answer": 1
+    }
+  ]
+}

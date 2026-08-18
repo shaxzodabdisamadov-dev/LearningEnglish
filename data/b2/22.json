@@ -1,0 +1,229 @@
+{
+  "id": 22,
+  "topic": "Global Economics and Trade",
+  "words": [
+    {
+      "word": "tariff",
+      "pos": "noun",
+      "ipa": "/ˈtærɪf/",
+      "definition": "a tax imposed on goods imported from or exported to another country",
+      "example": "The government raised tariffs on imported steel.",
+      "uz": "bojxona tarifi"
+    },
+    {
+      "word": "deficit",
+      "pos": "noun",
+      "ipa": "/ˈdɛfɪsɪt/",
+      "definition": "the amount by which spending exceeds income or exports fall short of imports",
+      "example": "The country's trade deficit widened significantly last year.",
+      "uz": "defitsit (tanqislik)"
+    },
+    {
+      "word": "surplus",
+      "pos": "noun",
+      "ipa": "/ˈsɜːpləs/",
+      "definition": "an amount left over after all requirements have been met",
+      "example": "The nation recorded a trade surplus for the first time in years.",
+      "uz": "ortiqcha (profitsit)"
+    },
+    {
+      "word": "inflation",
+      "pos": "noun",
+      "ipa": "/ɪnˈfleɪʃən/",
+      "definition": "a general and sustained rise in prices, reducing purchasing power",
+      "example": "Rising inflation has made everyday goods more expensive.",
+      "uz": "inflyatsiya"
+    },
+    {
+      "word": "recession",
+      "pos": "noun",
+      "ipa": "/rɪˈsɛʃən/",
+      "definition": "a period of temporary economic decline during which trade and activity slow",
+      "example": "The economy fell into recession after years of steady growth.",
+      "uz": "iqtisodiy tanazzul"
+    },
+    {
+      "word": "subsidize",
+      "pos": "verb",
+      "ipa": "/ˈsʌbsɪdaɪz/",
+      "definition": "to support an industry or activity financially, typically with government funds",
+      "example": "The government decided to subsidize renewable energy producers.",
+      "uz": "davlat mablag'i bilan qo'llab-quvvatlamoq"
+    },
+    {
+      "word": "commodity",
+      "pos": "noun",
+      "ipa": "/kəˈmɒdəti/",
+      "definition": "a raw material or primary product that can be bought and sold",
+      "example": "Oil remains one of the world's most traded commodities.",
+      "uz": "xomashyo tovar"
+    },
+    {
+      "word": "fluctuate",
+      "pos": "verb",
+      "ipa": "/ˈflʌktʃueɪt/",
+      "definition": "to rise and fall irregularly in level or amount",
+      "example": "Currency exchange rates fluctuate constantly throughout the day.",
+      "uz": "beqaror o'zgarib turmoq"
+    },
+    {
+      "word": "austerity",
+      "pos": "noun",
+      "ipa": "/ɔːˈstɛrəti/",
+      "definition": "strict economic policies imposed by a government to reduce spending",
+      "example": "The government introduced austerity measures to cut public debt.",
+      "uz": "qat'iy tejamkorlik siyosati"
+    },
+    {
+      "word": "protectionism",
+      "pos": "noun",
+      "ipa": "/prəˈtɛkʃənɪzəm/",
+      "definition": "the practice of shielding domestic industries from foreign competition through tariffs or restrictions",
+      "example": "Rising protectionism has slowed the growth of global trade.",
+      "uz": "proteksionizm (himoya siyosati)"
+    },
+    {
+      "word": "liberalize",
+      "pos": "verb",
+      "ipa": "/ˈlɪbərəlaɪz/",
+      "definition": "to remove or relax government restrictions on economic activity",
+      "example": "The country began to liberalize its markets in the 1990s.",
+      "uz": "erkinlashtirmoq"
+    },
+    {
+      "word": "dependency",
+      "pos": "noun",
+      "ipa": "/dɪˈpɛndənsi/",
+      "definition": "the state of relying heavily on something or someone else",
+      "example": "Many developing economies suffer from a dependency on a single export.",
+      "uz": "qaramlik"
+    },
+    {
+      "word": "leverage",
+      "pos": "noun",
+      "ipa": "/ˈliːvərɪdʒ/",
+      "definition": "power or influence used to achieve a desired outcome",
+      "example": "Larger economies have significant leverage in trade negotiations.",
+      "uz": "ta'sir kuchi"
+    },
+    {
+      "word": "exacerbate",
+      "pos": "verb",
+      "ipa": "/ɪɡˈzæsəbeɪt/",
+      "definition": "to make a problem, conflict, or situation worse",
+      "example": "New tariffs could exacerbate tensions between the two countries.",
+      "uz": "yanada og'irlashtirmoq"
+    },
+    {
+      "word": "stimulus",
+      "pos": "noun",
+      "ipa": "/ˈstɪmjʊləs/",
+      "definition": "something intended to encourage economic activity or growth",
+      "example": "The government approved a large stimulus package to boost spending.",
+      "uz": "rag'batlantiruvchi omil"
+    },
+    {
+      "word": "embargo",
+      "pos": "noun",
+      "ipa": "/ɪmˈbɑːɡəʊ/",
+      "definition": "an official ban on trade or other commercial activity with a particular country",
+      "example": "The United Nations imposed an embargo on the country's exports.",
+      "uz": "savdo embargosi"
+    },
+    {
+      "word": "equitable",
+      "pos": "adjective",
+      "ipa": "/ˈɛkwɪtəbl/",
+      "definition": "fair and impartial, especially in the distribution of resources",
+      "example": "Negotiators called for a more equitable global trade system.",
+      "uz": "adolatli taqsimlangan"
+    },
+    {
+      "word": "disparity",
+      "pos": "noun",
+      "ipa": "/dɪˈspærəti/",
+      "definition": "a great difference or inequality between two things",
+      "example": "The disparity between rich and poor nations continues to grow.",
+      "uz": "tafovut, nomutanosiblik"
+    },
+    {
+      "word": "mitigate",
+      "pos": "verb",
+      "ipa": "/ˈmɪtɪɡeɪt/",
+      "definition": "to make the severity of a problem or its effects less serious",
+      "example": "Trade agreements can help mitigate the impact of economic shocks.",
+      "uz": "yumshatmoq, kamaytirmoq"
+    },
+    {
+      "word": "volatile",
+      "pos": "adjective",
+      "ipa": "/ˈvɒlətaɪl/",
+      "definition": "likely to change rapidly and unpredictably",
+      "example": "Global markets have grown increasingly volatile in recent months.",
+      "uz": "beqaror, tez o'zgaruvchan"
+    }
+  ],
+  "text": "Global trade has never been simple, but rarely has it seemed as volatile as it does today. When one nation imposes a tariff on imported goods, trading partners frequently retaliate, triggering a cycle of protectionism that can exacerbate tensions built over decades of liberalized commerce. Commodity prices fluctuate wildly in response, leaving smaller economies, often already burdened by trade deficits, especially vulnerable. Some governments respond with austerity, cutting spending to narrow a widening deficit; others prefer a stimulus package, hoping to subsidize struggling industries back to health. Neither approach is without risk: austerity can deepen a recession, while excessive stimulus may fuel inflation. Wealthier nations, wielding considerable leverage over international markets, can weather an embargo or a sudden downturn far more easily than developing countries whose economies remain dependent on a handful of exports. This dependency, critics argue, perpetuates a disparity between rich and poor that no amount of surplus generated by trade alone can mitigate. For global commerce to become genuinely equitable, negotiators must look beyond short-term national advantage and consider, however reluctantly, the interconnected fate of every economy involved.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Global trade is entirely stable and predictable.",
+        "Global trade is increasingly volatile, and addressing inequality between nations requires cooperation.",
+        "Only wealthy nations are affected by trade disputes.",
+        "Tariffs always benefit the countries that impose them."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what risk does austerity carry?",
+      "options": [
+        "It can deepen a recession.",
+        "It always causes inflation.",
+        "It eliminates trade deficits instantly.",
+        "It has no economic consequences."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What can be inferred about developing countries dependent on a few exports?",
+      "options": [
+        "They are generally unaffected by fluctuating commodity prices.",
+        "They are especially vulnerable to global economic instability.",
+        "They have more leverage than wealthier nations.",
+        "They benefit most from protectionism."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage say wealthier nations can withstand more easily than developing countries?",
+      "options": [
+        "An embargo or sudden economic downturn",
+        "A rise in domestic inflation only",
+        "A decrease in commodity prices only",
+        "A change in government leadership"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the author's purpose in the final sentence of the passage?",
+      "options": [
+        "To argue that national self-interest should always come first",
+        "To call for greater international cooperation for a fairer trade system",
+        "To dismiss the idea of global economic interdependence",
+        "To criticize wealthy nations for having any leverage at all"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the passage, 'exacerbate' is closest in meaning to:",
+      "options": [
+        "Resolve",
+        "Worsen",
+        "Ignore",
+        "Measure"
+      ],
+      "answer": 1
+    }
+  ]
+}

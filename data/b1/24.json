@@ -1,0 +1,229 @@
+{
+  "id": 24,
+  "topic": "Music and Film Industry",
+  "words": [
+    {
+      "word": "soundtrack",
+      "pos": "noun",
+      "ipa": "/ˈsaʊndtræk/",
+      "definition": "the recorded music used in a film",
+      "example": "The soundtrack of the movie became more popular than the film itself.",
+      "uz": "filmga yozilgan musiqa"
+    },
+    {
+      "word": "lyrics",
+      "pos": "noun",
+      "ipa": "/ˈlɪrɪks/",
+      "definition": "the words of a song",
+      "example": "The song's lyrics describe the singer's childhood memories.",
+      "uz": "qo'shiq matni"
+    },
+    {
+      "word": "release",
+      "pos": "verb",
+      "ipa": "/rɪˈliːs/",
+      "definition": "to make a film, song, or album available to the public",
+      "example": "The band will release their new album next month.",
+      "uz": "chiqarmoq"
+    },
+    {
+      "word": "performance",
+      "pos": "noun",
+      "ipa": "/pərˈfɔːrməns/",
+      "definition": "the act of performing a play, concert, or other form of entertainment",
+      "example": "Her performance at the concert received a standing ovation.",
+      "uz": "chiqish"
+    },
+    {
+      "word": "audience",
+      "pos": "noun",
+      "ipa": "/ˈɔːdiəns/",
+      "definition": "the group of people who watch or listen to a performance",
+      "example": "The audience clapped loudly at the end of the show.",
+      "uz": "tomoshabinlar"
+    },
+    {
+      "word": "blockbuster",
+      "pos": "noun",
+      "ipa": "/ˈblɒkbʌstər/",
+      "definition": "a very successful film that makes a lot of money",
+      "example": "The summer blockbuster broke box office records.",
+      "uz": "kassa yutug'i film"
+    },
+    {
+      "word": "director",
+      "pos": "noun",
+      "ipa": "/dəˈrektər/",
+      "definition": "a person who controls how a film or play is made",
+      "example": "The director chose an unknown actor for the lead role.",
+      "uz": "rejissyor"
+    },
+    {
+      "word": "genre",
+      "pos": "noun",
+      "ipa": "/ˈʒɒnrə/",
+      "definition": "a category of art, music, or literature",
+      "example": "Horror is her favourite film genre.",
+      "uz": "janr"
+    },
+    {
+      "word": "streaming",
+      "pos": "noun",
+      "ipa": "/ˈstriːmɪŋ/",
+      "definition": "the act of watching or listening to something online without downloading it",
+      "example": "Streaming services have changed the way people watch films.",
+      "uz": "onlayn tomosha qilish"
+    },
+    {
+      "word": "box office",
+      "pos": "noun",
+      "ipa": "/ˈbɒks ˌɒfɪs/",
+      "definition": "the total amount of money a film earns from ticket sales",
+      "example": "The movie was a huge box office success.",
+      "uz": "kassa tushumi"
+    },
+    {
+      "word": "rehearse",
+      "pos": "verb",
+      "ipa": "/rɪˈhɜːrs/",
+      "definition": "to practise a play, piece of music, or dance before performing it publicly",
+      "example": "The band rehearsed for hours before the concert.",
+      "uz": "mashq qilmoq"
+    },
+    {
+      "word": "compose",
+      "pos": "verb",
+      "ipa": "/kəmˈpoʊz/",
+      "definition": "to write a piece of music",
+      "example": "She composed the film's theme song herself.",
+      "uz": "bastalamoq"
+    },
+    {
+      "word": "instrumental",
+      "pos": "adjective",
+      "ipa": "/ˌɪnstrəˈmentl/",
+      "definition": "music played only on instruments, without singing",
+      "example": "The instrumental track set the mood for the opening scene.",
+      "uz": "cholg'u asboblarida ijro etiladigan"
+    },
+    {
+      "word": "celebrity",
+      "pos": "noun",
+      "ipa": "/səˈlebrəti/",
+      "definition": "a famous person, especially in entertainment",
+      "example": "Many celebrities attended the film's premiere.",
+      "uz": "mashhur shaxs"
+    },
+    {
+      "word": "plot",
+      "pos": "noun",
+      "ipa": "/plɒt/",
+      "definition": "the series of events that make up a story",
+      "example": "The plot of the film kept the audience guessing until the end.",
+      "uz": "syujet"
+    },
+    {
+      "word": "adaptation",
+      "pos": "noun",
+      "ipa": "/ˌædæpˈteɪʃən/",
+      "definition": "a film, play, or programme based on a book or other work",
+      "example": "The film is an adaptation of a famous novel.",
+      "uz": "ekranlashtirish"
+    },
+    {
+      "word": "review",
+      "pos": "noun",
+      "ipa": "/rɪˈvjuː/",
+      "definition": "a written opinion of a film, book, or performance",
+      "example": "The film received excellent reviews from critics.",
+      "uz": "tanqidiy sharh"
+    },
+    {
+      "word": "award-winning",
+      "pos": "adjective",
+      "ipa": "/əˈwɔːrd ˌwɪnɪŋ/",
+      "definition": "having won a prize for excellence",
+      "example": "The award-winning director is famous for his dramatic style.",
+      "uz": "mukofotga sazovor bo'lgan"
+    },
+    {
+      "word": "entertain",
+      "pos": "verb",
+      "ipa": "/ˌentərˈteɪn/",
+      "definition": "to provide enjoyment or amusement for someone",
+      "example": "Good films entertain us while also making us think.",
+      "uz": "ko'ngil ochmoq"
+    },
+    {
+      "word": "talented",
+      "pos": "adjective",
+      "ipa": "/ˈtæləntɪd/",
+      "definition": "having a natural ability to do something well",
+      "example": "The film featured a very talented young actress.",
+      "uz": "iste'dodli"
+    }
+  ],
+  "text": "The music and film industry has changed enormously over the past twenty years. In the past, people had to go to the cinema or buy an album to enjoy their favourite entertainment. Nowadays, however, streaming has made it possible to watch a blockbuster or listen to a new soundtrack instantly, from anywhere in the world. Before a film is released, a director usually works closely with actors, who rehearse their scenes many times to make the performance as realistic as possible. A composer may also compose original music, sometimes writing an instrumental theme that becomes as famous as the film itself. Meanwhile, songwriters carefully choose lyrics that match the mood of each scene. Once a film reaches cinemas, its success is often measured by box office earnings and by the reviews it receives from critics. Some films, especially adaptations of popular novels, attract a huge audience because people already know the plot. Although not every film is a box office hit, the best ones manage to entertain audiences of every genre, from comedy to drama, and even turn talented but unknown actors into celebrities.",
+  "questions": [
+    {
+      "question": "How has streaming changed entertainment, according to the passage?",
+      "options": [
+        "It has made it possible to watch films or listen to music instantly",
+        "It has made cinemas more popular than before",
+        "It only works for old films",
+        "It replaced live performances entirely"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What do actors typically do before a performance, according to the text?",
+      "options": [
+        "They watch the director's earlier films",
+        "They rehearse their scenes many times",
+        "They write their own lyrics",
+        "They avoid meeting the composer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What might become as famous as the film itself?",
+      "options": [
+        "The director's biography",
+        "An instrumental theme composed for the film",
+        "The actors' interviews",
+        "The box office numbers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How is a film's success often measured, according to the passage?",
+      "options": [
+        "By box office earnings and critical reviews",
+        "By the length of the film",
+        "By the number of actors involved",
+        "By how many awards the director has already won"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why do adaptations of popular novels often attract a large audience?",
+      "options": [
+        "Because they are always cheaper to watch",
+        "Because people already know the plot",
+        "Because they are shorter than original films",
+        "Because they don't need actors"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what can happen to talented but unknown actors who appear in the best films?",
+      "options": [
+        "They stop performing",
+        "They become celebrities",
+        "They become directors",
+        "They only work in one genre"
+      ],
+      "answer": 1
+    }
+  ]
+}

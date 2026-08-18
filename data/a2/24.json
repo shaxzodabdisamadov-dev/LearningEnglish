@@ -1,0 +1,229 @@
+{
+  "id": 24,
+  "topic": "Science in Everyday Life",
+  "words": [
+    {
+      "word": "science",
+      "pos": "noun",
+      "ipa": "/ˈsaɪəns/",
+      "definition": "the study of the natural world through tests and facts",
+      "example": "We do fun experiments in science class.",
+      "uz": "fan"
+    },
+    {
+      "word": "experiment",
+      "pos": "noun",
+      "ipa": "/ɪkˈsperɪmənt/",
+      "definition": "a scientific test to find something out",
+      "example": "The students did an experiment with water and salt.",
+      "uz": "tajriba"
+    },
+    {
+      "word": "energy",
+      "pos": "noun",
+      "ipa": "/ˈenərdʒi/",
+      "definition": "the power used to do work, like light or heat",
+      "example": "Food gives our bodies energy.",
+      "uz": "energiya"
+    },
+    {
+      "word": "electricity",
+      "pos": "noun",
+      "ipa": "/ɪˌlekˈtrɪsəti/",
+      "definition": "a form of energy used for light and machines",
+      "example": "Electricity powers the lights in our house.",
+      "uz": "elektr"
+    },
+    {
+      "word": "machine",
+      "pos": "noun",
+      "ipa": "/məˈʃiːn/",
+      "definition": "a device that does a job using power",
+      "example": "A washing machine cleans our clothes.",
+      "uz": "mashina"
+    },
+    {
+      "word": "technology",
+      "pos": "noun",
+      "ipa": "/tekˈnɒlədʒi/",
+      "definition": "tools and machines made using science",
+      "example": "New technology makes phones faster every year.",
+      "uz": "texnologiya"
+    },
+    {
+      "word": "light",
+      "pos": "noun",
+      "ipa": "/laɪt/",
+      "definition": "the brightness that lets us see",
+      "example": "The light from the lamp is very bright.",
+      "uz": "yorug'lik"
+    },
+    {
+      "word": "heat",
+      "pos": "noun",
+      "ipa": "/hiːt/",
+      "definition": "warmth or hot temperature",
+      "example": "The heat from the sun warms the earth.",
+      "uz": "issiqlik"
+    },
+    {
+      "word": "air",
+      "pos": "noun",
+      "ipa": "/eər/",
+      "definition": "the gas around us that we breathe",
+      "example": "We need clean air to stay healthy.",
+      "uz": "havo"
+    },
+    {
+      "word": "water",
+      "pos": "noun",
+      "ipa": "/ˈwɔːtər/",
+      "definition": "a clear liquid that we drink",
+      "example": "Plants need water and sunlight to grow.",
+      "uz": "suv"
+    },
+    {
+      "word": "material",
+      "pos": "noun",
+      "ipa": "/məˈtɪəriəl/",
+      "definition": "a substance used to make things",
+      "example": "Wood is a common material for furniture.",
+      "uz": "material"
+    },
+    {
+      "word": "temperature",
+      "pos": "noun",
+      "ipa": "/ˈtemprətʃər/",
+      "definition": "how hot or cold something is",
+      "example": "The temperature of the water rose quickly.",
+      "uz": "harorat"
+    },
+    {
+      "word": "gravity",
+      "pos": "noun",
+      "ipa": "/ˈɡrævəti/",
+      "definition": "the force that pulls things down to earth",
+      "example": "Gravity makes an apple fall from a tree.",
+      "uz": "tortishish kuchi"
+    },
+    {
+      "word": "battery",
+      "pos": "noun",
+      "ipa": "/ˈbætəri/",
+      "definition": "a small object that stores energy for a device",
+      "example": "My phone needs a new battery.",
+      "uz": "batareya"
+    },
+    {
+      "word": "solar",
+      "pos": "adjective",
+      "ipa": "/ˈsoʊlər/",
+      "definition": "relating to the sun's energy",
+      "example": "Our house has solar panels on the roof.",
+      "uz": "quyosh"
+    },
+    {
+      "word": "solve",
+      "pos": "verb",
+      "ipa": "/sɒlv/",
+      "definition": "to find the answer to a problem",
+      "example": "Scientists worked together to solve the problem.",
+      "uz": "yechmoq"
+    },
+    {
+      "word": "test",
+      "pos": "verb",
+      "ipa": "/test/",
+      "definition": "to try something to see if it works",
+      "example": "We test our idea before we believe it.",
+      "uz": "sinamoq"
+    },
+    {
+      "word": "result",
+      "pos": "noun",
+      "ipa": "/rɪˈzʌlt/",
+      "definition": "what happens because of a test or action",
+      "example": "The result of the experiment surprised everyone.",
+      "uz": "natija"
+    },
+    {
+      "word": "mix",
+      "pos": "verb",
+      "ipa": "/mɪks/",
+      "definition": "to combine different things together",
+      "example": "Mix the flour and water together.",
+      "uz": "aralashtirmoq"
+    },
+    {
+      "word": "boil",
+      "pos": "verb",
+      "ipa": "/bɔɪl/",
+      "definition": "to heat a liquid until it bubbles",
+      "example": "Boil the water before you make tea.",
+      "uz": "qaynatmoq"
+    }
+  ],
+  "text": "Science is all around us, every day. We use science and technology to make life easier. For example, electricity gives us light and heat in our homes. A machine like a washing machine uses electricity to clean our clothes. Have you ever wondered why things fall to the ground? That happens because of gravity. Gravity pulls objects down to the earth. In the kitchen, we use science too. When you boil water, it gets very hot, and the temperature rises. If you mix different foods together, you make something new to eat. Scientists do experiments to test their ideas. They watch carefully and write down the result. Sometimes an experiment helps them solve a problem. Many phones and computers use a battery for energy. Some houses also use solar panels, which use light from the sun to make electricity. Air is important for science too; we need clean air to breathe and stay healthy. Scientists study different materials, like plastic, metal, and wood, to build new things. Learning about science helps us understand the world and solve everyday problems.",
+  "questions": [
+    {
+      "question": "Why do objects fall to the ground, according to the text?",
+      "options": [
+        "because of electricity",
+        "because of gravity",
+        "because of heat",
+        "because of light"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens to water's temperature when you boil it?",
+      "options": [
+        "it gets cold",
+        "it stays the same",
+        "it rises and gets hot",
+        "it disappears"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What do scientists write down after doing an experiment?",
+      "options": [
+        "a story",
+        "the result",
+        "a headline",
+        "a schedule"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do solar panels use to make electricity?",
+      "options": [
+        "water",
+        "wind",
+        "light from the sun",
+        "batteries"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What do we need to breathe and stay healthy, according to the text?",
+      "options": [
+        "clean air",
+        "hot water",
+        "electricity",
+        "a battery"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What do scientists study to build new things, according to the text?",
+      "options": [
+        "stars and planets",
+        "materials like plastic, metal, and wood",
+        "newspapers",
+        "emotions"
+      ],
+      "answer": 1
+    }
+  ]
+}

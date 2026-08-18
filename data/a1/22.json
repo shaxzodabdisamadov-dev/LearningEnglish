@@ -1,0 +1,229 @@
+{
+  "id": 22,
+  "topic": "Holidays and Celebrations",
+  "words": [
+    {
+      "word": "holiday",
+      "pos": "noun",
+      "ipa": "/ˈhɒlədeɪ/",
+      "definition": "a special day or time when people do not work",
+      "example": "New Year is my favorite holiday.",
+      "uz": "bayram"
+    },
+    {
+      "word": "celebrate",
+      "pos": "verb",
+      "ipa": "/ˈselɪbreɪt/",
+      "definition": "to do something special to show that a day or event is important",
+      "example": "We celebrate my birthday every year.",
+      "uz": "nishonlamoq"
+    },
+    {
+      "word": "birthday",
+      "pos": "noun",
+      "ipa": "/ˈbɜːrθdeɪ/",
+      "definition": "the day of the year when someone was born",
+      "example": "Today is my sister's birthday.",
+      "uz": "tug'ilgan kun"
+    },
+    {
+      "word": "party",
+      "pos": "noun",
+      "ipa": "/ˈpɑːrti/",
+      "definition": "a social event where people meet to enjoy themselves",
+      "example": "We had a big party at home.",
+      "uz": "ziyofat"
+    },
+    {
+      "word": "gift",
+      "pos": "noun",
+      "ipa": "/ɡɪft/",
+      "definition": "something you give to someone, usually for a special occasion",
+      "example": "She gave me a beautiful gift.",
+      "uz": "sovg'a"
+    },
+    {
+      "word": "cake",
+      "pos": "noun",
+      "ipa": "/keɪk/",
+      "definition": "a sweet food made from flour, sugar, and eggs",
+      "example": "We ate a big chocolate cake.",
+      "uz": "tort"
+    },
+    {
+      "word": "candle",
+      "pos": "noun",
+      "ipa": "/ˈkændl/",
+      "definition": "a stick of wax with a string that you burn for light",
+      "example": "She blew out the candles on her cake.",
+      "uz": "sham"
+    },
+    {
+      "word": "family",
+      "pos": "noun",
+      "ipa": "/ˈfæməli/",
+      "definition": "a group of people who are related, like parents and children",
+      "example": "My family always celebrates together.",
+      "uz": "oila"
+    },
+    {
+      "word": "guest",
+      "pos": "noun",
+      "ipa": "/ɡest/",
+      "definition": "a person who is invited to visit or attend an event",
+      "example": "We had ten guests at the party.",
+      "uz": "mehmon"
+    },
+    {
+      "word": "invite",
+      "pos": "verb",
+      "ipa": "/ɪnˈvaɪt/",
+      "definition": "to ask someone to come to an event",
+      "example": "I invited all my friends to the party.",
+      "uz": "taklif qilmoq"
+    },
+    {
+      "word": "decorate",
+      "pos": "verb",
+      "ipa": "/ˈdekəreɪt/",
+      "definition": "to make a place look nice with colorful things",
+      "example": "We decorated the house with balloons.",
+      "uz": "bezamoq"
+    },
+    {
+      "word": "dance",
+      "pos": "verb",
+      "ipa": "/dæns/",
+      "definition": "to move your body to music",
+      "example": "Everyone danced at the party.",
+      "uz": "raqsga tushmoq"
+    },
+    {
+      "word": "sing",
+      "pos": "verb",
+      "ipa": "/sɪŋ/",
+      "definition": "to make music with your voice",
+      "example": "We sang a happy song for her.",
+      "uz": "qo'shiq aytmoq"
+    },
+    {
+      "word": "wish",
+      "pos": "verb",
+      "ipa": "/wɪʃ/",
+      "definition": "to hope that something good will happen",
+      "example": "I wished my friend a happy birthday.",
+      "uz": "tilamoq"
+    },
+    {
+      "word": "surprise",
+      "pos": "noun",
+      "ipa": "/sərˈpraɪz/",
+      "definition": "something that you did not expect",
+      "example": "The party was a big surprise for her.",
+      "uz": "syurpriz"
+    },
+    {
+      "word": "tradition",
+      "pos": "noun",
+      "ipa": "/trəˈdɪʃən/",
+      "definition": "a custom or way of doing something that a group has done for a long time",
+      "example": "It is a family tradition to eat cake on birthdays.",
+      "uz": "an'ana"
+    },
+    {
+      "word": "festival",
+      "pos": "noun",
+      "ipa": "/ˈfestɪvəl/",
+      "definition": "a special time when people celebrate something with food, music, or events",
+      "example": "We enjoy the New Year festival every year.",
+      "uz": "festival"
+    },
+    {
+      "word": "flag",
+      "pos": "noun",
+      "ipa": "/flæɡ/",
+      "definition": "a piece of cloth with colors and a design that represents a country",
+      "example": "We hung flags around the room.",
+      "uz": "bayroq"
+    },
+    {
+      "word": "custom",
+      "pos": "noun",
+      "ipa": "/ˈkʌstəm/",
+      "definition": "a usual way of doing something in a certain place or culture",
+      "example": "This custom is common in my country.",
+      "uz": "urf-odat"
+    },
+    {
+      "word": "happy",
+      "pos": "adjective",
+      "ipa": "/ˈhæpi/",
+      "definition": "feeling or showing pleasure and joy",
+      "example": "She looked very happy at her party.",
+      "uz": "baxtli"
+    }
+  ],
+  "text": "Last week, we celebrated my little sister's birthday. It is a family tradition to make a big cake with candles for every birthday. My mother invited many guests, and we decorated the house with colorful flags and balloons. When the guests arrived, we sang a happy song for my sister. She was very surprised and smiled a lot. It was a wonderful surprise for her because she did not know about the party. After we sang, everyone made a wish for her happiness. We ate the cake and danced to music until night. In my country, this custom of singing and eating cake is very common at every birthday party. We also have other festivals during the year, like the New Year festival, when families come together and celebrate with food and gifts. On these holidays, children usually receive small gifts from their family. I love holidays because they bring family and friends together. This year, I want to give my sister a special gift for her next birthday and make her feel happy again.",
+  "questions": [
+    {
+      "question": "Whose birthday did the family celebrate?",
+      "options": [
+        "The mother's",
+        "The writer's",
+        "The little sister's",
+        "A guest's"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a family tradition for every birthday?",
+      "options": [
+        "Making a big cake with candles",
+        "Going to a festival",
+        "Giving flags as gifts",
+        "Dancing all night"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why was the sister surprised?",
+      "options": [
+        "She did not know about the party",
+        "She got a new house",
+        "She won a prize",
+        "She saw a festival"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What did everyone do after singing the birthday song?",
+      "options": [
+        "Left the party",
+        "Made a wish for her happiness",
+        "Gave her a flag",
+        "Went to sleep"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, what happens during the New Year festival?",
+      "options": [
+        "Families come together and celebrate with food and gifts",
+        "Everyone works",
+        "Children go to school",
+        "Nobody celebrates"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the writer want to do for the sister's next birthday?",
+      "options": [
+        "Make a cake",
+        "Give her a special gift",
+        "Invite fewer guests",
+        "Cancel the party"
+      ],
+      "answer": 1
+    }
+  ]
+}

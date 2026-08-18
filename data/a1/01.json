@@ -1,0 +1,229 @@
+{
+  "id": 1,
+  "topic": "Family and Daily Life",
+  "words": [
+    {
+      "word": "family",
+      "pos": "noun",
+      "ipa": "/ˈfæməli/",
+      "definition": "a group of people who are related to each other, such as parents and children.",
+      "example": "I live with my family in a small house.",
+      "uz": "oila"
+    },
+    {
+      "word": "mother",
+      "pos": "noun",
+      "ipa": "/ˈmʌðər/",
+      "definition": "a female parent.",
+      "example": "My mother works at a school.",
+      "uz": "ona"
+    },
+    {
+      "word": "father",
+      "pos": "noun",
+      "ipa": "/ˈfɑːðər/",
+      "definition": "a male parent.",
+      "example": "My father works in an office.",
+      "uz": "ota"
+    },
+    {
+      "word": "brother",
+      "pos": "noun",
+      "ipa": "/ˈbrʌðər/",
+      "definition": "a boy or man who has the same parents as you.",
+      "example": "My brother is a student.",
+      "uz": "aka"
+    },
+    {
+      "word": "sister",
+      "pos": "noun",
+      "ipa": "/ˈsɪstər/",
+      "definition": "a girl or woman who has the same parents as you.",
+      "example": "My sister is still young.",
+      "uz": "opa"
+    },
+    {
+      "word": "friend",
+      "pos": "noun",
+      "ipa": "/frend/",
+      "definition": "a person you know well and like.",
+      "example": "I have many friends at school.",
+      "uz": "do'st"
+    },
+    {
+      "word": "house",
+      "pos": "noun",
+      "ipa": "/haʊs/",
+      "definition": "a building where people live.",
+      "example": "We live in a small house.",
+      "uz": "uy"
+    },
+    {
+      "word": "city",
+      "pos": "noun",
+      "ipa": "/ˈsɪti/",
+      "definition": "a large town.",
+      "example": "There are many small cities in my country.",
+      "uz": "shahar"
+    },
+    {
+      "word": "country",
+      "pos": "noun",
+      "ipa": "/ˈkʌntri/",
+      "definition": "a nation with its own government and land.",
+      "example": "My country is beautiful.",
+      "uz": "mamlakat"
+    },
+    {
+      "word": "name",
+      "pos": "noun",
+      "ipa": "/neɪm/",
+      "definition": "the word or words that a person or thing is called by.",
+      "example": "My name is Anna.",
+      "uz": "ism"
+    },
+    {
+      "word": "work",
+      "pos": "verb",
+      "ipa": "/wɜːrk/",
+      "definition": "to do a job, often to earn money.",
+      "example": "My father works every day.",
+      "uz": "ishlamoq"
+    },
+    {
+      "word": "school",
+      "pos": "noun",
+      "ipa": "/skuːl/",
+      "definition": "a place where children go to learn.",
+      "example": "I go to school every morning.",
+      "uz": "maktab"
+    },
+    {
+      "word": "student",
+      "pos": "noun",
+      "ipa": "/ˈstuːdənt/",
+      "definition": "a person who is learning at a school or college.",
+      "example": "My brother is a student at a university.",
+      "uz": "o'quvchi"
+    },
+    {
+      "word": "teacher",
+      "pos": "noun",
+      "ipa": "/ˈtiːtʃər/",
+      "definition": "a person whose job is to teach.",
+      "example": "My teacher is very kind.",
+      "uz": "o'qituvchi"
+    },
+    {
+      "word": "book",
+      "pos": "noun",
+      "ipa": "/bʊk/",
+      "definition": "a set of printed pages joined together, usually with a cover.",
+      "example": "She gives us interesting books to read.",
+      "uz": "kitob"
+    },
+    {
+      "word": "water",
+      "pos": "noun",
+      "ipa": "/ˈwɔːtər/",
+      "definition": "a clear liquid that people and animals need to drink to live.",
+      "example": "We drink water every morning.",
+      "uz": "suv"
+    },
+    {
+      "word": "food",
+      "pos": "noun",
+      "ipa": "/fuːd/",
+      "definition": "things that people and animals eat.",
+      "example": "We eat simple food like bread and eggs.",
+      "uz": "ovqat"
+    },
+    {
+      "word": "morning",
+      "pos": "noun",
+      "ipa": "/ˈmɔːrnɪŋ/",
+      "definition": "the early part of the day, from when the sun rises until noon.",
+      "example": "Every morning, we eat breakfast together.",
+      "uz": "ertalab"
+    },
+    {
+      "word": "evening",
+      "pos": "noun",
+      "ipa": "/ˈiːvnɪŋ/",
+      "definition": "the part of the day between afternoon and night.",
+      "example": "In the evening, my family comes home.",
+      "uz": "kechqurun"
+    },
+    {
+      "word": "happy",
+      "pos": "adjective",
+      "ipa": "/ˈhæpi/",
+      "definition": "feeling or showing pleasure and satisfaction.",
+      "example": "I am happy because I have a loving family.",
+      "uz": "xursand"
+    }
+  ],
+  "text": "My name is Anna. I live with my family in a small house in the city. My father works in an office, and my mother works at a school. She is a teacher. I have one brother and one sister. My brother is a student at a university, and my sister is still young. Every morning, we eat breakfast together. We drink water and eat simple food like bread and eggs. After breakfast, my father goes to work, and my brother goes to school. I go to school too. I like my school because I have many friends there. My teacher is very kind, and she gives us interesting books to read. In the evening, my family comes home. We talk about our day and eat dinner together. My country has many small cities like ours, and life here is calm and simple. I am happy because I have a loving family and good friends. Family and friends are very important in life, and they make every day better.",
+  "questions": [
+    {
+      "question": "Where does Anna live?",
+      "options": [
+        "In a big city",
+        "In a small house in the city",
+        "In a village",
+        "At school"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does Anna's mother do?",
+      "options": [
+        "She is a doctor",
+        "She is a teacher",
+        "She is a student",
+        "She works in an office"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the family drink at breakfast?",
+      "options": [
+        "Juice",
+        "Milk",
+        "Water",
+        "Tea"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is a student at a university?",
+      "options": [
+        "Anna",
+        "Anna's sister",
+        "Anna's brother",
+        "Anna's father"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why does Anna like her school?",
+      "options": [
+        "Because it is big",
+        "Because she has many friends there",
+        "Because it is near her house",
+        "Because the food is good"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the family do in the evening?",
+      "options": [
+        "They go to work",
+        "They talk and eat dinner together",
+        "They read books",
+        "They go to the city"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 1,
+  "topic": "Existential Reflection and Meaning",
+  "words": [
+    {
+      "word": "ephemeral",
+      "pos": "adjective",
+      "ipa": "/ɪˈfɛmərəl/",
+      "definition": "lasting for a very short time; fleeting and impermanent",
+      "example": "She found a strange comfort in the ephemeral nature of the sunset, gone before she could fully describe it.",
+      "uz": "o'tkinchi"
+    },
+    {
+      "word": "transcend",
+      "pos": "verb",
+      "ipa": "/trænˈsɛnd/",
+      "definition": "to go beyond the ordinary limits of something, especially in a spiritual or intellectual sense",
+      "example": "The philosopher argued that true wisdom requires learning to transcend one's immediate fears and desires.",
+      "uz": "chegaralaridan oshib o'tmoq"
+    },
+    {
+      "word": "futility",
+      "pos": "noun",
+      "ipa": "/fjuːˈtɪləti/",
+      "definition": "the quality of being pointless or incapable of producing any useful result",
+      "example": "He was gripped by a sense of futility whenever he considered the vastness of cosmic time.",
+      "uz": "behudalik"
+    },
+    {
+      "word": "solipsism",
+      "pos": "noun",
+      "ipa": "/ˈsɒlɪpsɪzəm/",
+      "definition": "the philosophical view that only one's own mind can be known to exist",
+      "example": "Taken to its logical extreme, solipsism renders any claim about other people's inner lives fundamentally unverifiable.",
+      "uz": "solipsizm"
+    },
+    {
+      "word": "existential",
+      "pos": "adjective",
+      "ipa": "/ˌɛɡzɪˈstɛnʃəl/",
+      "definition": "relating to human existence, particularly its meaning, freedom, and inevitable finitude",
+      "example": "The novel is less a plot-driven story than an extended existential meditation on freedom and dread.",
+      "uz": "ekzistensial"
+    },
+    {
+      "word": "nihilism",
+      "pos": "noun",
+      "ipa": "/ˈnaɪɪlɪzəm/",
+      "definition": "the belief that life is without objective meaning, purpose, or intrinsic value",
+      "example": "Rather than collapsing into despair, some thinkers treat nihilism as a starting point for constructing their own values.",
+      "uz": "nigilizm"
+    },
+    {
+      "word": "mortality",
+      "pos": "noun",
+      "ipa": "/mɔːˈtæləti/",
+      "definition": "the condition of being subject to death; the fact of eventually dying",
+      "example": "It was only after his illness that he began to reckon seriously with his own mortality.",
+      "uz": "o'limga mahkumlik"
+    },
+    {
+      "word": "introspection",
+      "pos": "noun",
+      "ipa": "/ˌɪntrəˈspɛkʃən/",
+      "definition": "the examination or observation of one's own mental and emotional processes",
+      "example": "Years of quiet introspection had given her an unusually clear-eyed view of her own motives.",
+      "uz": "o'z-o'zini kuzatish"
+    },
+    {
+      "word": "sentience",
+      "pos": "noun",
+      "ipa": "/ˈsɛntiəns/",
+      "definition": "the capacity to have subjective experiences, feelings, or perceptions",
+      "example": "Debates over animal welfare increasingly hinge on evidence for degrees of sentience across species.",
+      "uz": "sezuvchanlik"
+    },
+    {
+      "word": "teleological",
+      "pos": "adjective",
+      "ipa": "/ˌtɛlɪəˈlɒdʒɪkəl/",
+      "definition": "relating to the explanation of phenomena by their purpose or end goal rather than their cause",
+      "example": "A teleological reading of evolution, in which organisms strive toward some predetermined goal, is rejected by mainstream biology.",
+      "uz": "teleologik"
+    },
+    {
+      "word": "malaise",
+      "pos": "noun",
+      "ipa": "/məˈleɪz/",
+      "definition": "a vague, general feeling of unease, discomfort, or dissatisfaction whose exact cause is hard to identify",
+      "example": "A pervasive cultural malaise seemed to settle over the city in the years following the crisis.",
+      "uz": "noaniq bezovtalik hissi"
+    },
+    {
+      "word": "equanimity",
+      "pos": "noun",
+      "ipa": "/ˌiːkwəˈnɪməti/",
+      "definition": "mental calmness, composure, and evenness of temper, especially in a difficult situation",
+      "example": "She received the diagnosis with a striking equanimity that surprised even her closest friends.",
+      "uz": "xotirjamlik"
+    },
+    {
+      "word": "inexorable",
+      "pos": "adjective",
+      "ipa": "/ɪnˈɛksərəbəl/",
+      "definition": "impossible to stop or prevent; relentless in its progress",
+      "example": "The inexorable passage of time renders any illusion of permanence ultimately untenable.",
+      "uz": "to'xtatib bo'lmaydigan, muqarrar"
+    },
+    {
+      "word": "contemplate",
+      "pos": "verb",
+      "ipa": "/ˈkɒntəmpleɪt/",
+      "definition": "to think deeply and seriously about something over an extended period",
+      "example": "Monastic life offers a rare opportunity to contemplate questions that daily busyness usually crowds out.",
+      "uz": "chuqur mulohaza yuritmoq"
+    },
+    {
+      "word": "ineffable",
+      "pos": "adjective",
+      "ipa": "/ɪnˈɛfəbəl/",
+      "definition": "too great, intense, or subtle to be expressed or described in words",
+      "example": "Mystics across traditions describe their encounters with the divine as fundamentally ineffable.",
+      "uz": "so'z bilan ifodalab bo'lmaydigan"
+    },
+    {
+      "word": "absurdity",
+      "pos": "noun",
+      "ipa": "/əbˈsɜːdəti/",
+      "definition": "the quality of being wildly unreasonable or logically incongruous, especially the clash between human striving and an indifferent universe",
+      "example": "Camus located the absurdity of the human condition in our persistent demand for meaning from a silent universe.",
+      "uz": "absurdlik"
+    },
+    {
+      "word": "resignation",
+      "pos": "noun",
+      "ipa": "/ˌrɛzɪɡˈneɪʃən/",
+      "definition": "the acceptance of something undesirable but unavoidable, often accompanied by passive submission",
+      "example": "There was a note of quiet resignation in his voice as he described the diagnosis.",
+      "uz": "taslim bo'lib ko'nikish"
+    },
+    {
+      "word": "autonomy",
+      "pos": "noun",
+      "ipa": "/ɔːˈtɒnəmi/",
+      "definition": "the capacity for self-governance and independent decision-making, free from external control",
+      "example": "Existentialist thinkers place great weight on individual autonomy in the construction of a meaningful life.",
+      "uz": "mustaqillik (avtonomiya)"
+    },
+    {
+      "word": "fatalism",
+      "pos": "noun",
+      "ipa": "/ˈfeɪtəlɪzəm/",
+      "definition": "the belief that all events are predetermined and therefore inevitable, making resistance futile",
+      "example": "His creeping fatalism made it difficult for him to commit to any long-term plan.",
+      "uz": "fatalizm"
+    },
+    {
+      "word": "transient",
+      "pos": "adjective",
+      "ipa": "/ˈtrænziənt/",
+      "definition": "lasting only for a short time; not permanent or lasting",
+      "example": "Buddhist teaching invites practitioners to accept the transient nature of all things, including the self.",
+      "uz": "vaqtinchalik"
+    }
+  ],
+  "text": "Confronted with the inexorable fact of mortality, many people experience a diffuse existential malaise that resists easy articulation. Philosophers have long debated whether such disquiet signals a failure of meaning or, conversely, an invitation to construct one's own. Nihilism holds that any teleological account of the universe—any claim that life unfolds toward some cosmic purpose—is a comforting fiction; existence, on this view, is fundamentally indifferent to human aspirations. Yet accepting this premise need not entail resignation or fatalism. Camus, wrestling with the absurdity of a universe that offers no answers to the questions it nonetheless provokes, proposed that one might transcend futility not by denying it but by confronting it with defiant equanimity. Sustained introspection, then, becomes less a search for ineffable certainties than a discipline of attention: an ongoing negotiation with the transient nature of experience. Whether this constitutes genuine wisdom or merely an elegant coping mechanism remains contested, but contemplating one's own finitude without flinching arguably cultivates a resilience that purely optimistic worldviews rarely demand.",
+  "questions": [
+    {
+      "question": "What is the author's overall stance toward existential malaise?",
+      "options": [
+        "It is a sign of psychological failure that must be treated",
+        "It is a natural response that, through introspection, can be turned into resilience",
+        "It is a fiction invented solely by philosophers",
+        "It only afflicts committed nihilists"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what does nihilism specifically deny?",
+      "options": [
+        "That death is inevitable",
+        "That the universe has any inherent purpose directed toward humanity",
+        "That people are capable of feeling malaise",
+        "That philosophy has any practical use"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the passage characterize Camus's response to the absurdity of existence?",
+      "options": [
+        "He denied that absurdity existed at all",
+        "He recommended resignation and fatalism as the only rational response",
+        "He advocated confronting absurdity with defiant equanimity rather than denial",
+        "He argued absurdity could be solved through introspection alone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is implied by the phrase \"comforting fiction\" in reference to teleological accounts of the universe?",
+      "options": [
+        "Teleological accounts are scientifically proven",
+        "The author regards such accounts as reassuring but not necessarily true",
+        "The author fully endorses teleological explanations of existence",
+        "The phrase is a synonym for nihilism"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What relationship does the passage draw between introspection and ineffable certainty?",
+      "options": [
+        "Introspection guarantees the discovery of ineffable certainties",
+        "Introspection is described as a discipline of attention rather than a search for such certainties",
+        "Ineffable certainties are said to be irrelevant to introspection",
+        "Introspection is presented as a substitute for equanimity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What tone does the author adopt toward the unresolved debate over whether confronting mortality constitutes \"genuine wisdom\"?",
+      "options": [
+        "Dismissive, treating the question as trivial",
+        "Evasive, refusing to engage with it at all",
+        "Balanced, acknowledging that the matter remains genuinely contested",
+        "Polemical, insisting one side is clearly correct"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 17,
+  "topic": "Cybersecurity, Surveillance, and Civil Liberties",
+  "words": [
+    {
+      "word": "encryption",
+      "pos": "noun",
+      "ipa": "/ɪnˈkrɪpʃən/",
+      "definition": "the process of converting information into a code to prevent unauthorized access",
+      "example": "End-to-end encryption ensures that only the sender and recipient can read a message's contents.",
+      "uz": "shifrlash"
+    },
+    {
+      "word": "surveillance",
+      "pos": "noun",
+      "ipa": "/sərˈveɪləns/",
+      "definition": "close and continuous observation of a person or group, especially by an authority",
+      "example": "Mass surveillance programs collect vast quantities of data on ordinary citizens who are never suspected of wrongdoing.",
+      "uz": "kuzatuv, nazorat"
+    },
+    {
+      "word": "clandestine",
+      "pos": "adjective",
+      "ipa": "/klænˈdɛstɪn/",
+      "definition": "conducted with secrecy, typically because it is illicit or officially disapproved of",
+      "example": "The agency's clandestine data-collection operation was exposed only after a leaked internal memo surfaced.",
+      "uz": "maxfiy, yashirin"
+    },
+    {
+      "word": "ubiquitous",
+      "pos": "adjective",
+      "ipa": "/juːˈbɪkwɪtəs/",
+      "definition": "present, appearing, or found everywhere",
+      "example": "Facial-recognition cameras have become almost ubiquitous in major metropolitan centers.",
+      "uz": "hamma joyda mavjud"
+    },
+    {
+      "word": "infringe",
+      "pos": "verb",
+      "ipa": "/ɪnˈfrɪndʒ/",
+      "definition": "to act so as to limit or undermine a right or entitlement",
+      "example": "Civil liberties groups argue that indiscriminate data collection infringes upon the right to privacy.",
+      "uz": "(huquqni) buzmoq, poymol qilmoq"
+    },
+    {
+      "word": "anonymity",
+      "pos": "noun",
+      "ipa": "/ˌænəˈnɪmɪti/",
+      "definition": "the state of being unidentified or unnamed",
+      "example": "Encrypted messaging apps grant users a degree of anonymity that traditional communication channels cannot.",
+      "uz": "anonimlik"
+    },
+    {
+      "word": "breach",
+      "pos": "noun",
+      "ipa": "/briːtʃ/",
+      "definition": "a gap created in security defenses that allows unauthorized access, or an act of violating a law or agreement",
+      "example": "The data breach exposed the personal records of nearly two hundred million users.",
+      "uz": "xavfsizlik buzilishi"
+    },
+    {
+      "word": "dragnet",
+      "pos": "noun",
+      "ipa": "/ˈdrægnɛt/",
+      "definition": "a systematic and comprehensive search or surveillance operation that captures large amounts of information indiscriminately",
+      "example": "Privacy advocates decry dragnet surveillance for treating every citizen as a potential suspect.",
+      "uz": "ommaviy qamrovli kuzatuv (tintuv) operatsiyasi"
+    },
+    {
+      "word": "vulnerability",
+      "pos": "noun",
+      "ipa": "/ˌvʌlnərəˈbɪlɪti/",
+      "definition": "a weakness in a system that can be exploited to compromise its security",
+      "example": "The researchers disclosed the software vulnerability to the company before publishing their findings.",
+      "uz": "zaiflik (tizimdagi kamchilik)"
+    },
+    {
+      "word": "exploit",
+      "pos": "verb",
+      "ipa": "/ɪkˈsplɔɪt/",
+      "definition": "to take advantage of a weakness or flaw for one's own benefit, especially unethically",
+      "example": "Hackers exploited an unpatched vulnerability to infiltrate the ministry's servers.",
+      "uz": "(zaiflikdan) g'irromlik bilan foydalanmoq"
+    },
+    {
+      "word": "covert",
+      "pos": "adjective",
+      "ipa": "/ˈkoʊvɜːrt/",
+      "definition": "not openly acknowledged or displayed; secret",
+      "example": "The covert monitoring of activists' phone records triggered a parliamentary inquiry.",
+      "uz": "yashirin, maxfiy"
+    },
+    {
+      "word": "whistleblower",
+      "pos": "noun",
+      "ipa": "/ˈwɪsəlbloʊər/",
+      "definition": "a person who exposes secret information or activity within an organization that is deemed illegal or unethical",
+      "example": "The whistleblower's disclosures prompted a global reckoning over the scope of state surveillance.",
+      "uz": "sirni oshkor qiluvchi (fosh etuvchi) shaxs"
+    },
+    {
+      "word": "chilling effect",
+      "pos": "noun phrase",
+      "ipa": "/ˈtʃɪlɪŋ ɪˈfɛkt/",
+      "definition": "a discouraging or inhibiting effect on legitimate behavior, especially free speech, caused by fear of consequences",
+      "example": "Pervasive monitoring can produce a chilling effect, deterring citizens from expressing dissenting political views.",
+      "uz": "cho'chitib, bo'g'uvchi ta'sir"
+    },
+    {
+      "word": "opaque",
+      "pos": "adjective",
+      "ipa": "/oʊˈpeɪk/",
+      "definition": "not transparent or clear; difficult to understand or account for",
+      "example": "The algorithm governing the watchlist remains opaque even to the officials who administer it.",
+      "uz": "noshaffof"
+    },
+    {
+      "word": "accountability",
+      "pos": "noun",
+      "ipa": "/əˌkaʊntəˈbɪlɪti/",
+      "definition": "the state of being answerable for one's actions, especially to a higher authority or the public",
+      "example": "Without judicial oversight, intelligence agencies operate with little meaningful accountability.",
+      "uz": "hisobdorlik, javobgarlik"
+    },
+    {
+      "word": "proportionate",
+      "pos": "adjective",
+      "ipa": "/prəˈpɔːrʃənət/",
+      "definition": "appropriate or corresponding in size, degree, or amount relative to the aim being pursued",
+      "example": "Courts must weigh whether a surveillance measure is proportionate to the threat it purports to address.",
+      "uz": "mutanosib, muvofiq"
+    },
+    {
+      "word": "encroach",
+      "pos": "verb",
+      "ipa": "/ɪnˈkroʊtʃ/",
+      "definition": "to intrude gradually and often stealthily on someone's territory, rights, or freedoms",
+      "example": "Critics fear that expanded biometric tracking will steadily encroach on the private sphere.",
+      "uz": "bosqichma-bosqich tajovuz qilmoq"
+    },
+    {
+      "word": "panopticon",
+      "pos": "noun",
+      "ipa": "/pænˈɒptɪkən/",
+      "definition": "a hypothetical system of surveillance in which all occupants can be observed at all times, used metaphorically for pervasive monitoring",
+      "example": "Scholars describe the modern smart city as a digital panopticon in which residents are perpetually watched.",
+      "uz": "panoptikon (to'liq nazorat tizimi)"
+    },
+    {
+      "word": "bulwark",
+      "pos": "noun",
+      "ipa": "/ˈbʊlwərk/",
+      "definition": "a defensive structure or safeguard; a person or thing that protects against harm",
+      "example": "Independent courts serve as a bulwark against executive overreach in matters of state surveillance.",
+      "uz": "himoya qalqoni, mudofaa vositasi"
+    },
+    {
+      "word": "complicity",
+      "pos": "noun",
+      "ipa": "/kəmˈplɪsɪti/",
+      "definition": "the state of being involved with others in an illegal or unethical activity",
+      "example": "Journalists accused several telecommunications firms of complicity in the government's covert data-sharing scheme.",
+      "uz": "sherikchilik (jinoyatga)"
+    }
+  ],
+  "text": "The expansion of state surveillance capacity poses a dilemma that resists easy resolution. Governments justify ubiquitous monitoring — from dragnet data collection to covert wiretapping — as an indispensable bulwark against terrorism and organized crime. Yet the same infrastructure that promises security can just as readily infringe on the anonymity that underwrites free expression. When citizens suspect that dissent is being logged, a chilling effect follows: people self-censor not because they have broken any law, but because the machinery of observation is so pervasive, and its criteria for suspicion so opaque, that caution becomes the only rational response. Proponents insist that such measures remain proportionate, narrowly tailored to genuine threats; critics counter that once a clandestine surveillance apparatus is built, its scope tends to encroach steadily beyond its original mandate, exploiting every legal ambiguity and technical vulnerability along the way. The 2013 disclosures by a former intelligence contractor, still the most consequential whistleblower episode of the digital era, revealed a system whose accountability mechanisms had scarcely kept pace with its capabilities. Technology firms, too, face accusations of complicity, having quietly enabled access to user data. The question, ultimately, is not whether security and liberty can coexist, but who decides where the boundary lies.",
+  "questions": [
+    {
+      "question": "What is the central tension the author identifies in the passage?",
+      "options": [
+        "Between economic growth and environmental protection",
+        "Between the security benefits of surveillance and its threat to civil liberties",
+        "Between domestic and international law",
+        "Between whistleblowers and journalists"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why does a 'chilling effect' occur even among law-abiding citizens?",
+      "options": [
+        "Because laws explicitly criminalize dissent",
+        "Because uncertainty about opaque surveillance criteria leads people to self-censor out of caution",
+        "Because citizens are unaware that surveillance exists",
+        "Because whistleblowers encourage people to stop speaking"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's reference to the 2013 disclosures serves primarily to:",
+      "options": [
+        "Illustrate a historical example where oversight failed to match surveillance capability",
+        "Prove that all surveillance is illegal",
+        "Discredit the intelligence contractor personally",
+        "Suggest that whistleblowing is always ethically justified"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the passage suggest about the relationship between surveillance infrastructure and its original mandate?",
+      "options": [
+        "Surveillance systems typically remain confined to their initial, narrow purpose",
+        "Surveillance systems tend to expand beyond their original scope over time",
+        "Surveillance mandates are always reduced after public criticism",
+        "There is no relationship between infrastructure and mandate"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone toward technology firms accused of enabling data access?",
+      "options": [
+        "Enthusiastically supportive",
+        "Implicitly critical, framing their role as a form of complicity",
+        "Completely neutral and uninterested",
+        "Openly congratulatory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the passage's concluding question function rhetorically?",
+      "options": [
+        "It resolves the debate definitively in favor of security",
+        "It reframes the debate away from an either/or choice toward a question of authority and decision-making",
+        "It dismisses the entire discussion as irrelevant",
+        "It suggests that liberty and security can never coexist under any circumstances"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 7,
+  "topic": "Corporate Culture and Workplace Ethics",
+  "words": [
+    {
+      "word": "transparency",
+      "pos": "noun",
+      "ipa": "/trænsˈpærənsi/",
+      "definition": "openness and honesty in communication or actions",
+      "example": "The company promised greater transparency about how employee data is used.",
+      "uz": "shaffoflik"
+    },
+    {
+      "word": "whistleblower",
+      "pos": "noun",
+      "ipa": "/ˈwɪslbləʊə/",
+      "definition": "a person who exposes wrongdoing within an organization",
+      "example": "The whistleblower revealed evidence of financial fraud at the firm.",
+      "uz": "huquqbuzarlikni fosh qiluvchi shaxs"
+    },
+    {
+      "word": "conflict of interest",
+      "pos": "noun phrase",
+      "ipa": "/ˈkɒnflɪkt əv ˈɪntrəst/",
+      "definition": "a situation where personal interests could improperly influence professional decisions",
+      "example": "The manager declared a conflict of interest before awarding the contract to his relative's company.",
+      "uz": "manfaatlar to'qnashuvi"
+    },
+    {
+      "word": "compliance",
+      "pos": "noun",
+      "ipa": "/kəmˈplaɪəns/",
+      "definition": "the act of conforming to rules, regulations, or standards",
+      "example": "The department ensures compliance with international labor laws.",
+      "uz": "qoida va standartlarga rioya qilish"
+    },
+    {
+      "word": "exploitative",
+      "pos": "adjective",
+      "ipa": "/ɪkˈsplɔɪtətɪv/",
+      "definition": "unfairly taking advantage of someone or something",
+      "example": "Critics accused the firm of exploitative labor practices in overseas factories.",
+      "uz": "adolatsiz foydalanuvchi, ekspluatatorlik xarakteridagi"
+    },
+    {
+      "word": "liable",
+      "pos": "adjective",
+      "ipa": "/ˈlaɪəbəl/",
+      "definition": "legally responsible for something",
+      "example": "The company was found liable for the safety violations at the plant.",
+      "uz": "qonuniy javobgar"
+    },
+    {
+      "word": "layoff",
+      "pos": "noun",
+      "ipa": "/ˈleɪɒf/",
+      "definition": "the act of dismissing employees, often due to lack of work or cost-cutting",
+      "example": "The sudden layoffs left many long-term employees in financial distress.",
+      "uz": "ishdan bo'shatish (qisqartirish)"
+    },
+    {
+      "word": "cut corners",
+      "pos": "idiom",
+      "ipa": "/kʌt ˈkɔːnəz/",
+      "definition": "to do something in the easiest or cheapest way, often sacrificing quality or safety",
+      "example": "The contractor cut corners on safety inspections to save money.",
+      "uz": "sifatni pasaytirib, arzon yo'l bilan qilish"
+    },
+    {
+      "word": "turn a blind eye",
+      "pos": "idiom",
+      "ipa": "/tɜːn ə blaɪnd aɪ/",
+      "definition": "to deliberately ignore something wrong",
+      "example": "Management turned a blind eye to the harassment complaints for years.",
+      "uz": "ataylab ko'z yumib qarash"
+    },
+    {
+      "word": "work-life balance",
+      "pos": "noun phrase",
+      "ipa": "/ˈwɜːk laɪf ˈbæləns/",
+      "definition": "a satisfactory balance between work responsibilities and personal life",
+      "example": "The startup promoted a healthy work-life balance to reduce employee burnout.",
+      "uz": "ish va shaxsiy hayot muvozanati"
+    },
+    {
+      "word": "incentivize",
+      "pos": "verb",
+      "ipa": "/ɪnˈsentɪvaɪz/",
+      "definition": "to provide someone with a reason or motivation to do something",
+      "example": "The company incentivized punctuality with a small monthly bonus.",
+      "uz": "rag'batlantirmoq"
+    },
+    {
+      "word": "downsizing",
+      "pos": "noun",
+      "ipa": "/ˈdaʊnsaɪzɪŋ/",
+      "definition": "the process of making a company smaller by reducing staff",
+      "example": "Downsizing led to a 20 percent reduction in the workforce.",
+      "uz": "kompaniya xodimlarini qisqartirish"
+    },
+    {
+      "word": "nepotism",
+      "pos": "noun",
+      "ipa": "/ˈnepətɪzəm/",
+      "definition": "favoritism shown to relatives or friends in professional matters",
+      "example": "Employees complained about nepotism after the CEO's nephew was promoted over more qualified staff.",
+      "uz": "qarindosh-urug'chilik"
+    },
+    {
+      "word": "code of conduct",
+      "pos": "noun phrase",
+      "ipa": "/kəʊd əv ˈkɒndʌkt/",
+      "definition": "a set of rules outlining expected behavior within an organization",
+      "example": "All new hires must sign the company's code of conduct.",
+      "uz": "xulq-atvor kodeksi"
+    },
+    {
+      "word": "corporate social responsibility",
+      "pos": "noun phrase",
+      "ipa": "/ˈkɔːpərət ˈsəʊʃəl rɪˌspɒnsəˈbɪləti/",
+      "definition": "a company's commitment to ethical practices and positive social impact",
+      "example": "Corporate social responsibility has become a key factor in consumer trust.",
+      "uz": "korporativ ijtimoiy mas'uliyat"
+    },
+    {
+      "word": "overworked",
+      "pos": "adjective",
+      "ipa": "/ˌəʊvəˈwɜːkt/",
+      "definition": "made to work too much or too hard",
+      "example": "Overworked staff are more prone to mistakes and health problems.",
+      "uz": "haddan tashqari ishlab charchagan"
+    },
+    {
+      "word": "speak up",
+      "pos": "phrasal verb",
+      "ipa": "/spiːk ʌp/",
+      "definition": "to express one's opinion openly, especially about something wrong",
+      "example": "Few employees dared to speak up about the unsafe conditions.",
+      "uz": "ochiqchasiga o'z fikrini bildirmoq"
+    },
+    {
+      "word": "retaliation",
+      "pos": "noun",
+      "ipa": "/rɪˌtæliˈeɪʃən/",
+      "definition": "action taken in revenge against someone, often for reporting wrongdoing",
+      "example": "The whistleblower feared retaliation from senior management after filing the complaint.",
+      "uz": "qasos olish, aksil harakat"
+    },
+    {
+      "word": "ethical",
+      "pos": "adjective",
+      "ipa": "/ˈeθɪkəl/",
+      "definition": "morally correct and acceptable",
+      "example": "The firm claims to source all its materials in an ethical way.",
+      "uz": "axloqiy jihatdan to'g'ri"
+    },
+    {
+      "word": "scrutiny",
+      "pos": "noun",
+      "ipa": "/ˈskruːtəni/",
+      "definition": "close and careful examination",
+      "example": "The merger came under intense public scrutiny.",
+      "uz": "sinchkovlik bilan tekshirish"
+    }
+  ],
+  "text": "Rarely has corporate behavior been subject to such intense scrutiny as it is today, with consumers, regulators, and employees alike demanding greater transparency from the companies they support. Nevertheless, ethical conduct is often easier to promise in a code of conduct than to practice under financial pressure. Consider a firm that, in order to cut corners on safety, quietly turns a blind eye to compliance failures; should an accident occur, the organization may find itself liable for damages far exceeding whatever it saved. Nor is exploitative behavior confined to factory floors: overworked employees, denied any semblance of work-life balance, frequently report exhaustion, while nepotism and unresolved conflicts of interest continue to undermine trust in promotion decisions. A whistleblower who dares to speak up about such practices, meanwhile, risks retaliation, however illegal such treatment may technically be. Genuine corporate social responsibility, then, requires more than incentivizing good behavior with an annual sustainability report; it demands accountability even when downsizing or layoffs make short-term profit tempting. Companies that merely appear ethical, without changing underlying practices, are increasingly being exposed by an informed and skeptical public unwilling to accept appearances alone.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Corporate ethics statements alone guarantee ethical behavior.",
+        "Genuine ethical corporate behavior requires real accountability, not just public statements or codes of conduct.",
+        "Whistleblowers are rarely justified in speaking out.",
+        "Financial pressure always excuses unethical practices."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what risk does a whistleblower face?",
+      "options": [
+        "Automatic legal protection",
+        "Retaliation, even though it may be illegal",
+        "Immediate promotion",
+        "Increased work-life balance"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest happens when a company cuts corners on safety compliance?",
+      "options": [
+        "It always saves money in the long run.",
+        "It may become liable for damages that outweigh what it saved.",
+        "It has no legal consequences.",
+        "It improves employee morale."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone in the passage?",
+      "options": [
+        "Critical yet analytical, examining the gap between corporate image and actual practice",
+        "Purely celebratory of corporate social responsibility programs",
+        "Neutral and purely descriptive with no argument",
+        "Dismissive of the idea of corporate ethics altogether"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "According to the passage, what problems can nepotism and conflicts of interest cause?",
+      "options": [
+        "They strengthen employee trust in promotion decisions.",
+        "They undermine trust in how promotions are decided.",
+        "They are unrelated to workplace ethics.",
+        "They only affect small companies."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage imply about the public's current attitude toward corporate claims of ethical behavior?",
+      "options": [
+        "The public accepts corporate claims without question.",
+        "The public is increasingly skeptical and looks beyond surface appearances.",
+        "The public no longer cares about corporate scrutiny.",
+        "The public trusts sustainability reports completely."
+      ],
+      "answer": 1
+    }
+  ]
+}

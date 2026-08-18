@@ -1,0 +1,229 @@
+{
+  "id": 25,
+  "topic": "Space and the Universe",
+  "words": [
+    {
+      "word": "space",
+      "pos": "noun",
+      "ipa": "/speɪs/",
+      "definition": "the area outside Earth's air, where stars and planets are",
+      "example": "Astronauts travel into space in a rocket.",
+      "uz": "kosmos"
+    },
+    {
+      "word": "universe",
+      "pos": "noun",
+      "ipa": "/ˈjuːnɪvɜːrs/",
+      "definition": "everything that exists, including all stars and planets",
+      "example": "The universe is bigger than we can imagine.",
+      "uz": "koinot"
+    },
+    {
+      "word": "planet",
+      "pos": "noun",
+      "ipa": "/ˈplænɪt/",
+      "definition": "a large round object that moves around a star",
+      "example": "Earth is the third planet from the sun.",
+      "uz": "sayyora"
+    },
+    {
+      "word": "star",
+      "pos": "noun",
+      "ipa": "/stɑːr/",
+      "definition": "a bright object in the night sky",
+      "example": "You can see thousands of stars on a clear night.",
+      "uz": "yulduz"
+    },
+    {
+      "word": "moon",
+      "pos": "noun",
+      "ipa": "/muːn/",
+      "definition": "the object that moves around the Earth",
+      "example": "The moon looked very bright last night.",
+      "uz": "oy"
+    },
+    {
+      "word": "sun",
+      "pos": "noun",
+      "ipa": "/sʌn/",
+      "definition": "the star at the center of our solar system",
+      "example": "Plants need light from the sun to grow.",
+      "uz": "quyosh"
+    },
+    {
+      "word": "earth",
+      "pos": "noun",
+      "ipa": "/ɜːrθ/",
+      "definition": "the planet we live on",
+      "example": "Earth is the only planet with a lot of water.",
+      "uz": "Yer"
+    },
+    {
+      "word": "astronaut",
+      "pos": "noun",
+      "ipa": "/ˈæstrənɔːt/",
+      "definition": "a person who travels into space",
+      "example": "The astronaut spent six months on the space station.",
+      "uz": "kosmonavt"
+    },
+    {
+      "word": "rocket",
+      "pos": "noun",
+      "ipa": "/ˈrɒkɪt/",
+      "definition": "a vehicle that flies into space",
+      "example": "The rocket launched early in the morning.",
+      "uz": "raketa"
+    },
+    {
+      "word": "galaxy",
+      "pos": "noun",
+      "ipa": "/ˈɡæləksi/",
+      "definition": "a very large group of stars and planets",
+      "example": "Our galaxy has billions of stars.",
+      "uz": "galaktika"
+    },
+    {
+      "word": "orbit",
+      "pos": "verb",
+      "ipa": "/ˈɔːrbɪt/",
+      "definition": "to move in a circle around something",
+      "example": "The moon orbits the Earth every month.",
+      "uz": "aylanib yurmoq"
+    },
+    {
+      "word": "telescope",
+      "pos": "noun",
+      "ipa": "/ˈtelɪskoʊp/",
+      "definition": "a tool used to see faraway objects clearly",
+      "example": "We used a telescope to look at the stars.",
+      "uz": "teleskop"
+    },
+    {
+      "word": "float",
+      "pos": "verb",
+      "ipa": "/floʊt/",
+      "definition": "to stay in the air or on water without falling",
+      "example": "Astronauts float inside the space station.",
+      "uz": "muallaq suzmoq"
+    },
+    {
+      "word": "land",
+      "pos": "verb",
+      "ipa": "/lænd/",
+      "definition": "to arrive on the ground after flying",
+      "example": "The rocket will land safely back on Earth.",
+      "uz": "qo'nmoq"
+    },
+    {
+      "word": "explore",
+      "pos": "verb",
+      "ipa": "/ɪkˈsplɔːr/",
+      "definition": "to travel and learn about a new place",
+      "example": "Scientists want to explore other planets.",
+      "uz": "tadqiq qilmoq"
+    },
+    {
+      "word": "distance",
+      "pos": "noun",
+      "ipa": "/ˈdɪstəns/",
+      "definition": "the amount of space between two places",
+      "example": "The distance between Earth and the moon is huge.",
+      "uz": "masofa"
+    },
+    {
+      "word": "bright",
+      "pos": "adjective",
+      "ipa": "/braɪt/",
+      "definition": "giving out a lot of light",
+      "example": "The stars looked very bright in the dark sky.",
+      "uz": "yorqin"
+    },
+    {
+      "word": "sky",
+      "pos": "noun",
+      "ipa": "/skaɪ/",
+      "definition": "the space above the earth that we can see",
+      "example": "We watched the stars in the night sky.",
+      "uz": "osmon"
+    },
+    {
+      "word": "mission",
+      "pos": "noun",
+      "ipa": "/ˈmɪʃən/",
+      "definition": "an important job or task, often in space",
+      "example": "The astronaut's mission was to study the moon.",
+      "uz": "missiya"
+    },
+    {
+      "word": "satellite",
+      "pos": "noun",
+      "ipa": "/ˈsætəlaɪt/",
+      "definition": "an object that moves around Earth in space",
+      "example": "The satellite sends weather information to scientists.",
+      "uz": "sun'iy yo'ldosh"
+    }
+  ],
+  "text": "Space is very big, and it is full of amazing things. The universe has millions of stars, planets, and galaxies. Our planet, Earth, moves around the sun, and the moon moves around the Earth. At night, you can look up at the sky and see the moon and many bright stars. Scientists use a telescope to look at stars and planets that are far away. The distance between Earth and other planets is very large. To explore space, people build big rockets. An astronaut travels into space inside a rocket. In space, there is very little gravity, so astronauts float instead of walking. Some astronauts have a special mission to land on the moon or study a planet. We also use a satellite in space. A satellite can orbit the Earth and send information back to us, like weather news or TV signals. Space travel is difficult and expensive, but people want to explore it because there is still so much we don't know about the universe. Maybe one day, people will land on another planet and start a new life there.",
+  "questions": [
+    {
+      "question": "What does Earth move around, according to the text?",
+      "options": [
+        "the moon",
+        "the sun",
+        "a satellite",
+        "a galaxy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do scientists use to look at faraway stars and planets?",
+      "options": [
+        "a rocket",
+        "a satellite",
+        "a telescope",
+        "a spaceship window"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why do astronauts float in space, according to the text?",
+      "options": [
+        "because there is very little gravity",
+        "because it is very cold",
+        "because there is no air",
+        "because rockets are heavy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What can a satellite do, according to the text?",
+      "options": [
+        "land on the moon",
+        "orbit Earth and send information",
+        "grow bright stars",
+        "build rockets"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do astronauts travel in?",
+      "options": [
+        "a telescope",
+        "a satellite",
+        "a rocket",
+        "a galaxy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why do people want to explore space, according to the text?",
+      "options": [
+        "because it is easy and cheap",
+        "because there is still much we don't know about the universe",
+        "because the moon is close",
+        "because satellites are broken"
+      ],
+      "answer": 1
+    }
+  ]
+}

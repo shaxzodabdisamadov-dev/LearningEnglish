@@ -1,0 +1,229 @@
+{
+  "id": 23,
+  "topic": "History Basics",
+  "words": [
+    {
+      "word": "history",
+      "pos": "noun",
+      "ipa": "/ˈhɪstəri/",
+      "definition": "the study of past events",
+      "example": "We learned about the history of ancient Rome in class.",
+      "uz": "tarix"
+    },
+    {
+      "word": "past",
+      "pos": "noun",
+      "ipa": "/pæst/",
+      "definition": "the time before now",
+      "example": "People often forget details about the past.",
+      "uz": "o'tmish"
+    },
+    {
+      "word": "king",
+      "pos": "noun",
+      "ipa": "/kɪŋ/",
+      "definition": "a man who rules a country",
+      "example": "The king lived in a large castle.",
+      "uz": "qirol"
+    },
+    {
+      "word": "queen",
+      "pos": "noun",
+      "ipa": "/kwiːn/",
+      "definition": "a woman who rules a country",
+      "example": "The queen ruled the country for fifty years.",
+      "uz": "qirolicha"
+    },
+    {
+      "word": "war",
+      "pos": "noun",
+      "ipa": "/wɔːr/",
+      "definition": "fighting between countries or groups",
+      "example": "Many people died during the war.",
+      "uz": "urush"
+    },
+    {
+      "word": "peace",
+      "pos": "noun",
+      "ipa": "/piːs/",
+      "definition": "a time without war or fighting",
+      "example": "The two countries finally made peace.",
+      "uz": "tinchlik"
+    },
+    {
+      "word": "century",
+      "pos": "noun",
+      "ipa": "/ˈsentʃəri/",
+      "definition": "a period of one hundred years",
+      "example": "This castle was built in the twelfth century.",
+      "uz": "asr"
+    },
+    {
+      "word": "ancient",
+      "pos": "adjective",
+      "ipa": "/ˈeɪnʃənt/",
+      "definition": "very old, from a long time ago",
+      "example": "We visited an ancient temple in Egypt.",
+      "uz": "qadimiy"
+    },
+    {
+      "word": "castle",
+      "pos": "noun",
+      "ipa": "/ˈkæsl/",
+      "definition": "a large old building with strong walls",
+      "example": "The king lived in a big stone castle.",
+      "uz": "qal'a"
+    },
+    {
+      "word": "empire",
+      "pos": "noun",
+      "ipa": "/ˈempaɪər/",
+      "definition": "a group of countries ruled by one leader",
+      "example": "The Roman Empire covered a huge area of land.",
+      "uz": "imperiya"
+    },
+    {
+      "word": "event",
+      "pos": "noun",
+      "ipa": "/ɪˈvent/",
+      "definition": "something important that happens",
+      "example": "The wedding was a big event for the family.",
+      "uz": "voqea"
+    },
+    {
+      "word": "discover",
+      "pos": "verb",
+      "ipa": "/dɪˈskʌvər/",
+      "definition": "to find something for the first time",
+      "example": "Scientists discovered an old coin in the field.",
+      "uz": "kashf qilmoq"
+    },
+    {
+      "word": "invent",
+      "pos": "verb",
+      "ipa": "/ɪnˈvent/",
+      "definition": "to make something new for the first time",
+      "example": "Someone invented the wheel thousands of years ago.",
+      "uz": "ixtiro qilmoq"
+    },
+    {
+      "word": "build",
+      "pos": "verb",
+      "ipa": "/bɪld/",
+      "definition": "to make something by putting parts together",
+      "example": "Workers built the castle many years ago.",
+      "uz": "qurmoq"
+    },
+    {
+      "word": "fight",
+      "pos": "verb",
+      "ipa": "/faɪt/",
+      "definition": "to use force against someone",
+      "example": "Soldiers had to fight in the war.",
+      "uz": "jang qilmoq"
+    },
+    {
+      "word": "rule",
+      "pos": "verb",
+      "ipa": "/ruːl/",
+      "definition": "to control a country or a group of people",
+      "example": "The queen ruled the country wisely.",
+      "uz": "hukmronlik qilmoq"
+    },
+    {
+      "word": "story",
+      "pos": "noun",
+      "ipa": "/ˈstɔːri/",
+      "definition": "a description of events, true or imagined",
+      "example": "My grandfather told us a story about the war.",
+      "uz": "hikoya"
+    },
+    {
+      "word": "museum",
+      "pos": "noun",
+      "ipa": "/mjuˈziːəm/",
+      "definition": "a building where old and interesting objects are kept",
+      "example": "We saw ancient tools in the museum.",
+      "uz": "muzey"
+    },
+    {
+      "word": "culture",
+      "pos": "noun",
+      "ipa": "/ˈkʌltʃər/",
+      "definition": "the customs and traditions of a group of people",
+      "example": "Every country has its own unique culture.",
+      "uz": "madaniyat"
+    },
+    {
+      "word": "change",
+      "pos": "verb",
+      "ipa": "/tʃeɪndʒ/",
+      "definition": "to become different",
+      "example": "The world has changed a lot in the last century.",
+      "uz": "o'zgarmoq"
+    }
+  ],
+  "text": "History is the study of the past. People study history to learn about kings and queens, wars and peace, and important events from long ago. Many countries have a long history. For example, ancient Egypt had powerful kings and queens who built big castles and temples. Some countries were part of a large empire. An empire is when one ruler controls many other lands. In history, people often had to fight in wars, but after a war, they wanted peace again. Explorers also discover new things about the past. They find old objects in the ground and take them to a museum. A museum is a place where people can see old things and learn stories about history. Every century, the world changes a lot. People invent new tools, and these inventions change how we live, travel, and work. Learning about history helps us understand our culture today. It also helps us learn from mistakes made in the past. If you visit a museum or an ancient castle, you can imagine what life was like many years ago, and you will understand the past a little better.",
+  "questions": [
+    {
+      "question": "What is history the study of?",
+      "options": [
+        "the future",
+        "the past",
+        "science",
+        "space"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did ancient Egypt's kings and queens build?",
+      "options": [
+        "schools and hospitals",
+        "castles and temples",
+        "rockets and satellites",
+        "newspapers and books"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, what is an empire?",
+      "options": [
+        "a small village",
+        "a type of museum",
+        "when one ruler controls many lands",
+        "a kind of war"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did people want after a war, according to the text?",
+      "options": [
+        "more wars",
+        "peace again",
+        "a new empire",
+        "a museum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where can people see old objects and learn stories about history?",
+      "options": [
+        "in a castle only",
+        "in a museum",
+        "in a newspaper",
+        "in space"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What helps us understand our culture today, according to the text?",
+      "options": [
+        "watching television",
+        "learning about history",
+        "playing sports",
+        "using a telescope"
+      ],
+      "answer": 1
+    }
+  ]
+}

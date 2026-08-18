@@ -1,0 +1,229 @@
+{
+  "id": 13,
+  "topic": "Cultural Diversity and Immigration",
+  "words": [
+    {
+      "word": "assimilate",
+      "pos": "verb",
+      "ipa": "/əˈsɪmɪleɪt/",
+      "definition": "to adapt to and become part of a new culture or society",
+      "example": "It can take a generation or more for immigrant families to fully assimilate into a new culture.",
+      "uz": "yangi madaniyatga singib ketmoq"
+    },
+    {
+      "word": "heritage",
+      "pos": "noun",
+      "ipa": "/ˈherɪtɪdʒ/",
+      "definition": "the traditions, values, and history passed down within a community",
+      "example": "Many second-generation immigrants strive to preserve their cultural heritage while embracing their new home.",
+      "uz": "meros (an'analar va tarix)"
+    },
+    {
+      "word": "displacement",
+      "pos": "noun",
+      "ipa": "/dɪsˈpleɪsmənt/",
+      "definition": "the forced removal of people from their home region, often due to conflict or disaster",
+      "example": "Civil war has caused the mass displacement of millions of people in the region.",
+      "uz": "o'z vatanidan majburan ko'chirilish"
+    },
+    {
+      "word": "multicultural",
+      "pos": "adjective",
+      "ipa": "/ˌmʌltiˈkʌltʃərəl/",
+      "definition": "composed of or relating to several distinct cultural or ethnic groups",
+      "example": "Cities with a multicultural population often become centers of culinary and artistic innovation.",
+      "uz": "ko'p madaniyatli"
+    },
+    {
+      "word": "xenophobia",
+      "pos": "noun",
+      "ipa": "/ˌzenəˈfoʊbiə/",
+      "definition": "an intense or irrational dislike or fear of people from other countries",
+      "example": "Rising xenophobia has fueled support for stricter immigration policies in some countries.",
+      "uz": "begonalardan (chet elliklardan) nafratlanish"
+    },
+    {
+      "word": "integration",
+      "pos": "noun",
+      "ipa": "/ˌɪntɪˈɡreɪʃn/",
+      "definition": "the process by which different groups come together to form a cohesive society",
+      "example": "Language classes are often seen as key to the successful integration of newcomers.",
+      "uz": "jamiyatga qo'shilish, integratsiya"
+    },
+    {
+      "word": "discrimination",
+      "pos": "noun",
+      "ipa": "/dɪˌskrɪmɪˈneɪʃn/",
+      "definition": "unfair treatment of a person or group based on characteristics like race or religion",
+      "example": "Workplace discrimination against immigrants remains a persistent problem in many industries.",
+      "uz": "kamsitish"
+    },
+    {
+      "word": "refugee",
+      "pos": "noun",
+      "ipa": "/ˌrefjʊˈdʒiː/",
+      "definition": "a person who has been forced to leave their country to escape war, persecution, or disaster",
+      "example": "The camp provided temporary shelter for thousands of refugees fleeing the conflict.",
+      "uz": "qochqin"
+    },
+    {
+      "word": "diaspora",
+      "pos": "noun",
+      "ipa": "/daɪˈæspərə/",
+      "definition": "a population that has dispersed from its original homeland to other parts of the world",
+      "example": "The Armenian diaspora has maintained strong cultural ties despite being scattered across many countries.",
+      "uz": "diaspora (o'z vatanidan tashqarida yashovchi xalq)"
+    },
+    {
+      "word": "marginalize",
+      "pos": "verb",
+      "ipa": "/ˈmɑːrdʒɪnəlaɪz/",
+      "definition": "to treat a person or group as unimportant or push them to the edges of society",
+      "example": "Without targeted policies, minority communities risk being economically marginalized.",
+      "uz": "jamiyat chetiga surib qo'ymoq"
+    },
+    {
+      "word": "tolerance",
+      "pos": "noun",
+      "ipa": "/ˈtɒlərəns/",
+      "definition": "a willingness to accept or respect beliefs, customs, or practices different from one's own",
+      "example": "Schools play a crucial role in fostering tolerance among students from diverse backgrounds.",
+      "uz": "bag'rikenglik"
+    },
+    {
+      "word": "prejudice",
+      "pos": "noun",
+      "ipa": "/ˈpredʒʊdɪs/",
+      "definition": "an unfair, preconceived opinion about a person or group, not based on actual experience",
+      "example": "Deep-seated prejudice can persist even in societies that officially champion equality.",
+      "uz": "asossiz noxolis qarash"
+    },
+    {
+      "word": "exclusionary",
+      "pos": "adjective",
+      "ipa": "/ɪkˈskluːʒəneri/",
+      "definition": "designed to keep certain people or groups out",
+      "example": "Critics argue that the new visa rules are needlessly exclusionary.",
+      "uz": "muayyan guruhlarni chetlab qo'yuvchi"
+    },
+    {
+      "word": "stereotype",
+      "pos": "noun",
+      "ipa": "/ˈsteriətaɪp/",
+      "definition": "a fixed, oversimplified idea about a particular type of person or group",
+      "example": "Media portrayals often rely on lazy stereotypes rather than nuanced representation.",
+      "uz": "qoliplashgan (soddalashtirilgan) fikr"
+    },
+    {
+      "word": "coexist",
+      "pos": "verb",
+      "ipa": "/ˌkoʊɪɡˈzɪst/",
+      "definition": "to live together peacefully despite differences",
+      "example": "The neighborhood is a striking example of how diverse communities can coexist harmoniously.",
+      "uz": "tinch-totuv birga yashamoq"
+    },
+    {
+      "word": "naturalize",
+      "pos": "verb",
+      "ipa": "/ˈnætʃrəlaɪz/",
+      "definition": "to grant someone full citizenship of a country they were not born in",
+      "example": "After five years of residency, she was finally naturalized as a citizen.",
+      "uz": "fuqarolikka rasman qabul qilmoq"
+    },
+    {
+      "word": "asylum",
+      "pos": "noun",
+      "ipa": "/əˈsaɪləm/",
+      "definition": "protection given by a state to someone who has fled their own country due to danger",
+      "example": "He applied for asylum after facing political persecution at home.",
+      "uz": "siyosiy boshpana"
+    },
+    {
+      "word": "homogeneous",
+      "pos": "adjective",
+      "ipa": "/ˌhoʊməˈdʒiːniəs/",
+      "definition": "made up of parts or people that are all similar or the same",
+      "example": "Once relatively homogeneous, the town's population has grown far more diverse over the past decade.",
+      "uz": "bir jinsli, bir xil tarkibli"
+    },
+    {
+      "word": "resettle",
+      "pos": "verb",
+      "ipa": "/ˌriːˈsetl/",
+      "definition": "to help someone establish a new home in a different country or area",
+      "example": "Aid organizations worked to resettle displaced families in safer regions.",
+      "uz": "boshqa mamlakatga ko'chirib joylashtirmoq"
+    },
+    {
+      "word": "inclusive",
+      "pos": "adjective",
+      "ipa": "/ɪnˈkluːsɪv/",
+      "definition": "designed to include people who might otherwise feel excluded",
+      "example": "The city launched an inclusive campaign to celebrate its many immigrant communities.",
+      "uz": "hech kimni chetlab qo'ymaydigan, hamma uchun ochiq"
+    }
+  ],
+  "text": "Seldom in history has movement of people across borders been as visible—or as politically contentious—as it is today. Wars, economic hardship, and climate disasters have triggered mass displacement, forcing millions to seek asylum far from home. Not only must host nations decide how to accommodate refugees, but they must also grapple with a deeper question: what does successful integration actually look like? Some argue that newcomers should assimilate fully, adopting the language and customs of their new home; others contend that a genuinely multicultural society should allow diverse heritages to coexist without demanding uniformity. Were policy shaped solely by fear, exclusionary measures and creeping xenophobia would likely prevail, further marginalizing already vulnerable diaspora communities. Prejudice, after all, tends to flourish wherever stereotype substitutes for understanding. Nevertheless, evidence suggests that societies once considered relatively homogeneous have grown more resilient, not less, as they have opened their doors and worked to resettle and naturalize newcomers. Building an inclusive society requires more than legislation; it demands sustained tolerance and a willingness to confront discrimination whenever it surfaces. Ultimately, how a nation treats those seeking refuge says as much about its values as any statement of principle ever could.",
+  "questions": [
+    {
+      "question": "What is the central debate the passage presents regarding immigration?",
+      "options": [
+        "Whether refugees should be allowed to enter host countries at all",
+        "Whether newcomers should fully assimilate or whether multicultural coexistence is preferable",
+        "Whether asylum laws should be abolished entirely",
+        "Whether economic hardship causes displacement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what happens when policy is driven purely by fear?",
+      "options": [
+        "Integration improves rapidly",
+        "Exclusionary measures and xenophobia are likely to increase, marginalizing vulnerable groups",
+        "Diaspora communities become more empowered",
+        "Discrimination disappears"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest about the relationship between stereotypes and prejudice?",
+      "options": [
+        "Stereotypes have no connection to prejudice.",
+        "Prejudice tends to grow where stereotypes replace real understanding of people.",
+        "Prejudice always precedes the formation of stereotypes.",
+        "Stereotypes only exist in homogeneous societies."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about societies that have welcomed and resettled newcomers, according to the passage?",
+      "options": [
+        "They have become weaker and less stable.",
+        "They have often grown more resilient rather than less.",
+        "They have remained entirely homogeneous.",
+        "They have eliminated the need for legislation."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's tone in the passage can best be described as:",
+      "options": [
+        "hostile toward immigrants",
+        "thoughtful and advocating for openness and tolerance",
+        "strictly neutral with no discernible viewpoint",
+        "dismissive of the challenges of integration"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the final sentence, what does the passage suggest about how a nation treats refugees?",
+      "options": [
+        "It has no bearing on the nation's broader values.",
+        "It reflects the nation's true values more than its official statements do.",
+        "It is purely a legal matter unrelated to ethics.",
+        "It should be decided solely by economic considerations."
+      ],
+      "answer": 1
+    }
+  ]
+}

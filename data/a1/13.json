@@ -1,0 +1,229 @@
+{
+  "id": 13,
+  "topic": "Transportation",
+  "words": [
+    {
+      "word": "car",
+      "pos": "noun",
+      "ipa": "/kɑːr/",
+      "definition": "a vehicle with four wheels that people drive on roads",
+      "example": "We go to school by car.",
+      "uz": "mashina"
+    },
+    {
+      "word": "bus",
+      "pos": "noun",
+      "ipa": "/bʌs/",
+      "definition": "a big vehicle that carries many people",
+      "example": "I take the bus to work.",
+      "uz": "avtobus"
+    },
+    {
+      "word": "train",
+      "pos": "noun",
+      "ipa": "/treɪn/",
+      "definition": "a long vehicle that runs on metal tracks",
+      "example": "The train leaves the station at nine o'clock.",
+      "uz": "poyezd"
+    },
+    {
+      "word": "plane",
+      "pos": "noun",
+      "ipa": "/pleɪn/",
+      "definition": "a vehicle that flies in the sky",
+      "example": "We travel by plane to visit family.",
+      "uz": "samolyot"
+    },
+    {
+      "word": "bike",
+      "pos": "noun",
+      "ipa": "/baɪk/",
+      "definition": "a vehicle with two wheels that you ride using your legs",
+      "example": "I ride my bike to school.",
+      "uz": "velosiped"
+    },
+    {
+      "word": "taxi",
+      "pos": "noun",
+      "ipa": "/ˈtæksi/",
+      "definition": "a car that takes people somewhere for money",
+      "example": "We took a taxi to the airport.",
+      "uz": "taksi"
+    },
+    {
+      "word": "boat",
+      "pos": "noun",
+      "ipa": "/boʊt/",
+      "definition": "a small vehicle that travels on water",
+      "example": "They cross the river by boat.",
+      "uz": "qayiq"
+    },
+    {
+      "word": "ship",
+      "pos": "noun",
+      "ipa": "/ʃɪp/",
+      "definition": "a large boat that carries people or goods across the sea",
+      "example": "The ship sails across the ocean.",
+      "uz": "kema"
+    },
+    {
+      "word": "walk",
+      "pos": "verb",
+      "ipa": "/wɔːk/",
+      "definition": "to move by putting one foot in front of the other",
+      "example": "I walk to the shop every day.",
+      "uz": "yurmoq"
+    },
+    {
+      "word": "drive",
+      "pos": "verb",
+      "ipa": "/draɪv/",
+      "definition": "to control a car and make it move",
+      "example": "My father drives to work.",
+      "uz": "haydamoq"
+    },
+    {
+      "word": "ride",
+      "pos": "verb",
+      "ipa": "/raɪd/",
+      "definition": "to travel on a bike, a horse, or in a vehicle",
+      "example": "She rides her bike in the park.",
+      "uz": "minmoq"
+    },
+    {
+      "word": "ticket",
+      "pos": "noun",
+      "ipa": "/ˈtɪkɪt/",
+      "definition": "a small piece of paper that lets you travel or enter a place",
+      "example": "I bought a train ticket.",
+      "uz": "chipta"
+    },
+    {
+      "word": "station",
+      "pos": "noun",
+      "ipa": "/ˈsteɪʃn/",
+      "definition": "a place where trains or buses stop for passengers",
+      "example": "Meet me at the bus station.",
+      "uz": "stansiya"
+    },
+    {
+      "word": "airport",
+      "pos": "noun",
+      "ipa": "/ˈerpɔːrt/",
+      "definition": "a place where planes take off and land",
+      "example": "We waited at the airport for two hours.",
+      "uz": "aeroport"
+    },
+    {
+      "word": "road",
+      "pos": "noun",
+      "ipa": "/roʊd/",
+      "definition": "a hard surface that cars and other vehicles drive on",
+      "example": "Cross the road carefully.",
+      "uz": "yo'l"
+    },
+    {
+      "word": "traffic",
+      "pos": "noun",
+      "ipa": "/ˈtræfɪk/",
+      "definition": "the cars and other vehicles moving on a road",
+      "example": "There is a lot of traffic today.",
+      "uz": "yo'l harakati"
+    },
+    {
+      "word": "stop",
+      "pos": "verb",
+      "ipa": "/stɒp/",
+      "definition": "to not move anymore",
+      "example": "The bus stops here.",
+      "uz": "to'xtamoq"
+    },
+    {
+      "word": "travel",
+      "pos": "verb",
+      "ipa": "/ˈtrævl/",
+      "definition": "to go from one place to another",
+      "example": "I like to travel to new countries.",
+      "uz": "sayohat qilmoq"
+    },
+    {
+      "word": "arrive",
+      "pos": "verb",
+      "ipa": "/əˈraɪv/",
+      "definition": "to reach a place",
+      "example": "We arrive at the airport early for our flight.",
+      "uz": "yetib kelmoq"
+    },
+    {
+      "word": "slow",
+      "pos": "adjective",
+      "ipa": "/sloʊ/",
+      "definition": "not fast, moving with little speed",
+      "example": "The bus is very slow today.",
+      "uz": "sekin"
+    }
+  ],
+  "text": "Every day, people travel in different ways. Some people walk to work, and some ride a bike. My father drives his car to the office, but there is often a lot of traffic on the road. My mother takes the bus because it stops near our house. Yesterday, I went to the train station to buy a ticket because I wanted to visit my aunt in another city. The train was a little slow, but I arrived safely. Next month, my family will travel by plane, so we will go to the airport early. My brother loves boats and ships. He wants to be a sailor and travel on a big ship one day. Sometimes, when we don't have a car, we call a taxi. There are many ways to travel: by car, bus, train, plane, bike, boat, or taxi. I think riding a bike is the best way because it is healthy and fun.",
+  "questions": [
+    {
+      "question": "How does the father go to the office?",
+      "options": [
+        "By bus",
+        "By bike",
+        "By car",
+        "By taxi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why does the mother take the bus?",
+      "options": [
+        "It is faster than a car",
+        "It stops near their house",
+        "It is cheaper than a taxi",
+        "She does not have a bike"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why did the writer go to the train station?",
+      "options": [
+        "To meet a friend",
+        "To buy a ticket to visit their aunt",
+        "To catch a plane",
+        "To sell a bike"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How was the train?",
+      "options": [
+        "Very fast",
+        "A little slow",
+        "Very crowded",
+        "Broken"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the brother want to be one day?",
+      "options": [
+        "A bus driver",
+        "A pilot",
+        "A sailor",
+        "A taxi driver"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What do they call when they don't have a car?",
+      "options": [
+        "A bus",
+        "A boat",
+        "A taxi",
+        "A train"
+      ],
+      "answer": 2
+    }
+  ]
+}

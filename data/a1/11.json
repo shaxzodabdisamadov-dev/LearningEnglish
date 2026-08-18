@@ -1,0 +1,229 @@
+{
+  "id": 11,
+  "topic": "Hobbies and Free Time",
+  "words": [
+    {
+      "word": "hobby",
+      "pos": "noun",
+      "ipa": "/ˈhɒbi/",
+      "definition": "an activity that you do for fun in your free time",
+      "example": "Painting is my favorite hobby.",
+      "uz": "hobbi"
+    },
+    {
+      "word": "free time",
+      "pos": "phrase",
+      "ipa": "/friː taɪm/",
+      "definition": "time when you are not working or studying",
+      "example": "I play football in my free time.",
+      "uz": "bo'sh vaqt"
+    },
+    {
+      "word": "relax",
+      "pos": "verb",
+      "ipa": "/rɪˈlæks/",
+      "definition": "to rest and stop worrying",
+      "example": "I relax by listening to music.",
+      "uz": "dam olmoq"
+    },
+    {
+      "word": "read",
+      "pos": "verb",
+      "ipa": "/riːd/",
+      "definition": "to look at words and understand their meaning",
+      "example": "I read a book every night.",
+      "uz": "o'qimoq"
+    },
+    {
+      "word": "book",
+      "pos": "noun",
+      "ipa": "/bʊk/",
+      "definition": "a set of printed pages with a story or information, joined together",
+      "example": "This book is very interesting.",
+      "uz": "kitob"
+    },
+    {
+      "word": "write",
+      "pos": "verb",
+      "ipa": "/raɪt/",
+      "definition": "to make words on paper with a pen or pencil",
+      "example": "She likes to write short stories.",
+      "uz": "yozmoq"
+    },
+    {
+      "word": "music",
+      "pos": "noun",
+      "ipa": "/ˈmjuːzɪk/",
+      "definition": "sounds made by singing or by instruments",
+      "example": "He listens to music on the bus.",
+      "uz": "musiqa"
+    },
+    {
+      "word": "listen",
+      "pos": "verb",
+      "ipa": "/ˈlɪsn/",
+      "definition": "to pay attention to a sound",
+      "example": "I listen to the radio every morning.",
+      "uz": "tinglamoq"
+    },
+    {
+      "word": "song",
+      "pos": "noun",
+      "ipa": "/sɔːŋ/",
+      "definition": "a short piece of music with words",
+      "example": "This is my favorite song.",
+      "uz": "qo'shiq"
+    },
+    {
+      "word": "play",
+      "pos": "verb",
+      "ipa": "/pleɪ/",
+      "definition": "to do an activity for fun",
+      "example": "Children play in the park.",
+      "uz": "o'ynamoq"
+    },
+    {
+      "word": "game",
+      "pos": "noun",
+      "ipa": "/ɡeɪm/",
+      "definition": "an activity with rules that people play for fun",
+      "example": "We play a card game together.",
+      "uz": "o'yin"
+    },
+    {
+      "word": "draw",
+      "pos": "verb",
+      "ipa": "/drɔː/",
+      "definition": "to make a picture using a pencil or pen",
+      "example": "My son can draw very well.",
+      "uz": "chizmoq"
+    },
+    {
+      "word": "picture",
+      "pos": "noun",
+      "ipa": "/ˈpɪktʃər/",
+      "definition": "an image made by drawing, painting, or photography",
+      "example": "She painted a beautiful picture.",
+      "uz": "rasm"
+    },
+    {
+      "word": "dance",
+      "pos": "verb",
+      "ipa": "/dæns/",
+      "definition": "to move your body to music",
+      "example": "We dance at every party.",
+      "uz": "raqsga tushmoq"
+    },
+    {
+      "word": "sing",
+      "pos": "verb",
+      "ipa": "/sɪŋ/",
+      "definition": "to make music with your voice",
+      "example": "She likes to sing in the shower.",
+      "uz": "qo'shiq aytmoq"
+    },
+    {
+      "word": "watch",
+      "pos": "verb",
+      "ipa": "/wɒtʃ/",
+      "definition": "to look at something for some time",
+      "example": "We watch movies on Friday night.",
+      "uz": "tomosha qilmoq"
+    },
+    {
+      "word": "movie",
+      "pos": "noun",
+      "ipa": "/ˈmuːvi/",
+      "definition": "a story shown on a screen with moving pictures",
+      "example": "This movie is very funny.",
+      "uz": "kino"
+    },
+    {
+      "word": "collect",
+      "pos": "verb",
+      "ipa": "/kəˈlekt/",
+      "definition": "to get and keep many of the same kind of thing",
+      "example": "He likes to collect stamps.",
+      "uz": "to'plamoq"
+    },
+    {
+      "word": "camera",
+      "pos": "noun",
+      "ipa": "/ˈkæmərə/",
+      "definition": "a machine used to take photographs",
+      "example": "She takes photos with her camera.",
+      "uz": "fotoapparat"
+    },
+    {
+      "word": "chess",
+      "pos": "noun",
+      "ipa": "/tʃes/",
+      "definition": "a game for two players with a board and small pieces",
+      "example": "My grandfather taught me to play chess.",
+      "uz": "shaxmat"
+    }
+  ],
+  "text": "Everyone needs a hobby for their free time. After school, I like to relax and do fun things. My favorite hobby is reading. I read a new book every week. My sister likes music. She listens to songs on her phone and sometimes she can sing very well. My brother likes to draw. He can draw a good picture of our house. On weekends, my family likes to play games together. We often play chess, and my father always wins. My friend has a different hobby: she likes to dance. She dances every Saturday at a small club. My mother likes to watch movies. We watch a movie together every Friday night. My uncle likes to collect old coins and stamps. He also has a camera, and he takes pictures of birds in the garden. Everyone in my family has a different hobby, but we all enjoy our free time in our own way. Hobbies make us happy.",
+  "questions": [
+    {
+      "question": "What is the writer's favorite hobby?",
+      "options": [
+        "Drawing",
+        "Reading",
+        "Dancing",
+        "Chess"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the sister like?",
+      "options": [
+        "Music",
+        "Movies",
+        "Sports",
+        "Cooking"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who always wins at chess in the family?",
+      "options": [
+        "The mother",
+        "The father",
+        "The brother",
+        "The uncle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the friend do every Saturday?",
+      "options": [
+        "Sing",
+        "Read",
+        "Dance",
+        "Collect stamps"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the family watch on Friday nights?",
+      "options": [
+        "A game",
+        "A movie",
+        "A picture",
+        "A song"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the uncle collect?",
+      "options": [
+        "Books and songs",
+        "Cameras and pictures",
+        "Old coins and stamps",
+        "Games and chess sets"
+      ],
+      "answer": 2
+    }
+  ]
+}

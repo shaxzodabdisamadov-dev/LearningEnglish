@@ -1,0 +1,229 @@
+{
+  "id": 30,
+  "topic": "Making Friends and Community",
+  "words": [
+    {
+      "word": "friend",
+      "pos": "noun",
+      "ipa": "/frend/",
+      "definition": "a person you know well and like",
+      "example": "She is my best friend.",
+      "uz": "do'st"
+    },
+    {
+      "word": "friendly",
+      "pos": "adjective",
+      "ipa": "/ˈfrendli/",
+      "definition": "kind and nice to other people",
+      "example": "Our new neighbor is very friendly.",
+      "uz": "samimiy"
+    },
+    {
+      "word": "neighbor",
+      "pos": "noun",
+      "ipa": "/ˈneɪbər/",
+      "definition": "a person who lives near you",
+      "example": "My neighbor helps me with my garden.",
+      "uz": "qo'shni"
+    },
+    {
+      "word": "community",
+      "pos": "noun",
+      "ipa": "/kəˈmjuːnəti/",
+      "definition": "a group of people who live in the same area",
+      "example": "Our community has a nice park.",
+      "uz": "mahalla"
+    },
+    {
+      "word": "help",
+      "pos": "verb",
+      "ipa": "/help/",
+      "definition": "to do something useful for someone",
+      "example": "I help my friend with homework.",
+      "uz": "yordam bermoq"
+    },
+    {
+      "word": "share",
+      "pos": "verb",
+      "ipa": "/ʃer/",
+      "definition": "to use or have something together with other people",
+      "example": "Please share your food with your friend.",
+      "uz": "baham ko'rmoq"
+    },
+    {
+      "word": "kind",
+      "pos": "adjective",
+      "ipa": "/kaɪnd/",
+      "definition": "gentle and caring towards other people",
+      "example": "My teacher is very kind.",
+      "uz": "mehribon"
+    },
+    {
+      "word": "smile",
+      "pos": "verb",
+      "ipa": "/smaɪl/",
+      "definition": "to move your mouth to show you are happy",
+      "example": "She smiles at everyone she meets.",
+      "uz": "tabassum qilmoq"
+    },
+    {
+      "word": "talk",
+      "pos": "verb",
+      "ipa": "/tɔːk/",
+      "definition": "to say words to someone",
+      "example": "We talk on the phone every day.",
+      "uz": "gaplashmoq"
+    },
+    {
+      "word": "meet",
+      "pos": "verb",
+      "ipa": "/miːt/",
+      "definition": "to see and talk to someone for the first time or by plan",
+      "example": "I meet my friends at the park.",
+      "uz": "uchrashmoq"
+    },
+    {
+      "word": "greet",
+      "pos": "verb",
+      "ipa": "/ɡriːt/",
+      "definition": "to say hello to someone",
+      "example": "I greet my neighbors every morning.",
+      "uz": "salomlashmoq"
+    },
+    {
+      "word": "invite",
+      "pos": "verb",
+      "ipa": "/ɪnˈvaɪt/",
+      "definition": "to ask someone to come to an event",
+      "example": "I invite my friends to my birthday party.",
+      "uz": "taklif qilmoq"
+    },
+    {
+      "word": "party",
+      "pos": "noun",
+      "ipa": "/ˈpɑːrti/",
+      "definition": "a fun event where people meet to celebrate",
+      "example": "We had a great party last night.",
+      "uz": "ziyofat"
+    },
+    {
+      "word": "together",
+      "pos": "adverb",
+      "ipa": "/təˈɡeðər/",
+      "definition": "with each other, not alone",
+      "example": "We study together after school.",
+      "uz": "birga"
+    },
+    {
+      "word": "trust",
+      "pos": "verb",
+      "ipa": "/trʌst/",
+      "definition": "to believe that someone is honest and good",
+      "example": "I trust my best friend.",
+      "uz": "ishonmoq"
+    },
+    {
+      "word": "care",
+      "pos": "verb",
+      "ipa": "/ker/",
+      "definition": "to think that someone or something is important to you",
+      "example": "Good friends care about each other.",
+      "uz": "g'amxo'rlik qilmoq"
+    },
+    {
+      "word": "volunteer",
+      "pos": "verb",
+      "ipa": "/ˌvɒlənˈtɪr/",
+      "definition": "to help other people without being paid",
+      "example": "We volunteer at the community center on Sundays.",
+      "uz": "ko'ngilli ishlamoq"
+    },
+    {
+      "word": "group",
+      "pos": "noun",
+      "ipa": "/ɡruːp/",
+      "definition": "a number of people who do something together",
+      "example": "Our group cleaned the park.",
+      "uz": "guruh"
+    },
+    {
+      "word": "welcome",
+      "pos": "verb",
+      "ipa": "/ˈwelkəm/",
+      "definition": "to be friendly and happy when someone arrives",
+      "example": "We welcome new students at our school.",
+      "uz": "kutib olmoq"
+    },
+    {
+      "word": "support",
+      "pos": "verb",
+      "ipa": "/səˈpɔːrt/",
+      "definition": "to help and encourage someone",
+      "example": "Friends support each other in hard times.",
+      "uz": "qo'llab-quvvatlamoq"
+    }
+  ],
+  "text": "Making friends is easy when you are kind and friendly. When I meet new people, I try to smile and talk to them. Last month, a new family moved next door. I wanted to welcome them, so I went to greet my new neighbor. We talked for a long time, and now we are friends. I invited her to a party at my house, and she met many people from our community. We all had fun together. In our neighborhood, there is a friendly group of people who help each other. Sometimes we volunteer to clean the park or help older neighbors carry heavy bags. I like to share my things with my friends, and I always try to care about their problems. Good friends trust each other and support each other when life is hard. I feel happy because I have many kind friends in my community. When people work together and help each other, everyone feels welcome and safe. This is why community is so important to me.",
+  "questions": [
+    {
+      "question": "Why did the writer greet the new neighbor?",
+      "options": [
+        "To sell something",
+        "To welcome her",
+        "To ask for help",
+        "To complain"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the writer invite the new neighbor to?",
+      "options": [
+        "A trip",
+        "A party",
+        "A meeting",
+        "A lesson"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the group of neighbors sometimes do?",
+      "options": [
+        "Travel together",
+        "Volunteer to clean the park",
+        "Watch movies",
+        "Play sports"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, what do good friends do for each other?",
+      "options": [
+        "Ignore problems",
+        "Trust and support each other",
+        "Avoid talking",
+        "Compete with each other"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the writer feel about their community?",
+      "options": [
+        "Bored",
+        "Happy",
+        "Worried",
+        "Lonely"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens when people work together and help each other, according to the text?",
+      "options": [
+        "Everyone feels tired",
+        "Everyone feels welcome and safe",
+        "Nothing changes",
+        "People become strangers"
+      ],
+      "answer": 1
+    }
+  ]
+}

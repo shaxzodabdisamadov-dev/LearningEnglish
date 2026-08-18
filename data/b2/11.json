@@ -1,0 +1,229 @@
+{
+  "id": 11,
+  "topic": "Healthcare Systems and Medical Ethics",
+  "words": [
+    {
+      "word": "diagnosis",
+      "pos": "noun",
+      "ipa": "/ˌdaɪəɡˈnoʊsɪs/",
+      "definition": "the identification of the nature of an illness through examination",
+      "example": "An early diagnosis significantly improves the chances of successful treatment.",
+      "uz": "tashxis"
+    },
+    {
+      "word": "malpractice",
+      "pos": "noun",
+      "ipa": "/ˌmælˈpræktɪs/",
+      "definition": "negligent or improper professional conduct, especially by a doctor",
+      "example": "The hospital faced a lawsuit after allegations of medical malpractice.",
+      "uz": "shifokorning kasbiy beparvoligi (xatosi)"
+    },
+    {
+      "word": "consent",
+      "pos": "noun",
+      "ipa": "/kənˈsent/",
+      "definition": "permission for something to happen, especially given with full knowledge of the risks",
+      "example": "Doctors must obtain a patient's informed consent before performing surgery.",
+      "uz": "(xavf-xatarlarni bilib turib beriladigan) rozilik"
+    },
+    {
+      "word": "confidentiality",
+      "pos": "noun",
+      "ipa": "/ˌkɒnfɪˌdenʃiˈæləti/",
+      "definition": "the state of keeping information private and secret",
+      "example": "Patient confidentiality is a cornerstone of trust between doctors and patients.",
+      "uz": "maxfiylik"
+    },
+    {
+      "word": "equitable",
+      "pos": "adjective",
+      "ipa": "/ˈekwɪtəbl/",
+      "definition": "fair and impartial, especially in the distribution of resources",
+      "example": "Reformers are calling for a more equitable healthcare system that serves everyone equally.",
+      "uz": "adolatli (resurslar taqsimotida)"
+    },
+    {
+      "word": "disparity",
+      "pos": "noun",
+      "ipa": "/dɪˈspærəti/",
+      "definition": "a significant difference or inequality between groups",
+      "example": "There is a stark disparity in life expectancy between wealthy and poor neighborhoods.",
+      "uz": "guruhlar orasidagi sezilarli tafovut"
+    },
+    {
+      "word": "autonomy",
+      "pos": "noun",
+      "ipa": "/ɔːˈtɒnəmi/",
+      "definition": "the right to make one's own decisions independently",
+      "example": "Respecting patient autonomy means allowing individuals to refuse treatment if they choose.",
+      "uz": "mustaqil qaror qabul qilish huquqi"
+    },
+    {
+      "word": "palliative",
+      "pos": "adjective",
+      "ipa": "/ˈpæliətɪv/",
+      "definition": "relieving pain or symptoms without curing the underlying condition",
+      "example": "Palliative care focuses on comfort rather than curing a terminal illness.",
+      "uz": "davolamasdan og'riqni yengillashtiruvchi"
+    },
+    {
+      "word": "terminal",
+      "pos": "adjective",
+      "ipa": "/ˈtɜːrmɪnl/",
+      "definition": "(of an illness) leading inevitably to death",
+      "example": "Patients with a terminal diagnosis are often offered hospice support.",
+      "uz": "davolab bo'lmaydigan (o'limga olib keluvchi)"
+    },
+    {
+      "word": "allocate",
+      "pos": "verb",
+      "ipa": "/ˈæləkeɪt/",
+      "definition": "to distribute resources for a particular purpose",
+      "example": "The government must decide how to allocate limited funds among competing medical needs.",
+      "uz": "resurslarni ma'lum maqsadga ajratmoq"
+    },
+    {
+      "word": "prognosis",
+      "pos": "noun",
+      "ipa": "/prɒɡˈnoʊsɪs/",
+      "definition": "a forecast of the likely course of a disease",
+      "example": "The doctor gave a cautiously optimistic prognosis following the surgery.",
+      "uz": "kasallik kechishi bo'yicha bashorat"
+    },
+    {
+      "word": "intervention",
+      "pos": "noun",
+      "ipa": "/ˌɪntərˈvenʃn/",
+      "definition": "an action taken to improve a medical condition",
+      "example": "Early intervention can prevent a minor issue from becoming a chronic illness.",
+      "uz": "tibbiy aralashuv"
+    },
+    {
+      "word": "deteriorate",
+      "pos": "verb",
+      "ipa": "/dɪˈtɪəriəreɪt/",
+      "definition": "to become progressively worse",
+      "example": "Without proper treatment, his condition began to deteriorate rapidly.",
+      "uz": "tobora yomonlashmoq"
+    },
+    {
+      "word": "rehabilitation",
+      "pos": "noun",
+      "ipa": "/ˌriːəˌbɪlɪˈteɪʃn/",
+      "definition": "the process of restoring someone to health after illness or injury",
+      "example": "After the stroke, she underwent months of physical rehabilitation.",
+      "uz": "reabilitatsiya (sog'lig'ini tiklash)"
+    },
+    {
+      "word": "accessible",
+      "pos": "adjective",
+      "ipa": "/əkˈsesəbl/",
+      "definition": "able to be easily reached, entered, or obtained",
+      "example": "Ensuring healthcare is accessible to rural communities remains a major challenge.",
+      "uz": "oson yetib bo'ladigan, qulay"
+    },
+    {
+      "word": "burnout",
+      "pos": "noun",
+      "ipa": "/ˈbɜːrnaʊt/",
+      "definition": "a state of physical or emotional exhaustion caused by prolonged stress",
+      "example": "Chronic understaffing has contributed to widespread burnout among nurses.",
+      "uz": "uzoq davom etgan stress oqibatidagi charchoq"
+    },
+    {
+      "word": "underfunded",
+      "pos": "adjective",
+      "ipa": "/ˌʌndərˈfʌndɪd/",
+      "definition": "not provided with enough money to operate effectively",
+      "example": "Underfunded public hospitals often struggle to maintain modern equipment.",
+      "uz": "yetarli mablag' bilan ta'minlanmagan"
+    },
+    {
+      "word": "euthanasia",
+      "pos": "noun",
+      "ipa": "/ˌjuːθəˈneɪziə/",
+      "definition": "the practice of deliberately ending a life to relieve suffering",
+      "example": "The legalization of euthanasia remains a deeply divisive ethical issue.",
+      "uz": "evtanaziya (azobdan qutqarish uchun o'limga ataylab yordam berish)"
+    },
+    {
+      "word": "dilemma",
+      "pos": "noun",
+      "ipa": "/dɪˈlemə/",
+      "definition": "a situation requiring a difficult choice between two or more options",
+      "example": "Doctors sometimes face an ethical dilemma when a patient refuses life-saving treatment.",
+      "uz": "ikki og'ir variant orasidagi mushkul tanlov"
+    },
+    {
+      "word": "holistic",
+      "pos": "adjective",
+      "ipa": "/hoʊˈlɪstɪk/",
+      "definition": "dealing with the whole person, including mental and social factors, not just symptoms",
+      "example": "A holistic approach to medicine considers a patient's lifestyle alongside their physical symptoms.",
+      "uz": "butun shaxsni (jismoniy va ruhiy jihatdan) qamrab oluvchi"
+    }
+  ],
+  "text": "Seldom has medicine advanced as rapidly as it has in the past few decades, yet access to its benefits remains far from equitable. In wealthy nations, an early diagnosis and swift intervention can transform a patient's prognosis, whereas in underfunded regions, the same illness may go untreated until it begins to deteriorate beyond repair. This disparity raises a profound ethical dilemma: how should limited resources be allocated when demand invariably outstrips supply? Were healthcare systems designed purely around efficiency, patient autonomy might be sacrificed for the sake of cost-cutting. Confidentiality, too, is increasingly tested as digital records proliferate, and informed consent grows more complex amid ever more sophisticated treatments. Meanwhile, physicians themselves are not immune to the strain; chronic understaffing has left many on the verge of burnout, undermining the holistic, patient-centered care that reformers advocate. Nowhere are these tensions more visible than in debates over euthanasia and palliative care for the terminally ill, where medical malpractice claims and questions of dignity intersect. Ultimately, building a system that is genuinely accessible to all — not merely to the privileged — will require rehabilitation of both policy and public trust alike.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Medical advances have completely eliminated healthcare disparities.",
+        "Despite medical progress, unequal access to healthcare creates serious ethical and practical challenges.",
+        "Euthanasia is the most pressing issue in modern medicine.",
+        "Physicians are solely responsible for healthcare inequality."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why is resource allocation described as an ethical dilemma?",
+      "options": [
+        "Because there are never enough doctors to treat patients",
+        "Because demand for healthcare resources always exceeds the available supply, forcing difficult choices",
+        "Because patients refuse to pay for treatment",
+        "Because governments prohibit spending on healthcare"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest about the effect of understaffing on physicians?",
+      "options": [
+        "It has no significant impact on patient care.",
+        "It has led many physicians to experience burnout, which threatens holistic care.",
+        "It has improved efficiency in hospitals.",
+        "It only affects hospitals in wealthy nations."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about the author's view on purely efficiency-driven healthcare systems?",
+      "options": [
+        "The author fully supports them as the best solution.",
+        "The author warns that they could undermine patient autonomy.",
+        "The author believes they would eliminate malpractice.",
+        "The author sees no downside to such systems."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's tone in the passage can best be described as:",
+      "options": [
+        "dismissive of ethical concerns in medicine",
+        "thoughtful and critical, highlighting unresolved tensions in healthcare",
+        "purely celebratory of medical progress",
+        "neutral and purely descriptive without any argument"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Based on the passage, what does the author suggest is needed to make healthcare genuinely accessible to all?",
+      "options": [
+        "Only technological innovation",
+        "Rehabilitating both policy and public trust",
+        "Eliminating patient confidentiality",
+        "Focusing exclusively on terminal illness care"
+      ],
+      "answer": 1
+    }
+  ]
+}

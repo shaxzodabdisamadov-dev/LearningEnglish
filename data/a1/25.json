@@ -1,0 +1,229 @@
+{
+  "id": 25,
+  "topic": "The Internet and Social Media",
+  "words": [
+    {
+      "word": "internet",
+      "pos": "noun",
+      "ipa": "/ˈɪntərnet/",
+      "definition": "a big network that connects computers around the world",
+      "example": "I use the internet to find information.",
+      "uz": "internet"
+    },
+    {
+      "word": "computer",
+      "pos": "noun",
+      "ipa": "/kəmˈpjuːtər/",
+      "definition": "a machine that helps you write, work, and play",
+      "example": "I do my homework on a computer.",
+      "uz": "kompyuter"
+    },
+    {
+      "word": "phone",
+      "pos": "noun",
+      "ipa": "/foʊn/",
+      "definition": "a small machine you use to call and talk to people",
+      "example": "I call my mother on my phone.",
+      "uz": "telefon"
+    },
+    {
+      "word": "screen",
+      "pos": "noun",
+      "ipa": "/skriːn/",
+      "definition": "the flat part of a phone or computer where you see pictures",
+      "example": "The screen of my phone is big.",
+      "uz": "ekran"
+    },
+    {
+      "word": "website",
+      "pos": "noun",
+      "ipa": "/ˈwebsaɪt/",
+      "definition": "a place on the internet with information and pages",
+      "example": "This website has news about sports.",
+      "uz": "veb-sayt"
+    },
+    {
+      "word": "message",
+      "pos": "noun",
+      "ipa": "/ˈmesɪdʒ/",
+      "definition": "short words that you send to someone",
+      "example": "I send a message to my friend.",
+      "uz": "xabar"
+    },
+    {
+      "word": "photo",
+      "pos": "noun",
+      "ipa": "/ˈfoʊtoʊ/",
+      "definition": "a picture made with a camera",
+      "example": "I take a photo of my dog.",
+      "uz": "rasm"
+    },
+    {
+      "word": "video",
+      "pos": "noun",
+      "ipa": "/ˈvɪdioʊ/",
+      "definition": "moving pictures with sound",
+      "example": "We watch a funny video online.",
+      "uz": "video"
+    },
+    {
+      "word": "share",
+      "pos": "verb",
+      "ipa": "/ʃer/",
+      "definition": "to let other people see or use something",
+      "example": "I share my photos with my friends.",
+      "uz": "ulashmoq"
+    },
+    {
+      "word": "post",
+      "pos": "verb",
+      "ipa": "/poʊst/",
+      "definition": "to put a photo or message on the internet for others to see",
+      "example": "She posts a photo every day.",
+      "uz": "joylamoq"
+    },
+    {
+      "word": "like",
+      "pos": "verb",
+      "ipa": "/laɪk/",
+      "definition": "to click a button online to show you enjoy something",
+      "example": "I like my friend's new photo.",
+      "uz": "layk bosmoq"
+    },
+    {
+      "word": "comment",
+      "pos": "noun",
+      "ipa": "/ˈkɒment/",
+      "definition": "a short written opinion you leave online",
+      "example": "He wrote a nice comment on my post.",
+      "uz": "izoh"
+    },
+    {
+      "word": "friend",
+      "pos": "noun",
+      "ipa": "/frend/",
+      "definition": "a person you know and like",
+      "example": "I have many friends online.",
+      "uz": "do'st"
+    },
+    {
+      "word": "online",
+      "pos": "adverb",
+      "ipa": "/ˌɒnˈlaɪn/",
+      "definition": "connected to the internet",
+      "example": "My sister is online every evening.",
+      "uz": "onlayn"
+    },
+    {
+      "word": "app",
+      "pos": "noun",
+      "ipa": "/æp/",
+      "definition": "a small computer program on your phone",
+      "example": "This app helps me learn English.",
+      "uz": "ilova"
+    },
+    {
+      "word": "password",
+      "pos": "noun",
+      "ipa": "/ˈpæswɜːrd/",
+      "definition": "a secret word that lets you use your account",
+      "example": "Don't share your password with strangers.",
+      "uz": "parol"
+    },
+    {
+      "word": "email",
+      "pos": "noun",
+      "ipa": "/ˈiːmeɪl/",
+      "definition": "a message that you send using the internet",
+      "example": "I send an email to my teacher.",
+      "uz": "elektron pochta"
+    },
+    {
+      "word": "download",
+      "pos": "verb",
+      "ipa": "/ˌdaʊnˈloʊd/",
+      "definition": "to save something from the internet onto your device",
+      "example": "I download a new song.",
+      "uz": "yuklab olmoq"
+    },
+    {
+      "word": "upload",
+      "pos": "verb",
+      "ipa": "/ˌʌpˈloʊd/",
+      "definition": "to send a file from your device to the internet",
+      "example": "She uploads her holiday photos.",
+      "uz": "yuklamoq"
+    },
+    {
+      "word": "chat",
+      "pos": "verb",
+      "ipa": "/tʃæt/",
+      "definition": "to talk with someone using the internet",
+      "example": "We chat every day after school.",
+      "uz": "yozishmoq"
+    }
+  ],
+  "text": "Today, many people use the internet every day. I use my phone and my computer to go online. In the morning, I check my email and read a message from my teacher. I also open an app to chat with my friends. My best friend often shares funny videos with me. Sometimes I watch a video and I like it, so I click the like button. I also write a comment under my friend's photo. Last week, I took a nice photo at the park and posted it online. Many friends left kind comments. I also learned to download music and upload my own videos to a website. But I am careful with my password because it is private. I never share my password with people I don't know. My screen shows many messages every day, but I try not to use my phone too much. The internet is very useful, but I also like to close my computer and play outside with my real friends.",
+  "questions": [
+    {
+      "question": "What does the writer check in the morning?",
+      "options": [
+        "A photo",
+        "An email",
+        "A video",
+        "A password"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the writer do with a photo taken at the park?",
+      "options": [
+        "Deleted it",
+        "Posted it online",
+        "Sent it by email",
+        "Printed it"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is the writer careful with the password?",
+      "options": [
+        "It is funny",
+        "It is long",
+        "It is private",
+        "It is new"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the writer download?",
+      "options": [
+        "Photos",
+        "Music",
+        "Apps",
+        "Comments"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, what does the writer do besides using the internet?",
+      "options": [
+        "Sleep all day",
+        "Play outside with friends",
+        "Watch TV all night",
+        "Cook dinner"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the writer talk with friends online?",
+      "options": [
+        "By phone call",
+        "Using an app to chat",
+        "By writing letters",
+        "By video call only"
+      ],
+      "answer": 1
+    }
+  ]
+}

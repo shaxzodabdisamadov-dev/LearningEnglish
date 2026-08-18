@@ -1,0 +1,229 @@
+{
+  "id": 7,
+  "topic": "Global Cuisines and Dietary Choices",
+  "words": [
+    {
+      "word": "cuisine",
+      "pos": "noun",
+      "ipa": "/kwɪˈziːn/",
+      "definition": "a style of cooking typical of a country or region",
+      "example": "Thai cuisine is known for its balance of sweet, sour, and spicy flavours.",
+      "uz": "pazandachilik"
+    },
+    {
+      "word": "ingredient",
+      "pos": "noun",
+      "ipa": "/ɪnˈɡriː.di.ənt/",
+      "definition": "a food item used to make a particular dish",
+      "example": "Fresh ingredients make a big difference to the taste of a dish.",
+      "uz": "masalliq"
+    },
+    {
+      "word": "vegetarian",
+      "pos": "noun",
+      "ipa": "/ˌvedʒ.ɪˈteə.ri.ən/",
+      "definition": "a person who does not eat meat or fish",
+      "example": "She has been a vegetarian for over ten years.",
+      "uz": "vegetarian"
+    },
+    {
+      "word": "vegan",
+      "pos": "noun",
+      "ipa": "/ˈviː.ɡən/",
+      "definition": "a person who does not eat or use any animal products",
+      "example": "He follows a vegan diet and avoids all animal products.",
+      "uz": "vegan"
+    },
+    {
+      "word": "staple food",
+      "pos": "noun phrase",
+      "ipa": "/ˈsteɪ.pəl fuːd/",
+      "definition": "a basic food eaten regularly as a major part of someone's diet",
+      "example": "Rice is a staple food in many Asian countries.",
+      "uz": "asosiy oziq-ovqat"
+    },
+    {
+      "word": "flavour",
+      "pos": "noun",
+      "ipa": "/ˈfleɪ.vər/",
+      "definition": "the taste of a particular food or drink",
+      "example": "The soup has a rich, spicy flavour.",
+      "uz": "ta'm"
+    },
+    {
+      "word": "authentic",
+      "pos": "adjective",
+      "ipa": "/ɔːˈθen.tɪk/",
+      "definition": "real and original, not copied or changed",
+      "example": "We found a small restaurant that serves authentic Italian food.",
+      "uz": "asl"
+    },
+    {
+      "word": "spicy",
+      "pos": "adjective",
+      "ipa": "/ˈspaɪ.si/",
+      "definition": "having a strong, hot taste caused by spices",
+      "example": "He loves spicy food, especially curries.",
+      "uz": "achchiq"
+    },
+    {
+      "word": "nutritious",
+      "pos": "adjective",
+      "ipa": "/njuːˈtrɪʃ.əs/",
+      "definition": "containing substances that help the body grow and stay healthy",
+      "example": "A nutritious breakfast gives you energy for the day.",
+      "uz": "to'yimli"
+    },
+    {
+      "word": "processed food",
+      "pos": "noun phrase",
+      "ipa": "/ˈprəʊ.sest fuːd/",
+      "definition": "food that has been changed from its natural state before being sold",
+      "example": "Doctors recommend eating less processed food.",
+      "uz": "qayta ishlangan oziq-ovqat"
+    },
+    {
+      "word": "allergy",
+      "pos": "noun",
+      "ipa": "/ˈæl.ə.dʒi/",
+      "definition": "a medical condition that causes a bad reaction to certain foods or substances",
+      "example": "She has a serious allergy to peanuts.",
+      "uz": "allergiya"
+    },
+    {
+      "word": "intolerance",
+      "pos": "noun",
+      "ipa": "/ɪnˈtɒl.ər.əns/",
+      "definition": "the inability of the body to easily digest a certain food",
+      "example": "He was diagnosed with a lactose intolerance.",
+      "uz": "intolerantlik (ko'tara olmaslik)"
+    },
+    {
+      "word": "fusion cuisine",
+      "pos": "noun phrase",
+      "ipa": "/ˈfjuː.ʒən kwɪˈziːn/",
+      "definition": "a style of cooking that combines elements of different food traditions",
+      "example": "The restaurant is famous for its fusion cuisine, mixing Japanese and Mexican flavours.",
+      "uz": "aralash pazandachilik"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adjective",
+      "ipa": "/səˈsteɪ.nə.bəl/",
+      "definition": "not causing damage to the environment over a long period",
+      "example": "Sustainable farming helps protect the environment.",
+      "uz": "barqaror"
+    },
+    {
+      "word": "organic",
+      "pos": "adjective",
+      "ipa": "/ɔːˈɡæn.ɪk/",
+      "definition": "produced without using artificial chemicals",
+      "example": "They only buy organic vegetables from the local market.",
+      "uz": "organik"
+    },
+    {
+      "word": "balanced diet",
+      "pos": "noun phrase",
+      "ipa": "/ˈbæl.ənst ˈdaɪ.ət/",
+      "definition": "a diet containing the right amounts of different nutrients",
+      "example": "A balanced diet includes fruit, vegetables, protein, and grains.",
+      "uz": "muvozanatli ovqatlanish"
+    },
+    {
+      "word": "crave",
+      "pos": "verb",
+      "ipa": "/kreɪv/",
+      "definition": "to have a strong desire for a particular food",
+      "example": "During winter, people often crave warm, hearty meals.",
+      "uz": "qattiq xohlamoq"
+    },
+    {
+      "word": "exotic",
+      "pos": "adjective",
+      "ipa": "/ɪɡˈzɒt.ɪk/",
+      "definition": "unusual or exciting because it comes from a foreign country",
+      "example": "The market sells exotic fruits from around the world.",
+      "uz": "ekzotik"
+    },
+    {
+      "word": "delicacy",
+      "pos": "noun",
+      "ipa": "/ˈdel.ɪ.kə.si/",
+      "definition": "a food that is rare, special, or considered especially good",
+      "example": "In some cultures, insects are considered a delicacy.",
+      "uz": "noz-ne'mat"
+    },
+    {
+      "word": "dietary restriction",
+      "pos": "noun phrase",
+      "ipa": "/ˈdaɪ.ə.tər.i rɪˈstrɪk.ʃən/",
+      "definition": "a limit on what a person is allowed or chooses to eat",
+      "example": "The chef adjusted the menu for guests with dietary restrictions.",
+      "uz": "ovqatlanish cheklovi"
+    }
+  ],
+  "text": "Food is one of the best ways to explore different cultures, and today it is easier than ever to try authentic cuisine from around the world. Every country has its own staple food and typical flavours, whether it is rice in Asia, bread in Europe, or corn in Latin America. Global travel and the internet have also created fusion cuisine, which mixes ingredients and cooking styles from different traditions to create something new. At the same time, more people are paying attention to what they eat. Some choose to become vegetarian or vegan for health, environmental, or ethical reasons, while others must follow a dietary restriction because of an allergy or intolerance. Nutritionists generally recommend a balanced diet with fresh, organic ingredients rather than processed food, which often contains high levels of sugar, salt, and fat. Although many people crave spicy or exotic dishes when travelling, they should remember that what seems unusual to one culture might be an everyday delicacy in another. As concerns about the environment grow, chefs and consumers are also thinking more about sustainable choices, such as eating less meat or reducing food waste. In the end, food connects people, even when their diets are very different.",
+  "questions": [
+    {
+      "question": "According to the passage, what is fusion cuisine?",
+      "options": [
+        "A traditional dish from one country",
+        "A style that mixes ingredients and cooking styles from different traditions",
+        "A type of processed food",
+        "A food eaten only during travel"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why do some people follow a dietary restriction, according to the text?",
+      "options": [
+        "Because of an allergy or intolerance",
+        "Because they crave exotic food",
+        "Because they dislike their staple food",
+        "Because they want authentic cuisine"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What do nutritionists generally recommend, according to the passage?",
+      "options": [
+        "More processed food",
+        "A balanced diet with fresh, organic ingredients",
+        "Only spicy and exotic dishes",
+        "Avoiding all staple foods"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage say about food that seems unusual or exotic?",
+      "options": [
+        "It is always unhealthy",
+        "It might be an everyday delicacy in another culture",
+        "It is never authentic",
+        "It always contains allergens"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What sustainable choice does the passage mention?",
+      "options": [
+        "Eating more processed food",
+        "Eating less meat or reducing food waste",
+        "Avoiding all fusion cuisine",
+        "Eating only imported ingredients"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the main idea of the passage's conclusion?",
+      "options": [
+        "Food divides cultures",
+        "Food connects people even when diets differ",
+        "Only vegans eat healthily",
+        "Authentic cuisine is disappearing"
+      ],
+      "answer": 1
+    }
+  ]
+}

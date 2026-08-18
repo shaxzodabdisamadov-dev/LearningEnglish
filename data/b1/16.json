@@ -1,0 +1,229 @@
+{
+  "id": 16,
+  "topic": "Artificial Intelligence and Automation",
+  "words": [
+    {
+      "word": "artificial",
+      "pos": "adjective",
+      "ipa": "/ˌɑːrtɪˈfɪʃəl/",
+      "definition": "Made by humans, not existing naturally.",
+      "example": "Artificial intelligence can now recognize faces in photos.",
+      "uz": "sun'iy"
+    },
+    {
+      "word": "intelligence",
+      "pos": "noun",
+      "ipa": "/ɪnˈtelɪdʒəns/",
+      "definition": "The ability to learn, understand, and think in a logical way.",
+      "example": "Scientists are working to improve machine intelligence.",
+      "uz": "intellekt"
+    },
+    {
+      "word": "algorithm",
+      "pos": "noun",
+      "ipa": "/ˈælɡərɪðəm/",
+      "definition": "A set of rules that a computer follows to solve a problem or complete a task.",
+      "example": "The website uses an algorithm to recommend videos.",
+      "uz": "algoritm"
+    },
+    {
+      "word": "automate",
+      "pos": "verb",
+      "ipa": "/ˈɔːtəmeɪt/",
+      "definition": "To make a process work by machine instead of by people.",
+      "example": "The factory decided to automate its production line.",
+      "uz": "avtomatlashtirmoq"
+    },
+    {
+      "word": "automation",
+      "pos": "noun",
+      "ipa": "/ˌɔːtəˈmeɪʃən/",
+      "definition": "The use of machines and computers to do work that people used to do.",
+      "example": "Automation has changed the way cars are built.",
+      "uz": "avtomatlashtirish"
+    },
+    {
+      "word": "device",
+      "pos": "noun",
+      "ipa": "/dɪˈvaɪs/",
+      "definition": "A machine or tool made for a particular purpose.",
+      "example": "Smart devices can control the lights in your home.",
+      "uz": "qurilma"
+    },
+    {
+      "word": "task",
+      "pos": "noun",
+      "ipa": "/tæsk/",
+      "definition": "A piece of work that must be done.",
+      "example": "Robots can complete repetitive tasks faster than humans.",
+      "uz": "vazifa"
+    },
+    {
+      "word": "replace",
+      "pos": "verb",
+      "ipa": "/rɪˈpleɪs/",
+      "definition": "To remove something or someone and put another in its place.",
+      "example": "Many people worry that machines will replace human workers.",
+      "uz": "almashtirmoq"
+    },
+    {
+      "word": "efficient",
+      "pos": "adjective",
+      "ipa": "/ɪˈfɪʃənt/",
+      "definition": "Working well without wasting time, money, or energy.",
+      "example": "The new system is much more efficient than the old one.",
+      "uz": "samarali"
+    },
+    {
+      "word": "predict",
+      "pos": "verb",
+      "ipa": "/prɪˈdɪkt/",
+      "definition": "To say what will happen in the future.",
+      "example": "Experts predict that automation will affect millions of jobs.",
+      "uz": "bashorat qilmoq"
+    },
+    {
+      "word": "process",
+      "pos": "verb",
+      "ipa": "/ˈprɑːses/",
+      "definition": "To deal with information or material in a series of steps.",
+      "example": "Computers can process huge amounts of data in seconds.",
+      "uz": "qayta ishlamoq"
+    },
+    {
+      "word": "data",
+      "pos": "noun",
+      "ipa": "/ˈdeɪtə/",
+      "definition": "Information, especially facts and numbers, collected for analysis.",
+      "example": "The company collects data from thousands of customers every day.",
+      "uz": "ma'lumotlar"
+    },
+    {
+      "word": "rely on",
+      "pos": "phrasal verb",
+      "ipa": "/rɪˈlaɪ ɒn/",
+      "definition": "To depend on someone or something.",
+      "example": "Hospitals increasingly rely on technology to save lives.",
+      "uz": "tayanmoq"
+    },
+    {
+      "word": "threat",
+      "pos": "noun",
+      "ipa": "/θret/",
+      "definition": "Something that could cause harm or danger.",
+      "example": "Some experts see automation as a threat to certain jobs.",
+      "uz": "tahdid"
+    },
+    {
+      "word": "benefit",
+      "pos": "noun",
+      "ipa": "/ˈbenɪfɪt/",
+      "definition": "An advantage or good result that something brings.",
+      "example": "One benefit of automation is that it reduces human error.",
+      "uz": "foyda"
+    },
+    {
+      "word": "workforce",
+      "pos": "noun",
+      "ipa": "/ˈwɜːrkfɔːrs/",
+      "definition": "All the people who work in a company, industry, or country.",
+      "example": "Automation is changing the skills the workforce needs.",
+      "uz": "ishchi kuchi"
+    },
+    {
+      "word": "skill",
+      "pos": "noun",
+      "ipa": "/skɪl/",
+      "definition": "The ability to do something well, usually gained through training or practice.",
+      "example": "Workers need new skills to work alongside machines.",
+      "uz": "ko'nikma"
+    },
+    {
+      "word": "innovation",
+      "pos": "noun",
+      "ipa": "/ˌɪnəˈveɪʃən/",
+      "definition": "A new idea, method, or invention.",
+      "example": "The company is known for its innovation in robotics.",
+      "uz": "innovatsiya"
+    },
+    {
+      "word": "update",
+      "pos": "verb",
+      "ipa": "/ʌpˈdeɪt/",
+      "definition": "To make something more modern or add the most recent information.",
+      "example": "The software updates itself automatically every week.",
+      "uz": "yangilamoq"
+    },
+    {
+      "word": "accurate",
+      "pos": "adjective",
+      "ipa": "/ˈækjərət/",
+      "definition": "Correct and exact, without mistakes.",
+      "example": "The algorithm makes accurate predictions about the weather.",
+      "uz": "aniq"
+    }
+  ],
+  "text": "Artificial intelligence (AI) is changing the way we live and work. Many companies now use AI to automate simple tasks, from answering customer questions to sorting emails. This process, known as automation, allows businesses to become more efficient because computers can process huge amounts of data much faster than people. An algorithm is a set of instructions that tells a device what to do, and modern algorithms can even predict what customers want before they ask. As a result, some workers fear that machines will replace their jobs. However, most experts believe AI will change the workforce rather than destroy it completely. Although automation brings clear benefits, such as fewer mistakes and lower costs, it also creates a threat to people whose jobs are repetitive. To stay employed, workers need new skills that machines do not have, such as creativity and communication. Companies that invest in innovation and regularly update their systems tend to grow faster. If we rely on AI wisely, it can make accurate decisions and free people to do more interesting work.",
+  "questions": [
+    {
+      "question": "According to the passage, what does automation allow businesses to do?",
+      "options": [
+        "Become more efficient",
+        "Lose more money",
+        "Avoid new technology",
+        "Reduce customer numbers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does an algorithm do, according to the text?",
+      "options": [
+        "It replaces workers immediately",
+        "It tells a device what to do",
+        "It creates jobs for people",
+        "It reduces data collection"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why do some workers fear automation, according to the passage?",
+      "options": [
+        "They think machines will replace their jobs",
+        "They think machines are expensive",
+        "They think algorithms are illegal",
+        "They think devices are inaccurate"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What do most experts believe about AI's effect on the workforce?",
+      "options": [
+        "It will destroy all jobs",
+        "It will change the workforce rather than destroy it",
+        "It has no effect on jobs",
+        "It only affects factory workers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what skills do workers need to stay employed?",
+      "options": [
+        "Skills machines already have",
+        "Skills like creativity and communication",
+        "Only technical computer skills",
+        "No new skills are needed"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What helps companies grow faster, according to the text?",
+      "options": [
+        "Ignoring new technology",
+        "Reducing their workforce",
+        "Investing in innovation and updating systems",
+        "Avoiding automation completely"
+      ],
+      "answer": 2
+    }
+  ]
+}

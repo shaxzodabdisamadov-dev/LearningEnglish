@@ -1,0 +1,229 @@
+{
+  "id": 16,
+  "topic": "Sports and Fitness",
+  "words": [
+    {
+      "word": "exercise",
+      "pos": "noun",
+      "ipa": "/ˈɛksərsaɪz/",
+      "definition": "physical activity that you do to stay healthy",
+      "example": "I do exercise every morning before work.",
+      "uz": "mashq"
+    },
+    {
+      "word": "team",
+      "pos": "noun",
+      "ipa": "/tiːm/",
+      "definition": "a group of people who play a sport together",
+      "example": "Our team won the football match.",
+      "uz": "jamoa"
+    },
+    {
+      "word": "match",
+      "pos": "noun",
+      "ipa": "/mætʃ/",
+      "definition": "a sports game between two players or teams",
+      "example": "We watched a tennis match on TV.",
+      "uz": "o'yin"
+    },
+    {
+      "word": "win",
+      "pos": "verb",
+      "ipa": "/wɪn/",
+      "definition": "to be the best or first in a game or competition",
+      "example": "Did your team win the game?",
+      "uz": "g'alaba qozonmoq"
+    },
+    {
+      "word": "lose",
+      "pos": "verb",
+      "ipa": "/luːz/",
+      "definition": "to not win a game or competition",
+      "example": "I hate to lose, but I played well.",
+      "uz": "yutqazmoq"
+    },
+    {
+      "word": "score",
+      "pos": "verb",
+      "ipa": "/skɔːr/",
+      "definition": "to get a point in a game",
+      "example": "He scored two goals in the match.",
+      "uz": "ochko to'plamoq"
+    },
+    {
+      "word": "coach",
+      "pos": "noun",
+      "ipa": "/koʊtʃ/",
+      "definition": "a person who trains a sports team or player",
+      "example": "The coach taught us new skills.",
+      "uz": "murabbiy"
+    },
+    {
+      "word": "gym",
+      "pos": "noun",
+      "ipa": "/dʒɪm/",
+      "definition": "a place with equipment for exercise",
+      "example": "I go to the gym three times a week.",
+      "uz": "sport zali"
+    },
+    {
+      "word": "run",
+      "pos": "verb",
+      "ipa": "/rʌn/",
+      "definition": "to move fast using your legs",
+      "example": "She runs five kilometers every day.",
+      "uz": "yugurmoq"
+    },
+    {
+      "word": "swim",
+      "pos": "verb",
+      "ipa": "/swɪm/",
+      "definition": "to move through water using your arms and legs",
+      "example": "We swim in the pool on weekends.",
+      "uz": "suzmoq"
+    },
+    {
+      "word": "jump",
+      "pos": "verb",
+      "ipa": "/dʒʌmp/",
+      "definition": "to push your body up into the air",
+      "example": "The athlete jumped very high.",
+      "uz": "sakramoq"
+    },
+    {
+      "word": "strong",
+      "pos": "adjective",
+      "ipa": "/strɒŋ/",
+      "definition": "having a lot of physical power",
+      "example": "You need strong legs to play football.",
+      "uz": "kuchli"
+    },
+    {
+      "word": "healthy",
+      "pos": "adjective",
+      "ipa": "/ˈhɛlθi/",
+      "definition": "well and not sick; good for your body",
+      "example": "Sport helps you stay healthy.",
+      "uz": "sog'lom"
+    },
+    {
+      "word": "tired",
+      "pos": "adjective",
+      "ipa": "/ˈtaɪərd/",
+      "definition": "feeling that you need to rest or sleep",
+      "example": "I was tired after the long race.",
+      "uz": "charchagan"
+    },
+    {
+      "word": "practice",
+      "pos": "verb",
+      "ipa": "/ˈpræktɪs/",
+      "definition": "to do something many times to get better at it",
+      "example": "We practice every Tuesday and Thursday.",
+      "uz": "mashq qilmoq"
+    },
+    {
+      "word": "competition",
+      "pos": "noun",
+      "ipa": "/ˌkɒmpəˈtɪʃən/",
+      "definition": "an event where people try to win",
+      "example": "She joined a swimming competition.",
+      "uz": "musobaqa"
+    },
+    {
+      "word": "goal",
+      "pos": "noun",
+      "ipa": "/goʊl/",
+      "definition": "a point scored in football, or something you want to achieve",
+      "example": "He scored the winning goal.",
+      "uz": "gol"
+    },
+    {
+      "word": "ball",
+      "pos": "noun",
+      "ipa": "/bɔːl/",
+      "definition": "a round object used in many sports",
+      "example": "The children played with a ball in the park.",
+      "uz": "to'p"
+    },
+    {
+      "word": "race",
+      "pos": "noun",
+      "ipa": "/reɪs/",
+      "definition": "a competition to see who is fastest",
+      "example": "He won the running race.",
+      "uz": "poyga"
+    },
+    {
+      "word": "stretch",
+      "pos": "verb",
+      "ipa": "/strɛtʃ/",
+      "definition": "to make your muscles longer before exercise",
+      "example": "Always stretch before you run.",
+      "uz": "cho'zilish qilmoq"
+    }
+  ],
+  "text": "Many people enjoy sports because they help you stay healthy and strong. Every morning, my friend Anna does exercise before she goes to work. She likes to run in the park, and on weekends, she likes to swim at the local pool. Anna also plays for a football team. Last Saturday, her team had an important match against another team from the city. Before the game started, the players did some exercises to stretch their muscles. The coach told them to practice hard and play well together. During the match, Anna's team played very well. In the second half, she scored a goal, and the crowd was very happy. Her team won the match three to one! After the game, Anna felt tired but happy. She said that sport is not only about winning; it is also about having fun with friends. Next month, Anna wants to join a running race in her city. She hopes to enter more competitions this year and become even stronger. Sport makes her feel good every day.",
+  "questions": [
+    {
+      "question": "What did Anna do before work every morning?",
+      "options": [
+        "She watched TV",
+        "She did exercise",
+        "She cooked breakfast",
+        "She read a book"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where did Anna swim on weekends?",
+      "options": [
+        "At the beach",
+        "At her friend's house",
+        "At the local pool",
+        "At the gym"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who did Anna's team play against last Saturday?",
+      "options": [
+        "A team from another country",
+        "A team from the city",
+        "Her own team",
+        "A school team"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the coach tell the players to do?",
+      "options": [
+        "Rest before the game",
+        "Watch other teams play",
+        "Practice hard and play well together",
+        "Buy new shoes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was the final score of the match?",
+      "options": [
+        "Two to two",
+        "One to zero",
+        "Three to one",
+        "Four to two"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does Anna want to do next month?",
+      "options": [
+        "Stop playing football",
+        "Join a running race",
+        "Become a coach",
+        "Move to another city"
+      ],
+      "answer": 1
+    }
+  ]
+}

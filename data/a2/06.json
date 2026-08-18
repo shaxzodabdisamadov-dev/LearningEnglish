@@ -1,0 +1,229 @@
+{
+  "id": 6,
+  "topic": "Shopping and Consumer Habits",
+  "words": [
+    {
+      "word": "purchase",
+      "pos": "noun",
+      "ipa": "/ˈpɜːrtʃəs/",
+      "definition": "the act of buying something.",
+      "example": "She made a purchase online.",
+      "uz": "xarid"
+    },
+    {
+      "word": "receipt",
+      "pos": "noun",
+      "ipa": "/rɪˈsiːt/",
+      "definition": "a piece of paper that shows you paid for something.",
+      "example": "Keep your receipt in case you need to return the item.",
+      "uz": "chek"
+    },
+    {
+      "word": "refund",
+      "pos": "noun",
+      "ipa": "/ˈriːfʌnd/",
+      "definition": "money given back to you when you return something.",
+      "example": "The shop gave me a full refund.",
+      "uz": "pulni qaytarish"
+    },
+    {
+      "word": "discount",
+      "pos": "noun",
+      "ipa": "/ˈdɪskaʊnt/",
+      "definition": "a reduction in the usual price.",
+      "example": "I got a 20% discount on my shoes.",
+      "uz": "chegirma"
+    },
+    {
+      "word": "sale",
+      "pos": "noun",
+      "ipa": "/seɪl/",
+      "definition": "a time when a shop sells things at lower prices.",
+      "example": "There's a big sale at the mall this week.",
+      "uz": "chegirmali sotuv"
+    },
+    {
+      "word": "bargain",
+      "pos": "noun",
+      "ipa": "/ˈbɑːrɡɪn/",
+      "definition": "something that costs less than its usual or real value.",
+      "example": "These shoes were a real bargain.",
+      "uz": "foydali xarid"
+    },
+    {
+      "word": "expensive",
+      "pos": "adjective",
+      "ipa": "/ɪkˈspensɪv/",
+      "definition": "costing a lot of money.",
+      "example": "That restaurant is too expensive for us.",
+      "uz": "qimmat"
+    },
+    {
+      "word": "cheap",
+      "pos": "adjective",
+      "ipa": "/tʃiːp/",
+      "definition": "costing little money.",
+      "example": "This market sells cheap fruit.",
+      "uz": "arzon"
+    },
+    {
+      "word": "budget",
+      "pos": "noun",
+      "ipa": "/ˈbʌdʒɪt/",
+      "definition": "a plan for how much money you can spend.",
+      "example": "We have a small budget for the trip.",
+      "uz": "byudjet"
+    },
+    {
+      "word": "afford",
+      "pos": "verb",
+      "ipa": "/əˈfɔːrd/",
+      "definition": "to have enough money to pay for something.",
+      "example": "I can't afford a new car right now.",
+      "uz": "puli yetmoq"
+    },
+    {
+      "word": "checkout",
+      "pos": "noun",
+      "ipa": "/ˈtʃekaʊt/",
+      "definition": "the place in a shop where you pay for items.",
+      "example": "There was a long line at the checkout.",
+      "uz": "kassa"
+    },
+    {
+      "word": "cash",
+      "pos": "noun",
+      "ipa": "/kæʃ/",
+      "definition": "money in coins and notes.",
+      "example": "I paid in cash.",
+      "uz": "naqd pul"
+    },
+    {
+      "word": "credit card",
+      "pos": "noun",
+      "ipa": "/ˈkredɪt kɑːrd/",
+      "definition": "a plastic card used to buy things and pay later.",
+      "example": "She paid with her credit card.",
+      "uz": "kredit karta"
+    },
+    {
+      "word": "delivery",
+      "pos": "noun",
+      "ipa": "/dɪˈlɪvəri/",
+      "definition": "the act of bringing goods to a person's home or another place.",
+      "example": "We chose free delivery for the order.",
+      "uz": "yetkazib berish"
+    },
+    {
+      "word": "online",
+      "pos": "adverb",
+      "ipa": "/ˌɒnˈlaɪn/",
+      "definition": "connected to the internet.",
+      "example": "Many people shop online now.",
+      "uz": "onlayn"
+    },
+    {
+      "word": "customer",
+      "pos": "noun",
+      "ipa": "/ˈkʌstəmər/",
+      "definition": "a person who buys goods or services.",
+      "example": "The shop always treats its customers well.",
+      "uz": "mijoz"
+    },
+    {
+      "word": "browse",
+      "pos": "verb",
+      "ipa": "/braʊz/",
+      "definition": "to look at things in a shop or on a website without buying immediately.",
+      "example": "I like to browse the shops on Saturday.",
+      "uz": "ko'zdan kechirmoq"
+    },
+    {
+      "word": "try on",
+      "pos": "phrase",
+      "ipa": "/traɪ ɒn/",
+      "definition": "to put on clothes to see if they fit.",
+      "example": "Can I try on this dress?",
+      "uz": "kiyib ko'rmoq"
+    },
+    {
+      "word": "size",
+      "pos": "noun",
+      "ipa": "/saɪz/",
+      "definition": "how big or small something is, especially clothes.",
+      "example": "What size are your shoes?",
+      "uz": "o'lcham"
+    },
+    {
+      "word": "exchange",
+      "pos": "verb",
+      "ipa": "/ɪksˈtʃeɪndʒ/",
+      "definition": "to give back an item and take a different one instead.",
+      "example": "She exchanged the shirt for a bigger size.",
+      "uz": "almashtirmoq"
+    }
+  ],
+  "text": "Last weekend, Karen wanted to make a purchase, so she went shopping for new clothes. She had a small budget, so she wanted to find a good bargain. First, she went online to browse different shops and compare prices before leaving home. At the store, there was a big sale, so many items had a discount. Karen tried on a jacket, but it was too expensive, and she couldn't afford it. She found a cheaper one instead, in a smaller size. At the checkout, she paid with her credit card instead of cash. The customer service worker gave her a receipt and said that if the jacket didn't fit, she could bring it back for an exchange or a refund. Karen also bought some things online for home delivery, because it was more convenient than carrying heavy bags. A week later, she realized the jacket was the wrong size, so she returned it to the store with her receipt. The staff were friendly and gave her money back immediately. Karen was happy because she found some real bargains and stayed within her budget.",
+  "questions": [
+    {
+      "question": "Why did Karen browse online before going to the store?",
+      "options": [
+        "To find a new job",
+        "To compare prices",
+        "To meet friends",
+        "To read reviews of the staff"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why couldn't Karen buy the first jacket she tried on?",
+      "options": [
+        "It was the wrong color",
+        "It was too expensive",
+        "It was out of stock",
+        "It didn't fit at all"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How did Karen pay at the checkout?",
+      "options": [
+        "With cash",
+        "With a credit card",
+        "By bank transfer",
+        "With a gift card"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the shop offer if the jacket didn't fit?",
+      "options": [
+        "Nothing, all sales were final",
+        "A discount on the next purchase",
+        "An exchange or a refund",
+        "A free delivery"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why did Karen buy some things online?",
+      "options": [
+        "They were cheaper online",
+        "Home delivery was more convenient than carrying bags",
+        "The shop was closed",
+        "She wanted a discount"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happened when Karen returned the jacket a week later?",
+      "options": [
+        "She had to pay extra",
+        "She got her money back",
+        "The shop refused the return",
+        "She exchanged it for cash only"
+      ],
+      "answer": 1
+    }
+  ]
+}

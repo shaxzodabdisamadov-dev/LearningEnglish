@@ -1,0 +1,229 @@
+{
+  "id": 9,
+  "topic": "Weather and Natural Events",
+  "words": [
+    {
+      "word": "weather",
+      "pos": "noun",
+      "ipa": "/ˈwɛðər/",
+      "definition": "the condition of the sky and air, such as rain, sun, or wind, at a certain time and place.",
+      "example": "The weather was nice yesterday.",
+      "uz": "ob-havo"
+    },
+    {
+      "word": "sun",
+      "pos": "noun",
+      "ipa": "/sʌn/",
+      "definition": "the very bright star that gives light and heat to the Earth.",
+      "example": "The sun was shining brightly this morning.",
+      "uz": "quyosh"
+    },
+    {
+      "word": "rain",
+      "pos": "noun",
+      "ipa": "/reɪn/",
+      "definition": "water that falls from clouds in small drops.",
+      "example": "We stayed inside because of the rain.",
+      "uz": "yomg'ir"
+    },
+    {
+      "word": "wind",
+      "pos": "noun",
+      "ipa": "/wɪnd/",
+      "definition": "air that moves quickly outside.",
+      "example": "The wind blew the leaves off the trees.",
+      "uz": "shamol"
+    },
+    {
+      "word": "cloud",
+      "pos": "noun",
+      "ipa": "/klaʊd/",
+      "definition": "a white or grey shape in the sky made of small drops of water.",
+      "example": "A big grey cloud covered the sun.",
+      "uz": "bulut"
+    },
+    {
+      "word": "cloudy",
+      "pos": "adjective",
+      "ipa": "/ˈklaʊdi/",
+      "definition": "having a lot of clouds in the sky.",
+      "example": "It was cloudy all morning.",
+      "uz": "bulutli"
+    },
+    {
+      "word": "sunny",
+      "pos": "adjective",
+      "ipa": "/ˈsʌni/",
+      "definition": "having a lot of sunshine.",
+      "example": "It was a sunny day, so we went to the beach.",
+      "uz": "quyoshli"
+    },
+    {
+      "word": "rainy",
+      "pos": "adjective",
+      "ipa": "/ˈreɪni/",
+      "definition": "having a lot of rain.",
+      "example": "I don't like rainy days.",
+      "uz": "yomg'irli"
+    },
+    {
+      "word": "windy",
+      "pos": "adjective",
+      "ipa": "/ˈwɪndi/",
+      "definition": "having a lot of wind.",
+      "example": "It was too windy to fly a kite.",
+      "uz": "shamolli"
+    },
+    {
+      "word": "storm",
+      "pos": "noun",
+      "ipa": "/stɔːrm/",
+      "definition": "very bad weather with strong wind and heavy rain.",
+      "example": "A storm broke three windows in our street.",
+      "uz": "bo'ron"
+    },
+    {
+      "word": "snow",
+      "pos": "noun",
+      "ipa": "/snoʊ/",
+      "definition": "soft white pieces of ice that fall from the sky in cold weather.",
+      "example": "The children played in the snow.",
+      "uz": "qor"
+    },
+    {
+      "word": "temperature",
+      "pos": "noun",
+      "ipa": "/ˈtɛmprətʃər/",
+      "definition": "a measurement of how hot or cold something is.",
+      "example": "The temperature dropped at night.",
+      "uz": "harorat"
+    },
+    {
+      "word": "cold",
+      "pos": "adjective",
+      "ipa": "/koʊld/",
+      "definition": "having a low temperature.",
+      "example": "It's very cold outside today.",
+      "uz": "sovuq"
+    },
+    {
+      "word": "hot",
+      "pos": "adjective",
+      "ipa": "/hɒt/",
+      "definition": "having a high temperature.",
+      "example": "It was too hot to walk outside.",
+      "uz": "issiq"
+    },
+    {
+      "word": "warm",
+      "pos": "adjective",
+      "ipa": "/wɔːrm/",
+      "definition": "having a comfortable temperature, not cold.",
+      "example": "Wear a warm coat in winter.",
+      "uz": "iliq"
+    },
+    {
+      "word": "cool",
+      "pos": "adjective",
+      "ipa": "/kuːl/",
+      "definition": "a little cold, in a pleasant way.",
+      "example": "The evening air felt cool.",
+      "uz": "salqin"
+    },
+    {
+      "word": "forecast",
+      "pos": "noun",
+      "ipa": "/ˈfɔːrkæst/",
+      "definition": "a statement about what the weather will be like in the future.",
+      "example": "The forecast says it will rain tomorrow.",
+      "uz": "ob-havo bashorati"
+    },
+    {
+      "word": "flood",
+      "pos": "noun",
+      "ipa": "/flʌd/",
+      "definition": "a large amount of water covering land that is usually dry.",
+      "example": "Heavy rain caused a flood in the town.",
+      "uz": "suv toshqini"
+    },
+    {
+      "word": "thunder",
+      "pos": "noun",
+      "ipa": "/ˈθʌndər/",
+      "definition": "the loud noise that comes after lightning during a storm.",
+      "example": "We heard thunder during the storm.",
+      "uz": "momaqaldiroq"
+    },
+    {
+      "word": "umbrella",
+      "pos": "noun",
+      "ipa": "/ʌmˈbrɛlə/",
+      "definition": "a thing you hold over your head to stay dry in the rain.",
+      "example": "Take your umbrella, it might rain.",
+      "uz": "soyabon"
+    }
+  ],
+  "text": "Last weekend, the weather changed very quickly in our town. On Saturday morning, the sky was clear and sunny, so my family decided to go for a walk by the lake. The sun felt warm on our faces, and the temperature was about twenty-five degrees. But in the afternoon, dark clouds appeared and the sky became very cloudy. The forecast on the radio said a storm was coming, so we hurried home. Soon the wind grew strong and it became windy outside. We heard thunder in the distance, and then the rain started. It was a very rainy evening! We stayed inside, warm and dry, and watched from the window. My little brother was worried because the streets began to fill with water, almost like a flood. Luckily, the storm didn't last long. By Sunday, the air felt cool and fresh, and the sky was blue again. When we went out, I remembered to take an umbrella just in case, but we didn't need it. The cold weather at night reminded us that autumn was coming soon.",
+  "questions": [
+    {
+      "question": "What was the weather like on Saturday morning?",
+      "options": [
+        "Cold and snowy",
+        "Clear and sunny",
+        "Rainy and windy",
+        "Very cloudy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the family do on Saturday morning?",
+      "options": [
+        "Went for a walk by the lake",
+        "Went shopping",
+        "Stayed home all day",
+        "Went to school"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why did the family hurry home in the afternoon?",
+      "options": [
+        "Because it was getting dark",
+        "Because the forecast said a storm was coming",
+        "Because they were hungry",
+        "Because school started"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What worried the little brother?",
+      "options": [
+        "The thunder was too loud",
+        "The streets began to fill with water",
+        "He lost his umbrella",
+        "The sun was too hot"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was the weather like on Sunday?",
+      "options": [
+        "Stormy and dark",
+        "Hot and humid",
+        "Cool and the sky was blue",
+        "Snowy and cold"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Did the family need the umbrella on Sunday?",
+      "options": [
+        "Yes, it rained all day",
+        "No, they didn't need it",
+        "They forgot to bring it",
+        "They lost it in the storm"
+      ],
+      "answer": 1
+    }
+  ]
+}

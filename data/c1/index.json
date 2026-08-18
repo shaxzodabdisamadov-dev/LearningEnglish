@@ -1,0 +1,188 @@
+{
+  "level": "c1",
+  "sections": [
+    {
+      "id": 1,
+      "topic": "Existential Reflection and Meaning",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 2,
+      "topic": "Nuanced Argumentation and Rhetoric",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 3,
+      "topic": "Cognitive Biases and Decision-Making",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 4,
+      "topic": "Advanced Academic Writing and Research",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 5,
+      "topic": "Organizational Strategy and Change Management",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 6,
+      "topic": "Corporate Governance and Accountability",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 7,
+      "topic": "Urban Resilience and Infrastructure Policy",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 8,
+      "topic": "Global Food Systems and Sustainability",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 9,
+      "topic": "Behavioral Economics and Consumer Psychology",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 10,
+      "topic": "Bioethics and Emerging Medical Technologies",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 11,
+      "topic": "Neuroscience and the Brain",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 12,
+      "topic": "Migration, Belonging, and Identity Politics",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 13,
+      "topic": "Diplomacy, Power, and Global Order",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 14,
+      "topic": "Environmental Economics and Policy Trade-offs",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 15,
+      "topic": "Quantum Computing and Emerging Technology",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 16,
+      "topic": "Genetic Engineering and Societal Implications",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 17,
+      "topic": "Cybersecurity, Surveillance, and Civil Liberties",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 18,
+      "topic": "Journalism, Propaganda, and Public Discourse",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 19,
+      "topic": "Constitutional Law and Civil Rights",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 20,
+      "topic": "Political Theory and Governance Models",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 21,
+      "topic": "Macroeconomics and Monetary Policy",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 22,
+      "topic": "Patents, Innovation Economics, and Monopoly",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 23,
+      "topic": "Epistemology and the Philosophy of Science",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 24,
+      "topic": "Aesthetics and the Sociology of Art",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 25,
+      "topic": "Narrative Theory and Postmodern Literature",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 26,
+      "topic": "Exercise Physiology and Human Performance",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 27,
+      "topic": "Social Justice and Structural Inequality",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 28,
+      "topic": "Climate Adaptation and Global Governance",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 29,
+      "topic": "The Future of Labor and Post-Automation Economy",
+      "wordCount": 20,
+      "questionCount": 6
+    },
+    {
+      "id": 30,
+      "topic": "Linguistics, Language Evolution, and Communication",
+      "wordCount": 20,
+      "questionCount": 6
+    }
+  ],
+  "test": {
+    "questionCount": 30
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "id": 13,
+  "topic": "Education and School Life",
+  "words": [
+    {
+      "word": "school",
+      "pos": "noun",
+      "ipa": "/skuːl/",
+      "definition": "a place where children go to learn.",
+      "example": "My children go to school every day.",
+      "uz": "maktab"
+    },
+    {
+      "word": "student",
+      "pos": "noun",
+      "ipa": "/ˈstuːdənt/",
+      "definition": "a person who is studying at a school or university.",
+      "example": "She is a good student.",
+      "uz": "o'quvchi"
+    },
+    {
+      "word": "teacher",
+      "pos": "noun",
+      "ipa": "/ˈtiːtʃər/",
+      "definition": "a person who helps others learn, usually in a school.",
+      "example": "Our teacher explained the lesson clearly.",
+      "uz": "o'qituvchi"
+    },
+    {
+      "word": "classroom",
+      "pos": "noun",
+      "ipa": "/ˈklæsruːm/",
+      "definition": "a room where lessons are taught.",
+      "example": "The classroom was full of students.",
+      "uz": "sinf xonasi"
+    },
+    {
+      "word": "lesson",
+      "pos": "noun",
+      "ipa": "/ˈlɛsən/",
+      "definition": "a period of time when you learn something.",
+      "example": "We had a maths lesson this morning.",
+      "uz": "dars"
+    },
+    {
+      "word": "homework",
+      "pos": "noun",
+      "ipa": "/ˈhoʊmwɜːrk/",
+      "definition": "schoolwork that a student does at home.",
+      "example": "I finished my homework before dinner.",
+      "uz": "uy vazifasi"
+    },
+    {
+      "word": "exam",
+      "pos": "noun",
+      "ipa": "/ɪɡˈzæm/",
+      "definition": "a formal test of knowledge or skill.",
+      "example": "She studied hard for her exam.",
+      "uz": "imtihon"
+    },
+    {
+      "word": "grade",
+      "pos": "noun",
+      "ipa": "/ɡreɪd/",
+      "definition": "a mark or score that shows how well you did.",
+      "example": "He got a good grade in English.",
+      "uz": "baho"
+    },
+    {
+      "word": "subject",
+      "pos": "noun",
+      "ipa": "/ˈsʌbdʒɪkt/",
+      "definition": "an area of knowledge studied at school, like math or history.",
+      "example": "My favorite subject is science.",
+      "uz": "fan"
+    },
+    {
+      "word": "university",
+      "pos": "noun",
+      "ipa": "/ˌjuːnɪˈvɜːrsəti/",
+      "definition": "a place where students study after high school for a degree.",
+      "example": "She wants to study medicine at university.",
+      "uz": "universitet"
+    },
+    {
+      "word": "library",
+      "pos": "noun",
+      "ipa": "/ˈlaɪbrɛri/",
+      "definition": "a place with many books that people can read or borrow.",
+      "example": "I borrowed a book from the library.",
+      "uz": "kutubxona"
+    },
+    {
+      "word": "textbook",
+      "pos": "noun",
+      "ipa": "/ˈtɛkstbʊk/",
+      "definition": "a book used to study a school subject.",
+      "example": "Open your textbook to page ten.",
+      "uz": "darslik"
+    },
+    {
+      "word": "degree",
+      "pos": "noun",
+      "ipa": "/dɪˈɡriː/",
+      "definition": "a qualification given by a university after a course of study.",
+      "example": "He has a degree in economics.",
+      "uz": "diplom"
+    },
+    {
+      "word": "graduate",
+      "pos": "verb",
+      "ipa": "/ˈɡrædʒueɪt/",
+      "definition": "to finish a course of study successfully.",
+      "example": "She will graduate from university next year.",
+      "uz": "bitirmoq"
+    },
+    {
+      "word": "skill",
+      "pos": "noun",
+      "ipa": "/skɪl/",
+      "definition": "the ability to do something well, learned through practice.",
+      "example": "Reading is an important skill.",
+      "uz": "ko'nikma"
+    },
+    {
+      "word": "knowledge",
+      "pos": "noun",
+      "ipa": "/ˈnɒlɪdʒ/",
+      "definition": "information and understanding that a person has.",
+      "example": "Teachers share their knowledge with students.",
+      "uz": "bilim"
+    },
+    {
+      "word": "course",
+      "pos": "noun",
+      "ipa": "/kɔːrs/",
+      "definition": "a series of lessons about a particular subject.",
+      "example": "I signed up for an English course.",
+      "uz": "kurs"
+    },
+    {
+      "word": "classmate",
+      "pos": "noun",
+      "ipa": "/ˈklæsmeɪt/",
+      "definition": "a person who is in the same class as you.",
+      "example": "My classmate helped me with the homework.",
+      "uz": "sinfdosh"
+    },
+    {
+      "word": "absent",
+      "pos": "adjective",
+      "ipa": "/ˈæbsənt/",
+      "definition": "not present, missing from a place.",
+      "example": "He was absent from school yesterday.",
+      "uz": "darsga kelmagan"
+    },
+    {
+      "word": "education",
+      "pos": "noun",
+      "ipa": "/ˌɛdʒʊˈkeɪʃən/",
+      "definition": "the process of teaching and learning, especially in schools.",
+      "example": "Education is important for a good future.",
+      "uz": "ta'lim"
+    }
+  ],
+  "text": "When I was young, I loved going to school every day. My favorite teacher taught science, and I always looked forward to her lessons. Our classroom was small, but it had a big window and lots of books. Every week, we got homework from different subjects like math, history, and English. Before big exams, I studied at the library because it was quiet and had many useful textbooks. My best friend was my classmate, and we always helped each other with difficult lessons. If someone was absent from school, we shared our notes with them later. I worked hard on my education because I wanted to graduate with good grades and go to university. Getting a degree wasn't easy, but I learned many new skills and gained a lot of knowledge along the way. After finishing my course at university, I finally graduated. Now, when I look back, I understand that education gave me more than just knowledge. It taught me how to work with other people and solve problems. I believe that a good education is one of the most important things in life.",
+  "questions": [
+    {
+      "question": "What was the writer's favorite subject at school?",
+      "options": [
+        "Math",
+        "Science",
+        "History",
+        "English"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where did the writer study before big exams?",
+      "options": [
+        "At home",
+        "At a friend's house",
+        "At the library",
+        "In the classroom after class"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did students do if a classmate was absent?",
+      "options": [
+        "They ignored them",
+        "They shared notes with them later",
+        "They told the teacher",
+        "They visited the principal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the writer want to do after school?",
+      "options": [
+        "Start working immediately",
+        "Travel around the world",
+        "Graduate with good grades and go to university",
+        "Stay home and study alone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the text, what did education give the writer besides knowledge?",
+      "options": [
+        "Money and fame",
+        "The ability to work with others and solve problems",
+        "A new house",
+        "Free books"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the writer describe education at the end of the text?",
+      "options": [
+        "Unimportant",
+        "Boring but necessary",
+        "One of the most important things in life",
+        "Only useful for exams"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 22,
+  "topic": "Entrepreneurship and Startups",
+  "words": [
+    {
+      "word": "entrepreneur",
+      "pos": "noun",
+      "ipa": "/ˌɒntrəprəˈnɜːr/",
+      "definition": "A person who starts and runs their own business, often taking financial risks.",
+      "example": "The young entrepreneur launched her own clothing brand.",
+      "uz": "tadbirkor"
+    },
+    {
+      "word": "startup",
+      "pos": "noun",
+      "ipa": "/ˈstɑːrtʌp/",
+      "definition": "A newly established business, especially in the technology sector.",
+      "example": "The startup received funding from investors.",
+      "uz": "startap"
+    },
+    {
+      "word": "investor",
+      "pos": "noun",
+      "ipa": "/ɪnˈvestər/",
+      "definition": "A person or organization that puts money into a business hoping to gain a profit.",
+      "example": "Investors were impressed by the company's growth.",
+      "uz": "investor"
+    },
+    {
+      "word": "funding",
+      "pos": "noun",
+      "ipa": "/ˈfʌndɪŋ/",
+      "definition": "Money provided for a particular purpose, especially to start or run a business.",
+      "example": "The company is seeking funding to expand.",
+      "uz": "moliyalashtirish"
+    },
+    {
+      "word": "launch",
+      "pos": "verb",
+      "ipa": "/lɔːntʃ/",
+      "definition": "To introduce a new product or start a new business or project.",
+      "example": "They plan to launch the app next month.",
+      "uz": "ishga tushirmoq"
+    },
+    {
+      "word": "risk",
+      "pos": "noun",
+      "ipa": "/rɪsk/",
+      "definition": "The possibility of loss, failure, or danger.",
+      "example": "Starting a business always involves some risk.",
+      "uz": "xavf-xatar"
+    },
+    {
+      "word": "profit",
+      "pos": "noun",
+      "ipa": "/ˈprɒfɪt/",
+      "definition": "The money gained after costs are subtracted from income.",
+      "example": "The company made a large profit last year.",
+      "uz": "foyda"
+    },
+    {
+      "word": "loss",
+      "pos": "noun",
+      "ipa": "/lɔːs/",
+      "definition": "Money that is lost when spending is greater than income.",
+      "example": "The business reported a loss in its first year.",
+      "uz": "zarar"
+    },
+    {
+      "word": "venture",
+      "pos": "noun",
+      "ipa": "/ˈventʃər/",
+      "definition": "A new business project, especially one that involves risk.",
+      "example": "This new venture could make him very rich, or leave him with nothing.",
+      "uz": "tavakkalchilik loyihasi"
+    },
+    {
+      "word": "innovative",
+      "pos": "adjective",
+      "ipa": "/ˈɪnəveɪtɪv/",
+      "definition": "Using new ideas or methods.",
+      "example": "The startup's innovative product changed the market.",
+      "uz": "innovatsion"
+    },
+    {
+      "word": "competitor",
+      "pos": "noun",
+      "ipa": "/kəmˈpetɪtər/",
+      "definition": "A person or company competing against others in business.",
+      "example": "The company faces strong competition from new competitors.",
+      "uz": "raqib"
+    },
+    {
+      "word": "market",
+      "pos": "noun",
+      "ipa": "/ˈmɑːrkɪt/",
+      "definition": "The group of people who might buy a product, or the system of buying and selling.",
+      "example": "The company studied the market before launching its product.",
+      "uz": "bozor"
+    },
+    {
+      "word": "brand",
+      "pos": "noun",
+      "ipa": "/brænd/",
+      "definition": "The name, design, or reputation that identifies a company's products.",
+      "example": "They built a strong brand in just two years.",
+      "uz": "brend"
+    },
+    {
+      "word": "budget",
+      "pos": "noun",
+      "ipa": "/ˈbʌdʒɪt/",
+      "definition": "A plan for how money will be earned and spent over a period of time.",
+      "example": "The team worked with a very limited budget.",
+      "uz": "byudjet"
+    },
+    {
+      "word": "scale",
+      "pos": "verb",
+      "ipa": "/skeɪl/",
+      "definition": "To increase the size or amount of something, especially a business.",
+      "example": "The company struggled to scale its operations quickly.",
+      "uz": "kengaytirmoq"
+    },
+    {
+      "word": "failure",
+      "pos": "noun",
+      "ipa": "/ˈfeɪljər/",
+      "definition": "A lack of success.",
+      "example": "Many entrepreneurs learn from failure before they succeed.",
+      "uz": "muvaffaqiyatsizlik"
+    },
+    {
+      "word": "succeed",
+      "pos": "verb",
+      "ipa": "/səkˈsiːd/",
+      "definition": "To achieve a goal or become successful.",
+      "example": "Few startups succeed in their first year.",
+      "uz": "muvaffaqiyat qozonmoq"
+    },
+    {
+      "word": "idea",
+      "pos": "noun",
+      "ipa": "/aɪˈdiːə/",
+      "definition": "A plan or thought, especially a new one.",
+      "example": "His business idea attracted a lot of attention.",
+      "uz": "g'oya"
+    },
+    {
+      "word": "pitch",
+      "pos": "verb",
+      "ipa": "/pɪtʃ/",
+      "definition": "To present an idea, especially to investors, in order to persuade them.",
+      "example": "She had to pitch her idea to a room full of investors.",
+      "uz": "taqdim etmoq"
+    },
+    {
+      "word": "resources",
+      "pos": "noun",
+      "ipa": "/rɪˈsɔːrsɪz/",
+      "definition": "The money, time, staff, or materials available for a task.",
+      "example": "Small startups often have limited resources compared to large companies.",
+      "uz": "resurslar"
+    }
+  ],
+  "text": "Starting a new business is exciting, but it is rarely easy. An entrepreneur usually begins with a single idea and must find a way to turn it into a real product or service. Before they launch a startup, most founders need funding, which often comes from an investor who believes in the idea and expects a share of future profit in return. However, every venture involves risk: while some businesses grow quickly and succeed, others run out of money and end in failure. To attract funding, entrepreneurs often pitch their idea to investors, explaining how it is innovative and different from existing competitors in the market. A clear budget is essential because resources are usually limited in the early stages, and even a small loss can be dangerous for a new company. If a startup manages to build a strong brand and a loyal group of customers, it may be able to scale its operations and expand into new markets. Although many startups fail within the first few years, those that survive often say that learning from early mistakes was more valuable than any business course.",
+  "questions": [
+    {
+      "question": "What does an entrepreneur usually begin with, according to the passage?",
+      "options": [
+        "A large budget",
+        "A single idea",
+        "A team of competitors",
+        "A government grant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do most founders need before they launch a startup?",
+      "options": [
+        "A famous brand",
+        "Funding",
+        "A large office",
+        "Many competitors"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, what does every business venture involve?",
+      "options": [
+        "Guaranteed profit",
+        "Risk",
+        "No possibility of failure",
+        "Free resources"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why do entrepreneurs pitch their idea to investors?",
+      "options": [
+        "To increase government tax",
+        "To attract funding by explaining how the idea is innovative",
+        "To avoid making a budget",
+        "To reduce their resources"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is a clear budget essential for a new company, according to the passage?",
+      "options": [
+        "Because resources are usually limited in the early stages",
+        "Because investors require it by law",
+        "Because it guarantees success",
+        "Because it prevents scaling"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What do startups that survive often say, according to the text?",
+      "options": [
+        "Learning from early mistakes was more valuable than any business course",
+        "Money is the only thing that matters",
+        "Investors are unnecessary",
+        "Failure should be avoided at all costs"
+      ],
+      "answer": 0
+    }
+  ]
+}

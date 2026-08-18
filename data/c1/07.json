@@ -1,0 +1,229 @@
+{
+  "id": 7,
+  "topic": "Urban Resilience and Infrastructure Policy",
+  "words": [
+    {
+      "word": "infrastructure",
+      "pos": "noun",
+      "ipa": "/ˈɪnfrəstrʌktʃər/",
+      "definition": "the basic physical systems and structures needed for a society or enterprise to function, such as roads and utilities",
+      "example": "The storm exposed how fragile the city's aging infrastructure had become.",
+      "uz": "infratuzilma"
+    },
+    {
+      "word": "resilient",
+      "pos": "adjective",
+      "ipa": "/rɪˈzɪliənt/",
+      "definition": "able to withstand or recover quickly from difficult conditions or disruptions",
+      "example": "Planners argued that a genuinely resilient city must be able to absorb shocks without collapsing entirely.",
+      "uz": "bardoshli, chidamli"
+    },
+    {
+      "word": "densification",
+      "pos": "noun",
+      "ipa": "/ˌdɛnsɪfɪˈkeɪʃən/",
+      "definition": "the process of increasing the density of population or buildings within a given urban area",
+      "example": "Proponents of densification argue it reduces per-capita infrastructure costs compared to low-density sprawl.",
+      "uz": "zichlashtirish"
+    },
+    {
+      "word": "sprawl",
+      "pos": "noun",
+      "ipa": "/sprɔːl/",
+      "definition": "the uncontrolled or unplanned expansion of urban areas into surrounding, often undeveloped, land",
+      "example": "Decades of suburban sprawl left the region dependent on cars for even the shortest trips.",
+      "uz": "shaharning tartibsiz kengayishi"
+    },
+    {
+      "word": "retrofit",
+      "pos": "verb",
+      "ipa": "/ˈrɛtrəʊfɪt/",
+      "definition": "to add new technology, features, or improvements to an older structure or system",
+      "example": "The city allocated funds to retrofit older buildings with more efficient heating systems.",
+      "uz": "eski tizimni qayta jihozlamoq"
+    },
+    {
+      "word": "dilapidated",
+      "pos": "adjective",
+      "ipa": "/dɪˈlæpɪdeɪtɪd/",
+      "definition": "in a state of disrepair or ruin, especially through age or neglect",
+      "example": "The dilapidated bridge had not undergone a major inspection in over two decades.",
+      "uz": "vayron bo'lgan, yemirilgan"
+    },
+    {
+      "word": "gentrification",
+      "pos": "noun",
+      "ipa": "/ˌdʒɛntrɪfɪˈkeɪʃən/",
+      "definition": "the process by which a neighborhood is renovated and upgraded, often resulting in the displacement of lower-income residents",
+      "example": "Rapid gentrification transformed the neighborhood's character within less than a decade.",
+      "uz": "jentrifikatsiya (mahallani yangilash)"
+    },
+    {
+      "word": "alleviate",
+      "pos": "verb",
+      "ipa": "/əˈliːvieɪt/",
+      "definition": "to make a problem, burden, or suffering less severe",
+      "example": "New bus routes were introduced to alleviate congestion during peak commuting hours.",
+      "uz": "yengillashtirmoq"
+    },
+    {
+      "word": "displacement",
+      "pos": "noun",
+      "ipa": "/dɪsˈpleɪsmənt/",
+      "definition": "the forced movement of people from their homes or communities, often due to economic or environmental pressures",
+      "example": "Rising rents contributed directly to the displacement of longtime residents.",
+      "uz": "aholining majburiy ko'chirilishi"
+    },
+    {
+      "word": "municipal",
+      "pos": "adjective",
+      "ipa": "/mjuːˈnɪsɪpəl/",
+      "definition": "relating to a city or town, or to its local government",
+      "example": "Municipal authorities were slow to approve funding for the transit expansion.",
+      "uz": "shahar hokimiyatiga oid"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adjective",
+      "ipa": "/səˈsteɪnəbəl/",
+      "definition": "able to be maintained over the long term without depleting resources or causing lasting harm",
+      "example": "The plan promised a more sustainable model of urban growth than the sprawling developments of the past.",
+      "uz": "barqaror"
+    },
+    {
+      "word": "exacerbate",
+      "pos": "verb",
+      "ipa": "/ɪɡˈzæsərbeɪt/",
+      "definition": "to make a problem, situation, or feeling worse",
+      "example": "Poorly planned development can exacerbate flooding by paving over natural drainage areas.",
+      "uz": "yomonlashtirmoq, kuchaytirmoq"
+    },
+    {
+      "word": "vulnerable",
+      "pos": "adjective",
+      "ipa": "/ˈvʌlnərəbəl/",
+      "definition": "susceptible to being harmed, whether physically, economically, or socially",
+      "example": "Low-income neighborhoods are often the most vulnerable to the effects of extreme heat.",
+      "uz": "himoyasiz, zaif"
+    },
+    {
+      "word": "equitable",
+      "pos": "adjective",
+      "ipa": "/ˈɛkwɪtəbəl/",
+      "definition": "fair and impartial, ensuring that benefits and burdens are distributed justly",
+      "example": "The commission called for a more equitable distribution of public investment across the city's districts.",
+      "uz": "adolatli"
+    },
+    {
+      "word": "zoning",
+      "pos": "noun",
+      "ipa": "/ˈzəʊnɪŋ/",
+      "definition": "the division of land into areas designated for specific types of use, regulated by local government",
+      "example": "Strict zoning rules prevented mixed-use development in much of the suburb.",
+      "uz": "hududlarni maqsadga ko'ra zonalarga bo'lish"
+    },
+    {
+      "word": "obsolescence",
+      "pos": "noun",
+      "ipa": "/ˌɒbsəˈlɛsəns/",
+      "definition": "the process of becoming outdated, obsolete, or no longer in use",
+      "example": "Without regular maintenance, even well-built infrastructure eventually falls victim to obsolescence.",
+      "uz": "eskirib qolish"
+    },
+    {
+      "word": "piecemeal",
+      "pos": "adjective",
+      "ipa": "/ˈpiːsmiːl/",
+      "definition": "done in an uncoordinated, gradual manner rather than as a single coherent plan",
+      "example": "The city's piecemeal approach to flood defense left several districts inadequately protected.",
+      "uz": "tizimsiz, bo'lak-bo'lak qilingan"
+    },
+    {
+      "word": "adaptive",
+      "pos": "adjective",
+      "ipa": "/əˈdæptɪv/",
+      "definition": "capable of adjusting effectively to new or changing conditions",
+      "example": "Engineers designed an adaptive water system capable of responding to both droughts and floods.",
+      "uz": "moslashuvchan"
+    },
+    {
+      "word": "underinvestment",
+      "pos": "noun",
+      "ipa": "/ˌʌndərɪnˈvɛstmənt/",
+      "definition": "the allocation of insufficient funds or resources to something, relative to what is needed",
+      "example": "Chronic underinvestment left the rail network unable to handle rising passenger demand.",
+      "uz": "yetarli mablag' ajratmaslik"
+    },
+    {
+      "word": "footprint",
+      "pos": "noun",
+      "ipa": "/ˈfʊtprɪnt/",
+      "definition": "the total impact, especially environmental, that an activity, structure, or organization has",
+      "example": "The redesigned building significantly reduced the district's overall carbon footprint.",
+      "uz": "ekologik ta'sir izi"
+    }
+  ],
+  "text": "Cities confronting climate change face a paradox: the very infrastructure meant to sustain daily life—aging bridges, dilapidated water systems, overburdened transit networks—is often the least equipped to withstand the stresses that a warming climate will impose. Decades of underinvestment, compounded by piecemeal municipal planning rather than a coherent, adaptive strategy, have left many urban systems perilously exposed. Retrofitting existing infrastructure is frequently more cost-effective than wholesale reconstruction, yet political incentives tend to favor visible new projects over the unglamorous work of reinforcing what already exists, allowing gradual obsolescence to go unaddressed until crisis forces the issue. Densification, often proposed as a sustainable alternative to suburban sprawl, carries its own risks: without careful zoning policy, increased density can exacerbate displacement, accelerating gentrification and disproportionately burdening the very communities—typically lower-income and already vulnerable—that resilient infrastructure initiatives claim to protect. An equitable approach to urban policy, then, cannot treat infrastructure and social welfare as separate concerns; a smaller carbon footprint achieved by displacing longtime residents to peripheral, underserved areas is a hollow victory. Genuine adaptation requires policymakers to alleviate the compounding pressures of climate risk and inequality simultaneously, rather than solving one while quietly worsening the other.",
+  "questions": [
+    {
+      "question": "What paradox does the author identify regarding urban infrastructure and climate change?",
+      "options": [
+        "Infrastructure built to support daily life is often the least equipped to withstand climate-related stresses",
+        "Cities are said to have no infrastructure problems related to climate change",
+        "Retrofitting is claimed to always be more expensive than full reconstruction",
+        "Municipal planning is described as always coherent and adaptive"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why does the author suggest that retrofitting is politically undervalued despite being cost-effective?",
+      "options": [
+        "Because retrofitting is illegal in most municipalities",
+        "Because political incentives favor visible new projects over unglamorous maintenance work",
+        "Because retrofitting is said to always cause gentrification",
+        "Because retrofitting requires no municipal planning at all"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What risk does the passage associate with densification when pursued without careful zoning policy?",
+      "options": [
+        "It always reduces carbon footprints with no downside",
+        "It can exacerbate displacement and accelerate gentrification, burdening vulnerable communities",
+        "It is said to eliminate the need for equitable policy",
+        "It has no relationship to social policy according to the passage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the author mean by calling a smaller carbon footprint achieved through displacement a \"hollow victory\"?",
+      "options": [
+        "Carbon reduction is described as always meaningless",
+        "Environmental gains achieved at the cost of displacing vulnerable residents are not a genuine success",
+        "Displacement is said to never affect carbon footprints",
+        "The phrase refers specifically to municipal underinvestment"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what does \"genuine adaptation\" require of policymakers?",
+      "options": [
+        "Focusing exclusively on climate risk while ignoring inequality",
+        "Addressing climate risk and inequality simultaneously rather than trading one off against the other",
+        "Prioritizing new construction over retrofitting existing infrastructure",
+        "Avoiding zoning policy altogether"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's implicit stance on treating infrastructure policy as separate from social policy?",
+      "options": [
+        "Fully supportive, treating them as unrelated domains",
+        "Critical, arguing the two must be addressed together for equitable outcomes",
+        "Indifferent, expressing no clear view either way",
+        "Supportive only in cases involving gentrification"
+      ],
+      "answer": 1
+    }
+  ]
+}

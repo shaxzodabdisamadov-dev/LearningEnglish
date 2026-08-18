@@ -1,0 +1,229 @@
+{
+  "id": 21,
+  "topic": "Communication and Greetings",
+  "words": [
+    {
+      "word": "hello",
+      "pos": "phrase",
+      "ipa": "/həˈloʊ/",
+      "definition": "a word you say when you meet someone or answer the phone",
+      "example": "Hello! How are you today?",
+      "uz": "salom"
+    },
+    {
+      "word": "goodbye",
+      "pos": "phrase",
+      "ipa": "/ɡʊdˈbaɪ/",
+      "definition": "a word you say when you leave someone",
+      "example": "Goodbye, see you tomorrow!",
+      "uz": "xayr"
+    },
+    {
+      "word": "please",
+      "pos": "adverb",
+      "ipa": "/pliːz/",
+      "definition": "a polite word you use when you ask for something",
+      "example": "Can you help me, please?",
+      "uz": "iltimos"
+    },
+    {
+      "word": "thanks",
+      "pos": "phrase",
+      "ipa": "/θæŋks/",
+      "definition": "a short way to say thank you",
+      "example": "Thanks for your help today.",
+      "uz": "rahmat"
+    },
+    {
+      "word": "sorry",
+      "pos": "adjective",
+      "ipa": "/ˈsɒri/",
+      "definition": "a word you say when you feel bad about something you did",
+      "example": "I am sorry I am late.",
+      "uz": "kechirasiz"
+    },
+    {
+      "word": "name",
+      "pos": "noun",
+      "ipa": "/neɪm/",
+      "definition": "the word that people use to call you",
+      "example": "My name is Aziza.",
+      "uz": "ism"
+    },
+    {
+      "word": "meet",
+      "pos": "verb",
+      "ipa": "/miːt/",
+      "definition": "to see and speak to someone for the first time",
+      "example": "Nice to meet you.",
+      "uz": "tanishmoq"
+    },
+    {
+      "word": "talk",
+      "pos": "verb",
+      "ipa": "/tɔːk/",
+      "definition": "to say words to another person",
+      "example": "We talked for an hour.",
+      "uz": "gaplashmoq"
+    },
+    {
+      "word": "speak",
+      "pos": "verb",
+      "ipa": "/spiːk/",
+      "definition": "to use words to say something",
+      "example": "Can you speak more slowly, please?",
+      "uz": "gapirmoq"
+    },
+    {
+      "word": "listen",
+      "pos": "verb",
+      "ipa": "/ˈlɪsən/",
+      "definition": "to pay attention to sound with your ears",
+      "example": "Please listen carefully to the teacher.",
+      "uz": "tinglamoq"
+    },
+    {
+      "word": "ask",
+      "pos": "verb",
+      "ipa": "/ɑːsk/",
+      "definition": "to say something to someone because you want information",
+      "example": "He asked me a question.",
+      "uz": "so'ramoq"
+    },
+    {
+      "word": "answer",
+      "pos": "verb",
+      "ipa": "/ˈɑːnsər/",
+      "definition": "to say or write something back to a question",
+      "example": "I tried to answer his question.",
+      "uz": "javob bermoq"
+    },
+    {
+      "word": "smile",
+      "pos": "verb",
+      "ipa": "/smaɪl/",
+      "definition": "to move your mouth to show you are happy",
+      "example": "She smiled when she saw me.",
+      "uz": "tabassum qilmoq"
+    },
+    {
+      "word": "friendly",
+      "pos": "adjective",
+      "ipa": "/ˈfrendli/",
+      "definition": "kind and pleasant to other people",
+      "example": "Everyone at the office is friendly.",
+      "uz": "samimiy"
+    },
+    {
+      "word": "introduce",
+      "pos": "verb",
+      "ipa": "/ˌɪntrəˈdjuːs/",
+      "definition": "to tell someone another person's name for the first time",
+      "example": "Let me introduce myself.",
+      "uz": "tanishtirmoq"
+    },
+    {
+      "word": "shake hands",
+      "pos": "phrase",
+      "ipa": "/ʃeɪk hændz/",
+      "definition": "to hold someone's hand and move it up and down as a greeting",
+      "example": "They shook hands and smiled.",
+      "uz": "qo'l siqmoq"
+    },
+    {
+      "word": "welcome",
+      "pos": "phrase",
+      "ipa": "/ˈwelkəm/",
+      "definition": "a friendly word you say to someone who arrives",
+      "example": "Welcome to our home!",
+      "uz": "xush kelibsiz"
+    },
+    {
+      "word": "conversation",
+      "pos": "noun",
+      "ipa": "/ˌkɒnvəˈseɪʃən/",
+      "definition": "a talk between two or more people",
+      "example": "We had a short conversation about school.",
+      "uz": "suhbat"
+    },
+    {
+      "word": "voice",
+      "pos": "noun",
+      "ipa": "/vɔɪs/",
+      "definition": "the sound that comes from your mouth when you speak",
+      "example": "She has a soft voice.",
+      "uz": "ovoz"
+    },
+    {
+      "word": "understand",
+      "pos": "verb",
+      "ipa": "/ˌʌndərˈstænd/",
+      "definition": "to know the meaning of something",
+      "example": "I did not understand the question.",
+      "uz": "tushunmoq"
+    }
+  ],
+  "text": "On my first day at work, I felt nervous. When I walked in, a man said, 'Hello! Welcome to our office.' He had a friendly smile. He wanted to introduce himself, so he told me his name and shook hands with me. I said, 'Nice to meet you.' We started a short conversation. He asked me questions about my old job, and I tried to answer clearly. Sometimes I could not understand him because he spoke very fast, so I said, 'Sorry, can you speak more slowly, please?' He smiled and spoke again in a soft voice. I listened carefully this time, and I understood everything. We talked for ten minutes. Before he left, he said, 'Thanks for your time. See you tomorrow!' I said, 'Goodbye, and thanks again for your help.' I felt happy because everyone was friendly. Good communication is important at work. When you meet new people, it helps to smile, listen well, and ask questions. A short conversation can help you make new friends quickly.",
+  "questions": [
+    {
+      "question": "How did the man greet the writer on the first day?",
+      "options": [
+        "He said \"Goodbye\"",
+        "He said \"Hello! Welcome to our office.\"",
+        "He asked for money",
+        "He ignored the writer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the man do when he introduced himself?",
+      "options": [
+        "He wrote his name on paper",
+        "He shook hands with the writer",
+        "He left the room",
+        "He gave the writer a gift"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why did the writer ask the man to speak more slowly?",
+      "options": [
+        "The writer could not hear well",
+        "The writer could not understand him",
+        "The man was too quiet",
+        "The writer was busy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the writer do after asking the man to speak slowly?",
+      "options": [
+        "Left the office",
+        "Listened carefully and understood",
+        "Stopped the conversation",
+        "Asked another question"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How long did they talk?",
+      "options": [
+        "Five minutes",
+        "Ten minutes",
+        "Thirty minutes",
+        "One hour"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, what helps you make new friends quickly?",
+      "options": [
+        "Talking about your job only",
+        "Smiling, listening well, and asking questions",
+        "Speaking very fast",
+        "Avoiding conversation"
+      ],
+      "answer": 1
+    }
+  ]
+}

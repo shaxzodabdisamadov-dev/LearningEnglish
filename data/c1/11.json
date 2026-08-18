@@ -1,0 +1,229 @@
+{
+  "id": 11,
+  "topic": "Neuroscience and the Brain",
+  "words": [
+    {
+      "word": "neuroplasticity",
+      "pos": "noun",
+      "ipa": "/ˌnjʊərəʊplæˈstɪsɪti/",
+      "definition": "The brain's capacity to reorganize its structure and function in response to experience or injury.",
+      "example": "Neuroplasticity allows stroke survivors to regain lost functions as healthy brain regions adapt.",
+      "uz": "neyroplastiklik"
+    },
+    {
+      "word": "synapse",
+      "pos": "noun",
+      "ipa": "/ˈsɪnæps/",
+      "definition": "The junction between two neurons across which nerve impulses pass.",
+      "example": "Learning strengthens the connection at each synapse involved in a particular memory.",
+      "uz": "sinaps"
+    },
+    {
+      "word": "cognition",
+      "pos": "noun",
+      "ipa": "/kɒɡˈnɪʃən/",
+      "definition": "The mental process of acquiring knowledge and understanding through thought, experience, and the senses.",
+      "example": "Chronic sleep deprivation measurably impairs cognition, including memory and decision-making.",
+      "uz": "bilish jarayoni (kognitsiya)"
+    },
+    {
+      "word": "neural",
+      "pos": "adjective",
+      "ipa": "/ˈnjʊərəl/",
+      "definition": "Relating to a nerve or the nervous system.",
+      "example": "Researchers traced the neural pathway responsible for the reflex.",
+      "uz": "nerv tizimiga oid"
+    },
+    {
+      "word": "reductionist",
+      "pos": "adjective",
+      "ipa": "/rɪˈdʌkʃənɪst/",
+      "definition": "Explaining complex phenomena in terms of simpler, often overly simplistic, underlying components.",
+      "example": "Critics accused the theory of being overly reductionist, ignoring social and environmental influences on behavior.",
+      "uz": "reduksionistik (ortiqcha soddalashtiruvchi)"
+    },
+    {
+      "word": "correlate",
+      "pos": "verb",
+      "ipa": "/ˈkɒrəleɪt/",
+      "definition": "To have a mutual relationship such that one variable tends to vary alongside another.",
+      "example": "Researchers found that hours of screen time correlate with reduced attention span, though causation remains unproven.",
+      "uz": "o'zaro bog'liq bo'lmoq"
+    },
+    {
+      "word": "deterministic",
+      "pos": "adjective",
+      "ipa": "/dɪˌtɜːmɪˈnɪstɪk/",
+      "definition": "Holding that all events, including human behavior, are entirely determined by prior causes, leaving no room for free will.",
+      "example": "A strictly deterministic view of behavior leaves little room for moral responsibility.",
+      "uz": "deterministik (hammasi oldindan belgilangan)"
+    },
+    {
+      "word": "introspection",
+      "pos": "noun",
+      "ipa": "/ˌɪntrəˈspekʃən/",
+      "definition": "The examination of one's own conscious thoughts and feelings.",
+      "example": "Careful introspection revealed that her anxiety stemmed from a fear of failure, not the task itself.",
+      "uz": "ichki kuzatish (introspeksiya)"
+    },
+    {
+      "word": "epiphenomenon",
+      "pos": "noun",
+      "ipa": "/ˌepɪfɪˈnɒmɪnən/",
+      "definition": "A secondary phenomenon that occurs alongside a primary process but does not itself causally influence it.",
+      "example": "Some philosophers argue that free will is merely an epiphenomenon, with no real causal power of its own.",
+      "uz": "epifenomen (ikkilamchi hodisa)"
+    },
+    {
+      "word": "sentience",
+      "pos": "noun",
+      "ipa": "/ˈsentiəns/",
+      "definition": "The capacity to have subjective experiences and feelings.",
+      "example": "Debates about animal sentience have significant implications for how we treat livestock.",
+      "uz": "sezuvchanlik"
+    },
+    {
+      "word": "neuroimaging",
+      "pos": "noun",
+      "ipa": "/ˈnjʊərəʊɪmɪdʒɪŋ/",
+      "definition": "Techniques used to produce images of the structure or function of the nervous system.",
+      "example": "Neuroimaging studies have identified regions of the brain that become active during moral reasoning.",
+      "uz": "neyrotasvirlash"
+    },
+    {
+      "word": "confound",
+      "pos": "verb",
+      "ipa": "/kənˈfaʊnd/",
+      "definition": "To make something more complicated or difficult to interpret by introducing extraneous variables.",
+      "example": "Fatigue may confound the results, making it hard to isolate the drug's true effect.",
+      "uz": "natijalarni chalkashtirib yubormoq"
+    },
+    {
+      "word": "atrophy",
+      "pos": "verb",
+      "ipa": "/ˈætrəfi/",
+      "definition": "To gradually decline in effectiveness or vigor due to underuse.",
+      "example": "Without regular practice, even a fluent second language can begin to atrophy.",
+      "uz": "ishlatilmay so'nib bormoq"
+    },
+    {
+      "word": "rewire",
+      "pos": "verb",
+      "ipa": "/riːˈwaɪər/",
+      "definition": "To change the neural connections in the brain, especially through learning or experience.",
+      "example": "Intensive therapy can gradually rewire the neural circuits underlying chronic pain.",
+      "uz": "nerv bog'lanishlarini qayta shakllantirmoq"
+    },
+    {
+      "word": "innate",
+      "pos": "adjective",
+      "ipa": "/ɪˈneɪt/",
+      "definition": "Existing from birth rather than acquired through experience.",
+      "example": "Linguists still debate how much of grammar is innate rather than learned.",
+      "uz": "tug'ma"
+    },
+    {
+      "word": "dualism",
+      "pos": "noun",
+      "ipa": "/ˈdjuːəlɪzəm/",
+      "definition": "The philosophical view that the mind and body are fundamentally distinct kinds of substance.",
+      "example": "Descartes's dualism held that mind and body are fundamentally distinct substances.",
+      "uz": "dualizm"
+    },
+    {
+      "word": "empirical",
+      "pos": "adjective",
+      "ipa": "/ɪmˈpɪrɪkəl/",
+      "definition": "Based on observation or experiment rather than theory alone.",
+      "example": "The claim demands empirical support, not merely theoretical elegance.",
+      "uz": "empirik (tajribaga asoslangan)"
+    },
+    {
+      "word": "lucid",
+      "pos": "adjective",
+      "ipa": "/ˈluːsɪd/",
+      "definition": "Clear and coherent in thought or expression; mentally clear.",
+      "example": "In his final lucid moments before anesthesia, the patient signed the consent form.",
+      "uz": "aniq va ravshan fikrli"
+    },
+    {
+      "word": "cortex",
+      "pos": "noun",
+      "ipa": "/ˈkɔːteks/",
+      "definition": "The outer layer of the brain, associated with higher cognitive functions.",
+      "example": "Damage to the prefrontal cortex can impair judgment and impulse control.",
+      "uz": "miya po'stlog'i (korteks)"
+    },
+    {
+      "word": "inference",
+      "pos": "noun",
+      "ipa": "/ˈɪnfərəns/",
+      "definition": "A conclusion reached on the basis of evidence and reasoning rather than explicit statement.",
+      "example": "The diagnosis rested on inference from indirect symptoms rather than direct observation.",
+      "uz": "xulosa chiqarish"
+    }
+  ],
+  "text": "Contemporary neuroscience has made extraordinary empirical progress in mapping cognition onto neural substrates: neuroimaging can now correlate specific patterns of activity in the cortex with particular thoughts, and neuroplasticity research demonstrates that synapses continually rewire themselves in response to experience, allowing skills to develop and, absent stimulation, to atrophy. Yet this progress has emboldened a reductionist inference that many philosophers regard as unwarranted: the claim that consciousness itself is nothing more than an epiphenomenon of neural activity, causally inert and philosophically uninteresting. Such a strict deterministic stance sits uneasily with introspection, which stubbornly insists that deliberation feels like genuine choice rather than the passive registration of processes already settled elsewhere in the brain. Dualism, discredited among most working scientists, at least took sentience seriously as something requiring explanation rather than explaining away. A more modest position holds that correlation between brain states and mental states, however robust, does not by itself confound the question of causation, nor does it license the further claim that innate subjective experience is merely illusory. The honest, if less satisfying, conclusion may be that no experiment has yet been lucid enough to settle what consciousness actually is.",
+  "questions": [
+    {
+      "question": "What is the author's stance on strict reductionism about consciousness?",
+      "options": [
+        "Fully endorses it as scientifically proven",
+        "Presents it as an overreach not warranted by current evidence",
+        "Considers it identical to dualism",
+        "Refuses to engage with the topic at all"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what is the relationship between correlation and causation in neuroscience?",
+      "options": [
+        "Correlation between brain and mental states automatically proves causation",
+        "Strong correlation does not by itself establish causation",
+        "Correlation is irrelevant to neuroscience entirely",
+        "Causation always precedes correlation chronologically"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the author mention dualism, given that it is 'discredited among most working scientists'?",
+      "options": [
+        "To argue for reviving dualism as the correct theory",
+        "To credit it with at least treating sentience as a genuine explanatory problem",
+        "To dismiss it as wholly irrelevant to the debate",
+        "To prove that neuroscience is a unified field"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's tone toward the question of what consciousness 'actually is' can best be described as",
+      "options": [
+        "Confidently conclusive",
+        "Dismissively uninterested",
+        "Epistemically humble, acknowledging unresolved uncertainty",
+        "Hostile toward neuroscience as a discipline"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the passage suggest is the danger of an epiphenomenalist view of consciousness?",
+      "options": [
+        "It strengthens the reliability of introspection",
+        "It may inappropriately dismiss subjective experience as causally and philosophically insignificant",
+        "It disproves the existence of neuroplasticity",
+        "It automatically supports dualism"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which best captures the passage's overall argumentative structure?",
+      "options": [
+        "It praises neuroscience's empirical achievements, then cautions against an unwarranted philosophical inference drawn from them",
+        "It rejects the discipline of neuroscience entirely",
+        "It argues that dualism is definitively correct",
+        "It merely defines a series of technical terms without argument"
+      ],
+      "answer": 0
+    }
+  ]
+}

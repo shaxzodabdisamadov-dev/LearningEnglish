@@ -1,0 +1,229 @@
+{
+  "id": 23,
+  "topic": "Epistemology and the Philosophy of Science",
+  "words": [
+    {
+      "word": "epistemology",
+      "pos": "noun",
+      "ipa": "/ɪˌpɪstɪˈmɒlədʒi/",
+      "definition": "The branch of philosophy concerned with the nature, sources, and justification of knowledge.",
+      "example": "Her epistemology seminar examined how scientific knowledge differs from mere belief.",
+      "uz": "epistemologiya (bilish nazariyasi)"
+    },
+    {
+      "word": "empirical",
+      "pos": "adjective",
+      "ipa": "/ɪmˈpɪrɪkəl/",
+      "definition": "Based on observation or experiment rather than theory alone.",
+      "example": "The claim was supported by empirical data gathered over a decade.",
+      "uz": "empirik"
+    },
+    {
+      "word": "falsifiable",
+      "pos": "adjective",
+      "ipa": "/ˈfɔːlsɪfaɪəbəl/",
+      "definition": "Capable of being shown false by observation or experiment.",
+      "example": "Popper insisted that a genuinely scientific hypothesis must be falsifiable.",
+      "uz": "falsifikatsiya qilinadigan"
+    },
+    {
+      "word": "paradigm",
+      "pos": "noun",
+      "ipa": "/ˈpærədaɪm/",
+      "definition": "A typical framework of ideas or assumptions accepted within a discipline.",
+      "example": "The discovery of relativity forced a paradigm shift in physics.",
+      "uz": "paradigma"
+    },
+    {
+      "word": "heuristic",
+      "pos": "noun",
+      "ipa": "/hjʊˈrɪstɪk/",
+      "definition": "A practical approach to problem-solving that is not guaranteed optimal but is generally sufficient.",
+      "example": "Researchers used a simple heuristic to narrow the search space quickly.",
+      "uz": "evristik usul"
+    },
+    {
+      "word": "corroborate",
+      "pos": "verb",
+      "ipa": "/kəˈrɒbəreɪt/",
+      "definition": "To confirm or give support to a statement or theory.",
+      "example": "New fossil evidence helped corroborate the earlier theory of common descent.",
+      "uz": "tasdiqlamoq"
+    },
+    {
+      "word": "underdetermined",
+      "pos": "adjective",
+      "ipa": "/ˌʌndədɪˈtɜːmɪnd/",
+      "definition": "Not sufficiently fixed by available evidence, so that multiple theories remain compatible with it.",
+      "example": "The data left the choice between the two rival models underdetermined.",
+      "uz": "dalillar bilan to'liq aniqlanmagan"
+    },
+    {
+      "word": "tautological",
+      "pos": "adjective",
+      "ipa": "/ˌtɔːtəˈlɒdʒɪkəl/",
+      "definition": "True by virtue of its logical form alone, and therefore uninformative.",
+      "example": "Critics dismissed the argument as tautological, true only by definition.",
+      "uz": "tavtologik"
+    },
+    {
+      "word": "inductive",
+      "pos": "adjective",
+      "ipa": "/ɪnˈdʌktɪv/",
+      "definition": "Relating to reasoning that moves from particular instances to a general conclusion.",
+      "example": "Inductive reasoning led her from specific cases to a general rule.",
+      "uz": "induktiv"
+    },
+    {
+      "word": "deductive",
+      "pos": "adjective",
+      "ipa": "/dɪˈdʌktɪv/",
+      "definition": "Relating to reasoning that moves from general premises to a certain particular conclusion.",
+      "example": "The detective's deductive reasoning moved logically from premise to conclusion.",
+      "uz": "deduktiv"
+    },
+    {
+      "word": "skepticism",
+      "pos": "noun",
+      "ipa": "/ˈskɛptɪsɪzəm/",
+      "definition": "A questioning attitude that withholds assent pending sufficient evidence.",
+      "example": "He greeted the miracle cure with well-founded skepticism.",
+      "uz": "skeptitsizm (shubha bilan yondashuv)"
+    },
+    {
+      "word": "dogma",
+      "pos": "noun",
+      "ipa": "/ˈdɒgmə/",
+      "definition": "A principle asserted as unquestionably true without supporting evidence.",
+      "example": "She refused to accept the claim as dogma without evidence.",
+      "uz": "dogma"
+    },
+    {
+      "word": "fallibilism",
+      "pos": "noun",
+      "ipa": "/ˈfælɪbɪlɪzəm/",
+      "definition": "The view that any belief, however well-supported, could turn out to be mistaken.",
+      "example": "Fallibilism holds that even our most cherished beliefs might be wrong.",
+      "uz": "fallibilizm"
+    },
+    {
+      "word": "reductionism",
+      "pos": "noun",
+      "ipa": "/rɪˈdʌkʃənɪzəm/",
+      "definition": "The practice of explaining complex phenomena solely in terms of simpler constituent parts.",
+      "example": "Critics accused the theory of a crude reductionism that ignored context.",
+      "uz": "reduksionizm"
+    },
+    {
+      "word": "teleological",
+      "pos": "adjective",
+      "ipa": "/ˌtɛlɪəˈlɒdʒɪkəl/",
+      "definition": "Explained by reference to purpose or end goal rather than prior cause.",
+      "example": "He rejected teleological explanations that assume nature has purposes.",
+      "uz": "teleologik"
+    },
+    {
+      "word": "incommensurable",
+      "pos": "adjective",
+      "ipa": "/ˌɪnkəˈmɛnʃərəbəl/",
+      "definition": "Lacking a common standard by which two things can be meaningfully compared.",
+      "example": "Kuhn argued that rival scientific paradigms can be genuinely incommensurable.",
+      "uz": "qiyoslab bo'lmaydigan"
+    },
+    {
+      "word": "conjecture",
+      "pos": "noun",
+      "ipa": "/kənˈdʒɛktʃər/",
+      "definition": "An opinion or conclusion formed on the basis of incomplete information.",
+      "example": "The mathematician's conjecture remained unproven for over a century.",
+      "uz": "taxmin, faraz"
+    },
+    {
+      "word": "axiomatic",
+      "pos": "adjective",
+      "ipa": "/ˌæksɪəˈmætɪk/",
+      "definition": "Self-evidently true and accepted without need of proof.",
+      "example": "It is axiomatic in economics that resources are scarce.",
+      "uz": "aksiomatik"
+    },
+    {
+      "word": "verisimilitude",
+      "pos": "noun",
+      "ipa": "/ˌvɛrɪsɪˈmɪlɪtjuːd/",
+      "definition": "The appearance or quality of being true or realistic.",
+      "example": "The novel's verisimilitude made the fictional events feel plausible.",
+      "uz": "haqqoniylik ko'rinishi"
+    },
+    {
+      "word": "supersede",
+      "pos": "verb",
+      "ipa": "/ˌsuːpəˈsiːd/",
+      "definition": "To take the place of something previously in effect, especially as more up-to-date.",
+      "example": "The old model was quickly superseded by a more accurate one.",
+      "uz": "o'rnini bosmoq, almashtirmoq"
+    }
+  ],
+  "text": "Contemporary epistemology inherits a tension that Karl Popper sought to resolve: if scientific claims must be falsifiable to merit the label 'empirical,' how do we account for theories that persist despite anomalous evidence? Popper's answer—that robust theories survive repeated attempts at refutation rather than being merely corroborated—remains axiomatic for many philosophers of science, yet critics note that observation is never theory-neutral; what counts as disconfirming evidence is itself shaped by the very paradigm under scrutiny. This is the underdetermination thesis: any finite body of data is compatible with more than one theory, so no purely inductive or deductive procedure can single out the 'true' explanation. Rather than despair, fallibilism counsels a productive skepticism, treating even our best-supported conjectures as provisional, forever liable to be superseded. Some worry this collapses into an unproductive reductionism, in which every claim is hedged into meaninglessness, or that successive paradigms become genuinely incommensurable, sharing no common measure of progress. Yet most working scientists proceed without succumbing to either dogma or paralysis, trusting that predictive success, however theory-laden, is not arbitrary.",
+  "questions": [
+    {
+      "question": "According to the passage, what is Popper's proposed solution to the tension in scientific epistemology?",
+      "options": [
+        "Theories should be accepted once corroborated by any evidence",
+        "Theories survive by withstanding repeated attempts at refutation",
+        "Theories are true if they are axiomatic",
+        "Theories must be inductively verified by observation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The underdetermination thesis, as described, implies that:",
+      "options": [
+        "All data confirms only one true theory",
+        "Multiple theories can be compatible with the same finite data",
+        "Deduction alone can identify the correct theory",
+        "Observation is entirely independent of theory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What attitude does the passage suggest fallibilism recommends?",
+      "options": [
+        "Treating scientific claims as permanently settled",
+        "An unproductive skepticism that paralyzes inquiry",
+        "Treating well-supported conjectures as provisional and open to revision",
+        "Dogmatic adherence to prevailing paradigms"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What criticism do critics raise against the fallibilist approach, according to the passage?",
+      "options": [
+        "It makes science too dogmatic",
+        "It might reduce all claims to meaninglessness or make paradigms incommensurable",
+        "It relies too heavily on deduction",
+        "It ignores empirical evidence entirely"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's implicit stance toward the potential collapse into reductionism or incommensurability?",
+      "options": [
+        "Fully endorses that science has lost objectivity",
+        "Suggests scientists nonetheless proceed pragmatically without succumbing to either problem",
+        "Argues science should abandon prediction as a criterion",
+        "Claims paradigms are always incommensurable"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The phrase \"theory-laden\" in the final sentence most nearly implies that:",
+      "options": [
+        "Observation is untainted by theoretical assumptions",
+        "Observations are shaped or influenced by underlying theoretical frameworks",
+        "Theories are irrelevant to scientific prediction",
+        "Predictions are arbitrary and unreliable"
+      ],
+      "answer": 1
+    }
+  ]
+}

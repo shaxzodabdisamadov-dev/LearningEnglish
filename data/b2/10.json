@@ -1,0 +1,229 @@
+{
+  "id": 10,
+  "topic": "Consumer Rights and Ethical Consumption",
+  "words": [
+    {
+      "word": "entitlement",
+      "pos": "noun",
+      "ipa": "/ɪnˈtaɪtlmənt/",
+      "definition": "the belief or fact that one has a right to something",
+      "example": "Consumers have an entitlement to accurate information about the products they buy.",
+      "uz": "biror narsaga ega bo'lish huquqi"
+    },
+    {
+      "word": "exploit",
+      "pos": "verb",
+      "ipa": "/ɪkˈsplɔɪt/",
+      "definition": "to treat someone unfairly in order to benefit from their work",
+      "example": "Some fast-fashion brands have been accused of exploiting garment workers in developing countries.",
+      "uz": "o'z manfaati uchun adolatsiz foydalanmoq"
+    },
+    {
+      "word": "transparency",
+      "pos": "noun",
+      "ipa": "/trænsˈpærənsi/",
+      "definition": "the quality of being open and honest, with nothing hidden",
+      "example": "Growing demand for transparency has forced companies to disclose their supply chains.",
+      "uz": "ochiqlik, shaffoflik"
+    },
+    {
+      "word": "boycott",
+      "pos": "verb",
+      "ipa": "/ˈbɔɪkɒt/",
+      "definition": "to refuse to buy, use, or participate in something as a form of protest",
+      "example": "Activists urged shoppers to boycott brands linked to unethical labor practices.",
+      "uz": "norozilik sifatida rad etmoq (boykot qilmoq)"
+    },
+    {
+      "word": "disposable",
+      "pos": "adjective",
+      "ipa": "/dɪˈspoʊzəbl/",
+      "definition": "intended to be used once or briefly and then thrown away",
+      "example": "Disposable packaging contributes significantly to global plastic waste.",
+      "uz": "bir martalik foydalanishga mo'ljallangan"
+    },
+    {
+      "word": "counterfeit",
+      "pos": "adjective",
+      "ipa": "/ˈkaʊntərfɪt/",
+      "definition": "made to look exactly like something genuine in order to deceive people",
+      "example": "Customs officials seized thousands of counterfeit handbags at the border.",
+      "uz": "qalbaki, soxta"
+    },
+    {
+      "word": "warranty",
+      "pos": "noun",
+      "ipa": "/ˈwɔːrənti/",
+      "definition": "a company's written promise to repair or replace a faulty product",
+      "example": "The laptop came with a two-year warranty covering manufacturing defects.",
+      "uz": "kafolat"
+    },
+    {
+      "word": "deceptive",
+      "pos": "adjective",
+      "ipa": "/dɪˈseptɪv/",
+      "definition": "likely to mislead someone by creating a false impression",
+      "example": "The advertisement's deceptive claims led to a lawsuit from consumer groups.",
+      "uz": "aldovchi, noto'g'ri taassurot qoldiruvchi"
+    },
+    {
+      "word": "accountability",
+      "pos": "noun",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "definition": "the obligation to accept responsibility for one's actions and their consequences",
+      "example": "Consumer watchdogs push for greater corporate accountability over environmental damage.",
+      "uz": "javobgarlik"
+    },
+    {
+      "word": "ethical",
+      "pos": "adjective",
+      "ipa": "/ˈeθɪkl/",
+      "definition": "conforming to accepted standards of moral behavior",
+      "example": "More shoppers are seeking out ethical brands that pay fair wages.",
+      "uz": "axloq me'yorlariga mos"
+    },
+    {
+      "word": "sustainability",
+      "pos": "noun",
+      "ipa": "/səˌsteɪnəˈbɪləti/",
+      "definition": "the ability to be maintained without depleting resources or causing lasting harm",
+      "example": "The company published a report detailing its progress toward sustainability.",
+      "uz": "barqarorlik"
+    },
+    {
+      "word": "compensation",
+      "pos": "noun",
+      "ipa": "/ˌkɒmpenˈseɪʃn/",
+      "definition": "something, especially money, given to make up for loss, injury, or damage",
+      "example": "Customers who received defective goods are entitled to compensation.",
+      "uz": "tovon puli, kompensatsiya"
+    },
+    {
+      "word": "exploitative",
+      "pos": "adjective",
+      "ipa": "/ɪkˈsplɔɪtətɪv/",
+      "definition": "treating people unfairly in order to benefit from their work",
+      "example": "Investigators uncovered exploitative conditions in several overseas factories.",
+      "uz": "adolatsiz foydalanuvchi xarakterdagi"
+    },
+    {
+      "word": "redress",
+      "pos": "noun",
+      "ipa": "/rɪˈdres/",
+      "definition": "a remedy or compensation for a wrong or grievance",
+      "example": "Consumer protection agencies exist to provide redress when companies breach their obligations.",
+      "uz": "adolatni tiklash uchun tovon/yechim"
+    },
+    {
+      "word": "obsolescence",
+      "pos": "noun",
+      "ipa": "/ˌɒbsəˈlesns/",
+      "definition": "the state of becoming outdated and no longer used, sometimes deliberately",
+      "example": "Critics argue that manufacturers design gadgets for planned obsolescence to boost sales.",
+      "uz": "eskirib qolish (ba'zan ataylab eskirtirish)"
+    },
+    {
+      "word": "scrutinize",
+      "pos": "verb",
+      "ipa": "/ˈskruːtənaɪz/",
+      "definition": "to examine something very closely and critically",
+      "example": "Regulators are scrutinizing the company's advertising claims for accuracy.",
+      "uz": "sinchkovlik bilan tekshirmoq"
+    },
+    {
+      "word": "legislation",
+      "pos": "noun",
+      "ipa": "/ˌledʒɪsˈleɪʃn/",
+      "definition": "a law or set of laws passed by a governing body",
+      "example": "New legislation requires clearer labeling of ingredients on food packaging.",
+      "uz": "qonunchilik"
+    },
+    {
+      "word": "complicit",
+      "pos": "adjective",
+      "ipa": "/kəmˈplɪsɪt/",
+      "definition": "involved with others in a wrongful act, even if only indirectly",
+      "example": "By ignoring known abuses, retailers can become complicit in exploitative labor practices.",
+      "uz": "noqonuniy ishga bilvosita sherik"
+    },
+    {
+      "word": "mindful",
+      "pos": "adjective",
+      "ipa": "/ˈmaɪndfl/",
+      "definition": "conscious of and attentive to something",
+      "example": "Mindful consumers increasingly consider a product's environmental footprint before purchasing it.",
+      "uz": "ongli, e'tiborli"
+    },
+    {
+      "word": "leverage",
+      "pos": "verb",
+      "ipa": "/ˈliːvərɪdʒ/",
+      "definition": "to use something one already has in order to achieve maximum advantage",
+      "example": "Consumers can leverage social media to hold companies accountable for their practices.",
+      "uz": "maksimal foyda uchun mavjud imkoniyatdan foydalanmoq"
+    }
+  ],
+  "text": "Rarely has the average shopper wielded as much influence as today, when a single viral post can compel a multinational corporation to change its practices overnight. Consumers, once passive recipients of whatever manufacturers offered, now scrutinize supply chains, demand transparency, and refuse to remain complicit in exploitative labor conditions. Were companies to ignore this shift, they would risk being boycotted into irrelevance. Nevertheless, ethical consumption is not without its complications. Mindful shoppers may leverage their purchasing power to support sustainability, yet they often lack reliable information: deceptive marketing and vague sustainability claims — so-called 'greenwashing' — make genuine accountability difficult to verify. Legislation has, admittedly, begun to address some of these gaps, granting consumers a clearer entitlement to redress when products prove defective or counterfeit, and obliging firms to honor warranties rather than exploit loopholes. Not only does such legislation protect individual buyers, but it also discourages planned obsolescence, whereby products are deliberately designed to fail prematurely. Still, laws alone cannot substitute for informed, engaged consumers. Only when shoppers combine legal protections with genuine scrutiny of corporate behavior can meaningful accountability — and lasting compensation for those wronged — be achieved.",
+  "questions": [
+    {
+      "question": "What is the main argument of the passage?",
+      "options": [
+        "Consumers today have no real power to influence corporate behavior.",
+        "Modern consumers, empowered by information and legislation, can push companies toward more ethical practices, though challenges remain.",
+        "Legislation alone has fully solved the problem of unethical business practices.",
+        "Boycotts are the only effective tool consumers have."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest is a major obstacle to genuine ethical consumption?",
+      "options": [
+        "Consumers are unwilling to pay attention to corporate practices.",
+        "Deceptive marketing and vague claims make it hard to verify companies' true practices.",
+        "Legislation has made ethical consumption unnecessary.",
+        "Warranties are too expensive for most companies to offer."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what is 'planned obsolescence'?",
+      "options": [
+        "A legal requirement for companies to offer refunds",
+        "A marketing strategy praised by consumer advocates",
+        "The deliberate design of products to fail or become outdated prematurely",
+        "A form of consumer boycott"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What can be inferred about the author's view of legislation regarding consumer rights?",
+      "options": [
+        "It is completely ineffective and should be abandoned.",
+        "It is helpful but insufficient on its own without active consumer engagement.",
+        "It has eliminated the need for scrutiny of corporations.",
+        "It primarily benefits corporations rather than consumers."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's tone throughout the passage is best described as:",
+      "options": [
+        "cynical and hopeless",
+        "purely celebratory",
+        "balanced and analytical, acknowledging both progress and ongoing challenges",
+        "indifferent to consumer issues"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why does the passage mention viral social media posts?",
+      "options": [
+        "To illustrate how quickly public pressure can now influence corporate behavior",
+        "To criticize social media as unreliable",
+        "To explain how counterfeit goods are sold",
+        "To argue that legislation is more powerful than public opinion"
+      ],
+      "answer": 0
+    }
+  ]
+}

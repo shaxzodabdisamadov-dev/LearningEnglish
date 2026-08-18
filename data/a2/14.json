@@ -1,0 +1,229 @@
+{
+  "id": 14,
+  "topic": "Work and Careers",
+  "words": [
+    {
+      "word": "job",
+      "pos": "noun",
+      "ipa": "/dʒɒb/",
+      "definition": "the work that a person does to earn money.",
+      "example": "She found a new job last month.",
+      "uz": "ish"
+    },
+    {
+      "word": "career",
+      "pos": "noun",
+      "ipa": "/kəˈrɪr/",
+      "definition": "the series of jobs a person has during their working life.",
+      "example": "He wants a career in medicine.",
+      "uz": "karyera"
+    },
+    {
+      "word": "company",
+      "pos": "noun",
+      "ipa": "/ˈkʌmpəni/",
+      "definition": "a business that sells goods or services.",
+      "example": "She works for a big company.",
+      "uz": "kompaniya"
+    },
+    {
+      "word": "employee",
+      "pos": "noun",
+      "ipa": "/ɪmˈplɔɪiː/",
+      "definition": "a person who works for a company or another person.",
+      "example": "All employees must arrive by nine o'clock.",
+      "uz": "xodim"
+    },
+    {
+      "word": "employer",
+      "pos": "noun",
+      "ipa": "/ɪmˈplɔɪər/",
+      "definition": "a person or company that pays people to work for them.",
+      "example": "My employer gave me a day off.",
+      "uz": "ish beruvchi"
+    },
+    {
+      "word": "interview",
+      "pos": "noun",
+      "ipa": "/ˈɪntərvjuː/",
+      "definition": "a meeting where someone is asked questions about a job.",
+      "example": "I have a job interview tomorrow.",
+      "uz": "suhbat (ishga)"
+    },
+    {
+      "word": "resume",
+      "pos": "noun",
+      "ipa": "/ˈrɛzʊmeɪ/",
+      "definition": "a document that describes your education and work experience.",
+      "example": "Send your resume before Friday.",
+      "uz": "rezyume"
+    },
+    {
+      "word": "salary",
+      "pos": "noun",
+      "ipa": "/ˈsæləri/",
+      "definition": "the money a person earns regularly for their work.",
+      "example": "Her salary increased this year.",
+      "uz": "oylik maosh"
+    },
+    {
+      "word": "colleague",
+      "pos": "noun",
+      "ipa": "/ˈkɒliːɡ/",
+      "definition": "a person you work with.",
+      "example": "My colleagues are very friendly.",
+      "uz": "hamkasb"
+    },
+    {
+      "word": "office",
+      "pos": "noun",
+      "ipa": "/ˈɒfɪs/",
+      "definition": "a room or building where people do business work.",
+      "example": "He works in an office in the city.",
+      "uz": "ofis"
+    },
+    {
+      "word": "manager",
+      "pos": "noun",
+      "ipa": "/ˈmænɪdʒər/",
+      "definition": "a person who is in charge of a business or a team of workers.",
+      "example": "The manager gave us new tasks.",
+      "uz": "menejer"
+    },
+    {
+      "word": "experience",
+      "pos": "noun",
+      "ipa": "/ɪkˈspɪriəns/",
+      "definition": "knowledge or skill gained from doing a job.",
+      "example": "You need experience for this job.",
+      "uz": "tajriba"
+    },
+    {
+      "word": "promotion",
+      "pos": "noun",
+      "ipa": "/prəˈmoʊʃən/",
+      "definition": "a move to a higher position at work.",
+      "example": "She got a promotion after two years.",
+      "uz": "lavozim ko'tarilishi"
+    },
+    {
+      "word": "retire",
+      "pos": "verb",
+      "ipa": "/rɪˈtaɪər/",
+      "definition": "to stop working, usually because of age.",
+      "example": "My grandfather retired last year.",
+      "uz": "nafaqaga chiqmoq"
+    },
+    {
+      "word": "apply",
+      "pos": "verb",
+      "ipa": "/əˈplaɪ/",
+      "definition": "to formally ask for a job.",
+      "example": "I applied for the job online.",
+      "uz": "ariza bermoq"
+    },
+    {
+      "word": "hire",
+      "pos": "verb",
+      "ipa": "/ˈhaɪər/",
+      "definition": "to give someone a job.",
+      "example": "The company decided to hire two new workers.",
+      "uz": "ishga olmoq"
+    },
+    {
+      "word": "train",
+      "pos": "verb",
+      "ipa": "/treɪn/",
+      "definition": "to teach someone the skills needed for a job.",
+      "example": "New employees train for two weeks.",
+      "uz": "o'rgatmoq"
+    },
+    {
+      "word": "shift",
+      "pos": "noun",
+      "ipa": "/ʃɪft/",
+      "definition": "a period of time that a person works.",
+      "example": "He works the night shift at the factory.",
+      "uz": "smena"
+    },
+    {
+      "word": "task",
+      "pos": "noun",
+      "ipa": "/tæsk/",
+      "definition": "a piece of work that must be done.",
+      "example": "I finished all my tasks today.",
+      "uz": "vazifa"
+    },
+    {
+      "word": "deadline",
+      "pos": "noun",
+      "ipa": "/ˈdɛdlaɪn/",
+      "definition": "the time by which something must be finished.",
+      "example": "We have to meet the deadline on Friday.",
+      "uz": "muddat"
+    }
+  ],
+  "text": "Last year, I decided to change my career and look for a new job. First, I updated my resume and started to apply for different positions online. After two weeks, a company called me for an interview. I was very nervous, but the manager was friendly and asked about my experience. A week later, they decided to hire me! On my first day, my new employer explained my main tasks and introduced me to my colleagues. I had to train for a few days to learn how things worked in the office. My salary was better than my last job, and I liked my new shift, which started at nine in the morning. My manager always gives us clear deadlines, so we know exactly when to finish our tasks. After six months, I worked very hard and received a promotion. Now I have more responsibility, but I also enjoy my job more. My colleagues say that if I keep working like this, I could become a manager myself one day. I don't plan to retire for many years, but I already feel proud of how much I have achieved in my career.",
+  "questions": [
+    {
+      "question": "What was the first thing the writer did to find a new job?",
+      "options": [
+        "Called a manager",
+        "Updated the resume and applied online",
+        "Asked a colleague",
+        "Visited the company office"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who did the writer talk to during the interview?",
+      "options": [
+        "The employer's family",
+        "The manager",
+        "A colleague",
+        "A different applicant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happened on the writer's first day?",
+      "options": [
+        "The writer got a promotion immediately",
+        "The employer explained tasks and introduced colleagues",
+        "The writer trained for six months",
+        "The writer met the deadline"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What time did the writer's shift start?",
+      "options": [
+        "Seven in the morning",
+        "Nine in the morning",
+        "Noon",
+        "Ten at night"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happened after six months of hard work?",
+      "options": [
+        "The writer retired",
+        "The writer received a promotion",
+        "The writer changed companies",
+        "The writer missed a deadline"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the writer feel about their career now?",
+      "options": [
+        "Ready to retire soon",
+        "Bored and unhappy",
+        "Proud of what they have achieved",
+        "Looking for another new job"
+      ],
+      "answer": 2
+    }
+  ]
+}

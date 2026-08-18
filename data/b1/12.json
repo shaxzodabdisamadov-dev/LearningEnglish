@@ -1,0 +1,229 @@
+{
+  "id": 12,
+  "topic": "Transportation and City Planning",
+  "words": [
+    {
+      "word": "commute",
+      "pos": "verb",
+      "ipa": "/kəˈmjuːt/",
+      "definition": "to travel regularly between home and work",
+      "example": "Many people commute to the city every day.",
+      "uz": "ishga qatnamoq"
+    },
+    {
+      "word": "congestion",
+      "pos": "noun",
+      "ipa": "/kənˈdʒestʃən/",
+      "definition": "a situation in which roads are too crowded with traffic",
+      "example": "Traffic congestion is worst during the morning rush.",
+      "uz": "tirbandlik"
+    },
+    {
+      "word": "infrastructure",
+      "pos": "noun",
+      "ipa": "/ˈɪnfrəstrʌktʃər/",
+      "definition": "the basic physical systems of a country, such as roads and bridges",
+      "example": "The city invested in new transport infrastructure.",
+      "uz": "infratuzilma"
+    },
+    {
+      "word": "transport",
+      "pos": "noun",
+      "ipa": "/ˈtrænspɔːrt/",
+      "definition": "a system for moving people or goods from one place to another",
+      "example": "Public transport is cheaper than driving a car.",
+      "uz": "transport"
+    },
+    {
+      "word": "pedestrian",
+      "pos": "noun",
+      "ipa": "/pəˈdestriən/",
+      "definition": "a person who is walking, especially in a city",
+      "example": "The new crossing makes it safer for pedestrians.",
+      "uz": "piyoda"
+    },
+    {
+      "word": "urban",
+      "pos": "adjective",
+      "ipa": "/ˈɜːrbən/",
+      "definition": "relating to a city or town",
+      "example": "Urban areas often have heavier traffic than rural ones.",
+      "uz": "shaharga oid"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adjective",
+      "ipa": "/səˈsteɪnəbəl/",
+      "definition": "able to continue over time without causing damage to the environment",
+      "example": "The city wants to build a more sustainable transport system.",
+      "uz": "barqaror"
+    },
+    {
+      "word": "emission",
+      "pos": "noun",
+      "ipa": "/ɪˈmɪʃən/",
+      "definition": "a gas or other substance released into the air",
+      "example": "Cars produce emissions that pollute the air.",
+      "uz": "gaz chiqindisi"
+    },
+    {
+      "word": "efficient",
+      "pos": "adjective",
+      "ipa": "/ɪˈfɪʃənt/",
+      "definition": "working well without wasting time or resources",
+      "example": "An efficient bus system can reduce traffic.",
+      "uz": "samarali"
+    },
+    {
+      "word": "expand",
+      "pos": "verb",
+      "ipa": "/ɪkˈspænd/",
+      "definition": "to become larger or make something larger",
+      "example": "The city plans to expand its subway network.",
+      "uz": "kengaytirmoq"
+    },
+    {
+      "word": "route",
+      "pos": "noun",
+      "ipa": "/ruːt/",
+      "definition": "a path or way taken to get from one place to another",
+      "example": "The bus follows a new route through downtown.",
+      "uz": "yo'nalish"
+    },
+    {
+      "word": "cyclist",
+      "pos": "noun",
+      "ipa": "/ˈsaɪklɪst/",
+      "definition": "a person who rides a bicycle",
+      "example": "New bike lanes make the streets safer for cyclists.",
+      "uz": "velosipedchi"
+    },
+    {
+      "word": "reduce",
+      "pos": "verb",
+      "ipa": "/rɪˈdjuːs/",
+      "definition": "to make something smaller or less in amount",
+      "example": "The plan aims to reduce traffic congestion.",
+      "uz": "kamaytirmoq"
+    },
+    {
+      "word": "rush hour",
+      "pos": "noun",
+      "ipa": "/ˈrʌʃ aʊər/",
+      "definition": "the time of day when traffic is heaviest",
+      "example": "The roads are extremely busy during rush hour.",
+      "uz": "band soatlar"
+    },
+    {
+      "word": "accessible",
+      "pos": "adjective",
+      "ipa": "/əkˈsesəbəl/",
+      "definition": "easy to reach or use",
+      "example": "The new train station is accessible to people with disabilities.",
+      "uz": "qulay"
+    },
+    {
+      "word": "planner",
+      "pos": "noun",
+      "ipa": "/ˈplænər/",
+      "definition": "a person who designs and organizes something, such as a city",
+      "example": "The city planner suggested building more bike paths.",
+      "uz": "rejalashtiruvchi"
+    },
+    {
+      "word": "network",
+      "pos": "noun",
+      "ipa": "/ˈnetwɜːrk/",
+      "definition": "a system of connected roads, lines, or routes",
+      "example": "The city has a large public transport network.",
+      "uz": "tarmoq"
+    },
+    {
+      "word": "fare",
+      "pos": "noun",
+      "ipa": "/feər/",
+      "definition": "the money paid to travel on a bus, train, etc.",
+      "example": "The bus fare increased this year.",
+      "uz": "yo'l haqi"
+    },
+    {
+      "word": "traffic jam",
+      "pos": "noun",
+      "ipa": "/ˈtræfɪk dʒæm/",
+      "definition": "a long line of vehicles that cannot move or move very slowly",
+      "example": "We were stuck in a traffic jam for an hour.",
+      "uz": "tiqilinch"
+    },
+    {
+      "word": "alternative",
+      "pos": "noun",
+      "ipa": "/ɔːlˈtɜːrnətɪv/",
+      "definition": "another option that can be used instead of something else",
+      "example": "Cycling is a healthy alternative to driving.",
+      "uz": "muqobil"
+    }
+  ],
+  "text": "As cities continue to grow, urban planners face the challenge of designing transportation systems that are both efficient and sustainable. In many large cities, congestion during rush hour has become a serious problem, with drivers stuck in traffic jams for hours every week. To reduce this problem, some governments have decided to expand their public transport networks, adding new routes and making them more accessible to everyone. Investing in infrastructure, such as new train lines and bus lanes, can also encourage people to leave their cars at home. If more citizens choose to commute by bicycle or on foot, cities become safer for both cyclists and pedestrians. In addition, using public transport instead of private cars helps lower emissions, which is important for fighting climate change. Some cities have introduced a low-cost fare system to make buses and trains a more attractive alternative to driving. Although building new infrastructure can be expensive, experts argue that it is a wise investment, since better transportation reduces pollution and saves commuters valuable time. Ultimately, a well-planned transport network benefits everyone, from daily commuters to visitors exploring the city on foot.",
+  "questions": [
+    {
+      "question": "What challenge do urban planners face as cities grow, according to the passage?",
+      "options": [
+        "Designing efficient and sustainable transportation",
+        "Reducing the number of pedestrians",
+        "Building more traffic jams",
+        "Removing all public transport"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What have some governments done to reduce congestion?",
+      "options": [
+        "Banned all cars",
+        "Expanded public transport networks",
+        "Closed bus lanes",
+        "Increased fares only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what happens when more citizens commute by bicycle or on foot?",
+      "options": [
+        "Cities become more congested",
+        "Cities become safer for cyclists and pedestrians",
+        "Emissions increase",
+        "Traffic jams get longer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is using public transport instead of private cars important, according to the text?",
+      "options": [
+        "It increases emissions",
+        "It helps lower emissions",
+        "It makes fares higher",
+        "It reduces infrastructure"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What have some cities introduced to make public transport more attractive?",
+      "options": [
+        "A low-cost fare system",
+        "More traffic jams",
+        "Fewer routes",
+        "Higher car taxes only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "According to experts mentioned in the passage, why is investing in infrastructure a wise choice?",
+      "options": [
+        "It has no cost",
+        "It reduces pollution and saves commuters time",
+        "It increases congestion",
+        "It removes public transport"
+      ],
+      "answer": 1
+    }
+  ]
+}

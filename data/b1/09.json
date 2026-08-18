@@ -1,0 +1,229 @@
+{
+  "id": 9,
+  "topic": "Public Health and Wellbeing",
+  "words": [
+    {
+      "word": "outbreak",
+      "pos": "noun",
+      "ipa": "/ˈaʊtbreɪk/",
+      "definition": "a sudden start of a disease affecting many people at the same time",
+      "example": "The hospital reported a new outbreak of flu this winter.",
+      "uz": "epidemiya"
+    },
+    {
+      "word": "symptom",
+      "pos": "noun",
+      "ipa": "/ˈsɪmptəm/",
+      "definition": "a sign in the body that shows a person has an illness",
+      "example": "A high temperature is a common symptom of infection.",
+      "uz": "alomat"
+    },
+    {
+      "word": "vaccine",
+      "pos": "noun",
+      "ipa": "/vækˈsiːn/",
+      "definition": "a substance given to protect people from a disease",
+      "example": "Children receive a vaccine to protect them against measles.",
+      "uz": "vaksina"
+    },
+    {
+      "word": "hygiene",
+      "pos": "noun",
+      "ipa": "/ˈhaɪdʒiːn/",
+      "definition": "the practice of keeping yourself and your surroundings clean to stay healthy",
+      "example": "Good hygiene, like washing your hands, helps prevent illness.",
+      "uz": "gigiyena"
+    },
+    {
+      "word": "prevent",
+      "pos": "verb",
+      "ipa": "/prɪˈvent/",
+      "definition": "to stop something from happening",
+      "example": "Regular exercise can help prevent many health problems.",
+      "uz": "oldini olmoq"
+    },
+    {
+      "word": "spread",
+      "pos": "verb",
+      "ipa": "/spred/",
+      "definition": "to move and affect a larger area or more people",
+      "example": "The virus can spread quickly in crowded places.",
+      "uz": "tarqalmoq"
+    },
+    {
+      "word": "diagnose",
+      "pos": "verb",
+      "ipa": "/ˈdaɪəɡnoʊz/",
+      "definition": "to identify what illness a person has",
+      "example": "The doctor diagnosed her with a mild infection.",
+      "uz": "tashxis qo'ymoq"
+    },
+    {
+      "word": "treatment",
+      "pos": "noun",
+      "ipa": "/ˈtriːtmənt/",
+      "definition": "medical care given to cure or control an illness",
+      "example": "The treatment for the infection included rest and medicine.",
+      "uz": "davolash"
+    },
+    {
+      "word": "recover",
+      "pos": "verb",
+      "ipa": "/rɪˈkʌvər/",
+      "definition": "to become healthy again after an illness",
+      "example": "It usually takes a week to recover from a cold.",
+      "uz": "tuzalmoq"
+    },
+    {
+      "word": "chronic",
+      "pos": "adjective",
+      "ipa": "/ˈkrɒnɪk/",
+      "definition": "describing an illness that lasts for a long time",
+      "example": "Diabetes is a chronic condition that needs constant care.",
+      "uz": "surunkali"
+    },
+    {
+      "word": "contagious",
+      "pos": "adjective",
+      "ipa": "/kənˈteɪdʒəs/",
+      "definition": "describing a disease that can spread easily from one person to another",
+      "example": "Chickenpox is highly contagious among children.",
+      "uz": "yuqumli"
+    },
+    {
+      "word": "wellbeing",
+      "pos": "noun",
+      "ipa": "/ˌwelˈbiːɪŋ/",
+      "definition": "the state of being healthy, happy, and comfortable",
+      "example": "Sleep is essential for both physical and mental wellbeing.",
+      "uz": "farovonlik"
+    },
+    {
+      "word": "lifestyle",
+      "pos": "noun",
+      "ipa": "/ˈlaɪfstaɪl/",
+      "definition": "the way a person lives, including habits and daily choices",
+      "example": "A healthy lifestyle includes good food and regular exercise.",
+      "uz": "turmush tarzi"
+    },
+    {
+      "word": "obesity",
+      "pos": "noun",
+      "ipa": "/oʊˈbiːsəti/",
+      "definition": "the condition of being extremely overweight in a way that is unhealthy",
+      "example": "Obesity increases the risk of heart disease.",
+      "uz": "semizlik"
+    },
+    {
+      "word": "nutrition",
+      "pos": "noun",
+      "ipa": "/njuːˈtrɪʃən/",
+      "definition": "the process of eating the right food for good health",
+      "example": "Good nutrition is important for children's growth.",
+      "uz": "oziqlanish"
+    },
+    {
+      "word": "checkup",
+      "pos": "noun",
+      "ipa": "/ˈtʃekʌp/",
+      "definition": "a medical examination to check general health",
+      "example": "She goes for a checkup at the doctor's office every year.",
+      "uz": "tibbiy ko'rik"
+    },
+    {
+      "word": "awareness",
+      "pos": "noun",
+      "ipa": "/əˈweənəs/",
+      "definition": "knowledge or understanding of a particular situation or problem",
+      "example": "The campaign aims to raise awareness about mental illness.",
+      "uz": "xabardorlik"
+    },
+    {
+      "word": "immune",
+      "pos": "adjective",
+      "ipa": "/ɪˈmjuːn/",
+      "definition": "having protection against a disease",
+      "example": "A strong immune system helps the body fight infections.",
+      "uz": "immunitetli"
+    },
+    {
+      "word": "infection",
+      "pos": "noun",
+      "ipa": "/ɪnˈfekʃən/",
+      "definition": "an illness caused by harmful germs entering the body",
+      "example": "He developed an infection after the surgery.",
+      "uz": "infeksiya"
+    },
+    {
+      "word": "campaign",
+      "pos": "noun",
+      "ipa": "/kæmˈpeɪn/",
+      "definition": "a series of planned activities to achieve a particular social goal",
+      "example": "The health ministry launched a campaign to encourage handwashing.",
+      "uz": "kampaniya"
+    }
+  ],
+  "text": "In recent years, public health awareness has grown rapidly, as governments and doctors try to prevent diseases before they spread. A healthy lifestyle, which includes good nutrition and regular exercise, can reduce the risk of chronic illnesses such as heart disease and obesity. However, contagious diseases remain a serious challenge, especially when a new virus causes an outbreak. If people do not follow basic hygiene rules, such as washing their hands, an infection can spread quickly through a community. Vaccines play an important role because they strengthen the immune system and help the body fight illness before symptoms appear. When someone feels unwell, it is important to see a doctor, who can diagnose the problem and recommend the right treatment. Most people recover fully if they receive care early, although some conditions require long-term management. Public health campaigns often encourage citizens to have a regular checkup, since early detection saves lives. In conclusion, protecting our wellbeing depends not only on medical treatment but also on the choices we make every day, from what we eat to how carefully we follow hygiene advice.",
+  "questions": [
+    {
+      "question": "What does a healthy lifestyle help reduce, according to the passage?",
+      "options": [
+        "The number of doctors",
+        "The risk of chronic illnesses",
+        "The cost of vaccines",
+        "The length of checkups"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why are vaccines important, according to the passage?",
+      "options": [
+        "They cure obesity",
+        "They strengthen the immune system",
+        "They replace hygiene rules",
+        "They stop nutrition problems"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can happen if people do not follow hygiene rules?",
+      "options": [
+        "Vaccines become useless",
+        "Chronic illness disappears",
+        "Infection can spread quickly",
+        "Checkups become unnecessary"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the passage, what should someone do when they feel unwell?",
+      "options": [
+        "Start a new lifestyle",
+        "See a doctor",
+        "Avoid all treatment",
+        "Wait without acting"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is one purpose of public health campaigns mentioned in the text?",
+      "options": [
+        "To sell vaccines",
+        "To encourage regular checkups",
+        "To stop contagious diseases completely",
+        "To reduce nutrition education"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the conclusion, what does protecting wellbeing depend on?",
+      "options": [
+        "Only medical treatment",
+        "Only vaccines",
+        "Daily choices and medical treatment",
+        "Government campaigns only"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 5,
+  "topic": "Career Change and Development",
+  "words": [
+    {
+      "word": "career path",
+      "pos": "noun phrase",
+      "ipa": "/kəˈrɪər pɑːθ/",
+      "definition": "the sequence of jobs a person has during their working life",
+      "example": "She chose a career path in marketing after university.",
+      "uz": "karyera yo'li"
+    },
+    {
+      "word": "transferable skills",
+      "pos": "noun phrase",
+      "ipa": "/trænsˈfɜː.rə.bəl skɪlz/",
+      "definition": "abilities that can be used in different jobs or industries",
+      "example": "Communication is one of the most useful transferable skills.",
+      "uz": "universal ko'nikmalar"
+    },
+    {
+      "word": "redundant",
+      "pos": "adjective",
+      "ipa": "/rɪˈdʌn.dənt/",
+      "definition": "no longer employed because a job is no longer needed",
+      "example": "Hundreds of workers became redundant when the factory closed.",
+      "uz": "qisqartirilgan"
+    },
+    {
+      "word": "retrain",
+      "pos": "verb",
+      "ipa": "/riːˈtreɪn/",
+      "definition": "to learn new skills in order to do a different type of work",
+      "example": "He decided to retrain as a software developer.",
+      "uz": "qayta o'qimoq"
+    },
+    {
+      "word": "networking",
+      "pos": "noun",
+      "ipa": "/ˈnet.wɜː.kɪŋ/",
+      "definition": "meeting people who could be useful to know professionally",
+      "example": "Networking events can help you find new job opportunities.",
+      "uz": "aloqalar o'rnatish"
+    },
+    {
+      "word": "resign",
+      "pos": "verb",
+      "ipa": "/rɪˈzaɪn/",
+      "definition": "to formally leave a job",
+      "example": "She plans to resign from her job next month.",
+      "uz": "ishdan bo'shamoq"
+    },
+    {
+      "word": "promotion",
+      "pos": "noun",
+      "ipa": "/prəˈməʊ.ʃən/",
+      "definition": "a move to a higher position in a job",
+      "example": "He was offered a promotion after two years at the company.",
+      "uz": "lavozimda ko'tarilish"
+    },
+    {
+      "word": "job satisfaction",
+      "pos": "noun phrase",
+      "ipa": "/dʒɒb ˌsæt.ɪsˈfæk.ʃən/",
+      "definition": "the feeling of pleasure or achievement that a person gets from their work",
+      "example": "Job satisfaction is more important to her than a high salary.",
+      "uz": "ishdan mamnunlik"
+    },
+    {
+      "word": "entrepreneur",
+      "pos": "noun",
+      "ipa": "/ˌɒn.trə.prəˈnɜːr/",
+      "definition": "a person who starts and runs their own business",
+      "example": "As a young entrepreneur, she started her own company at twenty-two.",
+      "uz": "tadbirkor"
+    },
+    {
+      "word": "comfort zone",
+      "pos": "noun phrase",
+      "ipa": "/ˈkʌm.fət zəʊn/",
+      "definition": "a situation in which someone feels safe and in control",
+      "example": "Trying a new career meant stepping outside her comfort zone.",
+      "uz": "qulaylik zonasi"
+    },
+    {
+      "word": "take a risk",
+      "pos": "phrase",
+      "ipa": "/teɪk ə rɪsk/",
+      "definition": "to do something even though the result is uncertain",
+      "example": "Sometimes you have to take a risk to achieve success.",
+      "uz": "tavakkal qilmoq"
+    },
+    {
+      "word": "qualifications",
+      "pos": "noun",
+      "ipa": "/ˌkwɒl.ɪ.fɪˈkeɪ.ʃənz/",
+      "definition": "official skills or knowledge gained through training or study",
+      "example": "He gained new qualifications to change his career.",
+      "uz": "malaka"
+    },
+    {
+      "word": "mentor",
+      "pos": "noun",
+      "ipa": "/ˈmen.tɔːr/",
+      "definition": "an experienced person who advises and helps someone less experienced",
+      "example": "Her mentor gave her valuable career advice.",
+      "uz": "murabbiy"
+    },
+    {
+      "word": "burnt out",
+      "pos": "adjective",
+      "ipa": "/bɜːnt aʊt/",
+      "definition": "extremely tired and stressed from too much work",
+      "example": "He felt burnt out after years in a stressful job.",
+      "uz": "tinkasi qurigan"
+    },
+    {
+      "word": "freelance",
+      "pos": "adjective",
+      "ipa": "/ˈfriː.lɑːns/",
+      "definition": "working independently for different companies rather than for one employer",
+      "example": "She now works freelance instead of for one company.",
+      "uz": "erkin (frilanser) tarzda ishlaydigan"
+    },
+    {
+      "word": "stagnant",
+      "pos": "adjective",
+      "ipa": "/ˈstæɡ.nənt/",
+      "definition": "not developing, growing, or changing",
+      "example": "He felt his career had become stagnant.",
+      "uz": "turg'un"
+    },
+    {
+      "word": "industry",
+      "pos": "noun",
+      "ipa": "/ˈɪn.də.stri/",
+      "definition": "a particular area of business or manufacturing",
+      "example": "The technology industry is growing quickly.",
+      "uz": "soha"
+    },
+    {
+      "word": "adapt",
+      "pos": "verb",
+      "ipa": "/əˈdæpt/",
+      "definition": "to change your behaviour in order to deal with a new situation",
+      "example": "Workers must adapt to new technology to stay competitive.",
+      "uz": "moslashmoq"
+    },
+    {
+      "word": "long-term prospects",
+      "pos": "noun phrase",
+      "ipa": "/ˌlɒŋ ˈtɜːm ˈprɒs.pekts/",
+      "definition": "the chances of success or development in the future",
+      "example": "The new job offers better long-term prospects.",
+      "uz": "uzoq muddatli istiqbollar"
+    },
+    {
+      "word": "reassess",
+      "pos": "verb",
+      "ipa": "/ˌriː.əˈses/",
+      "definition": "to think again about something in order to make a decision",
+      "example": "After the layoffs, many workers began to reassess their career choices.",
+      "uz": "qayta baholamoq"
+    }
+  ],
+  "text": "Changing careers used to be unusual, but nowadays many people reassess their career path several times during their working life. Some employees resign because they feel stagnant in a job with no promotion and little job satisfaction, while others become redundant when their industry changes or shrinks. Instead of panicking, career experts suggest looking at your transferable skills, since abilities such as communication or problem-solving can often be used in a completely different field. A person who decides to retrain might take evening classes to gain new qualifications, or they might work with a mentor who has already made a similar change. Networking is also important, because many opportunities come from people you know rather than online job advertisements. Although leaving a comfort zone can be frightening, taking a risk is sometimes necessary if a job leaves someone feeling burnt out or unfulfilled. Some workers even decide to become an entrepreneur or start freelance work, which allows them to adapt their schedule and be their own boss. Of course, not every change leads to better long-term prospects, so it is wise to research a new industry carefully before committing. Nevertheless, with the right planning, a career change can lead to greater happiness and personal growth.",
+  "questions": [
+    {
+      "question": "According to the passage, why do some employees resign from their jobs?",
+      "options": [
+        "They receive a promotion",
+        "They feel stagnant with little job satisfaction",
+        "They want to become redundant",
+        "They dislike networking"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do career experts suggest looking at before changing careers?",
+      "options": [
+        "Your transferable skills",
+        "Your comfort zone",
+        "Your industry's history",
+        "Your former mentor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can networking help someone during a career change, according to the text?",
+      "options": [
+        "It guarantees a promotion",
+        "Many opportunities come from people you know",
+        "It removes the need for qualifications",
+        "It prevents burnout"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why might someone decide to take a risk and leave their comfort zone, according to the passage?",
+      "options": [
+        "Because they feel burnt out or unfulfilled",
+        "Because their industry is growing quickly",
+        "Because they already have long-term prospects",
+        "Because networking is unnecessary"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the passage say about becoming an entrepreneur or doing freelance work?",
+      "options": [
+        "It removes all financial risk",
+        "It allows people to adapt their schedule",
+        "It guarantees job satisfaction",
+        "It always requires new qualifications"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage recommend before committing to a new industry?",
+      "options": [
+        "Resigning immediately",
+        "Ignoring transferable skills",
+        "Researching the new industry carefully",
+        "Avoiding mentors"
+      ],
+      "answer": 2
+    }
+  ]
+}

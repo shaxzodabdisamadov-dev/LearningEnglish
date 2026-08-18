@@ -1,0 +1,229 @@
+{
+  "id": 7,
+  "topic": "Home and Living",
+  "words": [
+    {
+      "word": "apartment",
+      "pos": "noun",
+      "ipa": "/əˈpɑːrtmənt/",
+      "definition": "a set of rooms for living in, usually in a large building.",
+      "example": "She lives in a small apartment.",
+      "uz": "kvartira"
+    },
+    {
+      "word": "furniture",
+      "pos": "noun",
+      "ipa": "/ˈfɜːrnɪtʃər/",
+      "definition": "large objects like tables, chairs, and beds used in a home.",
+      "example": "We bought new furniture for the living room.",
+      "uz": "mebel"
+    },
+    {
+      "word": "rent",
+      "pos": "verb",
+      "ipa": "/rent/",
+      "definition": "to pay money regularly to use a home that belongs to someone else.",
+      "example": "They rent a flat near the station.",
+      "uz": "ijaraga olmoq"
+    },
+    {
+      "word": "landlord",
+      "pos": "noun",
+      "ipa": "/ˈlændlɔːrd/",
+      "definition": "a person who owns a property and rents it to other people.",
+      "example": "Our landlord fixed the broken window.",
+      "uz": "uy egasi"
+    },
+    {
+      "word": "tenant",
+      "pos": "noun",
+      "ipa": "/ˈtenənt/",
+      "definition": "a person who pays to live in a property owned by someone else.",
+      "example": "The new tenant moved in last week.",
+      "uz": "ijarachi"
+    },
+    {
+      "word": "mortgage",
+      "pos": "noun",
+      "ipa": "/ˈmɔːrɡɪdʒ/",
+      "definition": "a loan used to buy a house, paid back over many years.",
+      "example": "They took out a mortgage to buy their house.",
+      "uz": "ipoteka"
+    },
+    {
+      "word": "balcony",
+      "pos": "noun",
+      "ipa": "/ˈbælkəni/",
+      "definition": "a small platform outside an upstairs window or on a high floor.",
+      "example": "We had breakfast on the balcony.",
+      "uz": "balkon"
+    },
+    {
+      "word": "garage",
+      "pos": "noun",
+      "ipa": "/ɡəˈrɑːʒ/",
+      "definition": "a building where you keep a car.",
+      "example": "He parks his car in the garage.",
+      "uz": "garaj"
+    },
+    {
+      "word": "garden",
+      "pos": "noun",
+      "ipa": "/ˈɡɑːrdn/",
+      "definition": "an area of land next to a house where you grow plants.",
+      "example": "She grows flowers in her garden.",
+      "uz": "bog'"
+    },
+    {
+      "word": "basement",
+      "pos": "noun",
+      "ipa": "/ˈbeɪsmənt/",
+      "definition": "a room or floor of a building that is below ground level.",
+      "example": "We store old boxes in the basement.",
+      "uz": "podval"
+    },
+    {
+      "word": "ceiling",
+      "pos": "noun",
+      "ipa": "/ˈsiːlɪŋ/",
+      "definition": "the inside surface of the top of a room.",
+      "example": "The lamp hangs from the ceiling.",
+      "uz": "shift"
+    },
+    {
+      "word": "roof",
+      "pos": "noun",
+      "ipa": "/ruːf/",
+      "definition": "the covering on top of a building.",
+      "example": "Snow covered the roof.",
+      "uz": "tom"
+    },
+    {
+      "word": "curtain",
+      "pos": "noun",
+      "ipa": "/ˈkɜːrtn/",
+      "definition": "a piece of cloth that covers a window.",
+      "example": "Please close the curtains.",
+      "uz": "parda"
+    },
+    {
+      "word": "appliance",
+      "pos": "noun",
+      "ipa": "/əˈplaɪəns/",
+      "definition": "a machine used at home, like a fridge or a washing machine.",
+      "example": "A microwave is a useful kitchen appliance.",
+      "uz": "maishiy texnika"
+    },
+    {
+      "word": "furnished",
+      "pos": "adjective",
+      "ipa": "/ˈfɜːrnɪʃt/",
+      "definition": "having furniture already inside.",
+      "example": "We rented a fully furnished flat.",
+      "uz": "mebellangan"
+    },
+    {
+      "word": "spacious",
+      "pos": "adjective",
+      "ipa": "/ˈspeɪʃəs/",
+      "definition": "having a lot of space; large.",
+      "example": "The kitchen is bright and spacious.",
+      "uz": "keng"
+    },
+    {
+      "word": "cozy",
+      "pos": "adjective",
+      "ipa": "/ˈkoʊzi/",
+      "definition": "warm and comfortable.",
+      "example": "Their living room feels very cozy.",
+      "uz": "shinam"
+    },
+    {
+      "word": "move in",
+      "pos": "phrase",
+      "ipa": "/muːv ɪn/",
+      "definition": "to start living in a new home.",
+      "example": "We will move in next Friday.",
+      "uz": "ko'chib kirmoq"
+    },
+    {
+      "word": "neighbor",
+      "pos": "noun",
+      "ipa": "/ˈneɪbər/",
+      "definition": "a person who lives next to or near you.",
+      "example": "Our neighbor is very friendly.",
+      "uz": "qo'shni"
+    },
+    {
+      "word": "utility bill",
+      "pos": "noun",
+      "ipa": "/juːˈtɪləti bɪl/",
+      "definition": "a bill for services like water, gas, or electricity.",
+      "example": "We pay the utility bills every month.",
+      "uz": "kommunal to'lov"
+    }
+  ],
+  "text": "Two months ago, Sam moved into a new apartment in the city center. He rents it from a friendly landlord, and Sam is now his tenant. The apartment is small but very cozy, and the landlord says it is more spacious than it looks. It has a nice balcony where Sam can sit outside in the evening, but no garden or garage, because it's in a big building. There is no basement either, but the ceiling is high, which makes the rooms feel bigger. The apartment came furnished, so Sam didn't need to buy a lot of furniture — just a few small things. It already had modern appliances in the kitchen, like a fridge and a washing machine. Sam bought new curtains for the bedroom because the old ones didn't match his style. Every month, Sam has to pay rent and also the utility bills for electricity and water. He hopes that one day he can buy his own home with a mortgage, instead of renting. Since he moved in, Sam has met some of his neighbors, and they are all very kind. He often talks to them near the roof terrace of the building.",
+  "questions": [
+    {
+      "question": "Who does Sam rent his apartment from?",
+      "options": [
+        "His neighbor",
+        "A friendly landlord",
+        "His parents",
+        "The bank"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Does the apartment have a garden or a garage?",
+      "options": [
+        "Yes, both",
+        "Only a garden",
+        "Only a garage",
+        "No, neither"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Why didn't Sam need to buy a lot of furniture?",
+      "options": [
+        "He borrowed it from a neighbor",
+        "The apartment came furnished",
+        "He doesn't like furniture",
+        "It was too expensive"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why did Sam buy new curtains?",
+      "options": [
+        "The old ones were broken",
+        "The old ones didn't match his style",
+        "There were no curtains at all",
+        "His landlord asked him to"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does Sam hope to do in the future?",
+      "options": [
+        "Move to the basement",
+        "Buy his own home with a mortgage",
+        "Become a landlord",
+        "Move abroad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where does Sam often talk to his neighbors?",
+      "options": [
+        "In the garage",
+        "In the garden",
+        "Near the roof terrace",
+        "In the basement"
+      ],
+      "answer": 2
+    }
+  ]
+}

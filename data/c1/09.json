@@ -1,0 +1,229 @@
+{
+  "id": 9,
+  "topic": "Behavioral Economics and Consumer Psychology",
+  "words": [
+    {
+      "word": "heuristic",
+      "pos": "noun",
+      "ipa": "/hjʊˈrɪstɪk/",
+      "definition": "A mental shortcut or rule of thumb that enables rapid judgment but can introduce systematic error.",
+      "example": "Rather than calculating every variable, she relied on a simple heuristic: if a deal seems too good to be true, it usually is.",
+      "uz": "evristika (aqliy qisqa yo'l)"
+    },
+    {
+      "word": "anchoring",
+      "pos": "noun",
+      "ipa": "/ˈæŋkərɪŋ/",
+      "definition": "The cognitive tendency to rely disproportionately on the first piece of information encountered when making decisions.",
+      "example": "Negotiators often exploit anchoring by naming an extreme initial price to shift the entire range of subsequent offers.",
+      "uz": "langar effekti"
+    },
+    {
+      "word": "nudge",
+      "pos": "noun",
+      "ipa": "/nʌdʒ/",
+      "definition": "A subtle change in how choices are presented that steers behavior without restricting options or altering incentives.",
+      "example": "Placing fruit at eye level in the cafeteria was a nudge designed to encourage healthier choices without banning junk food.",
+      "uz": "yengil turtki (xulqni yo'naltiruvchi)"
+    },
+    {
+      "word": "loss aversion",
+      "pos": "noun",
+      "ipa": "/lɒs əˈvɜːʒən/",
+      "definition": "The tendency to weigh potential losses more heavily than equivalent gains when making decisions.",
+      "example": "Loss aversion explains why investors cling to falling stocks far longer than rational calculation would justify.",
+      "uz": "yo'qotishdan qochish moyilligi"
+    },
+    {
+      "word": "discretionary",
+      "pos": "adjective",
+      "ipa": "/dɪˈskreʃənəri/",
+      "definition": "Available for optional spending or use, not allocated to essential needs.",
+      "example": "After covering rent and utilities, only a modest sum remains for discretionary purchases.",
+      "uz": "ixtiyoriy (majburiy bo'lmagan xarajat)"
+    },
+    {
+      "word": "impetuous",
+      "pos": "adjective",
+      "ipa": "/ɪmˈpetʃuəs/",
+      "definition": "Acting or done with excessive haste and impulsiveness, without due consideration.",
+      "example": "His impetuous decision to resign without another job lined up left his colleagues stunned.",
+      "uz": "shoshqaloq, o'ylamasdan ish tutuvchi"
+    },
+    {
+      "word": "rationalize",
+      "pos": "verb",
+      "ipa": "/ˈræʃənəlaɪz/",
+      "definition": "To devise superficially plausible explanations for behavior or beliefs that are actually driven by other, less creditable motives.",
+      "example": "It is remarkably easy to rationalize an unnecessary purchase once the item is already in the shopping cart.",
+      "uz": "keyinchalik oqlab tushuntirmoq"
+    },
+    {
+      "word": "cognitive dissonance",
+      "pos": "noun",
+      "ipa": "/ˈkɒɡnɪtɪv ˈdɪsənəns/",
+      "definition": "The psychological discomfort experienced when holding contradictory beliefs or when behavior conflicts with self-image.",
+      "example": "Smokers who acknowledge the health risks yet continue smoking often experience acute cognitive dissonance.",
+      "uz": "kognitiv dissonans"
+    },
+    {
+      "word": "paternalistic",
+      "pos": "adjective",
+      "ipa": "/pəˌtɜːnəˈlɪstɪk/",
+      "definition": "Restricting people's freedom for their ostensible own good, in a manner resembling a parent's authority over a child.",
+      "example": "Critics dismissed the soda tax as a paternalistic intrusion into personal choice.",
+      "uz": "otalarcha cheklab nazorat qiluvchi"
+    },
+    {
+      "word": "incentivize",
+      "pos": "verb",
+      "ipa": "/ɪnˈsentɪvaɪz/",
+      "definition": "To motivate a particular behavior through reward or inducement.",
+      "example": "The company restructured its bonus scheme to incentivize long-term customer retention rather than short-term sales.",
+      "uz": "rag'batlantirmoq"
+    },
+    {
+      "word": "malleable",
+      "pos": "adjective",
+      "ipa": "/ˈmæliəbl/",
+      "definition": "Readily influenced or shaped, especially in reference to opinion or preference.",
+      "example": "Children's brand preferences are notably malleable, which is precisely why advertisers target them so aggressively.",
+      "uz": "ta'sirga oson beriluvchan"
+    },
+    {
+      "word": "susceptible",
+      "pos": "adjective",
+      "ipa": "/səˈseptəbl/",
+      "definition": "Easily influenced or affected by something, especially something undesirable.",
+      "example": "Sleep-deprived shoppers are more susceptible to impulsive spending than those who are well rested.",
+      "uz": "ta'sirga moyil"
+    },
+    {
+      "word": "bandwagon effect",
+      "pos": "noun",
+      "ipa": "/ˈbændwæɡɒn ɪˌfekt/",
+      "definition": "The phenomenon whereby people adopt a behavior or belief primarily because others have already done so.",
+      "example": "Sales of the gadget surged once reviewers praised it, a textbook illustration of the bandwagon effect.",
+      "uz": "ommaviy ergashish effekti"
+    },
+    {
+      "word": "sunk cost",
+      "pos": "noun",
+      "ipa": "/sʌŋk kɒst/",
+      "definition": "An expenditure already incurred that cannot be recovered and should, in principle, be irrelevant to future decisions.",
+      "example": "Continuing to fund the failing project purely because of the money already spent is a classic sunk-cost fallacy.",
+      "uz": "qaytarib bo'lmas xarajat"
+    },
+    {
+      "word": "conspicuous consumption",
+      "pos": "noun",
+      "ipa": "/kənˈspɪkjuəs kənˈsʌmpʃən/",
+      "definition": "The ostentatious purchase of goods primarily to display wealth or status rather than to satisfy genuine need.",
+      "example": "The luxury handbag, priced absurdly high, functions less as an accessory than as an act of conspicuous consumption.",
+      "uz": "boylikni ko'z-ko'z qilib sarflash"
+    },
+    {
+      "word": "gratification",
+      "pos": "noun",
+      "ipa": "/ˌɡrætɪfɪˈkeɪʃən/",
+      "definition": "The pleasure or satisfaction derived from fulfilling a desire, especially when obtained immediately.",
+      "example": "Streaming services are engineered to deliver instant gratification, one episode auto-playing after another.",
+      "uz": "zavqlanish, qoniqish hissi"
+    },
+    {
+      "word": "manipulative",
+      "pos": "adjective",
+      "ipa": "/məˈnɪpjʊlətɪv/",
+      "definition": "Exerting unscrupulous or devious influence over someone for one's own advantage.",
+      "example": "The advertisement's manipulative use of scarcity messaging pressured customers into hasty decisions.",
+      "uz": "manipulyatsiya qiluvchi"
+    },
+    {
+      "word": "subliminal",
+      "pos": "adjective",
+      "ipa": "/sʌbˈlɪmɪnəl/",
+      "definition": "Operating below the threshold of conscious perception.",
+      "example": "Regulators have long debated whether subliminal advertising should be banned outright.",
+      "uz": "ong osti darajasidagi"
+    },
+    {
+      "word": "deference",
+      "pos": "noun",
+      "ipa": "/ˈdefərəns/",
+      "definition": "Respectful submission or yielding to the judgment or authority of another.",
+      "example": "Consumers often show surprising deference to expert reviews, even when the reviewer's expertise is questionable.",
+      "uz": "hurmat bilan bo'ysunish"
+    },
+    {
+      "word": "exploit",
+      "pos": "verb",
+      "ipa": "/ɪkˈsplɔɪt/",
+      "definition": "To make use of a situation or weakness, often unfairly, for one's own benefit.",
+      "example": "Fast-fashion retailers exploit the fear of missing out to drive constant, unnecessary purchasing.",
+      "uz": "nohaq foydalanib qolmoq"
+    }
+  ],
+  "text": "Few ideas in contemporary policymaking have proved as contentious as the 'nudge': a deliberately engineered heuristic that exploits predictable quirks of human cognition—anchoring, loss aversion, the bandwagon effect—to steer citizens toward ostensibly beneficial outcomes without curtailing their formal freedom of choice. Proponents insist that such interventions merely correct for the malleable, often impetuous nature of everyday decision-making; since consumers are already susceptible to manipulative advertising and subliminal cues engineered to incentivize discretionary spending, why should governments not deploy comparable tools for public benefit? Critics, however, detect something more troubling: a paternalistic overreach that treats citizens as objects to be managed rather than agents to be persuaded. There is, admittedly, a kernel of cognitive dissonance in this objection, since the same critics rarely object when firms exploit sunk-cost reasoning or conspicuous consumption to extract gratification-driven purchases. What distinguishes state nudging from corporate manipulation, ultimately, is not technique but deference to disclosed intent: an ethical nudge, unlike a subliminal one, survives being made visible.",
+  "questions": [
+    {
+      "question": "What is the author's overall stance toward nudges, based on the passage?",
+      "options": [
+        "Wholly supportive of any use of nudges",
+        "Nuanced, seeing legitimate concerns on both sides but proposing a distinguishing criterion",
+        "Wholly critical of all nudges as unethical",
+        "Neutral, offering no judgment at all"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what do critics of nudging object to?",
+      "options": [
+        "The paternalistic treatment of citizens as objects to be managed",
+        "The high financial cost of implementing nudges",
+        "The claim that nudges are ineffective",
+        "The use of loss aversion in marketing specifically"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The author identifies a 'kernel of cognitive dissonance' in critics' position because...",
+      "options": [
+        "Critics apply inconsistent standards, condemning state nudges while ignoring similar corporate tactics",
+        "Critics do not understand cognitive science",
+        "Critics have never personally experienced sunk-cost reasoning",
+        "Critics secretly support conspicuous consumption"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What criterion does the author ultimately propose to distinguish ethical nudges from manipulation?",
+      "options": [
+        "Whether the nudge is created by government or by a corporation",
+        "Whether the nudge's intent remains effective even when disclosed and made visible",
+        "Whether the nudge relies on loss aversion",
+        "Whether the nudge increases discretionary spending"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The phrase 'survives being made visible' implies that",
+      "options": [
+        "Ethical nudges retain their legitimacy even when their mechanism is exposed, unlike manipulative ones that depend on concealment",
+        "Nudges must be publicly advertised in order to work at all",
+        "All nudges lose their effect once revealed to the public",
+        "Visibility automatically proves that a nudge is subliminal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which best describes the rhetorical structure of the passage?",
+      "options": [
+        "It presents a claim, concedes an opposing viewpoint's partial validity, then offers a synthesizing distinction",
+        "It presents two equally weighted arguments and leaves them unresolved",
+        "It narrates a historical sequence of events without argument",
+        "It simply lists definitions with no argumentative structure"
+      ],
+      "answer": 0
+    }
+  ]
+}

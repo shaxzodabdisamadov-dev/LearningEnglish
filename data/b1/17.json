@@ -1,0 +1,229 @@
+{
+  "id": 17,
+  "topic": "Social Media Impact",
+  "words": [
+    {
+      "word": "platform",
+      "pos": "noun",
+      "ipa": "/ˈplætfɔːrm/",
+      "definition": "A website or application where people share information or communicate.",
+      "example": "Instagram is a popular platform for sharing photos.",
+      "uz": "platforma"
+    },
+    {
+      "word": "influence",
+      "pos": "verb",
+      "ipa": "/ˈɪnfluəns/",
+      "definition": "To affect the way someone thinks or behaves.",
+      "example": "Social media can influence how teenagers see themselves.",
+      "uz": "ta'sir qilmoq"
+    },
+    {
+      "word": "influencer",
+      "pos": "noun",
+      "ipa": "/ˈɪnfluənsər/",
+      "definition": "A person who affects other people's opinions or buying habits, especially online.",
+      "example": "The influencer promoted the new product to her followers.",
+      "uz": "influencer"
+    },
+    {
+      "word": "addicted",
+      "pos": "adjective",
+      "ipa": "/əˈdɪktɪd/",
+      "definition": "Unable to stop doing or using something.",
+      "example": "Many young people feel addicted to checking their phones.",
+      "uz": "qaram bo'lgan"
+    },
+    {
+      "word": "addiction",
+      "pos": "noun",
+      "ipa": "/əˈdɪkʃən/",
+      "definition": "A strong physical or mental need to do or use something regularly.",
+      "example": "Social media addiction is becoming a common problem.",
+      "uz": "qaramlik"
+    },
+    {
+      "word": "share",
+      "pos": "verb",
+      "ipa": "/ʃer/",
+      "definition": "To post something online so that other people can see it.",
+      "example": "She shared her holiday photos with her friends.",
+      "uz": "ulashmoq"
+    },
+    {
+      "word": "comment",
+      "pos": "noun",
+      "ipa": "/ˈkɑːment/",
+      "definition": "A written reaction or opinion posted in response to something online.",
+      "example": "His comment received hundreds of likes.",
+      "uz": "izoh"
+    },
+    {
+      "word": "follower",
+      "pos": "noun",
+      "ipa": "/ˈfɑːloʊər/",
+      "definition": "Someone who chooses to receive another person's updates on social media.",
+      "example": "She has thousands of followers on her blog.",
+      "uz": "obunachi"
+    },
+    {
+      "word": "connect",
+      "pos": "verb",
+      "ipa": "/kəˈnekt/",
+      "definition": "To communicate with someone or form a relationship with them.",
+      "example": "Social media helps people connect with old friends.",
+      "uz": "aloqa o'rnatmoq"
+    },
+    {
+      "word": "isolate",
+      "pos": "verb",
+      "ipa": "/ˈaɪsəleɪt/",
+      "definition": "To make someone feel alone or separated from other people.",
+      "example": "Spending too much time online can isolate people from real friendships.",
+      "uz": "yolg'izlantirmoq"
+    },
+    {
+      "word": "anxiety",
+      "pos": "noun",
+      "ipa": "/æŋˈzaɪəti/",
+      "definition": "A feeling of worry or nervousness about something.",
+      "example": "Constant comparison online can cause anxiety.",
+      "uz": "xavotir"
+    },
+    {
+      "word": "compare",
+      "pos": "verb",
+      "ipa": "/kəmˈper/",
+      "definition": "To look at the differences or similarities between two or more things.",
+      "example": "It's unhealthy to compare your life to others' online posts.",
+      "uz": "solishtirmoq"
+    },
+    {
+      "word": "self-esteem",
+      "pos": "noun",
+      "ipa": "/ˌself ɪˈstiːm/",
+      "definition": "The confidence and value a person feels about themselves.",
+      "example": "Negative comments can damage a teenager's self-esteem.",
+      "uz": "o'z-o'ziga hurmat"
+    },
+    {
+      "word": "privacy",
+      "pos": "noun",
+      "ipa": "/ˈpraɪvəsi/",
+      "definition": "The state of being free from unwanted attention to personal information.",
+      "example": "Many users worry about their privacy on social media.",
+      "uz": "shaxsiy hayot maxfiyligi"
+    },
+    {
+      "word": "content",
+      "pos": "noun",
+      "ipa": "/ˈkɑːntent/",
+      "definition": "The information, photos, or videos shared or included in something.",
+      "example": "The app is full of entertaining content.",
+      "uz": "kontent"
+    },
+    {
+      "word": "trend",
+      "pos": "noun",
+      "ipa": "/trend/",
+      "definition": "A general direction in which something develops, or a currently popular topic.",
+      "example": "The dance became a trend on social media.",
+      "uz": "trend"
+    },
+    {
+      "word": "viral",
+      "pos": "adjective",
+      "ipa": "/ˈvaɪrəl/",
+      "definition": "Spreading very quickly among many people online.",
+      "example": "The video went viral within hours.",
+      "uz": "tez tarqaladigan"
+    },
+    {
+      "word": "engage",
+      "pos": "verb",
+      "ipa": "/ɪnˈɡeɪdʒ/",
+      "definition": "To interact with or take an active part in something.",
+      "example": "Brands try to engage their audience with fun posts.",
+      "uz": "faol ishtirok etmoq"
+    },
+    {
+      "word": "addictive",
+      "pos": "adjective",
+      "ipa": "/əˈdɪktɪv/",
+      "definition": "Causing a strong desire to continue doing or using something.",
+      "example": "Scrolling through feeds can be addictive.",
+      "uz": "qaramlik keltiruvchi"
+    },
+    {
+      "word": "awareness",
+      "pos": "noun",
+      "ipa": "/əˈwernəs/",
+      "definition": "Knowledge or understanding of a situation or problem.",
+      "example": "The campaign raised awareness about online safety.",
+      "uz": "xabardorlik"
+    }
+  ],
+  "text": "Social media has become part of daily life for billions of people. Platforms such as Instagram and TikTok allow users to share photos, videos, and opinions instantly, and they help people connect with friends and family around the world. However, many researchers believe these platforms can also influence users in negative ways. Because content is designed to be addictive, some people spend hours scrolling every day, which can lead to addiction. When users constantly compare their lives to the perfect images posted by an influencer, it can damage their self-esteem and increase anxiety. Although social media helps people stay in touch, it can also isolate them from real face-to-face relationships. A single post can go viral overnight, reaching millions of people, but this attention is not always positive; a careless comment can follow someone for years. In addition, many users worry about their privacy, as companies collect personal data from every click. As a result, schools and organizations are raising awareness about the risks of following the latest trend without thinking. Learning to engage with social media in a balanced way is essential for both mental health and safety.",
+  "questions": [
+    {
+      "question": "What is one way social media helps people, according to the passage?",
+      "options": [
+        "It helps people connect with friends and family",
+        "It guarantees privacy",
+        "It removes anxiety",
+        "It always improves self-esteem"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why is content on social media described as addictive?",
+      "options": [
+        "It is expensive",
+        "It is designed to keep users scrolling",
+        "It disappears quickly",
+        "It is only for influencers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can happen when users compare themselves to an influencer's posts?",
+      "options": [
+        "Their self-esteem may improve",
+        "Their self-esteem may be damaged and anxiety may increase",
+        "They automatically become influencers",
+        "They stop using social media"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what is a risk of a post going viral?",
+      "options": [
+        "It always brings positive attention",
+        "The attention is not always positive",
+        "It guarantees privacy",
+        "It reduces anxiety"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are organizations doing about the risks of social media, according to the text?",
+      "options": [
+        "Ignoring them",
+        "Banning social media completely",
+        "Raising awareness about the risks",
+        "Creating new platforms"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the passage suggest is important for mental health and safety?",
+      "options": [
+        "Following every trend",
+        "Engaging with social media in a balanced way",
+        "Deleting all social media accounts",
+        "Sharing personal data freely"
+      ],
+      "answer": 1
+    }
+  ]
+}

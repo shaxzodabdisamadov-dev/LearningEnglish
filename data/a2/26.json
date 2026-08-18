@@ -1,0 +1,229 @@
+{
+  "id": 26,
+  "topic": "News and Current Events",
+  "words": [
+    {
+      "word": "news",
+      "pos": "noun",
+      "ipa": "/njuːz/",
+      "definition": "information about recent events",
+      "example": "I watch the news every evening.",
+      "uz": "yangiliklar"
+    },
+    {
+      "word": "newspaper",
+      "pos": "noun",
+      "ipa": "/ˈnjuːzpeɪpər/",
+      "definition": "printed paper with news stories",
+      "example": "My father reads the newspaper every morning.",
+      "uz": "gazeta"
+    },
+    {
+      "word": "report",
+      "pos": "verb",
+      "ipa": "/rɪˈpɔːrt/",
+      "definition": "to give information about an event",
+      "example": "The journalist reported the story on TV.",
+      "uz": "xabar bermoq"
+    },
+    {
+      "word": "journalist",
+      "pos": "noun",
+      "ipa": "/ˈdʒɜːrnəlɪst/",
+      "definition": "a person who writes or reports news",
+      "example": "The journalist interviewed the mayor yesterday.",
+      "uz": "jurnalist"
+    },
+    {
+      "word": "story",
+      "pos": "noun",
+      "ipa": "/ˈstɔːri/",
+      "definition": "a written or spoken report about an event",
+      "example": "The newspaper printed a story about the fire.",
+      "uz": "reportaj"
+    },
+    {
+      "word": "event",
+      "pos": "noun",
+      "ipa": "/ɪˈvent/",
+      "definition": "something important that happens",
+      "example": "The election was a major event this year.",
+      "uz": "voqea"
+    },
+    {
+      "word": "interview",
+      "pos": "noun",
+      "ipa": "/ˈɪntərvjuː/",
+      "definition": "a meeting where someone answers questions",
+      "example": "The reporter did an interview with the singer.",
+      "uz": "intervyu"
+    },
+    {
+      "word": "headline",
+      "pos": "noun",
+      "ipa": "/ˈhedlaɪn/",
+      "definition": "the title of a news story",
+      "example": "The headline said 'City Wins Big Award'.",
+      "uz": "sarlavha"
+    },
+    {
+      "word": "article",
+      "pos": "noun",
+      "ipa": "/ˈɑːrtɪkəl/",
+      "definition": "a piece of writing in a newspaper or website",
+      "example": "She wrote an article about climate change.",
+      "uz": "maqola"
+    },
+    {
+      "word": "television",
+      "pos": "noun",
+      "ipa": "/ˈtelɪvɪʒən/",
+      "definition": "a machine that shows moving pictures and sound",
+      "example": "We watch the news on television every night.",
+      "uz": "televizor"
+    },
+    {
+      "word": "radio",
+      "pos": "noun",
+      "ipa": "/ˈreɪdioʊ/",
+      "definition": "a device that plays sound and news",
+      "example": "I listen to the news on the radio in my car.",
+      "uz": "radio"
+    },
+    {
+      "word": "internet",
+      "pos": "noun",
+      "ipa": "/ˈɪntərnet/",
+      "definition": "a global network used to share information",
+      "example": "Many people read news on the internet now.",
+      "uz": "internet"
+    },
+    {
+      "word": "information",
+      "pos": "noun",
+      "ipa": "/ˌɪnfərˈmeɪʃən/",
+      "definition": "facts or details about something",
+      "example": "The report gave a lot of useful information.",
+      "uz": "ma'lumot"
+    },
+    {
+      "word": "opinion",
+      "pos": "noun",
+      "ipa": "/əˈpɪnjən/",
+      "definition": "what a person thinks or believes",
+      "example": "Everyone has a different opinion about the news.",
+      "uz": "fikr"
+    },
+    {
+      "word": "fact",
+      "pos": "noun",
+      "ipa": "/fækt/",
+      "definition": "something that is true",
+      "example": "A good news report is based on facts.",
+      "uz": "fakt"
+    },
+    {
+      "word": "announce",
+      "pos": "verb",
+      "ipa": "/əˈnaʊns/",
+      "definition": "to tell people about something officially",
+      "example": "The company announced its new product today.",
+      "uz": "e'lon qilmoq"
+    },
+    {
+      "word": "publish",
+      "pos": "verb",
+      "ipa": "/ˈpʌblɪʃ/",
+      "definition": "to print or share information publicly",
+      "example": "The newspaper publishes new stories every day.",
+      "uz": "nashr etmoq"
+    },
+    {
+      "word": "broadcast",
+      "pos": "verb",
+      "ipa": "/ˈbrɔːdkæst/",
+      "definition": "to send out on TV or radio",
+      "example": "The channel will broadcast the news at six o'clock.",
+      "uz": "efirga uzatmoq"
+    },
+    {
+      "word": "update",
+      "pos": "noun",
+      "ipa": "/ˈʌpdeɪt/",
+      "definition": "new information about a situation",
+      "example": "We got an update about the weather.",
+      "uz": "yangilanish"
+    },
+    {
+      "word": "world",
+      "pos": "noun",
+      "ipa": "/wɜːrld/",
+      "definition": "the earth and all its countries and people",
+      "example": "People all over the world watched the event.",
+      "uz": "dunyo"
+    }
+  ],
+  "text": "Every day, we get news from many places. We can read a newspaper, watch television, listen to the radio, or check the internet for the latest news. A journalist works hard to report new stories about the world. They write an article about important events and give it a clear headline so people want to read it. Sometimes a journalist does an interview with a person to get more information. Good news should show facts, not just an opinion. A fact is something that is true, but an opinion is what a person thinks or feels. When something important happens, a journalist will announce it quickly. Newspapers publish new stories every day, and TV channels broadcast the news every evening. The internet gives us a fast update about events happening around the world, right now. It is important to check different sources before you believe a story, because not all information online is true. Reading the news helps us understand what is happening in our country and around the world, and it helps us talk about current events with other people.",
+  "questions": [
+    {
+      "question": "What does a journalist do to get more information from a person?",
+      "options": [
+        "broadcast",
+        "an interview",
+        "a headline",
+        "publish"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, what is the difference between a fact and an opinion?",
+      "options": [
+        "a fact is true; an opinion is what someone thinks",
+        "a fact is a headline; an opinion is an article",
+        "a fact is old news; an opinion is new news",
+        "there is no difference"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How often do TV channels broadcast the news, according to the text?",
+      "options": [
+        "once a week",
+        "every morning only",
+        "every evening",
+        "never"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What should you do before believing a story online, according to the text?",
+      "options": [
+        "check different sources",
+        "share it with everyone",
+        "ignore it",
+        "call a journalist"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the internet give us about events, according to the text?",
+      "options": [
+        "a slow report",
+        "a fast update",
+        "an old newspaper",
+        "a radio broadcast only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is reading the news helpful, according to the text?",
+      "options": [
+        "it helps us sleep better",
+        "it helps us understand what is happening in the world",
+        "it makes us angry",
+        "it stops us from talking to people"
+      ],
+      "answer": 1
+    }
+  ]
+}

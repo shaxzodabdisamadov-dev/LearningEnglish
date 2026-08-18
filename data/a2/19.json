@@ -1,0 +1,229 @@
+{
+  "id": 19,
+  "topic": "Environment and Nature",
+  "words": [
+    {
+      "word": "environment",
+      "pos": "noun",
+      "ipa": "/ɪnˈvaɪərənmənt/",
+      "definition": "the natural world around us, including air, water, and land",
+      "example": "We must take care of the environment.",
+      "uz": "atrof-muhit"
+    },
+    {
+      "word": "pollution",
+      "pos": "noun",
+      "ipa": "/pəˈluːʃən/",
+      "definition": "dirty and harmful things in the air, water, or land",
+      "example": "Pollution from cars is bad for the city.",
+      "uz": "ifloslanish"
+    },
+    {
+      "word": "recycle",
+      "pos": "verb",
+      "ipa": "/riːˈsaɪkəl/",
+      "definition": "to make used materials into something new instead of throwing them away",
+      "example": "We recycle paper, glass, and plastic at home.",
+      "uz": "qayta ishlamoq"
+    },
+    {
+      "word": "plastic",
+      "pos": "noun",
+      "ipa": "/ˈplæstɪk/",
+      "definition": "a light man-made material used to make many things",
+      "example": "This bottle is made of plastic.",
+      "uz": "plastik"
+    },
+    {
+      "word": "climate",
+      "pos": "noun",
+      "ipa": "/ˈklaɪmət/",
+      "definition": "the usual weather in a place over a long time",
+      "example": "The Earth's climate is changing.",
+      "uz": "iqlim"
+    },
+    {
+      "word": "waste",
+      "pos": "noun",
+      "ipa": "/weɪst/",
+      "definition": "things that are thrown away because they are not needed",
+      "example": "We produce too much waste every day.",
+      "uz": "chiqindi"
+    },
+    {
+      "word": "forest",
+      "pos": "noun",
+      "ipa": "/ˈfɒrɪst/",
+      "definition": "a large area of land covered with trees",
+      "example": "Many animals live in the forest.",
+      "uz": "o'rmon"
+    },
+    {
+      "word": "river",
+      "pos": "noun",
+      "ipa": "/ˈrɪvər/",
+      "definition": "a long, natural flow of water across land",
+      "example": "Fish swim in the river near our town.",
+      "uz": "daryo"
+    },
+    {
+      "word": "energy",
+      "pos": "noun",
+      "ipa": "/ˈɛnərdʒi/",
+      "definition": "power used to make things work, like electricity",
+      "example": "Solar panels make energy from the sun.",
+      "uz": "energiya"
+    },
+    {
+      "word": "protect",
+      "pos": "verb",
+      "ipa": "/prəˈtɛkt/",
+      "definition": "to keep something safe from harm",
+      "example": "We should protect the forests and rivers.",
+      "uz": "himoya qilmoq"
+    },
+    {
+      "word": "planet",
+      "pos": "noun",
+      "ipa": "/ˈplænɪt/",
+      "definition": "a large object in space, like Earth, that moves around the sun",
+      "example": "The Earth is our home planet.",
+      "uz": "sayyora"
+    },
+    {
+      "word": "litter",
+      "pos": "noun",
+      "ipa": "/ˈlɪtər/",
+      "definition": "rubbish left on the ground in a public place",
+      "example": "Please do not leave litter in the park.",
+      "uz": "axlat"
+    },
+    {
+      "word": "natural",
+      "pos": "adjective",
+      "ipa": "/ˈnætʃərəl/",
+      "definition": "made by nature, not by people",
+      "example": "This park has many natural lakes and forests.",
+      "uz": "tabiiy"
+    },
+    {
+      "word": "clean",
+      "pos": "adjective",
+      "ipa": "/kliːn/",
+      "definition": "not dirty",
+      "example": "We need clean water and clean air to live.",
+      "uz": "toza"
+    },
+    {
+      "word": "pollute",
+      "pos": "verb",
+      "ipa": "/pəˈluːt/",
+      "definition": "to make air, water, or land dirty and unsafe",
+      "example": "Factories should not pollute the rivers.",
+      "uz": "ifloslantirmoq"
+    },
+    {
+      "word": "reduce",
+      "pos": "verb",
+      "ipa": "/rɪˈduːs/",
+      "definition": "to make something smaller or less",
+      "example": "We can reduce waste by buying less plastic.",
+      "uz": "kamaytirmoq"
+    },
+    {
+      "word": "reuse",
+      "pos": "verb",
+      "ipa": "/riːˈjuːz/",
+      "definition": "to use something again instead of throwing it away",
+      "example": "You can reuse this bag many times.",
+      "uz": "qayta foydalanmoq"
+    },
+    {
+      "word": "resource",
+      "pos": "noun",
+      "ipa": "/ˈriːsɔːrs/",
+      "definition": "something useful that we can use, like water or wood",
+      "example": "Water is an important natural resource.",
+      "uz": "resurs"
+    },
+    {
+      "word": "weather",
+      "pos": "noun",
+      "ipa": "/ˈwɛðər/",
+      "definition": "the condition outside, like rain, sun, or wind",
+      "example": "The weather was very hot last summer.",
+      "uz": "ob-havo"
+    },
+    {
+      "word": "temperature",
+      "pos": "noun",
+      "ipa": "/ˈtɛmpərətʃər/",
+      "definition": "how hot or cold something is",
+      "example": "The temperature in the city is rising every year.",
+      "uz": "harorat"
+    }
+  ],
+  "text": "Our planet needs our help. Every day, people produce a lot of waste, and some of it becomes litter in rivers, forests, and cities. This is a big problem for the environment. Plastic is one of the biggest causes of pollution because it takes a very long time to disappear. When factories pollute rivers and the air, it can hurt plants, animals, and people too. Scientists also say that the Earth's climate is changing, and the temperature is going up around the world. This can change the weather in many countries and make life hard for animals in the forest and the sea. But there are simple things we can all do to protect our natural resources. We can reduce the plastic we use, reuse bags and bottles, and recycle paper and glass instead of throwing them away. Clean energy from the sun and wind can also help instead of using resources that harm the planet. Small actions from every person can make a big difference. If we all try, we can keep our planet clean and safe for the future.",
+  "questions": [
+    {
+      "question": "According to the text, what does litter become in rivers, forests, and cities?",
+      "options": [
+        "Clean energy",
+        "A big problem for the environment",
+        "A natural resource",
+        "Useful material"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is plastic one of the biggest causes of pollution?",
+      "options": [
+        "It is too expensive",
+        "It takes a long time to disappear",
+        "It comes from the sea",
+        "It is a natural resource"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do scientists say is happening to the Earth's temperature?",
+      "options": [
+        "It is going down",
+        "It is staying the same",
+        "It is going up",
+        "It changes every day"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What can changing weather do to animals?",
+      "options": [
+        "Help them find food easily",
+        "Make life hard for them",
+        "Make them stronger",
+        "Nothing changes for them"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What three things does the text say we can do with plastic and glass?",
+      "options": [
+        "Burn, sell, and hide them",
+        "Reduce, reuse, and recycle them",
+        "Buy, use, and throw them away",
+        "Clean, cook, and store them"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What kind of energy does the text say can help the planet?",
+      "options": [
+        "Energy from oil",
+        "Energy from the sun and wind",
+        "Energy from plastic",
+        "Energy from factories"
+      ],
+      "answer": 1
+    }
+  ]
+}

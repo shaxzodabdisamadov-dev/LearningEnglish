@@ -1,0 +1,229 @@
+{
+  "id": 4,
+  "topic": "Weather and Seasons",
+  "words": [
+    {
+      "word": "weather",
+      "pos": "noun",
+      "ipa": "/ˈweðər/",
+      "definition": "the condition of the sky and air, like rain or sun",
+      "example": "The weather is nice today.",
+      "uz": "ob-havo"
+    },
+    {
+      "word": "sun",
+      "pos": "noun",
+      "ipa": "/sʌn/",
+      "definition": "the star that gives light and heat to the Earth",
+      "example": "The sun is very bright today.",
+      "uz": "quyosh"
+    },
+    {
+      "word": "rain",
+      "pos": "noun",
+      "ipa": "/reɪn/",
+      "definition": "water that falls from clouds in the sky",
+      "example": "I like walking in the rain.",
+      "uz": "yomg'ir"
+    },
+    {
+      "word": "snow",
+      "pos": "noun",
+      "ipa": "/snoʊ/",
+      "definition": "soft white ice that falls from the sky in cold weather",
+      "example": "The children play in the snow.",
+      "uz": "qor"
+    },
+    {
+      "word": "wind",
+      "pos": "noun",
+      "ipa": "/wɪnd/",
+      "definition": "air that moves quickly",
+      "example": "The wind is strong today.",
+      "uz": "shamol"
+    },
+    {
+      "word": "cloud",
+      "pos": "noun",
+      "ipa": "/klaʊd/",
+      "definition": "a white or grey shape in the sky made of tiny drops of water",
+      "example": "There are clouds in the sky.",
+      "uz": "bulut"
+    },
+    {
+      "word": "sky",
+      "pos": "noun",
+      "ipa": "/skaɪ/",
+      "definition": "the space above the earth where you see clouds and the sun",
+      "example": "The sky is blue today.",
+      "uz": "osmon"
+    },
+    {
+      "word": "hot",
+      "pos": "adjective",
+      "ipa": "/hɑːt/",
+      "definition": "having a high temperature",
+      "example": "It is hot in summer.",
+      "uz": "issiq"
+    },
+    {
+      "word": "cold",
+      "pos": "adjective",
+      "ipa": "/koʊld/",
+      "definition": "having a low temperature",
+      "example": "It is cold in winter.",
+      "uz": "sovuq"
+    },
+    {
+      "word": "warm",
+      "pos": "adjective",
+      "ipa": "/wɔːrm/",
+      "definition": "having a comfortable, slightly high temperature",
+      "example": "The water is warm.",
+      "uz": "iliq"
+    },
+    {
+      "word": "cool",
+      "pos": "adjective",
+      "ipa": "/kuːl/",
+      "definition": "a little cold, in a pleasant way",
+      "example": "The evening is cool.",
+      "uz": "salqin"
+    },
+    {
+      "word": "sunny",
+      "pos": "adjective",
+      "ipa": "/ˈsʌni/",
+      "definition": "having a lot of light from the sun",
+      "example": "It's sunny today.",
+      "uz": "quyoshli"
+    },
+    {
+      "word": "rainy",
+      "pos": "adjective",
+      "ipa": "/ˈreɪni/",
+      "definition": "having a lot of rain",
+      "example": "I don't like rainy days.",
+      "uz": "yomg'irli"
+    },
+    {
+      "word": "cloudy",
+      "pos": "adjective",
+      "ipa": "/ˈklaʊdi/",
+      "definition": "having a lot of clouds in the sky",
+      "example": "The sky is cloudy.",
+      "uz": "bulutli"
+    },
+    {
+      "word": "summer",
+      "pos": "noun",
+      "ipa": "/ˈsʌmər/",
+      "definition": "the warmest season of the year",
+      "example": "I love summer.",
+      "uz": "yoz"
+    },
+    {
+      "word": "winter",
+      "pos": "noun",
+      "ipa": "/ˈwɪntər/",
+      "definition": "the coldest season of the year",
+      "example": "It snows in winter.",
+      "uz": "qish"
+    },
+    {
+      "word": "spring",
+      "pos": "noun",
+      "ipa": "/sprɪŋ/",
+      "definition": "the season after winter, when plants start to grow",
+      "example": "Flowers grow in spring.",
+      "uz": "bahor"
+    },
+    {
+      "word": "autumn",
+      "pos": "noun",
+      "ipa": "/ˈɔːtəm/",
+      "definition": "the season after summer, when leaves fall from trees",
+      "example": "Leaves fall in autumn.",
+      "uz": "kuz"
+    },
+    {
+      "word": "umbrella",
+      "pos": "noun",
+      "ipa": "/ʌmˈbrelə/",
+      "definition": "a thing you open and hold to keep dry when it rains",
+      "example": "Take an umbrella; it's raining.",
+      "uz": "soyabon"
+    },
+    {
+      "word": "season",
+      "pos": "noun",
+      "ipa": "/ˈsiːzən/",
+      "definition": "one of the four parts of the year, like summer or winter",
+      "example": "My favorite season is spring.",
+      "uz": "fasl"
+    }
+  ],
+  "text": "In my country, there are four seasons: spring, summer, autumn, and winter. Each season has different weather. In spring, the weather is warm, and flowers start to grow. Sometimes it is rainy, so I carry an umbrella.\n\nIn summer, the sun is strong, and the days are hot and sunny. I like summer because I can swim and play outside. The sky is often blue with a few white clouds.\n\nAutumn comes after summer. The weather becomes cool, and the wind blows the leaves from the trees. Sometimes the sky is cloudy, and it rains a little.\n\nWinter is the coldest season. It is cold, and sometimes it snows. Children love to play in the snow. I wear a warm coat in winter because the wind is strong.\n\nI check the weather every morning before I go to school. My favorite season is autumn because the weather is cool, not too hot and not too cold. What is your favorite season?",
+  "questions": [
+    {
+      "question": "How many seasons are there in the writer's country?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the writer carry when it's rainy in spring?",
+      "options": [
+        "A hat",
+        "An umbrella",
+        "A jacket",
+        "A bag"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the writer like summer?",
+      "options": [
+        "Because of the cold",
+        "Because they can swim and play outside",
+        "Because of the snow",
+        "Because it is cloudy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens to leaves in autumn?",
+      "options": [
+        "They turn blue",
+        "The wind blows them from the trees",
+        "They grow bigger",
+        "Nothing happens"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the coldest season?",
+      "options": [
+        "Spring",
+        "Summer",
+        "Autumn",
+        "Winter"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the writer's favorite season?",
+      "options": [
+        "Spring",
+        "Summer",
+        "Autumn",
+        "Winter"
+      ],
+      "answer": 2
+    }
+  ]
+}

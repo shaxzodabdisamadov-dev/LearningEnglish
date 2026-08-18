@@ -1,0 +1,229 @@
+{
+  "id": 4,
+  "topic": "Higher Education and Learning Styles",
+  "words": [
+    {
+      "word": "curriculum",
+      "pos": "noun",
+      "ipa": "/kəˈrɪk.jʊ.ləm/",
+      "definition": "the subjects that are taught in a school or course",
+      "example": "The school updated its curriculum to include more technology.",
+      "uz": "o'quv dasturi"
+    },
+    {
+      "word": "lecture",
+      "pos": "noun",
+      "ipa": "/ˈlek.tʃər/",
+      "definition": "a talk given to teach people about a subject",
+      "example": "The professor gave an interesting lecture on climate change.",
+      "uz": "ma'ruza"
+    },
+    {
+      "word": "tuition fees",
+      "pos": "noun phrase",
+      "ipa": "/tjuˈɪʃ.ən fiːz/",
+      "definition": "money paid for teaching, especially at a college or university",
+      "example": "Tuition fees at some universities are very high.",
+      "uz": "o'qish haqi"
+    },
+    {
+      "word": "scholarship",
+      "pos": "noun",
+      "ipa": "/ˈskɒl.ə.ʃɪp/",
+      "definition": "money given to a student to help pay for their education",
+      "example": "She received a scholarship to study abroad.",
+      "uz": "stipendiya"
+    },
+    {
+      "word": "undergraduate",
+      "pos": "noun",
+      "ipa": "/ˌʌn.dəˈɡrædʒ.u.ət/",
+      "definition": "a student who is studying for a first degree",
+      "example": "He is an undergraduate studying biology.",
+      "uz": "bakalavriat talabasi"
+    },
+    {
+      "word": "thesis",
+      "pos": "noun",
+      "ipa": "/ˈθiː.sɪs/",
+      "definition": "a long piece of writing on a subject, done as part of a degree",
+      "example": "She spent months researching her thesis.",
+      "uz": "diplom ishi"
+    },
+    {
+      "word": "visual learner",
+      "pos": "noun phrase",
+      "ipa": "/ˈvɪʒ.u.əl ˈlɜː.nər/",
+      "definition": "a person who learns best by seeing information, such as diagrams",
+      "example": "As a visual learner, he prefers charts to written explanations.",
+      "uz": "ko'rish orqali o'rganuvchi"
+    },
+    {
+      "word": "hands-on",
+      "pos": "adjective",
+      "ipa": "/ˌhændz ˈɒn/",
+      "definition": "involving direct practical experience rather than just theory",
+      "example": "The course offers hands-on training in a real laboratory.",
+      "uz": "amaliy"
+    },
+    {
+      "word": "cram",
+      "pos": "verb",
+      "ipa": "/kræm/",
+      "definition": "to study very hard in a short time before an exam",
+      "example": "Students often cram the night before an exam.",
+      "uz": "shoshilib yodlamoq"
+    },
+    {
+      "word": "procrastinate",
+      "pos": "verb",
+      "ipa": "/prəˈkræs.tɪ.neɪt/",
+      "definition": "to delay doing something that should be done",
+      "example": "He tends to procrastinate instead of starting his assignments early.",
+      "uz": "ishni kechiktirmoq"
+    },
+    {
+      "word": "workshop",
+      "pos": "noun",
+      "ipa": "/ˈwɜːk.ʃɒp/",
+      "definition": "a meeting where people learn a skill through practical activities",
+      "example": "We attended a workshop on public speaking.",
+      "uz": "amaliy seminar"
+    },
+    {
+      "word": "self-motivated",
+      "pos": "adjective",
+      "ipa": "/self ˈməʊ.tɪ.veɪ.tɪd/",
+      "definition": "able to work hard without needing encouragement from others",
+      "example": "Online courses require students to be self-motivated.",
+      "uz": "o'zini o'zi rag'batlantiruvchi"
+    },
+    {
+      "word": "retain",
+      "pos": "verb",
+      "ipa": "/rɪˈteɪn/",
+      "definition": "to remember information",
+      "example": "It's easier to retain information when you understand it.",
+      "uz": "yodda saqlamoq"
+    },
+    {
+      "word": "enroll",
+      "pos": "verb",
+      "ipa": "/ɪnˈrəʊl/",
+      "definition": "to officially join a course or institution",
+      "example": "She decided to enroll in an evening course.",
+      "uz": "ro'yxatdan o'tmoq"
+    },
+    {
+      "word": "distance learning",
+      "pos": "noun phrase",
+      "ipa": "/ˈdɪs.təns ˈlɜː.nɪŋ/",
+      "definition": "a way of studying without attending classes in person",
+      "example": "Distance learning allows students to study from home.",
+      "uz": "masofaviy ta'lim"
+    },
+    {
+      "word": "peer",
+      "pos": "noun",
+      "ipa": "/pɪər/",
+      "definition": "a person of the same age or status as you",
+      "example": "He often studies with his peers before exams.",
+      "uz": "tengdosh"
+    },
+    {
+      "word": "drop out",
+      "pos": "phrasal verb",
+      "ipa": "/drɒp aʊt/",
+      "definition": "to leave a course or school before finishing it",
+      "example": "Some students drop out of university due to financial problems.",
+      "uz": "o'qishni tashlab ketmoq"
+    },
+    {
+      "word": "critical thinking",
+      "pos": "noun phrase",
+      "ipa": "/ˈkrɪt.ɪ.kəl ˈθɪŋ.kɪŋ/",
+      "definition": "the ability to think carefully and judge ideas rather than just accept them",
+      "example": "The course focuses on developing critical thinking skills.",
+      "uz": "tanqidiy fikrlash"
+    },
+    {
+      "word": "qualification",
+      "pos": "noun",
+      "ipa": "/ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/",
+      "definition": "an official record showing that someone has completed a course of training",
+      "example": "A teaching qualification is required for this job.",
+      "uz": "malaka"
+    },
+    {
+      "word": "auditory learner",
+      "pos": "noun phrase",
+      "ipa": "/ˈɔː.dɪ.tər.i ˈlɜː.nər/",
+      "definition": "a person who learns best by listening",
+      "example": "As an auditory learner, she remembers things best after hearing them.",
+      "uz": "eshitish orqali o'rganuvchi"
+    }
+  ],
+  "text": "Higher education has changed a great deal in recent decades. Today, an undergraduate can choose between traditional lectures on campus or distance learning courses that allow them to study from anywhere. Although tuition fees have risen in many countries, scholarships are available for students who cannot afford the full cost. Once enrolled, students often discover that everyone has a different learning style. A visual learner understands information better through diagrams and charts, while an auditory learner prefers listening to lectures or discussions. Other students learn best through hands-on workshops, where they apply theory to real situations instead of memorising facts. Universities increasingly value critical thinking over simple memorisation, because employers want graduates who can analyse problems, not just repeat information. However, not every student succeeds: some procrastinate until the last moment and then cram before exams, which makes it difficult to retain what they have studied. Others struggle to stay self-motivated without a teacher checking their progress and eventually drop out. Working with peers in study groups can help, since discussing ideas with others often makes them easier to remember. Choosing the right learning style and earning a final qualification can open many doors.",
+  "questions": [
+    {
+      "question": "According to the passage, what option do undergraduates have besides traditional lectures?",
+      "options": [
+        "Private tutoring only",
+        "Distance learning courses",
+        "Free tuition for everyone",
+        "Mandatory workshops"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What helps students who cannot afford tuition fees, according to the text?",
+      "options": [
+        "Scholarships",
+        "Distance learning",
+        "Peer study groups",
+        "Critical thinking skills"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How does a visual learner understand information best, according to the passage?",
+      "options": [
+        "By listening to lectures",
+        "Through diagrams and charts",
+        "By memorising facts",
+        "Through hands-on workshops only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why do universities value critical thinking, according to the passage?",
+      "options": [
+        "It helps students cram before exams",
+        "Employers want graduates who can analyse problems",
+        "It replaces the need for lectures",
+        "It reduces tuition fees"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What problem does the passage associate with procrastination?",
+      "options": [
+        "Students retain information more easily",
+        "Students find it difficult to retain what they studied",
+        "Students always drop out",
+        "Students become self-motivated"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why can working with peers help students?",
+      "options": [
+        "It reduces tuition fees",
+        "Discussing ideas makes them easier to remember",
+        "It replaces the need for qualifications",
+        "It prevents students from enrolling late"
+      ],
+      "answer": 1
+    }
+  ]
+}

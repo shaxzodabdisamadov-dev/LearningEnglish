@@ -1,0 +1,229 @@
+{
+  "id": 9,
+  "topic": "Food Security and Agricultural Innovation",
+  "words": [
+    {
+      "word": "sustainable",
+      "pos": "adjective",
+      "ipa": "/səˈsteɪnəbl/",
+      "definition": "capable of being maintained over the long term without depleting resources or harming the environment",
+      "example": "Farmers are adopting sustainable practices to protect the soil for future generations.",
+      "uz": "barqaror (resurslarni tugatmaydigan)"
+    },
+    {
+      "word": "yield",
+      "pos": "noun",
+      "ipa": "/jiːld/",
+      "definition": "the amount of a crop or product produced",
+      "example": "New irrigation techniques have doubled the rice yield in this region.",
+      "uz": "hosildorlik"
+    },
+    {
+      "word": "scarcity",
+      "pos": "noun",
+      "ipa": "/ˈskeərsəti/",
+      "definition": "a shortage or insufficient supply of something needed",
+      "example": "Water scarcity threatens agricultural output in many arid countries.",
+      "uz": "yetishmovchilik, tanqislik"
+    },
+    {
+      "word": "subsidize",
+      "pos": "verb",
+      "ipa": "/ˈsʌbsɪdaɪz/",
+      "definition": "to support financially, especially with government money, in order to lower costs",
+      "example": "The government subsidizes wheat production to keep bread prices low.",
+      "uz": "davlat mablag'i bilan moliyaviy qo'llab-quvvatlamoq"
+    },
+    {
+      "word": "malnutrition",
+      "pos": "noun",
+      "ipa": "/ˌmælnjuːˈtrɪʃn/",
+      "definition": "a condition resulting from a lack of proper nutrients in one's diet",
+      "example": "Chronic malnutrition can impair children's physical and cognitive development.",
+      "uz": "noto'g'ri va yetarsiz ovqatlanish"
+    },
+    {
+      "word": "self-sufficient",
+      "pos": "adjective",
+      "ipa": "/ˌself səˈfɪʃnt/",
+      "definition": "able to provide for one's own needs without outside help",
+      "example": "The village became self-sufficient in vegetables after installing greenhouses.",
+      "uz": "o'z ehtiyojini o'zi qondira oladigan"
+    },
+    {
+      "word": "resilient",
+      "pos": "adjective",
+      "ipa": "/rɪˈzɪliənt/",
+      "definition": "able to recover quickly from difficulties or withstand hardship",
+      "example": "Scientists are breeding crop varieties that are more resilient to drought.",
+      "uz": "qiyinchiliklarga bardosh beradigan"
+    },
+    {
+      "word": "biodiversity",
+      "pos": "noun",
+      "ipa": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+      "definition": "the variety of plant and animal life in a particular habitat",
+      "example": "Monoculture farming reduces biodiversity and makes ecosystems more fragile.",
+      "uz": "biologik xilma-xillik"
+    },
+    {
+      "word": "engineer",
+      "pos": "verb",
+      "ipa": "/ˌendʒɪˈnɪər/",
+      "definition": "to design or alter something, especially through scientific or genetic methods",
+      "example": "Scientists have engineered a variety of rice enriched with vitamin A.",
+      "uz": "(genetik jihatdan) yaratmoq yoki o'zgartirmoq"
+    },
+    {
+      "word": "arable",
+      "pos": "adjective",
+      "ipa": "/ˈærəbl/",
+      "definition": "suitable for growing crops",
+      "example": "Only a small percentage of the country's land is arable.",
+      "uz": "ekin ekish uchun yaroqli (haydaladigan)"
+    },
+    {
+      "word": "surplus",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrpləs/",
+      "definition": "an amount left over after needs have been met",
+      "example": "A bumper harvest created a grain surplus that could be exported.",
+      "uz": "ehtiyojdan ortiqcha zaxira"
+    },
+    {
+      "word": "deplete",
+      "pos": "verb",
+      "ipa": "/dɪˈpliːt/",
+      "definition": "to reduce the quantity of something substantially",
+      "example": "Intensive farming has depleted the nutrients in the topsoil.",
+      "uz": "resursni sezilarli darajada kamaytirmoq"
+    },
+    {
+      "word": "contaminate",
+      "pos": "verb",
+      "ipa": "/kənˈtæmɪneɪt/",
+      "definition": "to make something impure or harmful by introducing a polluting substance",
+      "example": "Pesticide runoff can contaminate nearby rivers and groundwater.",
+      "uz": "ifloslantirmoq"
+    },
+    {
+      "word": "fertile",
+      "pos": "adjective",
+      "ipa": "/ˈfɜːrtaɪl/",
+      "definition": "(of land) able to produce abundant vegetation or crops",
+      "example": "The floodplain's fertile soil has supported agriculture for centuries.",
+      "uz": "unumdor (yer haqida)"
+    },
+    {
+      "word": "livelihood",
+      "pos": "noun",
+      "ipa": "/ˈlaɪvlihʊd/",
+      "definition": "a means of securing the necessities of life, especially employment",
+      "example": "Smallholder farming remains the primary livelihood for millions of people.",
+      "uz": "tirikchilik manbai"
+    },
+    {
+      "word": "distribution",
+      "pos": "noun",
+      "ipa": "/ˌdɪstrɪˈbjuːʃn/",
+      "definition": "the way in which something is shared out or delivered",
+      "example": "Poor distribution networks mean surplus food often never reaches those in need.",
+      "uz": "taqsimot"
+    },
+    {
+      "word": "innovation",
+      "pos": "noun",
+      "ipa": "/ˌɪnəˈveɪʃn/",
+      "definition": "a new method, idea, or product",
+      "example": "Agricultural innovation has dramatically increased crop yields over the past century.",
+      "uz": "innovatsiya, yangilik"
+    },
+    {
+      "word": "vulnerable",
+      "pos": "adjective",
+      "ipa": "/ˈvʌlnərəbl/",
+      "definition": "susceptible to being harmed or affected negatively",
+      "example": "Subsistence farmers are especially vulnerable to unpredictable weather patterns.",
+      "uz": "zararlanishga moyil, himoyasiz"
+    },
+    {
+      "word": "staple",
+      "pos": "noun",
+      "ipa": "/ˈsteɪpl/",
+      "definition": "a main or important item, especially a food eaten regularly",
+      "example": "Rice is a dietary staple for more than half the world's population.",
+      "uz": "asosiy iste'mol qilinadigan oziq-ovqat mahsuloti"
+    },
+    {
+      "word": "famine",
+      "pos": "noun",
+      "ipa": "/ˈfæmɪn/",
+      "definition": "an extreme scarcity of food leading to widespread hunger",
+      "example": "Prolonged drought combined with conflict pushed the region toward famine.",
+      "uz": "ocharchilik"
+    }
+  ],
+  "text": "Not only has the global population continued to expand, but climate change has also made agricultural output increasingly unpredictable. Were farmers to rely solely on traditional methods, food scarcity would likely worsen in many vulnerable regions. Consequently, agricultural innovation has become indispensable. Genetically engineered crop varieties, for instance, are markedly more resilient to drought and disease, thereby boosting yield even on marginal, less fertile land. Nevertheless, such advances raise ethical questions: should governments subsidize biotechnology firms, or would that merely deepen farmers' dependence on costly patented seeds? Meanwhile, malnutrition persists not because of an absolute lack of food but because of inadequate distribution — a surplus in one country coexists with famine in another. Self-sufficient farming communities, though admirable, cannot alone resolve this imbalance. What is needed, therefore, is a holistic strategy that safeguards biodiversity, prevents soil from being depleted, and ensures that arable land is neither contaminated nor squandered. Only by combining scientific innovation with fairer distribution systems can the world hope to guarantee that livelihoods dependent on farming remain viable and that no population is left facing hunger.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Genetic engineering is the only solution to global hunger.",
+        "Solving global food challenges requires combining scientific innovation with fairer distribution, not just increased production.",
+        "Farmers should return to traditional farming methods to avoid ethical issues.",
+        "Malnutrition is caused solely by a global shortage of food."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why does malnutrition persist despite adequate global food production?",
+      "options": [
+        "Because most arable land has become contaminated",
+        "Because of poor distribution, leading to surplus in some areas and famine in others",
+        "Because governments refuse to subsidize agriculture",
+        "Because biodiversity has declined sharply"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What ethical question does the author raise about biotechnology?",
+      "options": [
+        "Whether genetically engineered crops taste different",
+        "Whether subsidizing biotech companies might increase farmers' dependence on expensive patented seeds",
+        "Whether biodiversity should be sacrificed for higher yields",
+        "Whether famine can be eliminated through subsidies alone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about the author's stance on self-sufficient farming communities?",
+      "options": [
+        "The author believes they are the complete answer to global food imbalance.",
+        "The author admires them but sees their impact as inherently limited.",
+        "The author dismisses them as irrelevant to the food crisis.",
+        "The author believes they cause soil depletion."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's tone in the passage can best be described as:",
+      "options": [
+        "purely celebratory of technological progress",
+        "dismissive of scientific solutions",
+        "analytical and balanced, weighing benefits and concerns",
+        "alarmist and pessimistic about the future"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "According to the passage, what strategy does the author recommend to protect farming as a viable livelihood?",
+      "options": [
+        "Focusing exclusively on genetic engineering",
+        "Encouraging every community to become self-sufficient",
+        "A holistic approach combining innovation, protecting biodiversity, and fairer distribution",
+        "Increasing subsidies without changing distribution systems"
+      ],
+      "answer": 2
+    }
+  ]
+}

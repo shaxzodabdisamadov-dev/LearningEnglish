@@ -1,0 +1,229 @@
+{
+  "id": 24,
+  "topic": "Philosophy and Critical Perspectives",
+  "words": [
+    {
+      "word": "epistemology",
+      "pos": "noun",
+      "ipa": "/ɪˌpɪstɪˈmɒlədʒi/",
+      "definition": "the branch of philosophy concerned with the nature and limits of knowledge",
+      "example": "Epistemology asks how we can distinguish genuine knowledge from mere belief.",
+      "uz": "bilish nazariyasi (epistemologiya)"
+    },
+    {
+      "word": "paradox",
+      "pos": "noun",
+      "ipa": "/ˈpærədɒks/",
+      "definition": "a statement or situation that seems contradictory but may contain a deeper truth",
+      "example": "It is a paradox that the more we know, the more we realize we don't know.",
+      "uz": "paradoks"
+    },
+    {
+      "word": "subjective",
+      "pos": "adjective",
+      "ipa": "/səbˈdʒɛktɪv/",
+      "definition": "based on personal opinions or feelings rather than objective facts",
+      "example": "Taste in art is largely subjective.",
+      "uz": "sub'ektiv"
+    },
+    {
+      "word": "discourse",
+      "pos": "noun",
+      "ipa": "/ˈdɪskɔːrs/",
+      "definition": "written or spoken communication or debate on a particular topic",
+      "example": "The professor encouraged open discourse about controversial ethical questions.",
+      "uz": "fikr-mulohaza, muhokama"
+    },
+    {
+      "word": "dogma",
+      "pos": "noun",
+      "ipa": "/ˈdɒgmə/",
+      "definition": "a belief or set of beliefs accepted as authoritative without question",
+      "example": "He rejected religious dogma in favor of independent reasoning.",
+      "uz": "shubhasiz qabul qilingan aqida"
+    },
+    {
+      "word": "skepticism",
+      "pos": "noun",
+      "ipa": "/ˈskɛptɪsɪzəm/",
+      "definition": "an attitude of doubt toward claims regarded as accepted truth",
+      "example": "Scientific progress depends on healthy skepticism.",
+      "uz": "shubhachilik"
+    },
+    {
+      "word": "rationalize",
+      "pos": "verb",
+      "ipa": "/ˈræʃənəlaɪz/",
+      "definition": "to justify behavior or attitudes with logical reasons, often to conceal true motives",
+      "example": "People often rationalize their mistakes rather than admit them.",
+      "uz": "asossiz asos topib oqlamoq"
+    },
+    {
+      "word": "inherent",
+      "pos": "adjective",
+      "ipa": "/ɪnˈhɪərənt/",
+      "definition": "existing as a natural or essential part of something",
+      "example": "There is an inherent risk in any philosophical argument based on assumptions.",
+      "uz": "tabiatan o'ziga xos"
+    },
+    {
+      "word": "dichotomy",
+      "pos": "noun",
+      "ipa": "/daɪˈkɒtəmi/",
+      "definition": "a division into two sharply contrasting groups or ideas",
+      "example": "The philosopher questioned the dichotomy between mind and body.",
+      "uz": "ikkiga qarama-qarshi bo'linish"
+    },
+    {
+      "word": "postulate",
+      "pos": "verb",
+      "ipa": "/ˈpɒstʃəleɪt/",
+      "definition": "to suggest a theory or idea as a basis for reasoning",
+      "example": "Descartes postulated that the mind and body are fundamentally distinct.",
+      "uz": "asos sifatida ilgari surmoq"
+    },
+    {
+      "word": "discern",
+      "pos": "verb",
+      "ipa": "/dɪˈsɜːrn/",
+      "definition": "to perceive or recognize something clearly through careful thought",
+      "example": "It can be difficult to discern truth from persuasive rhetoric.",
+      "uz": "chuqur o'ylab anglab yetmoq"
+    },
+    {
+      "word": "relativism",
+      "pos": "noun",
+      "ipa": "/ˈrɛlətɪvɪzəm/",
+      "definition": "the view that truth and morality are not absolute but depend on context",
+      "example": "Moral relativism holds that ethical standards vary across cultures.",
+      "uz": "relyativizm (nisbiylik nazariyasi)"
+    },
+    {
+      "word": "coherent",
+      "pos": "adjective",
+      "ipa": "/koʊˈhɪərənt/",
+      "definition": "logical and consistent; forming a unified whole",
+      "example": "Her argument was coherent, moving logically from one point to the next.",
+      "uz": "izchil, mantiqan bir butun"
+    },
+    {
+      "word": "ambiguous",
+      "pos": "adjective",
+      "ipa": "/æmˈbɪgjuəs/",
+      "definition": "open to more than one interpretation",
+      "example": "The philosopher's final statement was deliberately ambiguous.",
+      "uz": "ikki xil talqin qilinadigan"
+    },
+    {
+      "word": "discredit",
+      "pos": "verb",
+      "ipa": "/dɪsˈkrɛdɪt/",
+      "definition": "to damage the reputation or credibility of an idea or person",
+      "example": "New evidence discredited the long-standing theory.",
+      "uz": "obro'sini yo'qqa chiqarmoq"
+    },
+    {
+      "word": "underpin",
+      "pos": "verb",
+      "ipa": "/ˌʌndərˈpɪn/",
+      "definition": "to support or form the basis of an argument or theory",
+      "example": "Rational inquiry underpins most modern scientific disciplines.",
+      "uz": "asos bo'lib xizmat qilmoq"
+    },
+    {
+      "word": "contentious",
+      "pos": "adjective",
+      "ipa": "/kənˈtɛnʃəs/",
+      "definition": "likely to cause disagreement or controversy",
+      "example": "Free will remains one of the most contentious topics in philosophy.",
+      "uz": "bahs-munozara uyg'otadigan"
+    },
+    {
+      "word": "presuppose",
+      "pos": "verb",
+      "ipa": "/ˌpriːsəˈpoʊz/",
+      "definition": "to assume something in advance as true before proceeding with an argument",
+      "example": "The argument presupposes that human reason is fundamentally reliable.",
+      "uz": "oldindan shart sifatida qabul qilmoq"
+    },
+    {
+      "word": "transcend",
+      "pos": "verb",
+      "ipa": "/trænˈsɛnd/",
+      "definition": "to go beyond the ordinary limits of something",
+      "example": "Some philosophers believe certain truths transcend cultural boundaries.",
+      "uz": "odatiy chegaradan chiqmoq"
+    },
+    {
+      "word": "fallacy",
+      "pos": "noun",
+      "ipa": "/ˈfæləsi/",
+      "definition": "a mistaken belief, especially one based on flawed reasoning",
+      "example": "Assuming correlation implies causation is a common logical fallacy.",
+      "uz": "mantiqiy xato, yanglish fikr"
+    }
+  ],
+  "text": "Is objective truth attainable, or is all knowledge inescapably subjective? Few questions have proven as contentious within philosophical discourse. At the core of this debate lies a paradox: the very act of claiming that truth is relative presupposes some fixed standard against which relativity can be measured. Epistemology, the study of knowledge itself, forces us to discern between beliefs that are merely convenient and those that are genuinely coherent. Sceptics argue that human perception is inherently limited, and that what we accept as fact is often little more than a socially constructed fallacy we rationalize to preserve comfort. Others insist that certain truths transcend culture and circumstance altogether, underpinning morality and science alike. Were this dichotomy easily resolved, philosophers would long ago have abandoned the argument. Instead, the debate persists precisely because both positions capture something real: our judgments are shaped by context, yet not every claim is equally valid simply because it is ambiguous or unfalsifiable. Consequently, rather than discrediting either extreme outright, many contemporary thinkers propose a middle path, one that acknowledges subjectivity without collapsing into total skepticism.",
+  "questions": [
+    {
+      "question": "What is the central philosophical question explored in the passage?",
+      "options": [
+        "Whether religion is more valid than science",
+        "Whether objective truth exists or all knowledge is subjective",
+        "How language shapes personal identity",
+        "Whether ethics should be taught in schools"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what paradox arises from claiming truth is relative?",
+      "options": [
+        "It requires no evidence at all",
+        "It presupposes a fixed standard by which relativity itself is judged",
+        "It proves that all beliefs are equally false",
+        "It eliminates the need for epistemology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can be inferred about the \"middle path\" mentioned at the end?",
+      "options": [
+        "It rejects both skepticism and belief in transcendent truth entirely",
+        "It attempts to balance the recognition of subjectivity with belief in some valid, more objective claims",
+        "It argues that all truths are purely cultural constructs",
+        "It dismisses the value of philosophical discourse"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the passage describe skeptics' view of accepted facts?",
+      "options": [
+        "As objective and unquestionable",
+        "As often a socially constructed fallacy people rationalize",
+        "As entirely based on scientific proof",
+        "As irrelevant to epistemology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What best describes the author's purpose in this passage?",
+      "options": [
+        "To argue decisively that relativism is correct",
+        "To present a balanced, analytical examination of a longstanding philosophical debate",
+        "To ridicule philosophers for wasting time on trivial questions",
+        "To provide a historical timeline of epistemology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the debate over truth persist, according to the passage?",
+      "options": [
+        "Because philosophers have never seriously considered it",
+        "Because both the subjective and transcendent positions capture some valid insight",
+        "Because governments prevent resolution",
+        "Because there is no real disagreement among thinkers"
+      ],
+      "answer": 1
+    }
+  ]
+}

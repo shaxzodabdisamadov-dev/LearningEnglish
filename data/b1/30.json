@@ -1,0 +1,229 @@
+{
+  "id": 30,
+  "topic": "Personal Development and Lifelong Learning",
+  "words": [
+    {
+      "word": "lifelong learning",
+      "pos": "noun",
+      "ipa": "/ˌlaɪflɒŋ ˈlɜːrnɪŋ/",
+      "definition": "the continuous process of learning throughout a person's life",
+      "example": "Lifelong learning helps people adapt to a changing world.",
+      "uz": "umrbod ta'lim"
+    },
+    {
+      "word": "self-improvement",
+      "pos": "noun",
+      "ipa": "/ˌself ɪmˈpruːvmənt/",
+      "definition": "the process of making yourself better through effort",
+      "example": "Reading is one of the easiest forms of self-improvement.",
+      "uz": "o'z-o'zini takomillashtirish"
+    },
+    {
+      "word": "goal",
+      "pos": "noun",
+      "ipa": "/ɡoʊl/",
+      "definition": "something you hope to achieve",
+      "example": "Setting a clear goal can help you stay motivated.",
+      "uz": "maqsad"
+    },
+    {
+      "word": "motivation",
+      "pos": "noun",
+      "ipa": "/ˌmoʊtɪˈveɪʃən/",
+      "definition": "a reason or enthusiasm for doing something",
+      "example": "Her motivation to succeed comes from her family.",
+      "uz": "rag'bat"
+    },
+    {
+      "word": "skill",
+      "pos": "noun",
+      "ipa": "/skɪl/",
+      "definition": "the ability to do something well, usually gained through training",
+      "example": "Learning a new language is a valuable skill.",
+      "uz": "ko'nikma"
+    },
+    {
+      "word": "mindset",
+      "pos": "noun",
+      "ipa": "/ˈmaɪndset/",
+      "definition": "a person's usual attitude or way of thinking",
+      "example": "A positive mindset can help you overcome challenges.",
+      "uz": "fikrlash tarzi"
+    },
+    {
+      "word": "overcome",
+      "pos": "verb",
+      "ipa": "/ˌoʊvərˈkʌm/",
+      "definition": "to successfully deal with or defeat a problem",
+      "example": "She worked hard to overcome her fear of public speaking.",
+      "uz": "yengib o'tmoq"
+    },
+    {
+      "word": "persistence",
+      "pos": "noun",
+      "ipa": "/pərˈsɪstəns/",
+      "definition": "continuing to try to do something despite difficulty",
+      "example": "Success in learning a language requires persistence.",
+      "uz": "qat'iyatlilik"
+    },
+    {
+      "word": "confidence",
+      "pos": "noun",
+      "ipa": "/ˈkɒnfɪdəns/",
+      "definition": "a feeling of trust in your own abilities",
+      "example": "Public speaking practice can improve your confidence.",
+      "uz": "o'ziga ishonch"
+    },
+    {
+      "word": "feedback",
+      "pos": "noun",
+      "ipa": "/ˈfiːdbæk/",
+      "definition": "comments about how well or badly someone has done something",
+      "example": "Teachers give feedback to help students improve.",
+      "uz": "fikr-mulohaza"
+    },
+    {
+      "word": "progress",
+      "pos": "noun",
+      "ipa": "/ˈprɒɡres/",
+      "definition": "forward movement towards a goal",
+      "example": "She has made great progress in her studies this year.",
+      "uz": "rivojlanish"
+    },
+    {
+      "word": "challenge",
+      "pos": "noun",
+      "ipa": "/ˈtʃælɪndʒ/",
+      "definition": "a difficult task that tests someone's ability",
+      "example": "Learning to code was a real challenge at first.",
+      "uz": "qiyinchilik"
+    },
+    {
+      "word": "strength",
+      "pos": "noun",
+      "ipa": "/streŋθ/",
+      "definition": "a good quality or ability that someone has",
+      "example": "It is important to know your own strengths and weaknesses.",
+      "uz": "kuchli tomon"
+    },
+    {
+      "word": "weakness",
+      "pos": "noun",
+      "ipa": "/ˈwiːknəs/",
+      "definition": "a fault or lack of strength in a person",
+      "example": "Everyone has weaknesses they can work to improve.",
+      "uz": "zaif tomon"
+    },
+    {
+      "word": "habit",
+      "pos": "noun",
+      "ipa": "/ˈhæbɪt/",
+      "definition": "a thing that you do often and regularly",
+      "example": "Reading every night before bed became a good habit.",
+      "uz": "odat"
+    },
+    {
+      "word": "commit",
+      "pos": "verb",
+      "ipa": "/kəˈmɪt/",
+      "definition": "to promise firmly to do something",
+      "example": "She committed to studying English for one hour every day.",
+      "uz": "va'da bermoq"
+    },
+    {
+      "word": "gain",
+      "pos": "verb",
+      "ipa": "/ɡeɪn/",
+      "definition": "to obtain or get something, especially something useful",
+      "example": "You can gain a lot of experience through volunteering.",
+      "uz": "erishmoq"
+    },
+    {
+      "word": "curiosity",
+      "pos": "noun",
+      "ipa": "/ˌkjʊəriˈɒsəti/",
+      "definition": "a strong desire to know or learn something",
+      "example": "Curiosity is one of the most important qualities for a good student.",
+      "uz": "qiziquvchanlik"
+    },
+    {
+      "word": "self-discipline",
+      "pos": "noun",
+      "ipa": "/ˌself ˈdɪsəplɪn/",
+      "definition": "the ability to control your own behaviour and make yourself work hard",
+      "example": "Learning a musical instrument requires a lot of self-discipline.",
+      "uz": "o'z-o'zini boshqarish"
+    },
+    {
+      "word": "flourish",
+      "pos": "verb",
+      "ipa": "/ˈflɜːrɪʃ/",
+      "definition": "to develop successfully; to grow well",
+      "example": "With the right support, students can flourish both academically and personally.",
+      "uz": "gullab-yashnamoq"
+    }
+  ],
+  "text": "Lifelong learning has become increasingly important in today's fast-changing world. Unlike in the past, when people often finished their education in their twenties and rarely learned new skills afterwards, many adults now continue learning throughout their entire lives. This shift has happened partly because technology changes so quickly that workers must constantly gain new skills to stay competitive. Personal development, however, is not only about gaining knowledge. It also involves building the right mindset, developing self-discipline, and learning how to overcome challenges. Experts suggest that setting a clear goal is one of the best ways to stay motivated, especially when progress feels slow. Small daily habits, such as reading for twenty minutes or practising a new language, can lead to significant improvement over time if a person shows enough persistence. Feedback also plays a key role in self-improvement. By listening carefully to feedback from teachers, colleagues, or friends, people can identify their strengths and weaknesses more clearly. Although building confidence takes time, those who commit to learning something new, driven by curiosity rather than obligation, are more likely to flourish both personally and professionally. In the end, lifelong learning is not a destination but an ongoing journey.",
+  "questions": [
+    {
+      "question": "How has lifelong learning changed compared to the past, according to the passage?",
+      "options": [
+        "People now stop learning after their twenties",
+        "Many adults now continue learning throughout their entire lives",
+        "It has become less important due to technology",
+        "It is now only relevant to students"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Besides gaining knowledge, what else does personal development involve, according to the text?",
+      "options": [
+        "Avoiding all challenges",
+        "Building the right mindset and self-discipline",
+        "Working alone without feedback",
+        "Ignoring long-term goals"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do experts suggest is one of the best ways to stay motivated?",
+      "options": [
+        "Avoiding any daily habits",
+        "Setting a clear goal",
+        "Ignoring feedback from others",
+        "Working without any plan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What can small daily habits lead to, according to the passage?",
+      "options": [
+        "Immediate perfection",
+        "Significant improvement over time with enough persistence",
+        "A loss of motivation",
+        "Less confidence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What role does feedback play in self-improvement, according to the text?",
+      "options": [
+        "It has no real effect",
+        "It helps people identify their strengths and weaknesses",
+        "It only comes from teachers",
+        "It reduces a person's confidence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what quality helps people commit to learning something new?",
+      "options": [
+        "Obligation rather than interest",
+        "Curiosity rather than obligation",
+        "Avoiding challenges",
+        "Working without goals"
+      ],
+      "answer": 1
+    }
+  ]
+}

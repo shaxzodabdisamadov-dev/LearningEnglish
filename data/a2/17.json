@@ -1,0 +1,229 @@
+{
+  "id": 17,
+  "topic": "Technology in Daily Life",
+  "words": [
+    {
+      "word": "computer",
+      "pos": "noun",
+      "ipa": "/kəmˈpjuːtər/",
+      "definition": "an electronic machine that stores and uses information",
+      "example": "I use my computer to write emails.",
+      "uz": "kompyuter"
+    },
+    {
+      "word": "phone",
+      "pos": "noun",
+      "ipa": "/foʊn/",
+      "definition": "a device you use to call or talk to people",
+      "example": "She called me on her phone.",
+      "uz": "telefon"
+    },
+    {
+      "word": "internet",
+      "pos": "noun",
+      "ipa": "/ˈɪntərnɛt/",
+      "definition": "a system that connects computers around the world",
+      "example": "We can find information on the internet.",
+      "uz": "internet"
+    },
+    {
+      "word": "email",
+      "pos": "noun",
+      "ipa": "/ˈiːmeɪl/",
+      "definition": "a message sent from one computer to another",
+      "example": "I sent her an email this morning.",
+      "uz": "elektron pochta"
+    },
+    {
+      "word": "screen",
+      "pos": "noun",
+      "ipa": "/skriːn/",
+      "definition": "the flat part of a device where you see pictures and words",
+      "example": "The screen on my phone is broken.",
+      "uz": "ekran"
+    },
+    {
+      "word": "download",
+      "pos": "verb",
+      "ipa": "/ˈdaʊnloʊd/",
+      "definition": "to copy information from the internet to your device",
+      "example": "I downloaded a new app yesterday.",
+      "uz": "yuklab olmoq"
+    },
+    {
+      "word": "upload",
+      "pos": "verb",
+      "ipa": "/ˈʌploʊd/",
+      "definition": "to send information from your device to the internet",
+      "example": "She uploaded photos from her holiday.",
+      "uz": "yuklab yubormoq"
+    },
+    {
+      "word": "app",
+      "pos": "noun",
+      "ipa": "/æp/",
+      "definition": "a computer program, often for a phone",
+      "example": "This app helps me learn English.",
+      "uz": "ilova"
+    },
+    {
+      "word": "message",
+      "pos": "noun",
+      "ipa": "/ˈmɛsɪdʒ/",
+      "definition": "a short piece of writing that you send to someone",
+      "example": "He sent me a message about the meeting.",
+      "uz": "xabar"
+    },
+    {
+      "word": "click",
+      "pos": "verb",
+      "ipa": "/klɪk/",
+      "definition": "to press a button on a computer, often with a mouse",
+      "example": "Click here to open the website.",
+      "uz": "bosmoq"
+    },
+    {
+      "word": "password",
+      "pos": "noun",
+      "ipa": "/ˈpæswɜːrd/",
+      "definition": "a secret word or numbers used to open an account",
+      "example": "Do not tell anyone your password.",
+      "uz": "parol"
+    },
+    {
+      "word": "charge",
+      "pos": "verb",
+      "ipa": "/tʃɑːrdʒ/",
+      "definition": "to fill a battery with electricity",
+      "example": "I need to charge my phone tonight.",
+      "uz": "zaryadlamoq"
+    },
+    {
+      "word": "battery",
+      "pos": "noun",
+      "ipa": "/ˈbætəri/",
+      "definition": "a part of a device that stores electricity",
+      "example": "My laptop battery is almost empty.",
+      "uz": "batareya"
+    },
+    {
+      "word": "wireless",
+      "pos": "adjective",
+      "ipa": "/ˈwaɪərləs/",
+      "definition": "working without wires or cables",
+      "example": "We have a wireless internet connection at home.",
+      "uz": "simsiz"
+    },
+    {
+      "word": "device",
+      "pos": "noun",
+      "ipa": "/dɪˈvaɪs/",
+      "definition": "a small machine or tool, like a phone or tablet",
+      "example": "This device can play music and videos.",
+      "uz": "qurilma"
+    },
+    {
+      "word": "online",
+      "pos": "adjective",
+      "ipa": "/ˈɒnlaɪn/",
+      "definition": "connected to the internet",
+      "example": "I bought these shoes online.",
+      "uz": "onlayn"
+    },
+    {
+      "word": "software",
+      "pos": "noun",
+      "ipa": "/ˈsɒftwɛər/",
+      "definition": "computer programs",
+      "example": "We need to update the software on this computer.",
+      "uz": "dasturiy ta'minot"
+    },
+    {
+      "word": "camera",
+      "pos": "noun",
+      "ipa": "/ˈkæmərə/",
+      "definition": "a device used to take photos or videos",
+      "example": "My phone has a very good camera.",
+      "uz": "kamera"
+    },
+    {
+      "word": "video",
+      "pos": "noun",
+      "ipa": "/ˈvɪdioʊ/",
+      "definition": "moving pictures with sound",
+      "example": "We watched a funny video online.",
+      "uz": "video"
+    },
+    {
+      "word": "connect",
+      "pos": "verb",
+      "ipa": "/kəˈnɛkt/",
+      "definition": "to join something to the internet or another device",
+      "example": "Can you help me connect to the wifi?",
+      "uz": "ulanmoq"
+    }
+  ],
+  "text": "Technology is part of our daily life now. Most people have a phone, a computer, or another device at home. In the morning, many people check their email or read a message from a friend before they even get out of bed. When you want to connect to the internet, your phone finds a wireless network, and then you can go online. People use apps for many things: to talk to friends, to watch a video, or to learn something new. Yesterday, my brother wanted to download a new app to help him study English. First, he had to type his password to open the app store. Then he clicked on the app and waited a few minutes. After that, he used his phone's camera to take a photo and upload it to the app. But then his phone battery was very low, so he had to charge it before he could keep using it. Technology can make life easier, but sometimes we forget to look up from our screen and talk to the people around us.",
+  "questions": [
+    {
+      "question": "What do many people do in the morning before getting out of bed?",
+      "options": [
+        "Exercise",
+        "Check email or read a message",
+        "Cook breakfast",
+        "Call their coach"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does your phone find to connect to the internet?",
+      "options": [
+        "A password",
+        "A wireless network",
+        "A new app",
+        "A camera"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why did the brother want to download a new app?",
+      "options": [
+        "To take photos",
+        "To watch videos",
+        "To help him study English",
+        "To charge his phone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did he need to type to open the app store?",
+      "options": [
+        "His email address",
+        "His phone number",
+        "His password",
+        "His name"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did he use his phone's camera for?",
+      "options": [
+        "To call a friend",
+        "To take a photo and upload it",
+        "To download software",
+        "To charge the battery"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why did he have to stop using the app?",
+      "options": [
+        "The internet stopped working",
+        "His phone battery was low",
+        "The app was broken",
+        "He forgot his password"
+      ],
+      "answer": 1
+    }
+  ]
+}

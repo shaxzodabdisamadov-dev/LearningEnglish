@@ -1,0 +1,229 @@
+{
+  "id": 13,
+  "topic": "Climate Change and Sustainability",
+  "words": [
+    {
+      "word": "climate",
+      "pos": "noun",
+      "ipa": "/ˈklaɪmət/",
+      "definition": "the general weather conditions of an area over a long period",
+      "example": "The region has a warm, dry climate.",
+      "uz": "iqlim"
+    },
+    {
+      "word": "greenhouse gas",
+      "pos": "noun",
+      "ipa": "/ˈɡriːnhaʊs ɡæs/",
+      "definition": "a gas that traps heat in the atmosphere and contributes to warming",
+      "example": "Carbon dioxide is a well-known greenhouse gas.",
+      "uz": "issiqxona gazi"
+    },
+    {
+      "word": "global warming",
+      "pos": "noun",
+      "ipa": "/ˌɡloʊbəl ˈwɔːrmɪŋ/",
+      "definition": "the gradual increase in the Earth's average temperature",
+      "example": "Global warming is causing ice to melt at the poles.",
+      "uz": "global isish"
+    },
+    {
+      "word": "carbon footprint",
+      "pos": "noun",
+      "ipa": "/ˈkɑːrbən ˈfʊtprɪnt/",
+      "definition": "the amount of carbon dioxide produced by a person's or organization's activities",
+      "example": "Flying less can reduce your carbon footprint.",
+      "uz": "uglerod izi"
+    },
+    {
+      "word": "pollution",
+      "pos": "noun",
+      "ipa": "/pəˈluːʃən/",
+      "definition": "harmful substances that damage the air, water, or land",
+      "example": "Air pollution in the city is getting worse.",
+      "uz": "ifloslanish"
+    },
+    {
+      "word": "drought",
+      "pos": "noun",
+      "ipa": "/draʊt/",
+      "definition": "a long period of very little or no rain",
+      "example": "The drought destroyed many farmers' crops.",
+      "uz": "qurg'oqchilik"
+    },
+    {
+      "word": "flood",
+      "pos": "noun",
+      "ipa": "/flʌd/",
+      "definition": "an overflow of water covering land that is usually dry",
+      "example": "Heavy rain caused a flood in the town.",
+      "uz": "toshqin"
+    },
+    {
+      "word": "sea level",
+      "pos": "noun",
+      "ipa": "/ˈsiː ˌlevəl/",
+      "definition": "the average height of the surface of the sea",
+      "example": "Melting ice is causing sea level to rise.",
+      "uz": "dengiz sathi"
+    },
+    {
+      "word": "deforestation",
+      "pos": "noun",
+      "ipa": "/diːˌfɒrɪˈsteɪʃən/",
+      "definition": "the cutting down of large areas of forest",
+      "example": "Deforestation is destroying habitats for many animals.",
+      "uz": "o'rmonlarni yo'q qilish"
+    },
+    {
+      "word": "ecosystem",
+      "pos": "noun",
+      "ipa": "/ˈiːkoʊsɪstəm/",
+      "definition": "all the living things in an area and how they interact",
+      "example": "Pollution can damage a whole ecosystem.",
+      "uz": "ekotizim"
+    },
+    {
+      "word": "species",
+      "pos": "noun",
+      "ipa": "/ˈspiːʃiːz/",
+      "definition": "a group of animals or plants that are similar and can breed together",
+      "example": "Many species are losing their natural habitats.",
+      "uz": "tur"
+    },
+    {
+      "word": "extinct",
+      "pos": "adjective",
+      "ipa": "/ɪkˈstɪŋkt/",
+      "definition": "no longer existing, especially describing a type of animal or plant",
+      "example": "The dodo bird became extinct centuries ago.",
+      "uz": "yo'q bo'lib ketgan"
+    },
+    {
+      "word": "recycle",
+      "pos": "verb",
+      "ipa": "/riːˈsaɪkəl/",
+      "definition": "to process used materials so they can be used again",
+      "example": "We should recycle paper, glass, and plastic.",
+      "uz": "qayta ishlamoq"
+    },
+    {
+      "word": "conserve",
+      "pos": "verb",
+      "ipa": "/kənˈsɜːrv/",
+      "definition": "to protect and not waste a resource",
+      "example": "It is important to conserve water during a drought.",
+      "uz": "asrab-avaylab tejamoq"
+    },
+    {
+      "word": "consequence",
+      "pos": "noun",
+      "ipa": "/ˈkɒnsɪkwəns/",
+      "definition": "a result or effect of an action",
+      "example": "Pollution is a serious consequence of burning fossil fuels.",
+      "uz": "oqibat"
+    },
+    {
+      "word": "threaten",
+      "pos": "verb",
+      "ipa": "/ˈθretən/",
+      "definition": "to put something at risk of harm or danger",
+      "example": "Rising temperatures threaten many animal species.",
+      "uz": "xavf tug'dirmoq"
+    },
+    {
+      "word": "impact",
+      "pos": "noun",
+      "ipa": "/ˈɪmpækt/",
+      "definition": "a powerful effect that something has on someone or something",
+      "example": "Climate change has a major impact on farming.",
+      "uz": "ta'sir"
+    },
+    {
+      "word": "responsibility",
+      "pos": "noun",
+      "ipa": "/rɪˌspɒnsəˈbɪləti/",
+      "definition": "a duty to deal with or take care of something",
+      "example": "Protecting the environment is everyone's responsibility.",
+      "uz": "mas'uliyat"
+    },
+    {
+      "word": "tackle",
+      "pos": "verb",
+      "ipa": "/ˈtækəl/",
+      "definition": "to try to deal with a difficult problem",
+      "example": "Governments must work together to tackle climate change.",
+      "uz": "hal qilishga kurashmoq"
+    },
+    {
+      "word": "sustainability",
+      "pos": "noun",
+      "ipa": "/səˌsteɪnəˈbɪləti/",
+      "definition": "the quality of causing little or no damage to the environment, allowing something to continue",
+      "example": "The company focuses on sustainability in all its products.",
+      "uz": "barqarorlik"
+    }
+  ],
+  "text": "Climate change is one of the most serious issues the world faces today, and its impact can already be seen in many countries. Rising global warming, caused mainly by greenhouse gas emissions from factories, cars, and deforestation, is changing our climate faster than scientists expected. As temperatures rise, extreme weather events such as drought and flood are becoming more common, threatening farms, homes, and entire communities. In coastal areas, a rising sea level puts millions of people at risk of losing their homes. These changes also damage ecosystems, and as a result, some species are now in danger of becoming extinct. Although governments have a major responsibility to tackle this crisis through new laws and international agreements, individuals can also help by reducing their carbon footprint. Simple actions, such as choosing to recycle, conserve energy, and use public transport, can make a real difference over time. Experts warn that if we fail to act quickly, the consequences will be far more severe in the future. Achieving true sustainability requires cooperation between governments, businesses, and ordinary citizens, since climate change affects everyone, regardless of where they live. Reducing pollution today is an investment in a safer tomorrow.",
+  "questions": [
+    {
+      "question": "What is causing global warming to change the climate faster than expected, according to the passage?",
+      "options": [
+        "Recycling programs",
+        "Greenhouse gas emissions",
+        "Sustainability efforts",
+        "International agreements"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is one effect of extreme weather events mentioned in the passage?",
+      "options": [
+        "Lower sea levels",
+        "Threats to farms, homes, and communities",
+        "Fewer greenhouse gases",
+        "Stronger ecosystems"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is happening to some species as a result of damaged ecosystems?",
+      "options": [
+        "They are becoming extinct",
+        "They are becoming more common",
+        "They are moving to coastal areas",
+        "They are reducing pollution"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "According to the passage, who has a major responsibility to tackle climate change?",
+      "options": [
+        "Only individuals",
+        "Only scientists",
+        "Governments",
+        "Only businesses"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What can individuals do to reduce their carbon footprint, according to the text?",
+      "options": [
+        "Ignore public transport",
+        "Recycle and conserve energy",
+        "Increase deforestation",
+        "Avoid all responsibility"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do experts warn will happen if we fail to act quickly?",
+      "options": [
+        "Consequences will be less severe",
+        "Consequences will be far more severe",
+        "Sea levels will fall",
+        "Ecosystems will recover immediately"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 15,
+  "topic": "Money and Banking",
+  "words": [
+    {
+      "word": "money",
+      "pos": "noun",
+      "ipa": "/ˈmʌni/",
+      "definition": "what you use to buy things, like coins and notes.",
+      "example": "I don't have much money with me.",
+      "uz": "pul"
+    },
+    {
+      "word": "bank",
+      "pos": "noun",
+      "ipa": "/bæŋk/",
+      "definition": "a place where people keep and borrow money.",
+      "example": "I opened an account at the bank.",
+      "uz": "bank"
+    },
+    {
+      "word": "account",
+      "pos": "noun",
+      "ipa": "/əˈkaʊnt/",
+      "definition": "an arrangement with a bank that lets you keep your money there.",
+      "example": "I checked my bank account online.",
+      "uz": "hisob raqami"
+    },
+    {
+      "word": "cash",
+      "pos": "noun",
+      "ipa": "/kæʃ/",
+      "definition": "money in the form of coins and notes.",
+      "example": "Do you want to pay in cash?",
+      "uz": "naqd pul"
+    },
+    {
+      "word": "coin",
+      "pos": "noun",
+      "ipa": "/kɔɪn/",
+      "definition": "a small round piece of metal used as money.",
+      "example": "I found a coin on the street.",
+      "uz": "tanga"
+    },
+    {
+      "word": "note",
+      "pos": "noun",
+      "ipa": "/noʊt/",
+      "definition": "a piece of paper money.",
+      "example": "She paid with a ten-dollar note.",
+      "uz": "qog'oz pul"
+    },
+    {
+      "word": "save",
+      "pos": "verb",
+      "ipa": "/seɪv/",
+      "definition": "to keep money instead of spending it.",
+      "example": "I try to save some money every month.",
+      "uz": "jamg'armoq"
+    },
+    {
+      "word": "spend",
+      "pos": "verb",
+      "ipa": "/spɛnd/",
+      "definition": "to use money to buy something.",
+      "example": "We spent a lot of money on food.",
+      "uz": "sarflamoq"
+    },
+    {
+      "word": "borrow",
+      "pos": "verb",
+      "ipa": "/ˈbɒroʊ/",
+      "definition": "to take money from someone and pay it back later.",
+      "example": "I borrowed some money from my friend.",
+      "uz": "qarz olmoq"
+    },
+    {
+      "word": "lend",
+      "pos": "verb",
+      "ipa": "/lɛnd/",
+      "definition": "to give money to someone that they will pay back later.",
+      "example": "The bank lent her money for a car.",
+      "uz": "qarz bermoq"
+    },
+    {
+      "word": "loan",
+      "pos": "noun",
+      "ipa": "/loʊn/",
+      "definition": "money that you borrow, usually from a bank.",
+      "example": "He took out a loan to buy a house.",
+      "uz": "kredit"
+    },
+    {
+      "word": "debt",
+      "pos": "noun",
+      "ipa": "/dɛt/",
+      "definition": "money that you owe to someone.",
+      "example": "She worked hard to pay off her debt.",
+      "uz": "qarz"
+    },
+    {
+      "word": "price",
+      "pos": "noun",
+      "ipa": "/praɪs/",
+      "definition": "the amount of money you must pay for something.",
+      "example": "The price of the ticket was too high.",
+      "uz": "narx"
+    },
+    {
+      "word": "expensive",
+      "pos": "adjective",
+      "ipa": "/ɪkˈspɛnsɪv/",
+      "definition": "costing a lot of money.",
+      "example": "That restaurant is too expensive for us.",
+      "uz": "qimmat"
+    },
+    {
+      "word": "cheap",
+      "pos": "adjective",
+      "ipa": "/tʃiːp/",
+      "definition": "not costing much money.",
+      "example": "I bought a cheap pair of shoes.",
+      "uz": "arzon"
+    },
+    {
+      "word": "bill",
+      "pos": "noun",
+      "ipa": "/bɪl/",
+      "definition": "a piece of paper that shows how much money you owe.",
+      "example": "I need to pay the electricity bill.",
+      "uz": "to'lov varag'i"
+    },
+    {
+      "word": "credit card",
+      "pos": "phrase",
+      "ipa": "/ˈkrɛdɪt kɑːrd/",
+      "definition": "a plastic card used to buy things and pay for them later.",
+      "example": "He paid with his credit card.",
+      "uz": "kredit karta"
+    },
+    {
+      "word": "cashier",
+      "pos": "noun",
+      "ipa": "/kæˈʃɪr/",
+      "definition": "a person who takes money from customers in a shop or bank.",
+      "example": "The cashier gave me my change.",
+      "uz": "kassir"
+    },
+    {
+      "word": "change",
+      "pos": "noun",
+      "ipa": "/tʃeɪndʒ/",
+      "definition": "the money you get back when you pay more than the price.",
+      "example": "Don't forget your change.",
+      "uz": "qaytim"
+    },
+    {
+      "word": "budget",
+      "pos": "noun",
+      "ipa": "/ˈbʌdʒɪt/",
+      "definition": "a plan for how to spend your money.",
+      "example": "We made a budget for our holiday.",
+      "uz": "byudjet"
+    }
+  ],
+  "text": "Last year, I decided to learn how to manage my money better. First, I made a budget to plan how much I could spend each month. I opened a new account at the bank so I could save some money every week. Before that, I used to spend too much cash on things I didn't really need, and I never had enough at the end of the month. I also had a small debt because I borrowed money from a friend to buy a new phone. It took a few months, but I paid it back completely. Now, when I go shopping, I check the price of things carefully and try to buy cheap products instead of expensive ones. I still use my credit card sometimes, but I try not to lend or borrow money anymore. At the shop, the cashier always gives me my change, and I put the coins in a small jar at home. I also pay my bills on time so I don't have to worry about them later. Learning to save money wasn't easy, but now I feel much more confident about my finances.",
+  "questions": [
+    {
+      "question": "What did the writer do first to manage money better?",
+      "options": [
+        "Borrowed money from the bank",
+        "Made a budget",
+        "Bought a credit card",
+        "Stopped shopping completely"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why did the writer have a small debt?",
+      "options": [
+        "They lost their job",
+        "They borrowed money from a friend to buy a phone",
+        "They spent too much on bills",
+        "They lent money to a colleague"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the writer do now before buying something?",
+      "options": [
+        "Asks a friend for advice",
+        "Checks the price carefully",
+        "Always pays with cash only",
+        "Waits for a sale"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the writer do with the coins from change?",
+      "options": [
+        "Gives them to the cashier",
+        "Puts them in a jar at home",
+        "Spends them immediately",
+        "Sends them to the bank every day"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the writer feel about paying bills now?",
+      "options": [
+        "Worried and confused",
+        "They pay them on time and don't worry",
+        "They ignore them",
+        "They ask the bank to pay for them"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the writer feel at the end of the text?",
+      "options": [
+        "Still confused about money",
+        "More confident about their finances",
+        "Ready to borrow more money",
+        "Unhappy with the new budget"
+      ],
+      "answer": 1
+    }
+  ]
+}

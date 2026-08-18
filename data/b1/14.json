@@ -1,0 +1,229 @@
+{
+  "id": 14,
+  "topic": "Renewable Energy",
+  "words": [
+    {
+      "word": "renewable",
+      "pos": "adjective",
+      "ipa": "/rɪˈnjuːəbəl/",
+      "definition": "describing energy from a source that is not used up, like sunlight or wind",
+      "example": "Solar power is a form of renewable energy.",
+      "uz": "qayta tiklanuvchi"
+    },
+    {
+      "word": "fossil fuel",
+      "pos": "noun",
+      "ipa": "/ˈfɒsəl fjuːəl/",
+      "definition": "a fuel such as coal, oil, or gas formed from ancient plants and animals",
+      "example": "Burning fossil fuels releases carbon dioxide into the air.",
+      "uz": "qazilma yoqilg'i"
+    },
+    {
+      "word": "solar power",
+      "pos": "noun",
+      "ipa": "/ˈsoʊlər ˈpaʊər/",
+      "definition": "energy produced from sunlight",
+      "example": "The house is powered entirely by solar power.",
+      "uz": "quyosh energiyasi"
+    },
+    {
+      "word": "wind turbine",
+      "pos": "noun",
+      "ipa": "/wɪnd ˈtɜːrbaɪn/",
+      "definition": "a tall structure with blades that turns wind into electricity",
+      "example": "The wind turbine generates electricity for the whole village.",
+      "uz": "shamol turbinasi"
+    },
+    {
+      "word": "resource",
+      "pos": "noun",
+      "ipa": "/rɪˈzɔːrs/",
+      "definition": "a supply of something useful, such as energy or materials",
+      "example": "Oil is a natural resource that is running out.",
+      "uz": "resurs"
+    },
+    {
+      "word": "generate",
+      "pos": "verb",
+      "ipa": "/ˈdʒenəreɪt/",
+      "definition": "to produce something, such as energy or electricity",
+      "example": "Wind turbines generate electricity without burning fuel.",
+      "uz": "ishlab chiqarmoq"
+    },
+    {
+      "word": "clean",
+      "pos": "adjective",
+      "ipa": "/kliːn/",
+      "definition": "not causing pollution",
+      "example": "Solar energy is a clean alternative to coal.",
+      "uz": "toza (ekologik toza)"
+    },
+    {
+      "word": "finite",
+      "pos": "adjective",
+      "ipa": "/ˈfaɪnaɪt/",
+      "definition": "having a limited amount that will eventually run out",
+      "example": "Fossil fuels are a finite resource.",
+      "uz": "cheklangan"
+    },
+    {
+      "word": "investment",
+      "pos": "noun",
+      "ipa": "/ɪnˈvestmənt/",
+      "definition": "money put into something in the hope of future benefit",
+      "example": "The government made a large investment in solar energy.",
+      "uz": "investitsiya"
+    },
+    {
+      "word": "install",
+      "pos": "verb",
+      "ipa": "/ɪnˈstɔːl/",
+      "definition": "to put a piece of equipment in place, ready to be used",
+      "example": "Many homeowners choose to install solar panels on their roofs.",
+      "uz": "o'rnatmoq"
+    },
+    {
+      "word": "supply",
+      "pos": "noun",
+      "ipa": "/səˈplaɪ/",
+      "definition": "the amount of something that is available",
+      "example": "The electricity supply comes mostly from renewable sources.",
+      "uz": "ta'minot"
+    },
+    {
+      "word": "demand",
+      "pos": "noun",
+      "ipa": "/dɪˈmænd/",
+      "definition": "the amount of something that people want or need",
+      "example": "Demand for electricity increases during hot summers.",
+      "uz": "talab"
+    },
+    {
+      "word": "innovative",
+      "pos": "adjective",
+      "ipa": "/ˈɪnəveɪtɪv/",
+      "definition": "using new methods or ideas",
+      "example": "Engineers are developing innovative ways to store solar energy.",
+      "uz": "innovatsion"
+    },
+    {
+      "word": "grid",
+      "pos": "noun",
+      "ipa": "/ɡrɪd/",
+      "definition": "a network of cables that supplies electricity to a wide area",
+      "example": "The solar farm is connected to the national power grid.",
+      "uz": "elektr tarmog'i"
+    },
+    {
+      "word": "capacity",
+      "pos": "noun",
+      "ipa": "/kəˈpæsəti/",
+      "definition": "the maximum amount that something can produce or hold",
+      "example": "The wind farm's capacity has doubled in five years.",
+      "uz": "quvvat"
+    },
+    {
+      "word": "reliable",
+      "pos": "adjective",
+      "ipa": "/rɪˈlaɪəbəl/",
+      "definition": "able to be trusted to work well",
+      "example": "Hydropower is a reliable source of energy.",
+      "uz": "ishonchli"
+    },
+    {
+      "word": "subsidy",
+      "pos": "noun",
+      "ipa": "/ˈsʌbsədi/",
+      "definition": "money given by a government to support an industry",
+      "example": "The government offers a subsidy to families who install solar panels.",
+      "uz": "subsidiya"
+    },
+    {
+      "word": "hydropower",
+      "pos": "noun",
+      "ipa": "/ˈhaɪdroʊˌpaʊər/",
+      "definition": "electricity generated using the energy of moving water",
+      "example": "The dam produces hydropower for the entire region.",
+      "uz": "gidroenergiya"
+    },
+    {
+      "word": "transition",
+      "pos": "noun",
+      "ipa": "/trænˈzɪʃən/",
+      "definition": "the process of changing from one state to another",
+      "example": "The transition to renewable energy will take several decades.",
+      "uz": "o'tish jarayoni"
+    },
+    {
+      "word": "output",
+      "pos": "noun",
+      "ipa": "/ˈaʊtpʊt/",
+      "definition": "the amount of something produced",
+      "example": "The solar farm's output increases on sunny days.",
+      "uz": "ishlab chiqarish hajmi"
+    }
+  ],
+  "text": "Around the world, countries are making a gradual transition from fossil fuels to renewable energy sources such as solar power, wind, and hydropower. Unlike coal and oil, which are finite resources that will eventually run out, renewable energy comes from sources that nature constantly replaces, like sunlight and wind. Modern wind turbines can generate a huge amount of clean electricity without producing the harmful emissions associated with fossil fuels. However, building this new infrastructure requires a large investment, and many governments offer a subsidy to encourage companies to install solar panels and turbines. One challenge is that renewable energy is not always reliable, since solar power depends on sunshine and wind turbines need enough wind to generate electricity. To solve this, engineers are developing innovative ways to store energy and connect it to the power grid, so supply can meet demand even when conditions change. As technology improves, the capacity and output of renewable energy systems continue to grow, making them a more realistic alternative to fossil fuels. Experts believe that if this transition continues at its current pace, renewable resources could provide most of the world's electricity within a few decades, significantly reducing our reliance on fossil fuels.",
+  "questions": [
+    {
+      "question": "What are countries gradually moving away from, according to the passage?",
+      "options": [
+        "Solar power",
+        "Fossil fuels",
+        "Wind turbines",
+        "Renewable resources"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why are fossil fuels described as finite resources?",
+      "options": [
+        "They produce no emissions",
+        "They will eventually run out",
+        "They are always reliable",
+        "They are cheap to install"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is one challenge of renewable energy mentioned in the passage?",
+      "options": [
+        "It is too expensive to generate",
+        "It is not always reliable because it depends on conditions like sunshine and wind",
+        "It cannot be connected to the power grid",
+        "It produces harmful emissions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are engineers developing to help balance supply and demand?",
+      "options": [
+        "New fossil fuels",
+        "Innovative ways to store energy",
+        "Larger subsidies only",
+        "Fewer wind turbines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why do many governments offer a subsidy?",
+      "options": [
+        "To reduce renewable energy use",
+        "To encourage companies to install renewable energy systems",
+        "To increase fossil fuel production",
+        "To lower electricity capacity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do experts believe could happen if the transition to renewable energy continues at its current pace?",
+      "options": [
+        "Renewable resources could provide most of the world's electricity within a few decades",
+        "Fossil fuels will become more popular",
+        "Wind turbines will stop working",
+        "Electricity demand will disappear"
+      ],
+      "answer": 0
+    }
+  ]
+}

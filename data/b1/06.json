@@ -1,0 +1,229 @@
+{
+  "id": 6,
+  "topic": "Housing and Urban Living",
+  "words": [
+    {
+      "word": "accommodation",
+      "pos": "noun",
+      "ipa": "/əˌkɒm.əˈdeɪ.ʃən/",
+      "definition": "a place to live or stay",
+      "example": "Finding affordable accommodation in the city is difficult.",
+      "uz": "turar joy"
+    },
+    {
+      "word": "rent",
+      "pos": "verb",
+      "ipa": "/rent/",
+      "definition": "to pay money regularly to use a house or flat that belongs to someone else",
+      "example": "They rent a small flat near the city centre.",
+      "uz": "ijaraga olmoq"
+    },
+    {
+      "word": "mortgage",
+      "pos": "noun",
+      "ipa": "/ˈmɔː.ɡɪdʒ/",
+      "definition": "a loan used to buy a house, paid back over many years",
+      "example": "It took them ten years to pay off their mortgage.",
+      "uz": "ipoteka"
+    },
+    {
+      "word": "property",
+      "pos": "noun",
+      "ipa": "/ˈprɒp.ə.ti/",
+      "definition": "a building or land that someone owns",
+      "example": "Property prices have increased significantly this year.",
+      "uz": "mulk"
+    },
+    {
+      "word": "affordable",
+      "pos": "adjective",
+      "ipa": "/əˈfɔː.də.bəl/",
+      "definition": "not too expensive; able to be bought or paid for",
+      "example": "The government promised to build more affordable housing.",
+      "uz": "arzon"
+    },
+    {
+      "word": "suburb",
+      "pos": "noun",
+      "ipa": "/ˈsʌb.ɜːb/",
+      "definition": "an area outside the centre of a city where people live",
+      "example": "They moved to a quiet suburb outside the city.",
+      "uz": "shahar chekkasi"
+    },
+    {
+      "word": "commute",
+      "pos": "verb",
+      "ipa": "/kəˈmjuːt/",
+      "definition": "to travel regularly between home and work",
+      "example": "Living in the suburb means a longer commute to work.",
+      "uz": "ishga qatnamoq"
+    },
+    {
+      "word": "overcrowded",
+      "pos": "adjective",
+      "ipa": "/ˌəʊ.vəˈkraʊ.dɪd/",
+      "definition": "too full of people",
+      "example": "The city centre becomes overcrowded during rush hour.",
+      "uz": "haddan tashqari gavjum"
+    },
+    {
+      "word": "gentrification",
+      "pos": "noun",
+      "ipa": "/ˌdʒen.trɪ.fɪˈkeɪ.ʃən/",
+      "definition": "the process of an area becoming more expensive as wealthier people move in",
+      "example": "Gentrification has changed the character of the old neighbourhood.",
+      "uz": "gentrifikatsiya"
+    },
+    {
+      "word": "neighbourhood",
+      "pos": "noun",
+      "ipa": "/ˈneɪ.bə.hʊd/",
+      "definition": "the area around where someone lives",
+      "example": "It's a friendly neighbourhood with good schools.",
+      "uz": "mahalla"
+    },
+    {
+      "word": "tenant",
+      "pos": "noun",
+      "ipa": "/ˈten.ənt/",
+      "definition": "a person who pays rent to live in a property",
+      "example": "The tenant complained to the landlord about the broken heater.",
+      "uz": "ijarachi"
+    },
+    {
+      "word": "landlord",
+      "pos": "noun",
+      "ipa": "/ˈlænd.lɔːd/",
+      "definition": "a person who owns property and rents it to others",
+      "example": "Her landlord raised the rent last month.",
+      "uz": "uy egasi"
+    },
+    {
+      "word": "shortage",
+      "pos": "noun",
+      "ipa": "/ˈʃɔː.tɪdʒ/",
+      "definition": "a situation in which there is not enough of something",
+      "example": "There is a serious housing shortage in the city.",
+      "uz": "yetishmovchilik"
+    },
+    {
+      "word": "public transport",
+      "pos": "noun phrase",
+      "ipa": "/ˈpʌb.lɪk ˈtræns.pɔːt/",
+      "definition": "buses, trains, and other vehicles that anyone can use",
+      "example": "Public transport in this city is fast and reliable.",
+      "uz": "jamoat transporti"
+    },
+    {
+      "word": "congestion",
+      "pos": "noun",
+      "ipa": "/kənˈdʒes.tʃən/",
+      "definition": "a situation in which roads are too full of traffic",
+      "example": "Traffic congestion is a major problem in big cities.",
+      "uz": "tirbandlik"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adjective",
+      "ipa": "/səˈsteɪ.nə.bəl/",
+      "definition": "able to continue over time without causing damage to the environment",
+      "example": "The city is trying to develop in a more sustainable way.",
+      "uz": "barqaror"
+    },
+    {
+      "word": "skyscraper",
+      "pos": "noun",
+      "ipa": "/ˈskaɪˌskreɪ.pər/",
+      "definition": "a very tall building found in cities",
+      "example": "The new skyscraper is the tallest building in the city.",
+      "uz": "osmono'par bino"
+    },
+    {
+      "word": "urban sprawl",
+      "pos": "noun phrase",
+      "ipa": "/ˈɜː.bən sprɔːl/",
+      "definition": "the uncontrolled spread of a city into the surrounding areas",
+      "example": "Urban sprawl has destroyed much of the farmland near the city.",
+      "uz": "shaharning tartibsiz kengayishi"
+    },
+    {
+      "word": "relocate",
+      "pos": "verb",
+      "ipa": "/ˌriː.ləʊˈkeɪt/",
+      "definition": "to move to a different place to live or work",
+      "example": "The family decided to relocate to a smaller town.",
+      "uz": "ko'chib o'tmoq"
+    },
+    {
+      "word": "cost of living",
+      "pos": "noun phrase",
+      "ipa": "/kɒst əv ˈlɪv.ɪŋ/",
+      "definition": "the amount of money needed to pay for basic goods and services",
+      "example": "The cost of living in the capital is very high.",
+      "uz": "yashash qiymati"
+    }
+  ],
+  "text": "As cities continue to grow, finding affordable accommodation has become one of the biggest challenges of urban living. In many major cities, the cost of living has risen so quickly that a housing shortage has pushed rent and property prices to record levels. As a result, some tenants can no longer pay what their landlord asks and are forced to relocate to a cheaper suburb, even if it means a longer commute to work. Meanwhile, gentrification has changed many neighbourhoods, as wealthier residents move in and older, working-class families are pushed out. City centres, filled with skyscrapers, often become overcrowded, while public transport struggles to keep up with demand, leading to serious traffic congestion. Urban planners argue that cities need to grow in a more sustainable way, rather than allowing urban sprawl to destroy natural land nearby. Some governments have started building more affordable housing and improving public transport so that fewer people need a mortgage just to live near their workplace. However, solving the housing crisis will not happen quickly, since it involves difficult questions about who owns property and how cities should be designed for the future.",
+  "questions": [
+    {
+      "question": "According to the passage, why have rent and property prices risen to record levels?",
+      "options": [
+        "A housing shortage",
+        "Too much public transport",
+        "A decrease in the cost of living",
+        "Fewer skyscrapers being built"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What are some tenants forced to do because they cannot pay rising rent?",
+      "options": [
+        "Buy a mortgage immediately",
+        "Relocate to a cheaper suburb",
+        "Become landlords",
+        "Stop commuting to work"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens to neighbourhoods affected by gentrification, according to the text?",
+      "options": [
+        "Wealthier residents move in and working-class families are pushed out",
+        "Rent prices decrease",
+        "They become less crowded",
+        "Public transport disappears"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What problem does the passage link to overcrowded city centres?",
+      "options": [
+        "Lower cost of living",
+        "Traffic congestion",
+        "Fewer skyscrapers",
+        "Cheaper property prices"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do urban planners suggest, according to the passage?",
+      "options": [
+        "Allowing unlimited urban sprawl",
+        "Growing cities in a more sustainable way",
+        "Stopping all public transport",
+        "Removing all landlords"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is one action some governments have taken to address the housing crisis?",
+      "options": [
+        "Reducing public transport",
+        "Building more affordable housing",
+        "Increasing mortgage costs",
+        "Encouraging urban sprawl"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -3,29 +3,46 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Level — WordPath</title>
-<link rel="stylesheet" href="css/style.css" />
+<title>Level — LearningEnglishStat</title>
+<meta name="description" content="Levelning barcha bo'limlari va level testi — LearningEnglishStat." />
+<meta name="theme-color" content="#f6f7fc" />
+<meta property="og:title" content="LearningEnglishStat — Level" />
+<meta property="og:description" content="Levelning barcha bo'limlari va level testi." />
+<meta property="og:type" content="website" />
+<link rel="icon" href="assets/brand-icon.svg" type="image/svg+xml" />
+<link rel="manifest" href="manifest.json" />
+<link rel="stylesheet" href="css/style.css?v=7" />
 </head>
 <body data-page="level">
   <div class="wrap">
     <header class="top">
-      <a class="brand" href="index.html"><span class="dot"></span> WordPath</a>
+      <a class="brand" href="/">
+        <img class="brand-icon" src="assets/brand-icon.svg" alt="" width="36" height="36" />
+        <span><span class="brand-black">LearningEnglish</span><span class="brand-blue">Stat</span></span>
+      </a>
+      <nav class="top-nav" aria-label="Asosiy navigatsiya">
+        <a href="/">Bosh sahifa</a>
+      </nav>
     </header>
-    <nav class="crumbs"><a href="index.html">Bosh sahifa</a> / <span id="levelName">...</span></nav>
+    <nav class="crumbs" aria-label="Yo'l">
+      <a href="/">Bosh sahifa</a>
+      <span class="crumb-sep" aria-hidden="true">›</span>
+      <span id="levelName" class="crumb-current skeleton">...</span>
+    </nav>
 
-    <div id="lockedMsg" style="display:none;" class="test-banner">
-      🔒 Bu level hali yopiq. Avvalgi levelning testini topshiring.
-    </div>
-
-    <div id="levelContent">
-      <h1 id="levelNameTitle"></h1>
+    <main id="levelContent">
+      <h1 id="levelNameTitle" class="skeleton">Yuklanmoqda...</h1>
       <div class="progress-line" id="levelProgressText"></div>
-      <div class="level-card" style="margin-top:10px;padding:14px 18px;">
-        <div class="progress-bar"><div id="levelProgressBar" style="width:0%"></div></div>
+      <div class="level-card level-progress-card">
+        <div class="progress-bar"><div id="levelProgressBar"></div></div>
       </div>
 
-      <h2 style="margin-top:26px;">Bo'limlar</h2>
-      <div class="section-grid" id="sectionGrid"></div>
+      <h2 class="section-heading">Bo'limlar</h2>
+      <div class="section-grid" id="sectionGrid">
+        <div class="skeleton-card small"></div>
+        <div class="skeleton-card small"></div>
+        <div class="skeleton-card small"></div>
+      </div>
 
       <div class="test-banner">
         <div>
@@ -34,9 +51,28 @@
         </div>
         <button class="btn" id="levelTestBtn" disabled>Testni boshlash</button>
       </div>
-    </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-top">
+        <a class="footer-brand" href="/">
+          <img src="assets/brand-icon.svg" alt="" width="26" height="26" />
+          <span><span class="brand-black">LearningEnglish</span><span class="brand-blue">Stat</span></span>
+        </a>
+        <p class="footer-tagline">A1 dan C1 gacha lug'at va o'qish orqali ingliz tilini o'rganish — bepul va reklamasiz.</p>
+      </div>
+      <nav class="footer-links" aria-label="Pastki navigatsiya">
+        <a href="/">Bosh sahifa</a>
+        <a href="/level?level=a1">A1</a>
+        <a href="/level?level=a2">A2</a>
+        <a href="/level?level=b1">B1</a>
+        <a href="/level?level=b2">B2</a>
+        <a href="/level?level=c1">C1</a>
+      </nav>
+      <p class="footer-copy">© <span id="footerYear"></span> LearningEnglishStat. Progressingiz faqat shu brauzeringizda saqlanadi.</p>
+    </footer>
   </div>
 
-  <script src="js/app.js"></script>
+  <script src="js/app.js?v=2"></script>
 </body>
 </html>

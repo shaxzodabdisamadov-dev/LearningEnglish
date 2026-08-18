@@ -1,0 +1,229 @@
+{
+  "id": 15,
+  "topic": "Emotions and Feelings",
+  "words": [
+    {
+      "word": "happy",
+      "pos": "adjective",
+      "ipa": "/ˈhæpi/",
+      "definition": "feeling pleasure or joy",
+      "example": "I am happy when I see my friends.",
+      "uz": "xursand"
+    },
+    {
+      "word": "sad",
+      "pos": "adjective",
+      "ipa": "/sæd/",
+      "definition": "feeling unhappy",
+      "example": "She felt sad when her friend left.",
+      "uz": "xafa"
+    },
+    {
+      "word": "angry",
+      "pos": "adjective",
+      "ipa": "/ˈæŋɡri/",
+      "definition": "feeling strong dislike about something that is wrong or unfair",
+      "example": "He was angry about the broken window.",
+      "uz": "jahldor"
+    },
+    {
+      "word": "tired",
+      "pos": "adjective",
+      "ipa": "/ˈtaɪərd/",
+      "definition": "needing rest or sleep",
+      "example": "I feel tired after work.",
+      "uz": "charchagan"
+    },
+    {
+      "word": "scared",
+      "pos": "adjective",
+      "ipa": "/skerd/",
+      "definition": "feeling afraid of something",
+      "example": "The little boy was scared of the dark.",
+      "uz": "qo'rqqan"
+    },
+    {
+      "word": "excited",
+      "pos": "adjective",
+      "ipa": "/ɪkˈsaɪtɪd/",
+      "definition": "feeling very happy and full of energy about something",
+      "example": "The children were excited about the trip.",
+      "uz": "hayajonlangan"
+    },
+    {
+      "word": "worried",
+      "pos": "adjective",
+      "ipa": "/ˈwɜːrid/",
+      "definition": "feeling unhappy because you think something bad may happen",
+      "example": "My mother was worried about the storm.",
+      "uz": "xavotirlangan"
+    },
+    {
+      "word": "surprised",
+      "pos": "adjective",
+      "ipa": "/sərˈpraɪzd/",
+      "definition": "feeling shock because something happened that you did not expect",
+      "example": "I was surprised to see my old friend.",
+      "uz": "hayron"
+    },
+    {
+      "word": "bored",
+      "pos": "adjective",
+      "ipa": "/bɔːrd/",
+      "definition": "feeling tired and unhappy because something is not interesting",
+      "example": "The students felt bored during the long class.",
+      "uz": "zerikkan"
+    },
+    {
+      "word": "nervous",
+      "pos": "adjective",
+      "ipa": "/ˈnɜːrvəs/",
+      "definition": "feeling worried or afraid about something that will happen",
+      "example": "I was nervous before my exam.",
+      "uz": "asabiylashgan"
+    },
+    {
+      "word": "calm",
+      "pos": "adjective",
+      "ipa": "/kɑːm/",
+      "definition": "not worried, angry, or excited",
+      "example": "Please stay calm and listen carefully.",
+      "uz": "xotirjam"
+    },
+    {
+      "word": "proud",
+      "pos": "adjective",
+      "ipa": "/praʊd/",
+      "definition": "feeling pleased about something good that you or someone else did",
+      "example": "My parents are proud of my grades.",
+      "uz": "faxrlangan"
+    },
+    {
+      "word": "shy",
+      "pos": "adjective",
+      "ipa": "/ʃaɪ/",
+      "definition": "feeling nervous about meeting or talking to other people",
+      "example": "The new student is very shy.",
+      "uz": "uyatchan"
+    },
+    {
+      "word": "lonely",
+      "pos": "adjective",
+      "ipa": "/ˈloʊnli/",
+      "definition": "feeling sad because you are alone",
+      "example": "He felt lonely in the new city.",
+      "uz": "yolg'iz"
+    },
+    {
+      "word": "feel",
+      "pos": "verb",
+      "ipa": "/fiːl/",
+      "definition": "to have a certain emotion",
+      "example": "I feel happy today.",
+      "uz": "his qilmoq"
+    },
+    {
+      "word": "laugh",
+      "pos": "verb",
+      "ipa": "/læf/",
+      "definition": "to make a sound that shows you are happy or think something is funny",
+      "example": "We laughed at the funny movie.",
+      "uz": "kulmoq"
+    },
+    {
+      "word": "cry",
+      "pos": "verb",
+      "ipa": "/kraɪ/",
+      "definition": "to have tears fall from your eyes, often because you are sad",
+      "example": "The baby started to cry.",
+      "uz": "yig'lamoq"
+    },
+    {
+      "word": "smile",
+      "pos": "verb",
+      "ipa": "/smaɪl/",
+      "definition": "to move your mouth to show that you are happy",
+      "example": "She smiled when she saw the gift.",
+      "uz": "jilmaymoq"
+    },
+    {
+      "word": "love",
+      "pos": "verb",
+      "ipa": "/lʌv/",
+      "definition": "to like someone or something very much",
+      "example": "I love my family.",
+      "uz": "yaxshi ko'rmoq"
+    },
+    {
+      "word": "hate",
+      "pos": "verb",
+      "ipa": "/heɪt/",
+      "definition": "to dislike someone or something very much",
+      "example": "He hates waiting in long lines.",
+      "uz": "yomon ko'rmoq"
+    }
+  ],
+  "text": "Everyone feels different emotions every day. This morning, I felt happy because the sun was shining. But then I remembered my exam, and I became a little nervous and worried. At school, my friend looked sad, so I asked her what was wrong. She said she felt lonely because her best friend moved to another city. I tried to make her smile, and soon she started to laugh with me. During the exam, some students felt scared, but I stayed calm and did my best. After the exam, I was excited to go home, and my teacher said she was proud of our class. On the bus, a loud noise made me feel surprised, and for a moment I was a little scared. My little brother was bored at home, so he watched a funny video and began to cry from laughing so hard! Sometimes we feel angry too, but it is important to talk about our feelings. I love my family and friends because they help me feel better on hard days.",
+  "questions": [
+    {
+      "question": "Why did the writer feel happy this morning?",
+      "options": [
+        "It was a holiday",
+        "The sun was shining",
+        "The exam was cancelled",
+        "A friend visited"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why did the friend feel lonely?",
+      "options": [
+        "She lost her book",
+        "Her best friend moved to another city",
+        "She missed the exam",
+        "She was sick"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How did the writer feel during the exam?",
+      "options": [
+        "Angry",
+        "Bored",
+        "Calm",
+        "Excited"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was the teacher proud of?",
+      "options": [
+        "The school building",
+        "The class",
+        "The exam questions",
+        "The weather"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What made the writer feel surprised on the bus?",
+      "options": [
+        "A funny video",
+        "A loud noise",
+        "Seeing a friend",
+        "Losing a bag"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the little brother do at home?",
+      "options": [
+        "He did his homework",
+        "He slept all day",
+        "He watched a funny video and laughed until he cried",
+        "He went to the market"
+      ],
+      "answer": 2
+    }
+  ]
+}

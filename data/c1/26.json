@@ -1,0 +1,229 @@
+{
+  "id": 26,
+  "topic": "Exercise Physiology and Human Performance",
+  "words": [
+    {
+      "word": "hypertrophy",
+      "pos": "noun",
+      "ipa": "/haɪˈpɜːtrəfi/",
+      "definition": "The enlargement of a tissue or organ, especially muscle, due to increased cell size.",
+      "example": "Years of resistance training produced significant muscle hypertrophy.",
+      "uz": "gipertrofiya"
+    },
+    {
+      "word": "periodization",
+      "pos": "noun",
+      "ipa": "/ˌpɪəriədaɪˈzeɪʃən/",
+      "definition": "The systematic planning of athletic training in cycles to optimize performance.",
+      "example": "Her coach designed a periodization plan leading up to the championship.",
+      "uz": "davriylashtirish (mashg'ulot rejalashtiruvi)"
+    },
+    {
+      "word": "homeostasis",
+      "pos": "noun",
+      "ipa": "/ˌhoʊmiəˈsteɪsɪs/",
+      "definition": "The tendency of a physiological system to maintain internal stability.",
+      "example": "The body works constantly to restore homeostasis after intense exercise.",
+      "uz": "gomeostaz"
+    },
+    {
+      "word": "anaerobic",
+      "pos": "adjective",
+      "ipa": "/ˌænəˈroʊbɪk/",
+      "definition": "Relating to exercise or metabolism that occurs without sufficient oxygen supply.",
+      "example": "Sprinting relies primarily on anaerobic energy systems.",
+      "uz": "anaerob"
+    },
+    {
+      "word": "aerobic",
+      "pos": "adjective",
+      "ipa": "/ɛəˈroʊbɪk/",
+      "definition": "Relating to exercise or metabolism that uses oxygen to generate energy.",
+      "example": "Long-distance running is a classic aerobic activity.",
+      "uz": "aerob"
+    },
+    {
+      "word": "exertion",
+      "pos": "noun",
+      "ipa": "/ɪgˈzɜːʃən/",
+      "definition": "The act of physical or mental effort, especially strenuous effort.",
+      "example": "His face was flushed from the exertion of the final climb.",
+      "uz": "zo'riqish, kuch sarflash"
+    },
+    {
+      "word": "fatigue",
+      "pos": "noun",
+      "ipa": "/fəˈtiːg/",
+      "definition": "Extreme tiredness resulting from exertion, reducing capacity for further effort.",
+      "example": "Muscular fatigue set in during the last kilometer of the race.",
+      "uz": "charchoq"
+    },
+    {
+      "word": "supercompensation",
+      "pos": "noun",
+      "ipa": "/ˌsuːpərkɒmpənˈseɪʃən/",
+      "definition": "The physiological adaptation whereby performance capacity rises above baseline after recovery from training stress.",
+      "example": "Supercompensation allowed the athlete to lift heavier weights than before.",
+      "uz": "superkompensatsiya"
+    },
+    {
+      "word": "plasticity",
+      "pos": "noun",
+      "ipa": "/plæˈstɪsɪti/",
+      "definition": "The capacity of a system, especially the body or brain, to adapt structurally to demands.",
+      "example": "The nervous system's plasticity allows skill to improve with practice.",
+      "uz": "plastiklik, moslashuvchanlik"
+    },
+    {
+      "word": "overtraining",
+      "pos": "noun",
+      "ipa": "/ˈoʊvərtreɪnɪŋ/",
+      "definition": "A state of accumulated fatigue and impaired performance from excessive training without adequate recovery.",
+      "example": "Persistent soreness and poor sleep signaled overtraining.",
+      "uz": "haddan tashqari mashq qilish holati"
+    },
+    {
+      "word": "biomechanics",
+      "pos": "noun",
+      "ipa": "/ˌbaɪoʊmɪˈkænɪks/",
+      "definition": "The study of the mechanical laws relating to the movement of living organisms.",
+      "example": "A biomechanics analysis revealed inefficiencies in her running stride.",
+      "uz": "biomexanika"
+    },
+    {
+      "word": "exogenous",
+      "pos": "adjective",
+      "ipa": "/ɛkˈsɒdʒənəs/",
+      "definition": "Originating from outside the organism or system.",
+      "example": "Exogenous creatine supplementation is popular among strength athletes.",
+      "uz": "ekzogen (tashqi manbadan)"
+    },
+    {
+      "word": "endogenous",
+      "pos": "adjective",
+      "ipa": "/ɛnˈdɒdʒənəs/",
+      "definition": "Originating from within the organism or system.",
+      "example": "Endogenous adrenaline surges during intense competition.",
+      "uz": "endogen (ichki manbadan)"
+    },
+    {
+      "word": "ergogenic",
+      "pos": "adjective",
+      "ipa": "/ˌɜːgəˈdʒɛnɪk/",
+      "definition": "Tending to enhance physical performance or work capacity.",
+      "example": "Caffeine is a widely studied ergogenic aid.",
+      "uz": "ergogen (ish faoliyatini oshiruvchi)"
+    },
+    {
+      "word": "detrimental",
+      "pos": "adjective",
+      "ipa": "/ˌdɛtrɪˈmɛntəl/",
+      "definition": "Causing harm or damage.",
+      "example": "Chronic sleep deprivation proved detrimental to his recovery.",
+      "uz": "zararli"
+    },
+    {
+      "word": "attenuate",
+      "pos": "verb",
+      "ipa": "/əˈtɛnjueɪt/",
+      "definition": "To reduce the force, effect, or magnitude of something.",
+      "example": "Proper warm-ups can attenuate the risk of injury.",
+      "uz": "susaytirmoq, kamaytirmoq"
+    },
+    {
+      "word": "corollary",
+      "pos": "noun",
+      "ipa": "/kəˈrɒləri/",
+      "definition": "A natural consequence or result following logically from something else.",
+      "example": "A corollary of intense training is the need for adequate rest.",
+      "uz": "tabiiy oqibat, natija"
+    },
+    {
+      "word": "deconditioning",
+      "pos": "noun",
+      "ipa": "/ˌdiːkənˈdɪʃənɪŋ/",
+      "definition": "The physiological decline in fitness resulting from inactivity.",
+      "example": "Two weeks off caused noticeable cardiovascular deconditioning.",
+      "uz": "harakatsizlik tufayli jismoniy tayyorgarlik pasayishi"
+    },
+    {
+      "word": "substrate",
+      "pos": "noun",
+      "ipa": "/ˈsʌbstreɪt/",
+      "definition": "A substance acted upon by an enzyme or metabolic process, such as fuel used for energy.",
+      "example": "Glycogen serves as the primary substrate during high-intensity exercise.",
+      "uz": "substrat"
+    },
+    {
+      "word": "adaptive",
+      "pos": "adjective",
+      "ipa": "/əˈdæptɪv/",
+      "definition": "Relating to a beneficial change made in response to a stimulus or stressor.",
+      "example": "The muscles underwent adaptive changes in response to the new regimen.",
+      "uz": "moslashuvchan, adaptiv"
+    }
+  ],
+  "text": "Modern training theory rests on a deceptively simple premise: the body's remarkable plasticity allows it to become more resilient to a stressor it has already survived. Periodization exploits this principle by alternating cycles of intense exertion with deliberate recovery, aiming to trigger supercompensation, whereby performance capacity temporarily exceeds its pre-training baseline. The corollary, often neglected by ambitious athletes, is that adaptive gains occur not during exertion itself but during the restoration of homeostasis afterward; training without adequate recovery courts overtraining, a state in which chronic fatigue becomes detrimental rather than productive. Physiologists distinguish aerobic pathways, which rely on oxygen to metabolize substrate efficiently over sustained efforts, from anaerobic pathways, which supply rapid but unsustainable energy for brief, explosive exertion; elite programs manipulate both systems according to biomechanics specific to each sport. Ergogenic aids, whether endogenous—such as naturally elevated hormone levels induced by training—or exogenous, like caffeine or creatine, can further attenuate fatigue, though their benefits are frequently overstated. Conversely, even brief periods of inactivity trigger deconditioning, eroding hard-won adaptations with disheartening speed, a fact that underscores how provisional athletic fitness truly is.",
+  "questions": [
+    {
+      "question": "According to the passage, adaptive gains from training primarily occur:",
+      "options": [
+        "During the period of intense exertion itself",
+        "During the recovery period following exertion, as homeostasis is restored",
+        "Only when anaerobic pathways are used",
+        "Exclusively through exogenous ergogenic aids"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage identify as a risk of insufficient recovery?",
+      "options": [
+        "Supercompensation occurs too quickly",
+        "Overtraining, in which chronic fatigue becomes detrimental",
+        "Increased biomechanical efficiency",
+        "Enhanced plasticity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The distinction between aerobic and anaerobic pathways, as described, is primarily based on:",
+      "options": [
+        "The athlete's age and biomechanics",
+        "Whether oxygen is used to metabolize substrate for sustained versus brief efforts",
+        "Whether the aid is exogenous or endogenous",
+        "The duration of the recovery period"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The author's tone toward ergogenic aids can best be described as:",
+      "options": [
+        "Enthusiastically supportive",
+        "Mildly skeptical, noting their benefits are often overstated",
+        "Entirely dismissive of any benefit",
+        "Uncertain and uninformed"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest about the durability of athletic fitness?",
+      "options": [
+        "It is permanent once achieved through periodization",
+        "It is provisional and can erode quickly through deconditioning during inactivity",
+        "It is unaffected by inactivity",
+        "It depends solely on exogenous aids"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The passage's discussion of periodization and supercompensation primarily illustrates which broader point?",
+      "options": [
+        "That exertion alone, without any structured recovery, is the most effective path to performance gains",
+        "That the body's plasticity enables it to adapt to stress cycles if strategically balanced with recovery",
+        "That anaerobic training is inherently detrimental",
+        "That biomechanics is irrelevant to training design"
+      ],
+      "answer": 1
+    }
+  ]
+}

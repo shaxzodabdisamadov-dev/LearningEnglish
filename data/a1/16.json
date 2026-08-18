@@ -1,0 +1,229 @@
+{
+  "id": 16,
+  "topic": "Technology and Phones",
+  "words": [
+    {
+      "word": "phone",
+      "pos": "noun",
+      "ipa": "/foʊn/",
+      "definition": "a machine that you use to talk to someone who is in another place",
+      "example": "I call my mother on my phone every evening.",
+      "uz": "telefon"
+    },
+    {
+      "word": "computer",
+      "pos": "noun",
+      "ipa": "/kəmˈpjuːtər/",
+      "definition": "a machine that stores and uses information",
+      "example": "I write my homework on my computer.",
+      "uz": "kompyuter"
+    },
+    {
+      "word": "internet",
+      "pos": "noun",
+      "ipa": "/ˈɪntərnet/",
+      "definition": "a large system of connected computers that lets people share information",
+      "example": "We use the internet to find information.",
+      "uz": "internet"
+    },
+    {
+      "word": "call",
+      "pos": "verb",
+      "ipa": "/kɔːl/",
+      "definition": "to talk to someone by phone",
+      "example": "Please call me when you arrive.",
+      "uz": "qo'ng'iroq qilmoq"
+    },
+    {
+      "word": "message",
+      "pos": "noun",
+      "ipa": "/ˈmesɪdʒ/",
+      "definition": "a short piece of writing or speech that you send to someone",
+      "example": "She sent me a message this morning.",
+      "uz": "xabar"
+    },
+    {
+      "word": "screen",
+      "pos": "noun",
+      "ipa": "/skriːn/",
+      "definition": "the flat part of a phone or computer where you see pictures and words",
+      "example": "The screen on my phone is very big.",
+      "uz": "ekran"
+    },
+    {
+      "word": "button",
+      "pos": "noun",
+      "ipa": "/ˈbʌtən/",
+      "definition": "a small part that you push to make a machine work",
+      "example": "Press this button to turn on the light.",
+      "uz": "tugma"
+    },
+    {
+      "word": "charge",
+      "pos": "verb",
+      "ipa": "/tʃɑːrdʒ/",
+      "definition": "to put electricity into a phone or battery",
+      "example": "I charge my phone every night.",
+      "uz": "zaryadlamoq"
+    },
+    {
+      "word": "battery",
+      "pos": "noun",
+      "ipa": "/ˈbætəri/",
+      "definition": "a small object that gives power to a machine",
+      "example": "My phone's battery is low.",
+      "uz": "batareya"
+    },
+    {
+      "word": "photo",
+      "pos": "noun",
+      "ipa": "/ˈfoʊtoʊ/",
+      "definition": "a picture made with a camera",
+      "example": "I took a photo of my dog.",
+      "uz": "rasm"
+    },
+    {
+      "word": "video",
+      "pos": "noun",
+      "ipa": "/ˈvɪdioʊ/",
+      "definition": "a film that you watch on a screen",
+      "example": "We watched a funny video together.",
+      "uz": "video"
+    },
+    {
+      "word": "send",
+      "pos": "verb",
+      "ipa": "/send/",
+      "definition": "to make something go to another place",
+      "example": "Can you send me the photo, please?",
+      "uz": "yubormoq"
+    },
+    {
+      "word": "click",
+      "pos": "verb",
+      "ipa": "/klɪk/",
+      "definition": "to press a button on a computer with a mouse or finger",
+      "example": "Click here to open the app.",
+      "uz": "bosmoq"
+    },
+    {
+      "word": "download",
+      "pos": "verb",
+      "ipa": "/ˈdaʊnloʊd/",
+      "definition": "to copy something from the internet to your phone or computer",
+      "example": "I want to download a new app.",
+      "uz": "yuklab olmoq"
+    },
+    {
+      "word": "app",
+      "pos": "noun",
+      "ipa": "/æp/",
+      "definition": "a small computer program on a phone",
+      "example": "This app helps me learn English.",
+      "uz": "ilova"
+    },
+    {
+      "word": "password",
+      "pos": "noun",
+      "ipa": "/ˈpæswɜːrd/",
+      "definition": "a secret word that you use to open your phone or account",
+      "example": "I forgot my password again.",
+      "uz": "parol"
+    },
+    {
+      "word": "email",
+      "pos": "noun",
+      "ipa": "/ˈiːmeɪl/",
+      "definition": "a message that you send using a computer or phone",
+      "example": "I check my email every morning.",
+      "uz": "elektron pochta"
+    },
+    {
+      "word": "turn on",
+      "pos": "phrase",
+      "ipa": "/tɜːrn ɒn/",
+      "definition": "to make a machine start working",
+      "example": "Please turn on the computer for me.",
+      "uz": "yoqmoq"
+    },
+    {
+      "word": "broken",
+      "pos": "adjective",
+      "ipa": "/ˈbroʊkən/",
+      "definition": "not working; damaged",
+      "example": "My brother's phone is broken.",
+      "uz": "buzilgan"
+    },
+    {
+      "word": "new",
+      "pos": "adjective",
+      "ipa": "/njuː/",
+      "definition": "not old; made or bought recently",
+      "example": "She bought a new computer last week.",
+      "uz": "yangi"
+    }
+  ],
+  "text": "Every day, I use my phone. My phone is not new, but it is not broken. In the morning, I turn on my computer and check my email. I have many apps on my phone. One app helps me send messages to my friends. I often call my mother in the evening. We talk about our day. My phone has a big screen, so I can watch a video easily. Yesterday, I took a photo of my dog and sent it to my sister. She liked the photo very much. Sometimes I click on a button to download a new app. But first, I need a password to open the app store. My phone's battery is often low, so I charge it every night. Without the internet, I cannot send messages or watch videos. My brother's phone is broken, so he wants to buy a new one. Technology helps us talk to people far away. I think phones and computers are very useful in our life today.",
+  "questions": [
+    {
+      "question": "What does the person do every morning?",
+      "options": [
+        "They call their mother",
+        "They turn on the computer and check email",
+        "They buy a new phone",
+        "They watch a video"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the person charge their phone every night?",
+      "options": [
+        "Because the screen is broken",
+        "Because the battery is often low",
+        "Because they want a new phone",
+        "Because the internet is slow"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the person send to their sister?",
+      "options": [
+        "A message",
+        "An email",
+        "A photo of a dog",
+        "A video"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the person need to download a new app?",
+      "options": [
+        "A photo",
+        "A password",
+        "A battery",
+        "A screen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is wrong with the brother's phone?",
+      "options": [
+        "It is too new",
+        "It is broken",
+        "It has no internet",
+        "It has no battery"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who does the person call in the evening?",
+      "options": [
+        "Their sister",
+        "Their friend",
+        "Their mother",
+        "Their brother"
+      ],
+      "answer": 2
+    }
+  ]
+}

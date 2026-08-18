@@ -1,0 +1,229 @@
+{
+  "id": 30,
+  "topic": "Linguistics, Language Evolution, and Communication",
+  "words": [
+    {
+      "word": "phoneme",
+      "pos": "noun",
+      "ipa": "/ˈfoʊniːm/",
+      "definition": "The smallest unit of sound in a language that distinguishes one word or meaning from another.",
+      "example": "English distinguishes the phoneme /p/ from /b/ by voicing.",
+      "uz": "fonema"
+    },
+    {
+      "word": "morphology",
+      "pos": "noun",
+      "ipa": "/mɔːˈfɒlədʒi/",
+      "definition": "The study of the structure and formation of words.",
+      "example": "The morphology of the verb reveals its tense and aspect.",
+      "uz": "morfologiya"
+    },
+    {
+      "word": "syntax",
+      "pos": "noun",
+      "ipa": "/ˈsɪntæks/",
+      "definition": "The arrangement of words and phrases to create well-formed sentences.",
+      "example": "The sentence's unusual syntax made it hard to parse.",
+      "uz": "sintaksis"
+    },
+    {
+      "word": "semantics",
+      "pos": "noun",
+      "ipa": "/sɪˈmæntɪks/",
+      "definition": "The branch of linguistics concerned with meaning in language.",
+      "example": "The debate hinged on the semantics of the word 'freedom.'",
+      "uz": "semantika"
+    },
+    {
+      "word": "pragmatics",
+      "pos": "noun",
+      "ipa": "/prægˈmætɪks/",
+      "definition": "The study of how context contributes to meaning in communication.",
+      "example": "Pragmatics explains why 'Can you pass the salt?' is understood as a request.",
+      "uz": "pragmatika"
+    },
+    {
+      "word": "diachronic",
+      "pos": "adjective",
+      "ipa": "/ˌdaɪəˈkrɒnɪk/",
+      "definition": "Relating to the way something, especially language, has developed over time.",
+      "example": "A diachronic study traced the word's meaning across centuries.",
+      "uz": "diaxronik (tarixiy rivojlanishga oid)"
+    },
+    {
+      "word": "synchronic",
+      "pos": "adjective",
+      "ipa": "/sɪŋˈkrɒnɪk/",
+      "definition": "Relating to the state of something, especially language, at a particular point in time, without reference to its history.",
+      "example": "A synchronic analysis describes the grammar as it exists today.",
+      "uz": "sinxronik (muayyan davrga oid)"
+    },
+    {
+      "word": "lexicon",
+      "pos": "noun",
+      "ipa": "/ˈlɛksɪkɒn/",
+      "definition": "The total stock of words in a language or known to an individual.",
+      "example": "Her lexicon expanded rapidly after years of reading widely.",
+      "uz": "leksika, lug'at boyligi"
+    },
+    {
+      "word": "vernacular",
+      "pos": "noun",
+      "ipa": "/vərˈnækjələr/",
+      "definition": "The everyday, informal language spoken by ordinary people in a region.",
+      "example": "The play was written in the local vernacular rather than formal English.",
+      "uz": "so'zlashuv (mahalliy) tili"
+    },
+    {
+      "word": "prescriptivism",
+      "pos": "noun",
+      "ipa": "/prɪˈskrɪptɪvɪzəm/",
+      "definition": "The view that certain forms of language use are correct and should be enforced as standard.",
+      "example": "Prescriptivism insists on rules like never splitting an infinitive.",
+      "uz": "preskriptivizm (til me'yorini belgilash yondashuvi)"
+    },
+    {
+      "word": "descriptivism",
+      "pos": "noun",
+      "ipa": "/dɪˈskrɪptɪvɪzəm/",
+      "definition": "The approach of describing language as it is actually used, without judgment of correctness.",
+      "example": "Descriptivism simply records how speakers actually use language.",
+      "uz": "deskriptivizm (tilni tasvirlash yondashuvi)"
+    },
+    {
+      "word": "attrition",
+      "pos": "noun",
+      "ipa": "/əˈtrɪʃən/",
+      "definition": "The gradual loss of a language or linguistic feature, especially among speakers.",
+      "example": "Language attrition can occur when immigrant children stop using their first language.",
+      "uz": "tilning asta-sekin yo'qolishi"
+    },
+    {
+      "word": "creole",
+      "pos": "noun",
+      "ipa": "/ˈkriːoʊl/",
+      "definition": "A stable natural language that develops from the mixing of parent languages, typically as a first language.",
+      "example": "Haitian Creole developed from contact between French and African languages.",
+      "uz": "kreol tili"
+    },
+    {
+      "word": "cognate",
+      "pos": "adjective",
+      "ipa": "/ˈkɒgneɪt/",
+      "definition": "Related to another word by common linguistic origin.",
+      "example": "English 'night' and German 'Nacht' are cognates.",
+      "uz": "umumiy kelib chiqishga ega (qarindosh so'z)"
+    },
+    {
+      "word": "register",
+      "pos": "noun",
+      "ipa": "/ˈrɛdʒɪstər/",
+      "definition": "A variety of language used in a particular social setting or for a particular purpose.",
+      "example": "She shifted her register from casual to formal for the interview.",
+      "uz": "registr (nutq uslubi)"
+    },
+    {
+      "word": "code-switching",
+      "pos": "noun",
+      "ipa": "/koʊd ˈswɪtʃɪŋ/",
+      "definition": "The practice of alternating between two or more languages or dialects in conversation.",
+      "example": "Bilingual speakers often engage in code-switching mid-sentence.",
+      "uz": "kod almashtirish"
+    },
+    {
+      "word": "isogloss",
+      "pos": "noun",
+      "ipa": "/ˈaɪsəʊglɒs/",
+      "definition": "A boundary line on a map delimiting an area with a distinct linguistic feature.",
+      "example": "The isogloss marks where 'soda' gives way to 'pop' regionally.",
+      "uz": "izoglossa"
+    },
+    {
+      "word": "mutual intelligibility",
+      "pos": "noun phrase",
+      "ipa": "/ˈmjuːtʃuəl ɪnˌtɛlɪdʒəˈbɪlɪti/",
+      "definition": "The degree to which speakers of related language varieties can understand one another without prior study.",
+      "example": "Spanish and Portuguese show a fair degree of mutual intelligibility.",
+      "uz": "o'zaro tushunarlilik"
+    },
+    {
+      "word": "grammaticalization",
+      "pos": "noun",
+      "ipa": "/grəˌmætɪkəlaɪˈzeɪʃən/",
+      "definition": "The historical process by which a lexical word evolves into a grammatical function word.",
+      "example": "The evolution of 'going to' into 'gonna' illustrates grammaticalization.",
+      "uz": "grammatikalashuv"
+    },
+    {
+      "word": "idiolect",
+      "pos": "noun",
+      "ipa": "/ˈɪdiəlɛkt/",
+      "definition": "The distinctive speech pattern of an individual speaker.",
+      "example": "His idiolect included several phrases unique to his hometown.",
+      "uz": "idiolekt (shaxsiy nutq uslubi)"
+    }
+  ],
+  "text": "Linguists studying language change routinely distinguish a synchronic analysis, which examines a language's syntax, morphology, and lexicon at a single moment, from a diachronic one, which traces how these systems evolve across generations. This distinction proves useful when adjudicating the perennial dispute between prescriptivism and descriptivism: purists who insist that the vernacular is 'degrading' the standard often mistake ordinary diachronic drift—the very process, incidentally, that produced the standard they now defend—for careless error. Grammaticalization offers a vivid illustration: function words routinely emerge from what were once independent lexical items, a gradual erosion of semantic content into grammatical role that no synchronic snapshot alone could reveal. Sociolinguists, meanwhile, attend less to structural change than to pragmatics and register, observing how a single speaker's idiolect might shift fluidly through code-switching depending on audience and setting. Contact between communities produces its own phenomena: creole languages arise when speakers of mutually unintelligible tongues forge a stable new system for their children, while attrition threatens languages whose intergenerational transmission has been interrupted by dominant neighbors. Whether two varieties count as dialects of one language or distinct languages often hinges less on cognate vocabulary or mutual intelligibility than on political boundaries—a reminder that linguistic classification is rarely a purely scientific matter.",
+  "questions": [
+    {
+      "question": "According to the passage, what is the key difference between synchronic and diachronic analysis?",
+      "options": [
+        "Synchronic examines change over time, diachronic examines a single moment",
+        "Synchronic examines a language at one point in time, diachronic traces its evolution across generations",
+        "They are identical approaches with different names",
+        "Diachronic only applies to dead languages"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The passage suggests that prescriptivists often mistake diachronic drift for:",
+      "options": [
+        "Grammaticalization",
+        "Careless error, when it is actually the same process that produced the standard language they defend",
+        "A synchronic snapshot",
+        "Code-switching"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does grammaticalization illustrate, according to the passage?",
+      "options": [
+        "That function words remain unchanged over centuries",
+        "That lexical items can gradually evolve into grammatical function words through erosion of semantic content",
+        "That creoles cannot form from language contact",
+        "That register never varies within a single speaker"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Sociolinguists' interest in pragmatics and register, as described, focuses on:",
+      "options": [
+        "Historical sound change exclusively",
+        "How a speaker's language use shifts depending on audience and context",
+        "The formation of creole languages only",
+        "Purely structural grammar with no social dimension"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what ultimately determines whether two varieties are classified as separate languages or dialects?",
+      "options": [
+        "Purely linguistic criteria such as cognate vocabulary",
+        "Political boundaries, more often than cognate vocabulary or mutual intelligibility",
+        "The presence of a creole",
+        "Grammaticalization patterns"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The overall implicit stance of the passage toward prescriptivism is:",
+      "options": [
+        "Fully supportive, treating it as scientifically grounded",
+        "Skeptical, portraying it as based on a misunderstanding of natural language change",
+        "Entirely neutral with no critique offered",
+        "Unrelated to the passage's argument"
+      ],
+      "answer": 1
+    }
+  ]
+}

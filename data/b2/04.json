@@ -1,0 +1,229 @@
+{
+  "id": 4,
+  "topic": "Critical Thinking and Logical Reasoning",
+  "words": [
+    {
+      "word": "fallacy",
+      "pos": "noun",
+      "ipa": "/ˈfæləsi/",
+      "definition": "a mistaken belief based on unsound reasoning",
+      "example": "The argument was riddled with logical fallacies.",
+      "uz": "mantiqiy xato"
+    },
+    {
+      "word": "premise",
+      "pos": "noun",
+      "ipa": "/ˈpremɪs/",
+      "definition": "a statement assumed to be true and used as a basis for reasoning",
+      "example": "If the premise is false, the entire argument collapses.",
+      "uz": "mulohaza uchun asos qilib olingan dastlabki fikr"
+    },
+    {
+      "word": "infer",
+      "pos": "verb",
+      "ipa": "/ɪnˈfɜː/",
+      "definition": "to reach a conclusion based on evidence and reasoning",
+      "example": "From the data alone, we can infer a correlation, but not necessarily causation.",
+      "uz": "dalillarga asoslanib xulosa chiqarmoq"
+    },
+    {
+      "word": "bias",
+      "pos": "noun",
+      "ipa": "/ˈbaɪəs/",
+      "definition": "a tendency to favor one perspective, often unfairly",
+      "example": "Confirmation bias leads people to seek information that supports what they already believe.",
+      "uz": "tarafkashlik"
+    },
+    {
+      "word": "objective",
+      "pos": "adjective",
+      "ipa": "/əbˈdʒektɪv/",
+      "definition": "not influenced by personal feelings or opinions; based on facts",
+      "example": "Journalists strive to present the news in an objective manner.",
+      "uz": "xolis, ob'ektiv (shaxsiy fikrga bog'liq bo'lmagan)"
+    },
+    {
+      "word": "plausible",
+      "pos": "adjective",
+      "ipa": "/ˈplɔːzəbəl/",
+      "definition": "seeming reasonable or probable",
+      "example": "Her explanation sounded plausible, though it was later proven false.",
+      "uz": "ishonarli, mantiqan to'g'ri tuyuladigan"
+    },
+    {
+      "word": "substantiate",
+      "pos": "verb",
+      "ipa": "/səbˈstænʃieɪt/",
+      "definition": "to provide evidence to support a claim",
+      "example": "The researchers failed to substantiate their bold claim with sufficient data.",
+      "uz": "dalillar bilan asoslamoq"
+    },
+    {
+      "word": "discern",
+      "pos": "verb",
+      "ipa": "/dɪˈsɜːn/",
+      "definition": "to perceive or recognize something clearly, especially something not obvious",
+      "example": "It can be hard to discern fact from opinion in online articles.",
+      "uz": "aniq ilg'ay olmoq, farqlamoq"
+    },
+    {
+      "word": "coherent",
+      "pos": "adjective",
+      "ipa": "/kəʊˈhɪərənt/",
+      "definition": "logical and consistent; easy to follow",
+      "example": "Her argument was coherent, moving logically from evidence to conclusion.",
+      "uz": "izchil va mantiqiy"
+    },
+    {
+      "word": "draw a conclusion",
+      "pos": "verb phrase",
+      "ipa": "/drɔː ə kənˈkluːʒən/",
+      "definition": "to form an opinion or judgment after considering the facts",
+      "example": "It's unwise to draw a conclusion before examining all the evidence.",
+      "uz": "xulosa chiqarmoq"
+    },
+    {
+      "word": "rule out",
+      "pos": "phrasal verb",
+      "ipa": "/ruːl aʊt/",
+      "definition": "to eliminate a possibility from consideration",
+      "example": "The scientists ruled out coincidence after repeating the experiment several times.",
+      "uz": "imkoniyatni istisno qilmoq"
+    },
+    {
+      "word": "sound",
+      "pos": "adjective",
+      "ipa": "/saʊnd/",
+      "definition": "logically valid and well-founded",
+      "example": "A sound argument requires both true premises and valid logic.",
+      "uz": "mantiqan asosli, mustahkam"
+    },
+    {
+      "word": "skeptical",
+      "pos": "adjective",
+      "ipa": "/ˈskeptɪkəl/",
+      "definition": "having doubts about the truth or value of something",
+      "example": "She remained skeptical of claims that weren't backed by evidence.",
+      "uz": "shubha bilan qaraydigan"
+    },
+    {
+      "word": "underlying",
+      "pos": "adjective",
+      "ipa": "/ˌʌndəˈlaɪɪŋ/",
+      "definition": "existing as an often hidden cause or basis of something",
+      "example": "Understanding the underlying assumptions of an argument is essential to evaluating it.",
+      "uz": "tagida yotgan, asosiy (yashirin) sabab"
+    },
+    {
+      "word": "contradict",
+      "pos": "verb",
+      "ipa": "/ˌkɒntrəˈdɪkt/",
+      "definition": "to state the opposite of; to be inconsistent with",
+      "example": "The witness's second statement seemed to contradict her first.",
+      "uz": "zid kelmoq, inkor qilmoq"
+    },
+    {
+      "word": "correlation",
+      "pos": "noun",
+      "ipa": "/ˌkɒrəˈleɪʃən/",
+      "definition": "a mutual relationship between two or more things",
+      "example": "Correlation does not necessarily imply causation.",
+      "uz": "o'zaro bog'liqlik"
+    },
+    {
+      "word": "deduce",
+      "pos": "verb",
+      "ipa": "/dɪˈdjuːs/",
+      "definition": "to reach a conclusion through logical reasoning from known facts",
+      "example": "From the footprints alone, the detective deduced the intruder's approximate height.",
+      "uz": "mantiqiy fikrlash orqali xulosa chiqarmoq"
+    },
+    {
+      "word": "take into account",
+      "pos": "phrase",
+      "ipa": "/teɪk ˈɪntuː əˈkaʊnt/",
+      "definition": "to consider something when making a decision or judgment",
+      "example": "A fair evaluation must take into account the context in which the mistake occurred.",
+      "uz": "hisobga olmoq"
+    },
+    {
+      "word": "arbitrary",
+      "pos": "adjective",
+      "ipa": "/ˈɑːbɪtrəri/",
+      "definition": "based on random choice rather than reason or system",
+      "example": "The deadline seemed arbitrary, with no clear justification behind it.",
+      "uz": "o'zboshimchalik bilan, asossiz tanlangan"
+    },
+    {
+      "word": "unfounded",
+      "pos": "adjective",
+      "ipa": "/ʌnˈfaʊndɪd/",
+      "definition": "not based on facts or evidence",
+      "example": "The rumor turned out to be entirely unfounded.",
+      "uz": "dalilsiz, asossiz"
+    }
+  ],
+  "text": "Rarely do people realize how easily a plausible-sounding argument can conceal a fundamental fallacy. Sound reasoning requires more than simply arriving at a conclusion that feels right; it demands that every premise be substantiated and that the underlying logic remain coherent from start to finish. Take, for instance, the common error of mistaking correlation for causation: because two events occur together does not mean one causes the other, yet many people draw a conclusion of causality without pausing to consider alternative explanations. A critical thinker, by contrast, remains skeptical until competing possibilities have been ruled out, and takes into account any evidence that might contradict the initial hypothesis. Nor should one assume that a claim is credible simply because it is widely repeated; unfounded assertions, given enough repetition, can appear self-evidently true. Bias, too, distorts judgment in subtle ways, often leading us to accept arbitrary distinctions as though they were objective facts. Only by learning to discern strong arguments from weak ones—and by deducing conclusions carefully from verified evidence rather than assumption—can one reason with genuine rigor. In an age saturated with information, this discipline is not a luxury reserved for academics; it is, increasingly, indispensable to everyday decision-making.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Correlation always implies causation.",
+        "Critical thinking requires carefully examining premises, evidence, and biases rather than accepting plausible-sounding claims.",
+        "Only academics need to think critically.",
+        "Repetition of a claim proves its truth."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why is mistaking correlation for causation problematic?",
+      "options": [
+        "It always leads to correct conclusions.",
+        "It causes people to accept a causal link without considering other explanations.",
+        "It is a rare error in reasoning.",
+        "It only occurs in scientific research."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the passage suggest about widely repeated claims?",
+      "options": [
+        "They are always accurate.",
+        "They can seem true simply because of repetition, even if unfounded.",
+        "They are impossible to disprove.",
+        "They are irrelevant to critical thinking."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's purpose in writing this passage?",
+      "options": [
+        "To entertain readers with logical puzzles.",
+        "To explain and advocate for careful, evidence-based reasoning.",
+        "To criticize academic institutions.",
+        "To argue that skepticism is unnecessary."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what should a critical thinker do before accepting a hypothesis?",
+      "options": [
+        "Immediately accept the most popular explanation.",
+        "Rule out competing possibilities and consider contradicting evidence.",
+        "Avoid considering any counterarguments.",
+        "Rely solely on personal intuition."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is implied about critical thinking in the final sentence of the passage?",
+      "options": [
+        "It is only useful for academic study.",
+        "It has become essential for everyday decisions, not just for experts.",
+        "It is losing its importance in modern life.",
+        "It is unrelated to the amount of available information."
+      ],
+      "answer": 1
+    }
+  ]
+}

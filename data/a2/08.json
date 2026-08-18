@@ -1,0 +1,229 @@
+{
+  "id": 8,
+  "topic": "Neighborhood and Local Services",
+  "words": [
+    {
+      "word": "neighborhood",
+      "pos": "noun",
+      "ipa": "/ˈneɪbərhʊd/",
+      "definition": "an area of a town or city where people live.",
+      "example": "It's a quiet neighborhood.",
+      "uz": "mahalla"
+    },
+    {
+      "word": "community",
+      "pos": "noun",
+      "ipa": "/kəˈmjuːnəti/",
+      "definition": "a group of people who live in the same area.",
+      "example": "The community organized a street party.",
+      "uz": "jamoa"
+    },
+    {
+      "word": "post office",
+      "pos": "noun",
+      "ipa": "/ˈpoʊst ˌɒfɪs/",
+      "definition": "a place where you can send letters and packages.",
+      "example": "I bought stamps at the post office.",
+      "uz": "pochta bo'limi"
+    },
+    {
+      "word": "pharmacy",
+      "pos": "noun",
+      "ipa": "/ˈfɑːrməsi/",
+      "definition": "a shop where you can buy medicine.",
+      "example": "She got her medicine from the pharmacy.",
+      "uz": "dorixona"
+    },
+    {
+      "word": "library",
+      "pos": "noun",
+      "ipa": "/ˈlaɪbreri/",
+      "definition": "a place where books are kept for people to read or borrow.",
+      "example": "He studies at the library every afternoon.",
+      "uz": "kutubxona"
+    },
+    {
+      "word": "police station",
+      "pos": "noun",
+      "ipa": "/pəˈliːs ˌsteɪʃn/",
+      "definition": "a building where police officers work.",
+      "example": "Report the accident to the nearest police station.",
+      "uz": "politsiya bo'limi"
+    },
+    {
+      "word": "fire station",
+      "pos": "noun",
+      "ipa": "/ˈfaɪər ˌsteɪʃn/",
+      "definition": "a building where firefighters and fire trucks are based.",
+      "example": "The fire station is around the corner.",
+      "uz": "o't o'chirish stansiyasi"
+    },
+    {
+      "word": "supermarket",
+      "pos": "noun",
+      "ipa": "/ˈsuːpərˌmɑːrkɪt/",
+      "definition": "a large shop that sells food and other goods.",
+      "example": "We buy our groceries at the supermarket.",
+      "uz": "supermarket"
+    },
+    {
+      "word": "bus stop",
+      "pos": "noun",
+      "ipa": "/ˈbʌs stɒp/",
+      "definition": "a place where a bus stops for passengers.",
+      "example": "I wait for the bus at the bus stop.",
+      "uz": "avtobus bekati"
+    },
+    {
+      "word": "traffic",
+      "pos": "noun",
+      "ipa": "/ˈtræfɪk/",
+      "definition": "the cars and other vehicles moving on a road.",
+      "example": "The traffic was very heavy this morning.",
+      "uz": "yo'l harakati"
+    },
+    {
+      "word": "sidewalk",
+      "pos": "noun",
+      "ipa": "/ˈsaɪdwɔːk/",
+      "definition": "a path for walking at the side of a road.",
+      "example": "Children should walk on the sidewalk.",
+      "uz": "piyodalar yo'lkasi"
+    },
+    {
+      "word": "crossing",
+      "pos": "noun",
+      "ipa": "/ˈkrɒsɪŋ/",
+      "definition": "a place where you can safely cross a road.",
+      "example": "Always use the crossing to cross the street.",
+      "uz": "o'tish joyi"
+    },
+    {
+      "word": "public transport",
+      "pos": "noun",
+      "ipa": "/ˈpʌblɪk ˈtrænspɔːrt/",
+      "definition": "buses, trains, and other vehicles that anyone can use.",
+      "example": "I use public transport to get to work.",
+      "uz": "jamoat transporti"
+    },
+    {
+      "word": "resident",
+      "pos": "noun",
+      "ipa": "/ˈrezɪdənt/",
+      "definition": "a person who lives in a particular place.",
+      "example": "Local residents attended the meeting.",
+      "uz": "mahalliy aholi"
+    },
+    {
+      "word": "convenient",
+      "pos": "adjective",
+      "ipa": "/kənˈviːniənt/",
+      "definition": "useful, easy, or quick to use.",
+      "example": "The shop's location is very convenient.",
+      "uz": "qulay"
+    },
+    {
+      "word": "nearby",
+      "pos": "adverb",
+      "ipa": "/ˌnɪərˈbaɪ/",
+      "definition": "not far away; close.",
+      "example": "There's a nice café nearby.",
+      "uz": "yaqin atrofda"
+    },
+    {
+      "word": "facility",
+      "pos": "noun",
+      "ipa": "/fəˈsɪləti/",
+      "definition": "a place, service, or piece of equipment provided for a particular purpose.",
+      "example": "The gym is a great facility for residents.",
+      "uz": "xizmat inshooti"
+    },
+    {
+      "word": "safe",
+      "pos": "adjective",
+      "ipa": "/seɪf/",
+      "definition": "not dangerous; protected from harm.",
+      "example": "This is a safe area to walk at night.",
+      "uz": "xavfsiz"
+    },
+    {
+      "word": "quiet",
+      "pos": "adjective",
+      "ipa": "/ˈkwaɪət/",
+      "definition": "making little or no noise.",
+      "example": "Her street is very quiet at night.",
+      "uz": "tinch"
+    },
+    {
+      "word": "crowded",
+      "pos": "adjective",
+      "ipa": "/ˈkraʊdɪd/",
+      "definition": "full of people.",
+      "example": "The bus was very crowded this morning.",
+      "uz": "odam gavjum"
+    }
+  ],
+  "text": "When Elena moved to her new neighborhood last year, she was very happy. It is a friendly community, and most residents know each other. There is a small post office where she sends letters, and a pharmacy nearby for buying medicine. She also loves the public library because it's quiet and a perfect place to study. Near her house, there is a police station and a fire station, so the area feels very safe. For food, there is a big supermarket just a five-minute walk away, which is very convenient. Elena takes public transport to work every day; the bus stop is right outside her building. Sometimes the traffic in the city center is heavy, and the streets get crowded, but her own street stays calm. She always waits at the crossing and never crosses when the traffic light is red. Walking on the sidewalk in the evening, Elena feels comfortable because the streetlights are bright. Her neighborhood has many useful facilities, like a gym and a small park, so she rarely needs to travel far for anything.",
+  "questions": [
+    {
+      "question": "How does Elena feel about her new neighborhood?",
+      "options": [
+        "Disappointed",
+        "Very happy",
+        "Bored",
+        "Worried"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is located nearby for buying medicine?",
+      "options": [
+        "The library",
+        "The post office",
+        "The pharmacy",
+        "The supermarket"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why does Elena feel her area is safe?",
+      "options": [
+        "There are many shops",
+        "There is a police station and a fire station nearby",
+        "There is no traffic at all",
+        "Her neighbors are police officers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does Elena get to work every day?",
+      "options": [
+        "By car",
+        "By public transport",
+        "On foot",
+        "By bicycle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does Elena always do at the crossing?",
+      "options": [
+        "Runs across quickly",
+        "Waits and never crosses on a red light",
+        "Talks to her neighbors",
+        "Takes a photo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does Elena rarely need to travel far?",
+      "options": [
+        "She works from home",
+        "Her neighborhood has many useful facilities nearby",
+        "She doesn't like going out",
+        "The public transport is too crowded"
+      ],
+      "answer": 1
+    }
+  ]
+}

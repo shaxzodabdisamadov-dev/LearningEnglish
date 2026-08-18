@@ -1,0 +1,229 @@
+{
+  "id": 29,
+  "topic": "Volunteering and Helping Others",
+  "words": [
+    {
+      "word": "volunteer",
+      "pos": "verb",
+      "ipa": "/ˌvɒlənˈtɪər/",
+      "definition": "to offer to do work without being paid",
+      "example": "Every weekend, she volunteers at the animal shelter.",
+      "uz": "ko'ngilli bo'lib ishlamoq"
+    },
+    {
+      "word": "charity",
+      "pos": "noun",
+      "ipa": "/ˈtʃærəti/",
+      "definition": "an organization that helps people in need",
+      "example": "He gave money to a children's charity.",
+      "uz": "xayriya tashkiloti"
+    },
+    {
+      "word": "donate",
+      "pos": "verb",
+      "ipa": "/ˈdoʊneɪt/",
+      "definition": "to give money or things to help others",
+      "example": "We donated old clothes to the shelter.",
+      "uz": "xayriya qilmoq"
+    },
+    {
+      "word": "community",
+      "pos": "noun",
+      "ipa": "/kəˈmjuːnəti/",
+      "definition": "a group of people living in the same area",
+      "example": "The whole community helped clean the park.",
+      "uz": "jamoa"
+    },
+    {
+      "word": "kindness",
+      "pos": "noun",
+      "ipa": "/ˈkaɪndnəs/",
+      "definition": "the quality of being caring and gentle",
+      "example": "A small act of kindness can make someone's day.",
+      "uz": "mehribonlik"
+    },
+    {
+      "word": "generous",
+      "pos": "adjective",
+      "ipa": "/ˈdʒenərəs/",
+      "definition": "willing to give money, help, or time",
+      "example": "She is very generous with her time.",
+      "uz": "saxiy"
+    },
+    {
+      "word": "homeless",
+      "pos": "adjective",
+      "ipa": "/ˈhoʊmləs/",
+      "definition": "having no home to live in",
+      "example": "Volunteers gave food to homeless people in the city.",
+      "uz": "uysiz"
+    },
+    {
+      "word": "shelter",
+      "pos": "noun",
+      "ipa": "/ˈʃeltər/",
+      "definition": "a place that gives protection or a home",
+      "example": "The shelter gives homeless people a warm place to sleep.",
+      "uz": "boshpana"
+    },
+    {
+      "word": "fundraise",
+      "pos": "verb",
+      "ipa": "/ˈfʌndreɪz/",
+      "definition": "to collect money for a good purpose",
+      "example": "The students fundraised for a local hospital.",
+      "uz": "mablag' yig'moq"
+    },
+    {
+      "word": "organization",
+      "pos": "noun",
+      "ipa": "/ˌɔːrɡənaɪˈzeɪʃən/",
+      "definition": "a group of people working together for a purpose",
+      "example": "She works for an organization that helps refugees.",
+      "uz": "tashkilot"
+    },
+    {
+      "word": "contribute",
+      "pos": "verb",
+      "ipa": "/kənˈtrɪbjuːt/",
+      "definition": "to give something to help a shared goal",
+      "example": "Everyone in the team contributed a little money.",
+      "uz": "hissa qo'shmoq"
+    },
+    {
+      "word": "effort",
+      "pos": "noun",
+      "ipa": "/ˈefərt/",
+      "definition": "hard work put into doing something",
+      "example": "It takes effort to help other people regularly.",
+      "uz": "sa'y-harakat"
+    },
+    {
+      "word": "teamwork",
+      "pos": "noun",
+      "ipa": "/ˈtiːmwɜːrk/",
+      "definition": "people working together to do something",
+      "example": "Good teamwork made the project finish faster.",
+      "uz": "jamoaviy ish"
+    },
+    {
+      "word": "benefit",
+      "pos": "verb",
+      "ipa": "/ˈbenɪfɪt/",
+      "definition": "to get something useful or good from something",
+      "example": "Everyone can benefit from a little kindness.",
+      "uz": "foyda ko'rmoq"
+    },
+    {
+      "word": "neighbor",
+      "pos": "noun",
+      "ipa": "/ˈneɪbər/",
+      "definition": "a person who lives near you",
+      "example": "I helped my neighbor carry her shopping bags.",
+      "uz": "qo'shni"
+    },
+    {
+      "word": "cause",
+      "pos": "noun",
+      "ipa": "/kɔːz/",
+      "definition": "an idea or goal that people support",
+      "example": "They raised money for a good cause.",
+      "uz": "ezgu maqsad"
+    },
+    {
+      "word": "assist",
+      "pos": "verb",
+      "ipa": "/əˈsɪst/",
+      "definition": "to help someone do something",
+      "example": "Volunteers assist elderly people with their shopping.",
+      "uz": "yordam bermoq"
+    },
+    {
+      "word": "needy",
+      "pos": "adjective",
+      "ipa": "/ˈniːdi/",
+      "definition": "not having enough money, food, or help",
+      "example": "The charity gives food to needy families.",
+      "uz": "muhtoj"
+    },
+    {
+      "word": "encourage",
+      "pos": "verb",
+      "ipa": "/ɪnˈkʌrɪdʒ/",
+      "definition": "to give someone support or confidence to do something",
+      "example": "Teachers encourage students to volunteer in the community.",
+      "uz": "rag'batlantirmoq"
+    },
+    {
+      "word": "thankful",
+      "pos": "adjective",
+      "ipa": "/ˈθæŋkfəl/",
+      "definition": "feeling grateful",
+      "example": "The family was thankful for the volunteers' help.",
+      "uz": "minnatdor"
+    }
+  ],
+  "text": "Many people like to volunteer in their free time. To volunteer means to help other people without getting paid. There are many ways to help your community. You can donate old clothes, food, or money to a charity. A charity is an organization that helps people in need. Some charities help homeless people find a warm shelter and food to eat. Other groups help needy families or sick children. If you want to help, you can also fundraise, which means you collect money for a good cause. Volunteering takes effort, but it is a kind thing to do. When people work together, teamwork makes the job easier and more fun. You don't have to give a lot of money to be generous; you can also assist your neighbor by helping them carry bags or clean their garden. Every small contribution helps. Small acts of kindness can help someone feel better. Many people encourage their friends and family to volunteer too, because everyone can benefit from helping others. When you help someone, they often feel thankful, and you feel good too. Volunteering makes communities stronger and kinder places to live.",
+  "questions": [
+    {
+      "question": "What does \"volunteer\" mean, according to the text?",
+      "options": [
+        "to help other people without getting paid",
+        "to work for a lot of money",
+        "to donate only money",
+        "to build a shelter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What do some charities help homeless people find, according to the text?",
+      "options": [
+        "a job and a car",
+        "a warm shelter and food",
+        "a school",
+        "a hospital"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does \"fundraise\" mean, according to the text?",
+      "options": [
+        "to collect money for a good cause",
+        "to build a shelter",
+        "to donate old clothes",
+        "to write a newspaper article"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can you be generous without giving money, according to the text?",
+      "options": [
+        "by ignoring your neighbor",
+        "by assisting your neighbor",
+        "by fundraising every day",
+        "by working alone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the text, how does volunteering make communities?",
+      "options": [
+        "weaker and quieter",
+        "stronger and kinder",
+        "richer and busier",
+        "smaller and lonelier"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How do people often feel when you help them, according to the text?",
+      "options": [
+        "angry",
+        "thankful",
+        "nervous",
+        "confused"
+      ],
+      "answer": 1
+    }
+  ]
+}

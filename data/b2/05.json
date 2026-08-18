@@ -1,0 +1,229 @@
+{
+  "id": 5,
+  "topic": "Higher Education and Academic Research",
+  "words": [
+    {
+      "word": "curriculum",
+      "pos": "noun",
+      "ipa": "/kəˈrɪkjʊləm/",
+      "definition": "the subjects and content taught in a course of study",
+      "example": "The university revised its curriculum to include more interdisciplinary courses.",
+      "uz": "o'quv dasturi"
+    },
+    {
+      "word": "rigorous",
+      "pos": "adjective",
+      "ipa": "/ˈrɪɡərəs/",
+      "definition": "thorough, careful, and demanding high standards",
+      "example": "The thesis underwent a rigorous review process before publication.",
+      "uz": "qat'iy va talabchan"
+    },
+    {
+      "word": "plagiarism",
+      "pos": "noun",
+      "ipa": "/ˈpleɪdʒərɪzəm/",
+      "definition": "the act of using someone else's work without proper credit",
+      "example": "The student was penalized for plagiarism after submitting an uncredited essay.",
+      "uz": "plagiat (o'zganing ishini o'zlashtirish)"
+    },
+    {
+      "word": "peer-reviewed",
+      "pos": "adjective",
+      "ipa": "/ˈpɪə rɪˈvjuːd/",
+      "definition": "evaluated by experts in the same field before publication",
+      "example": "Only peer-reviewed studies were included in the meta-analysis.",
+      "uz": "mutaxassislar tomonidan taqrizdan o'tgan"
+    },
+    {
+      "word": "empirical",
+      "pos": "adjective",
+      "ipa": "/ɪmˈpɪrɪkəl/",
+      "definition": "based on observation or experiment rather than theory alone",
+      "example": "The claim lacked empirical support and remained purely speculative.",
+      "uz": "tajribaga (kuzatishga) asoslangan"
+    },
+    {
+      "word": "hypothesis",
+      "pos": "noun",
+      "ipa": "/haɪˈpɒθəsɪs/",
+      "definition": "a proposed explanation made as a starting point for further investigation",
+      "example": "Her hypothesis was later confirmed by a series of controlled experiments.",
+      "uz": "gipoteza, ilmiy taxmin"
+    },
+    {
+      "word": "dissertation",
+      "pos": "noun",
+      "ipa": "/ˌdɪsəˈteɪʃən/",
+      "definition": "a long piece of writing on a particular subject, especially for an academic degree",
+      "example": "He spent two years researching for his doctoral dissertation.",
+      "uz": "dissertatsiya"
+    },
+    {
+      "word": "cite",
+      "pos": "verb",
+      "ipa": "/saɪt/",
+      "definition": "to refer to a source as evidence in academic writing",
+      "example": "Students must cite every source they use to avoid accusations of plagiarism.",
+      "uz": "manba sifatida keltirmoq, iqtibos qilmoq"
+    },
+    {
+      "word": "scholarship",
+      "pos": "noun",
+      "ipa": "/ˈskɒləʃɪp/",
+      "definition": "a financial award for study, or academic research and knowledge in general",
+      "example": "She received a scholarship covering her full tuition.",
+      "uz": "stipendiya (o'qish uchun moliyaviy yordam)"
+    },
+    {
+      "word": "tuition",
+      "pos": "noun",
+      "ipa": "/tjuːˈɪʃən/",
+      "definition": "the fees charged for instruction, especially at a university",
+      "example": "Rising tuition costs have made higher education less accessible for many families.",
+      "uz": "o'qish uchun to'lanadigan haq"
+    },
+    {
+      "word": "delve into",
+      "pos": "phrasal verb",
+      "ipa": "/delv ˈɪntuː/",
+      "definition": "to investigate or research something thoroughly",
+      "example": "The professor encouraged students to delve into primary sources rather than relying on summaries.",
+      "uz": "chuqur o'rganmoq, tekshirib chiqmoq"
+    },
+    {
+      "word": "drop out",
+      "pos": "phrasal verb",
+      "ipa": "/drɒp aʊt/",
+      "definition": "to leave a course or institution before completing it",
+      "example": "Financial pressure caused many students to drop out before graduation.",
+      "uz": "o'qishni yakunlamasdan tashlab ketmoq"
+    },
+    {
+      "word": "undergraduate",
+      "pos": "noun",
+      "ipa": "/ˌʌndəˈɡrædʒuət/",
+      "definition": "a university student who has not yet completed a first degree",
+      "example": "Undergraduate research programs give students early exposure to academic work.",
+      "uz": "bakalavriat talabasi"
+    },
+    {
+      "word": "methodology",
+      "pos": "noun",
+      "ipa": "/ˌmeθəˈdɒlədʒi/",
+      "definition": "a system of methods used in a particular field of study",
+      "example": "The study's methodology was criticized for its small sample size.",
+      "uz": "tadqiqot metodologiyasi (uslubiyati)"
+    },
+    {
+      "word": "credential",
+      "pos": "noun",
+      "ipa": "/krɪˈdenʃəl/",
+      "definition": "a qualification or achievement that indicates suitability for something",
+      "example": "A postgraduate credential can significantly improve job prospects in certain fields.",
+      "uz": "malaka guvohnomasi, diplom"
+    },
+    {
+      "word": "groundbreaking",
+      "pos": "adjective",
+      "ipa": "/ˈɡraʊndbreɪkɪŋ/",
+      "definition": "introducing new and innovative ideas or methods",
+      "example": "The team's groundbreaking research earned international recognition.",
+      "uz": "tubdan yangilik yaratuvchi"
+    },
+    {
+      "word": "academia",
+      "pos": "noun",
+      "ipa": "/ˌækəˈdiːmiə/",
+      "definition": "the environment or community associated with scholarship and higher education",
+      "example": "She left academia to work in the private sector after her PhD.",
+      "uz": "ilmiy-akademik muhit"
+    },
+    {
+      "word": "funding",
+      "pos": "noun",
+      "ipa": "/ˈfʌndɪŋ/",
+      "definition": "money provided to support a project or institution",
+      "example": "Without adequate funding, many promising research projects never get off the ground.",
+      "uz": "moliyalashtirish"
+    },
+    {
+      "word": "skew",
+      "pos": "verb",
+      "ipa": "/skjuː/",
+      "definition": "to distort or bias data or results in a particular direction",
+      "example": "A small, unrepresentative sample can skew the results of a survey.",
+      "uz": "natijalarni buzib ko'rsatmoq"
+    },
+    {
+      "word": "replicate",
+      "pos": "verb",
+      "ipa": "/ˈreplɪkeɪt/",
+      "definition": "to reproduce a study or result in order to verify its accuracy",
+      "example": "Other laboratories were unable to replicate the original findings.",
+      "uz": "tadqiqotni qayta o'tkazib tekshirmoq"
+    }
+  ],
+  "text": "Notwithstanding the prestige often attached to a university degree, higher education today faces mounting scrutiny over whether it consistently delivers on its promises. Tuition has risen sharply in many countries, prompting some undergraduates to drop out before completing their credentials, while others graduate burdened with debt they will spend decades repaying. Nevertheless, few would dispute that rigorous scholarship remains indispensable to society; without academia's sustained investment in empirical research, groundbreaking discoveries in medicine, technology, and the social sciences would simply not occur. What is less widely understood, however, is how fragile the research process itself can be. A flawed methodology, an unrepresentative sample, or funding tied to a particular outcome can all skew results in ways that even a peer-reviewed publication does not always catch. Consequently, a growing number of scientists now delve into replication studies, attempting to reproduce earlier findings before accepting them as reliable. Were universities to prioritize replicable, transparent research over sheer volume of output, public trust in academic findings would likely improve. Meanwhile, students writing a dissertation are reminded, often repeatedly, to cite their sources meticulously; plagiarism, however unintentional, can undermine years of otherwise careful work.",
+  "questions": [
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Higher education is entirely without value.",
+        "While higher education faces real challenges, rigorous research remains essential, though the research process itself has vulnerabilities.",
+        "All peer-reviewed research is completely reliable.",
+        "Tuition costs have no effect on students."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what can cause research results to be skewed?",
+      "options": [
+        "Peer review alone",
+        "A flawed methodology, unrepresentative sample, or biased funding",
+        "Excessive replication studies",
+        "Writing a dissertation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why do some scientists now conduct replication studies?",
+      "options": [
+        "To increase their funding",
+        "To verify the reliability of earlier findings",
+        "To avoid writing dissertations",
+        "To reduce tuition costs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the author imply about peer review?",
+      "options": [
+        "It guarantees the complete accuracy of every study.",
+        "It does not always catch flaws that can skew results.",
+        "It is no longer used in academia.",
+        "It replaces the need for empirical evidence."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's tone in the passage?",
+      "options": [
+        "Dismissive of academic research altogether",
+        "Balanced, acknowledging both value and flaws in higher education and research",
+        "Purely celebratory of universities",
+        "Sarcastic and mocking"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, why are students frequently reminded to cite sources carefully?",
+      "options": [
+        "Because tuition depends on it.",
+        "Because plagiarism, even unintentional, can undermine otherwise careful work.",
+        "Because citations increase funding.",
+        "Because it helps students drop out less frequently."
+      ],
+      "answer": 1
+    }
+  ]
+}

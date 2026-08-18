@@ -1,0 +1,229 @@
+{
+  "id": 18,
+  "topic": "Journalism, Propaganda, and Public Discourse",
+  "words": [
+    {
+      "word": "propaganda",
+      "pos": "noun",
+      "ipa": "/ˌprɒpəˈɡændə/",
+      "definition": "information, especially of a biased or misleading nature, used to promote a particular political cause or point of view",
+      "example": "State-run outlets churned out propaganda designed to bolster public support for the war.",
+      "uz": "propaganda"
+    },
+    {
+      "word": "disinformation",
+      "pos": "noun",
+      "ipa": "/dɪsˌɪnfərˈmeɪʃən/",
+      "definition": "false information deliberately spread to deceive people",
+      "example": "Foreign actors flooded social media with disinformation ahead of the referendum.",
+      "uz": "dezinformatsiya"
+    },
+    {
+      "word": "partisan",
+      "pos": "adjective",
+      "ipa": "/ˈpɑːrtɪzən/",
+      "definition": "strongly and often unreasoningly biased in favor of a particular party, cause, or person",
+      "example": "Coverage of the trial grew increasingly partisan, with each network catering to its own audience's assumptions.",
+      "uz": "tarafkash, bir tomonlama"
+    },
+    {
+      "word": "demagogue",
+      "pos": "noun",
+      "ipa": "/ˈdɛməɡɒɡ/",
+      "definition": "a political leader who seeks support by appealing to popular desires and prejudices rather than rational argument",
+      "example": "Historians warn that economic anxiety often creates fertile ground for a demagogue to flourish.",
+      "uz": "demagog"
+    },
+    {
+      "word": "sensationalism",
+      "pos": "noun",
+      "ipa": "/sɛnˈseɪʃənəlɪzəm/",
+      "definition": "the presentation of stories in a way that provokes public interest or excitement at the expense of accuracy",
+      "example": "Critics accuse cable news of prioritizing sensationalism over substantive analysis.",
+      "uz": "sensatsionizm (hangomabozlik)"
+    },
+    {
+      "word": "objectivity",
+      "pos": "noun",
+      "ipa": "/ˌɒbdʒɪkˈtɪvɪti/",
+      "definition": "the quality of being impartial and not influenced by personal feelings or opinions in representing facts",
+      "example": "Journalistic objectivity is an ideal that even conscientious reporters struggle to fully achieve.",
+      "uz": "ob'ektivlik"
+    },
+    {
+      "word": "echo chamber",
+      "pos": "noun phrase",
+      "ipa": "/ˈɛkoʊ ˈtʃeɪmbər/",
+      "definition": "an environment in which a person encounters only beliefs or opinions that coincide with their own, reinforcing existing views",
+      "example": "Algorithmically curated feeds risk trapping users inside an echo chamber of like-minded opinion.",
+      "uz": "o'z fikrini takrorlaydigan yopiq muhit"
+    },
+    {
+      "word": "polarize",
+      "pos": "verb",
+      "ipa": "/ˈpoʊləraɪz/",
+      "definition": "to cause people to separate into two sharply contrasting groups of opinion or belief",
+      "example": "The scandal further polarized an electorate already divided along ideological lines.",
+      "uz": "qutblashtirmoq"
+    },
+    {
+      "word": "credibility",
+      "pos": "noun",
+      "ipa": "/ˌkrɛdɪˈbɪlɪti/",
+      "definition": "the quality of being trusted and believed in",
+      "example": "A single fabricated quote can permanently damage a publication's credibility.",
+      "uz": "ishonchlilik"
+    },
+    {
+      "word": "rhetoric",
+      "pos": "noun",
+      "ipa": "/ˈrɛtərɪk/",
+      "definition": "language designed to persuade or influence, sometimes at the expense of substance or sincerity",
+      "example": "Beneath the inflammatory rhetoric lay remarkably little concrete policy.",
+      "uz": "notiqlik san'ati, ritorika"
+    },
+    {
+      "word": "spin",
+      "pos": "verb",
+      "ipa": "/spɪn/",
+      "definition": "to present information in a way that creates a favorable, often misleading, impression",
+      "example": "The press secretary attempted to spin the resignation as a routine personnel change.",
+      "uz": "voqealarni o'ziga foydali tarzda burab talqin qilmoq"
+    },
+    {
+      "word": "fabricate",
+      "pos": "verb",
+      "ipa": "/ˈfæbrɪkeɪt/",
+      "definition": "to invent or create false information with intent to deceive",
+      "example": "The reporter was dismissed after admitting to fabricating quotes from anonymous sources.",
+      "uz": "to'qib chiqarmoq, soxtalashtirmoq"
+    },
+    {
+      "word": "innuendo",
+      "pos": "noun",
+      "ipa": "/ˌɪnjuˈɛndoʊ/",
+      "definition": "an indirect or subtle suggestion, typically disparaging, that implies something without stating it explicitly",
+      "example": "The column was laced with innuendo about the candidate's finances, though it offered no direct evidence.",
+      "uz": "yashirin kinoya, istehzoli ishora"
+    },
+    {
+      "word": "defamatory",
+      "pos": "adjective",
+      "ipa": "/dɪˈfæmətəri/",
+      "definition": "damaging to someone's reputation through false or unjustified statements",
+      "example": "The newspaper faced a lawsuit after publishing defamatory allegations that were never substantiated.",
+      "uz": "obro'sizlantiruvchi, tuhmat xarakteridagi"
+    },
+    {
+      "word": "gatekeeper",
+      "pos": "noun",
+      "ipa": "/ˈɡeɪtkiːpər/",
+      "definition": "an individual or institution that controls access to something, especially information or opportunity",
+      "example": "Traditional editors once served as gatekeepers, filtering which stories reached the public.",
+      "uz": "axborotni nazorat qiluvchi vositachi"
+    },
+    {
+      "word": "skew",
+      "pos": "verb",
+      "ipa": "/skjuː/",
+      "definition": "to distort or bias something, often unfairly, in a particular direction",
+      "example": "Selective quotation can skew a reader's understanding of a politician's actual position.",
+      "uz": "buzib (bir tomonga og'dirib) ko'rsatmoq"
+    },
+    {
+      "word": "jingoistic",
+      "pos": "adjective",
+      "ipa": "/ˌdʒɪŋɡoʊˈɪstɪk/",
+      "definition": "characterized by extreme, aggressive patriotism or nationalism, especially in foreign policy",
+      "example": "Some commentators dismissed the broadcast's jingoistic tone as unbecoming of a serious news outlet.",
+      "uz": "shovinistik, tajovuzkor millatchilikka xos"
+    },
+    {
+      "word": "incendiary",
+      "pos": "adjective",
+      "ipa": "/ɪnˈsɛndiɛri/",
+      "definition": "tending to arouse strong feelings, especially anger; inflammatory",
+      "example": "The headline's incendiary language generated far more outrage than the underlying report warranted.",
+      "uz": "g'azab qo'zg'atuvchi, alangalantiruvchi"
+    },
+    {
+      "word": "vet",
+      "pos": "verb",
+      "ipa": "/vɛt/",
+      "definition": "to make a careful and critical examination of something, especially to check for accuracy or suitability",
+      "example": "Reputable outlets vet anonymous claims against multiple independent sources before publication.",
+      "uz": "puxta tekshiruvdan o'tkazmoq"
+    },
+    {
+      "word": "muckraking",
+      "pos": "noun",
+      "ipa": "/ˈmʌkreɪkɪŋ/",
+      "definition": "investigative journalism that exposes corruption, scandal, or wrongdoing, especially involving public figures or institutions",
+      "example": "Early twentieth-century muckraking journalism helped expose the abuses of industrial monopolies.",
+      "uz": "fosh qiluvchi (tekshiruv) jurnalistikasi"
+    }
+  ],
+  "text": "Contemporary public discourse is saturated with claims and counterclaims, and distinguishing rigorous reporting from propaganda has never been more difficult. Disinformation campaigns, often amplified by algorithms that reward outrage, exploit an ecosystem in which credibility is cheaply claimed and expensively earned. Traditional gatekeepers who once vetted stories before publication have been partially supplanted by a decentralized torrent of content, some produced by conscientious reporters and some by demagogues fluent in incendiary rhetoric. Sensationalism, of course, predates the internet — the muckraking press of a century ago was hardly averse to a provocative headline — but the velocity of digital distribution has intensified its effects. Readers increasingly retreat into an echo chamber, consuming outlets whose partisan framing confirms rather than challenges their assumptions, a dynamic that appears to polarize audiences further with each news cycle. Even ostensibly neutral coverage can skew perception through selective emphasis or innuendo rather than outright fabrication, making bias harder to detect and therefore more insidious. None of this implies that objectivity is an illusion unworthy of pursuit; rather, it suggests that the discipline required to sustain it — verification, transparency about sourcing, and resistance to jingoistic appeals — has become both more demanding and more essential.",
+  "questions": [
+    {
+      "question": "What is the author's main argument regarding sensationalism?",
+      "options": [
+        "It is a wholly new phenomenon created by the internet",
+        "It predates digital media but has been intensified by the speed of online distribution",
+        "It no longer exists in modern journalism",
+        "It only affects tabloid publications, not mainstream outlets"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why does the author consider subtle bias, such as selective emphasis or innuendo, more dangerous than outright fabrication?",
+      "options": [
+        "Because it is illegal, unlike fabrication",
+        "Because it is harder to detect and therefore more insidious",
+        "Because it only occurs in partisan outlets",
+        "Because readers always recognize it immediately"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is implied about the role of traditional gatekeepers in the passage?",
+      "options": [
+        "Their role has been completely and permanently eliminated",
+        "Their vetting function has been partially replaced by a more decentralized, less filtered content ecosystem",
+        "They have become more powerful than ever before",
+        "They no longer exist in any form"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the author's stance on the pursuit of journalistic objectivity?",
+      "options": [
+        "It is an illusion not worth pursuing",
+        "It remains a worthwhile, if increasingly demanding, discipline",
+        "It was easier to achieve in the past and is now impossible",
+        "It is irrelevant to modern discourse"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to the passage, what effect does an echo chamber have on audiences?",
+      "options": [
+        "It broadens exposure to diverse viewpoints",
+        "It reinforces existing partisan assumptions and appears to increase polarization",
+        "It eliminates bias entirely",
+        "It has no measurable effect on public opinion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The comparison to the 'muckraking press of a century ago' primarily functions to:",
+      "options": [
+        "Argue that sensationalism is a uniquely modern problem",
+        "Situate a contemporary phenomenon within a longer historical pattern",
+        "Praise muckraking journalism as flawless",
+        "Suggest that digital media is less sensational than earlier print media"
+      ],
+      "answer": 1
+    }
+  ]
+}
